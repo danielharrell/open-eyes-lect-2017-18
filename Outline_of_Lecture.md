@@ -7,26 +7,21 @@
 # Introduction
 
 ## Range of usage of "open"
-- The word "open" is used in ways that range from the prosaic to the profound. 
+
+[comment]: # Try to incorporate the "Open" viewbook
+
+- Point: The word "open" is used in ways that range from the prosaic to the profound. 
 	- "I can't get the jar open". 
 	- "When does the store open?"
+	- “The window is open.” 
 	- "He's an open book". 
+	- "My door is always open to you"
 	- "Keep an open mind"
-	- "My door is always open"
 	- "Open your heart"
 	- We refer in more profound ways to an open door, an open mind, an open heart.
-	- “I can’t get the jar open”
-	- “The window is open; shut it.” 
-	- Close the door vs my door is always open
 	- Open heart surgery vs having an open heart 
 	- Then move on to open book, open eyes, open mind, the peculiar mix of presence and absence in this.
 	- Open used in ways small and large: open a jar but also hospitality, love, enlightenment (door open; heart open; eyes open). 
-- Also transcends grammar: verb (transitive and intransitive), adverb, adjective
-	- He opened the door
-	- The door opened slowly
-	- The door is open
-	- The open door distracted him
-	- The door swung open
 - Why does the word have this scope?
 	- This mixture, rooted in prosaic, means the word is used without further explanation, as if it were understood. Widely used because widely understood. But is this so? 
 	- Defined negatively rather than positively: "open" means "not closed".
@@ -217,6 +212,14 @@
 - Look at Augustine 8.5
 
 # Conclusion
+
+# Leftovers
+- The word "open" also transcends grammar: verb (transitive and intransitive), adverb, adjective
+	- He opened the door
+	- The door opened slowly
+	- The door is open
+	- The open door distracted him
+	- The door swung open
 
 # Other things to look up
 - Aristotle De Anima
