@@ -6,11 +6,13 @@
 
 # Introduction
 
-## Range of usage of "open"
+## Range of usage of "open" and significance
 
 [comment]: # Try to incorporate the "Open" viewbook
 
-- Point: The word "open" is used in ways that range from the prosaic to the profound. 
+- Point: The word "open" is used in ways that range from the
+  prosaic to the profound. 
+
 	- "I can't get the jar open". 
 	- "When does the store open?"
 	- “The window is open.” 
@@ -18,15 +20,44 @@
 	- "My door is always open to you"
 	- "Keep an open mind"
 	- "Open your heart"
-	- We refer in more profound ways to an open door, an open mind, an open heart.
-	- Open heart surgery vs having an open heart 
-	- Then move on to open book, open eyes, open mind, the peculiar mix of presence and absence in this.
-	- Open used in ways small and large: open a jar but also hospitality, love, enlightenment (door open; heart open; eyes open). 
-- Why does the word have this scope?
-	- This mixture, rooted in prosaic, means the word is used without further explanation, as if it were understood. Widely used because widely understood. But is this so? 
-	- Defined negatively rather than positively: "open" means "not closed".
-		- Suggests a philosophical inquiry: who but the philosopher cares about the difference between a closed door and an open door.
-		- This suggests there is a positive account to give
+	- "My eyes were finally opened"
+
+- The word "open" has great scope: one reason to wonder about it.
+
+* The word is also used with such scope without further
+  explanation, as if it were understood. In neither an every
+  day nor a deeper, more figurative sense, does anyone wonder
+  about the difference between an open door
+  and a closed one. But this is another reason, indeed, to
+  wonder about it.
+
+- Suggests a philosophical inquiry: who but the philosopher
+  cares about the difference between a closed door and an
+  open door.
+- Every day sense: reference to tangible object, such
+  as a jar, a bottle, a door or a window; and
+  as a contrast to "closed". "Open" used with "closed"
+  normally, even definitionally. (Open means not closed.)
+
+- In this normal usage, the sense of openness is had by
+negation.
+
+    - Look up definiton of "open":
+        - Not closed or blocked up; not covered; not fastened
+	or sealed; not buttoned; not constipated; unguarded;
+	unprotected; unfolded; unclenched; unconcealed. 
+
+- Less common but deeper sense: reference to a condition or
+  state of being, such as hospitality, love, and
+  enlightenment; and without a contrast to "closed", as if
+  *being open*, in this sense, were a virtue in itself. 
+
+- Insofar as "open" so refers to a positive condition, what
+account are we to give of it? The negative definitions seem
+insufficient.
+
+
+- This suggests there is a positive account to give
 
 ## "open" in more profound uses
 - "Open" used with "closed" normally, even definitionally, but also without a contrast figuratively:
