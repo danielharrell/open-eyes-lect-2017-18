@@ -1,8 +1,6 @@
-# Title?
-- Open
-- "Open"
+# Title
+
 - On Being Open 
-- What does it mean to be open?
 
 # Introduction
 
@@ -10,31 +8,30 @@
 
 [comment]: # Try to incorporate the "Open" viewbook
 
-- Point: The word "open" is used in ways that range from the
-  prosaic to the profound. 
+The word "open", the topic of my lecture tonight, is used
+ways that range from the prosaic to the profound. 
 
-	- "I can't get the jar open". 
-	- "When does the store open?"
-	- “The window is open.” 
-	- "He's an open book". 
-	- "My door is always open to you"
-	- "Keep an open mind"
-	- "Open your heart"
-	- "My eyes were finally opened"
+    - "I can't get the jar open." 
+    - "When does the store open?"
+    - “The window is open.” 
+    - "He's an open book." 
+    - "My door is always open."
+    - "Keep an open mind."
+    - "Open your heart."
+    - "My eyes were finally opened."
 
-- The word "open" has great scope: one reason to wonder about it.
+The word "open," then, has great scope; and this is one
+reason to wonder about it. Another reason is that the word
+is used without further explanation, as if its meaning were
+already understood. No one asks about the difference between
+an open door and a closed one. But we might then say,
+borrowing a remark of Aristotle's, that it is only the
+philosopher who would care about it, and that the difference
+between a door being opened and a door being closed, or
+between either of these and just being a door, is
+a fitting subject for further thought. 
 
-* The word is also used with such scope without further
-  explanation, as if it were understood. In neither an every
-  day nor a deeper, more figurative sense, does anyone wonder
-  about the difference between an open door
-  and a closed one. But this is another reason, indeed, to
-  wonder about it.
-
-- Suggests a philosophical inquiry: who but the philosopher
-  cares about the difference between a closed door and an
-  open door.
-
+(Revise from here.)
 - Another reason to wonder: difference between everyday and
 deeper sense, and relation to negation.
 
@@ -83,12 +80,57 @@ deeper sense, and relation to negation.
 
 ## Part One: Paradox Presented
 
-### General statement of paradox?
+### Jar example:
 
-- Here, I need a statement about the paradox of
-being closed to be determinate, yet open to be open.
+- What does it mean for a jar, say of pickles, to be opened?
 
-    - Perhaps could use jar here.
+- First answer: for the lid to be removed. 
+
+- But why the lid, exactly? Suppose I decide not to trouble
+  myself with the lid, and simply throw the jar to the
+  ground, breaking it open. Why isn't this simply another
+  way of opening the jar?
+
+- Second answer: when we say the jar is opened, we want the
+  jar to remain a jar: something opened without being
+  broken. Or to put the point more abstractly: we want the
+  word "opened" in this case to mean that the 
+  barrier between the jar's inside and outside has been
+  removed, without the distinction between inside and
+  outside being erased.
+
+- Or still more abstractly: we want the word "open" to refer
+  to the sense in which there is continuity, yet at the same
+  time distinctness, between inside and outside.
+
+- But how is this not self-contradictory? How can any
+  continuous path from the jar's inside to outside, or vice
+  versa, preserve this distinction rather than erase it?
+  After all, if we leave the jar of pickles open, they will
+  sooner or later spoil, as if for nature, even if not for
+  us, there is no difference between an open jar and
+  a broken jar; no real distinction, that is, between inside
+  and outside once the barrier between them has been
+  removed. 
+
+- Nor is this a problem just for nature. Consider an
+  analogous case in geometry: the parabola. It is easy
+  enough to distinguish the sides of this line, one convex
+  and one concave, since the parabola is curved. But suppose
+  we wanted to go further, and conceive the convex side as
+  an "inside," and the concave side an "outside", by analogy
+  with the ellipse. This would make the parabola an open
+  figure to the ellipse's closed. Yet there would seem no
+  way of conceiving the parabola as open *in its own right*,
+  liberated from any comparison to the ellipse, unless we
+  prolonged both ends of the parabola indefinitely. But
+  doing just this would prevent any passage between its
+  inside and outside, as if again the only way to
+  distinguish inside from outside clearly, distinctly,
+  truly, is by a barrier.
+
+- Perhaps elaborate this briefly as: no such thing as
+open figures, just closed ones.
 
 ### Parabola:
 
