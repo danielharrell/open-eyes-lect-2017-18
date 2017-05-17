@@ -34,65 +34,102 @@
 - Suggests a philosophical inquiry: who but the philosopher
   cares about the difference between a closed door and an
   open door.
-- Every day sense: reference to tangible object, such
-  as a jar, a bottle, a door or a window; and
-  as a contrast to "closed". "Open" used with "closed"
-  normally, even definitionally. (Open means not closed.)
 
-- In this normal usage, the sense of openness is had by
-negation.
+- Another reason to wonder: difference between everyday and
+deeper sense, and relation to negation.
 
-    - Look up definiton of "open":
-        - Not closed or blocked up; not covered; not fastened
-	or sealed; not buttoned; not constipated; unguarded;
-	unprotected; unfolded; unclenched; unconcealed. 
+    - Every day sense: reference to tangible object, such as
+      a jar, a bottle, a door or a window; and as a contrast
+      to "closed". "Open" used with "closed" normally, even
+      definitionally. (Open means not closed.)
 
-- Less common but deeper sense: reference to a condition or
-  state of being, such as hospitality, love, and
-  enlightenment; and without a contrast to "closed", as if
-  *being open*, in this sense, were a virtue in itself. 
+	- In this normal usage, the sense of openness is had
+	  by negation.
 
-- Insofar as "open" so refers to a positive condition, what
-account are we to give of it? The negative definitions seem
-insufficient.
+	- Also note definition of "open":
 
+	    - Not closed or blocked up; not covered; not
+	      fastened or sealed; not buttoned; not
+	      constipated; unguarded; unprotected; unfolded;
+	      unclenched; unconcealed. 
 
-- This suggests there is a positive account to give
-
-## "open" in more profound uses
-- "Open" used with "closed" normally, even definitionally, but also without a contrast figuratively:
-	- Open door
+    - Less common but deeper sense: reference to a condition
+      or state of being, such as hospitality, love, and
+      enlightenment; and without a contrast to "closed", as
+      if *being open*, in this sense, were a virtue in
+      itself. 
+		- Open door ("My door is always open")
 		- Open heart
 		- Open eyes
 		- Open mind
-	- Use “open” more profoundly in contexts where openness a virtue
-		- My door is always open
-		- An open heart
-		- An open mind
-	- Not just a contrary to being closed; a condition or state of being. So what does it mean in this context?
-	- Implications for what it means to see, to love? What we value as human beings. 
 
-## Paradox in the idea of being open
-- Another reason to think about openness is that what it means is puzzling, when you think about it, and it involves a paradox
-	- Will explore this more fully in a moment
-- Suppose I open a tightly closed jar by breaking it. Why do we hesitate to say I have thereby opened the jar? revise
-- Openness more than stimulus: a closed system is capable of being moved and moving in return. In openness there is a sense of allowing the outside to come in. (Or of going out?).
+    - Insofar as "open" so refers to a positive condition,
+      a state of being rather than negation or privation, 
+      what account are we to give of it? The negative
+      definitions seem insufficient. This suggests there is
+      a positive account to give, and one with implications
+      for what it means to see, to love, to embrace, to
+      appreciate.
 
-## Philosophical spirit of inquiry
-- Interest in prosaic profundity of open: like what Aristotle says about Socrates sitting
-- Philosophy not just about big things, but the big as intimated in the small
-- Use Socrates vs Socrates sitting for this, to care about open vs closed. 
+## Introduction to paradox in the idea of being open
 
-## Further implications
-- What does it mean to be educated?
-- What world are we delivered to in being open to it. 
-- Sellars: manifest vs scientific image? 
+- There is also a paradox in openness, especially when
+  thinking of it as a positive condition, or state of being.
+  This leads to the first half of my lecture. The second
+  half will be my attempt to resolve the paradox.
 
-# Body
 
-## Spell out paradox
+# Body of Lecture
+
+## Part One: Paradox Presented
+
+### General statement of paradox?
+
+- Here, I need a statement about the paradox of
+being closed to be determinate, yet open to be open.
+
+    - Perhaps could use jar here.
 
 ### Parabola:
+
+Geometric example of being closed: a figure.
+
+    - Euclid definition of figure: I.14: 
+
+        > A figure is that which is contained by 
+        any boundary or boundaries.
+
+	- Note that "that which is contained" indicates an
+	  inside or interior.
+
+    - First example of figure in Euclid: circle
+
+	> A circle is a plane figure contained by one line
+	such that all the straight lines falling upon it
+	from one point among those lying within the figure
+	equal one another.
+
+- Apollonian complication of figure:
+
+    - A plane introduced into a cone produces conic sections.
+    The circle is one, as is the ellipse. But the parabola
+    and hyperbola are also produced, and they seem to be lines,
+    strictly speaking, rather than figures.
+
+* Imagine a parabola whose line continues, in either
+direction, without end.
+
+    - Is parabola a line or a figure? As a conic
+    section the answer is ambiguous: the ellipse
+    is closed, and hence a figure; but the cutting
+    plane's continuous tilt eventually yields the
+    parabola, the first open figure, which is thus
+    a line.
+
+    - Geometric terms already show an issue: figures
+    are closed, so a parabola becomes a line, even
+    though it is a figure.
+
 - Image of openness but actually closed
 - No way to go from outside to inside
 - Openness a bridge between inside and outside, but how?
@@ -126,6 +163,8 @@ insufficient.
 #### Jar as one image of problem
 - Move to jar. Seems a counterexample. But proves this by having an inside that can contain what it receives from outside. Infinite difference between being outside and being inside. A trick. Reliant on beings with insides.
 - Jar, filled but needing to be closed
+- Suppose I open a tightly closed jar by breaking it. Why do
+  we hesitate to say I have thereby opened the jar? revise
 - Opening a jar does not mean smashing it on the ground: this destroys the difference between inside and outside
 - Contents of jar spoil unless closed. Price of being open is being continuous with everything else. Like a plate rather than a jar. Interior vanishes.
 - Jar lid doesn't belong to world to which jar us open? (Perhaps put below in solution)
@@ -142,6 +181,16 @@ insufficient.
 
 #### Accounts of perception and Intellect another sign of problem 
 - Openness, at least in the context of mind, or awareness, is not merely a blank receptivity but a more discriminating, active "letting in", akin to opening the door. It involves a revelation of the world rather than just a reception of it. This could be a way of asking the question: why is being open a matter of the world's being revealed in being received? Or why is openness a word we use in cognition?
+
+- Perhaps could use Bergson account from Matter and Memory here.
+
+- Could also use Meillassoux account as example of modern philosophy
+making things closed.
+
+- Perhaps use Bergson and Meillassoux together, as example of
+of shift from non-philosophical account to philosophical account, where
+openness shifts to closedness.
+
 - Use Aristotle and Kant (and Descartes) together as ways of struggling with the paradox of openness. Also connect problem of openness with problem of understanding how there can be things *about* the world in the world.
 	- Most radical philosopher of openness Aristotle
 	- Kant: openness becomes transcendental: being nowhere in one's field, a source of possibility. (Heidegger)
@@ -188,7 +237,7 @@ insufficient.
 - But note: Seeing things *as* they are: reduplication through "as" joins presence and absence of eyes.
 - Eyes contain world insofar as they are invisible, but contained by the world insofar as they are visible.
 
-## Solution to paradox
+## Part Two: Paradox Resolved
 
 ### Parabola:
 - Parabola is infinitely open at end, leaving no room outside it. Perhaps the secret to openness.
