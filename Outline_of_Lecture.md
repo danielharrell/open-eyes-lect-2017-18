@@ -104,8 +104,11 @@ them has been removed.
 
 ### Parabola example:
 
+ ![](file:///Users/danielh/Dropbox/Lect2017_18/open-eyes-lect-2017-18/parabola_ex.png){height=70%}
+
 - Nor is this a problem just for nature. Consider an
-  analogous case in geometry: the parabola. It is easy
+  analogous case in geometry: the parabola.
+  It is easy
   enough to distinguish the sides of this line, one convex
   and one concave, since the parabola is curved. But suppose
   we wanted to go further, and conceive the convex side as
@@ -123,7 +126,7 @@ them has been removed.
   the parabola in, or from inside out, without crossing it.
   And it seems again as if the only way to distinguish
   inside from outside clearly, distinctly, truly, is by
-  a barrier to openness---even when the barrier never closes
+  a barrier---even when the barrier never closes
   upon itself, like in the parabola, giving us the
   tantalizing look of an opening we can never reach.   
 

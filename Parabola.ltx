@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+\begin{center}
+\begin{tikzpicture}[scale=1]
+	\draw [thick] [->] (0,0) parabola (3,-4);
+	\draw [thick] [->] (0,0) parabola (-3,-4);
+	\draw [thick] (0,5) ellipse (2cm and 1cm);
+	\node at (0,4.3) {\footnotesize{convex}};
+	\node at (0,3.7) {\footnotesize{concave}};
+	\node at (0,5) {inside};
+	\node at (0,2) {outside};
+	\node at (0,-2) {inside};
+	\node at (0,-0.35) {\footnotesize{convex}};
+	\node at (0,0.3) {\footnotesize{concave}};
+	\node at (0,-4.4) {\footnotesize{putative edge of
+			geometric space}};
+	\draw [dashed] (-5,-4.2) -- (5,-4.2);
+	\node at (3,4) {Ellipse};
+	\node at (3,0) {Parabola};
+\end{tikzpicture}
+\end{center}
+\end{document}
