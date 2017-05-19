@@ -23,20 +23,16 @@ ways that range from the prosaic to the profound.
 The word "open," then, has great scope; and this is one
 reason to wonder about it. Another reason is that the word
 is used without further explanation, as if its meaning were
-already understood. No one asks about the difference between
-an open door and a closed one. But we might then say,
-borrowing a remark of Aristotle's, that it is only the
-philosopher who would care about it; and that the difference
-between a door being opened and a door being closed, or
-between either one and just being a door, is a fitting
-subject for further thought. And all the more fitting once
-we include a remark like "my door is always open" in our
-reflections, and ask what it could mean, even if demanding
-an answer from someone who makes the remark risks rudely
-missing the point. 
+already understood. But if it is only a philosopher, as
+Aristotle once remarked, that would care about the difference
+between Socrates and Socrates sitting, then perhaps the
+difference between a door and an *open* door is a fitting
+subject for further thought. And while it would be rude
+to ask a friend what he meant after telling you his 
+door is always open, well, what *does* it mean? 
 
 Still another reason to wonder about the word "open" comes
-from the way the word is usually defined through negation.
+from the way it is usually defined through negation.
 To be open, our dictionaries will tell us, means *not* to be
 closed. Or blocked. Or covered. Or fastened. Or sealed. Or
 buttoned. Or guarded. Or protected. Or folded. Or clenched.
@@ -47,19 +43,18 @@ hearts, or minds, or again the proverbial door, always open
 to you? Here, it seems, we use the word "open" for
 a positive condition, a state of being, which any negative
 definition at best only half-comprehends. And to ask about
-the meaning of "open," in this sense, is to ask about the
-meaning of generosity, hospitality, enlightenment, love. 
+the meaning of "open" in this sense is to ask about the
+meaning of hospitality, generosity, enlightenment, love. 
 
 ## Introduction to paradox in the idea of being open
 
-- But there is a final reason to wonder about the word
-  "open", which brings me to my lecture tonight. For if we
-  do consider openness a state of being, and try to make
-  further sense of it, we quickly encounter a paradox. And in
-  the first half of my lecture, I want to offer an account
-  of this paradox, along with what I see as its
-  significance; and then propose a resolution of the paradox
-  in the lecture's second half.
+But there is a final reason to wonder about the word "open",
+which brings me to my lecture tonight. For if we do consider
+openness a state of being, and try to make further sense of
+it, we quickly encounter a paradox. And in the first half of
+my lecture, I want to offer an account of this paradox, and
+what I see as its significance. In the second half of the
+lecture, I will propose one resolution of the paradox.
 
 # Body of Lecture
 
@@ -76,27 +71,26 @@ of the jar to be removed.
 
 But why the lid, exactly? Suppose I decide not to trouble
 myself with the lid, and simply throw the jar to the ground,
-breaking it open. Why isn't this simply another way of
+breaking it open. Why is this not simply another way of
 opening the jar?
 
-This question leads to a second answer to our first
-question. When we say the jar is opened, we want the jar to
-remain a jar: something opened without being broken. Or to
-put the point more abstractly: we want the word "opened" in
-this case to mean that the barrier between the jar's inside
-and outside has been removed, without the distinction
-between inside and outside being erased. Or still more
-abstractly: we want the word "open" to refer to the sense in
-which there is continuity, yet at the same time
+Well, when we say the jar is opened, it seems we want the
+jar to remain a jar: something opened without being broken.
+Or to put the point more abstractly: we want the word
+"opened" in this case to mean that the barrier between the
+jar's inside and outside has been removed, without the
+distinction between inside and outside being erased. Or
+still more abstractly: we want the word "open" to refer to
+the sense in which there is continuity, yet at the same time
 distinctness, between inside and outside.
 
 But this, then, is the paradox lurking in the word "open".
 For how can there be continuity, yet at the same time
-distinctness, or discontinuity, between the inside and
-outside of the jar? How can any continuous path from the
-jar's inside to outside, or vice versa, preserve this
+distinctness, *discontinuity*, between the inside and
+outside of the jar? How can any continuous path from inside
+the jar out, or outside in, preserve this
 distinction rather than erase it? After all, if we leave the
-jar of pickles open, they will sooner or later spoil, as if
+jar of pickles open, they will sooner or later spoil. ---As if
 for nature, even if not for us, there is no difference
 between an open jar and a broken jar; no real distinction,
 that is, between inside and outside once the barrier between
@@ -104,35 +98,109 @@ them has been removed.
 
 ### Parabola example:
 
- ![](file:///Users/danielh/Dropbox/Lect2017_18/open-eyes-lect-2017-18/parabola_ex.png){height=70%}
+Nor is this a problem just for nature. Consider an analogous
+case in geometry: [the
+parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
+It is easy enough to distinguish between the sides of this
+line, one convex and one concave, since the parabola is
+curved. But suppose we went further, and said that the
+convex side is "inside" the parabola, and the concave side
+"outside," as if the line of the parabola formed a figure,
+analogous to ellipse, only open rather than closed. I might
+object that the analogy only holds so far as the ends of the
+parabola are extended past any point in the geometric plane,
+in order to tell, unequivocally, whether that point will lie
+on the convex side or the concave of the parabola, if it is
+not found to lie on the parabola itself. Yet once we extend
+the ends of the parabola this far---to the very edge, as it
+were, of geometric space---there will be no way to get from
+outside in, or inside out, through the parabola's open end,
+since this is now infinitely far away. And again it seems as
+if the only way to distinguish inside from outside clearly,
+distinctly, truly, is by a barrier---even when the barrier
+never closes upon itself, giving us the tantalizing look of
+an opening forever beyond our reach.  
 
-- Nor is this a problem just for nature. Consider an
-  analogous case in geometry: the parabola.
-  It is easy
-  enough to distinguish the sides of this line, one convex
-  and one concave, since the parabola is curved. But suppose
-  we wanted to go further, and conceive the convex side as
-  "inside," and the concave side as "outside," by analogy
-  with the ellipse. This would make the parabola an open
-  figure to the ellipse's closed. Yet there would seem no
-  way of conceiving the parabola as open *in its own right*,
-  liberated from any comparison to the ellipse, unless we
-  prolonged both ends of the parabola indefinitely,
-  infinitely, so that any point in geometric space not found
-  on the line itself can be said unequivocally to lie on one
-  side of the parabola or the other, within or without. But
-  once we extend the parabola this far, across the whole of
-  geometric space, there will be no way to get from outside
-  the parabola in, or from inside out, without crossing it.
-  And it seems again as if the only way to distinguish
-  inside from outside clearly, distinctly, truly, is by
-  a barrier---even when the barrier never closes
-  upon itself, like in the parabola, giving us the
-  tantalizing look of an opening we can never reach.   
 
 ### From parabola to problem more generally  
 
-#### To use directly in essay
+Nor is the paradox limited to jars and parabolas: consider
+the open door we find in Homer's *Odyssey*, one that allows
+the suitors of Penelope to fill the house of Odysseus in his
+absence, but in the *abuse* of hospitality. Or consider the
+open eyes of Leontius in Plato's *Republic*, that allow
+rotting corpses to fill his gaze, to his own contempt, in
+a corruption of sight. Both examples suggest there is at
+least a threshold, if not a barrier, between inside
+from outside in cases of openness to be praised rather than
+condemned. But what *is* this threshold? And if it does
+exist, what makes it a threshold rather than a barrier?
+
+The difficulty of answering such a question can be glimpsed
+in a remark the philosopher Schopenhauer once made, against
+sheer openness, when he said that the world "cannot stroll
+into our head ready-made through the senses and the openings
+of their organs". Fair enough---against anyone tempted to
+take a phrase like "open eyes" literally. But Schopenhauer's
+own inference from this is that the world is a product of
+the understanding---as if there were nothing truly outside
+us to be seen, making the phrase "open eyes" not just
+figurative, but false. Schopenhauer's most famous work, *The
+World as Will and Representation*, similarly begins by
+treating the eyes as if they were opaque rather than
+transparent; and the world they reveal, immanent rather
+than transcendent: 
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.
+
+The self-containment of this passage, and philosophical
+discernment, is not just Schopenhauer's but philosophy's.
+
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to 'be able to be conscious of
+it', it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get out.
+
+Meillassoux (Perhaps just use this quote):
+
+> For it could be that contemporary philosophers have lost
+the great outdoors, the absolute outside of pre-critical
+thinkers: that outside which was not relative to us, and
+which was given as indifferent to its own givenness to be
+what it is, existing in itself regardless of whether we are
+thinking of it or not; that outside which thought could
+explore with the legitimate feeling of being on foreign
+territory – of being entirely elsewhere. 
+
+Meillassoux, Quentin (2009-11-05). After Finitude: An Essay on the Necessity of Contingency (p. 7). Bloomsbury Publishing. Kindle Edition. 
+Schopenhauer he .  what
+to make of Schopenhauer's inference from this?
+"Consequently," he infers, "the understanding had first to
+create the objective world itself." (Revise from here,
+perhaps include Schopenhauer's remark on not seeing the sun
+but an eye that sees the sun.)
+
 
 - Use examples from *Odyssey* and *Republic* to show
 problem in "open doors" and "open eyes": If openness
@@ -444,7 +512,7 @@ making things closed.
 
 ## Part Two: Paradox Resolved
 
-### Parabola:
+### Revisiting of Parabola
 - Parabola is infinitely open at end, leaving no room outside it. Perhaps the secret to openness.
 - Openness and closedness integrated in containment or comprehension of everything
 	- This in contrast to the hyperbola and its asymptotes
