@@ -1,12 +1,25 @@
-# Title
+% On Being Open
+% Daniel Harrell
+% March 2018
 
-- On Being Open 
+[Copy of lecture in HTML](https://www.dropbox.com/s/d1zo3s7hevyz5x5/Outline_of_Lecture.html?dl=0)  
+[Copy of lecture in PDF](https://www.dropbox.com/s/elqz5wxxi2r3fmh/Outline_of_Lecture.pdf?dl=0)
 
-# Introduction
+# Contents {#top}
 
-## Range of usage of "open" and significance
+1. [Introduction](#intro)  
+1. [Part One](#one)  
+<!-- Renumber according to Pandoc -->
+    1. [The Jar](#jar)  
+    1. [The Parabola](#parabola)  
+    1. [The Problem More Generally](#problem)
 
-[comment]: # Try to incorporate the "Open" viewbook
+# Introduction {#intro}
+
+[Back to top](#top)
+<!--
+Try to incorporate the "Open" viewbook
+-->
 
 The word "open", the topic of my lecture tonight, is used
 ways that range from the prosaic to the profound. 
@@ -20,57 +33,61 @@ ways that range from the prosaic to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-The word "open," then, has great scope; and this is one
-reason to wonder about it. Another reason is that the word
-is used without further explanation, as if its meaning were
-already understood. But if it is only a philosopher, as
-Aristotle once remarked, that would care about the difference
-between Socrates and Socrates sitting, then perhaps the
-difference between a door and an *open* door is a fitting
-subject for further thought. And while it would be rude
-to ask a friend what he meant after telling you his 
-door is always open, well, what *does* it mean? 
+The word "open," then, has great scope; this is one reason
+to wonder about it. Another reason is that the word is
+typically used without further explanation, as if its
+meaning were already understood. But if it is only
+a philosopher, as Aristotle once remarked, that would care
+about the difference between Socrates and Socrates sitting,
+then perhaps the difference between a door and an *open*
+door is a fitting subject for further thought.[^1] And while it
+would be rude to ask a friend what he meant after telling
+you his door is *always* open, well, what *did* he mean? 
 
 Still another reason to wonder about the word "open" comes
-from the way it is usually defined through negation.
-To be open, our dictionaries will tell us, means *not* to be
-closed. Or blocked. Or covered. Or fastened. Or sealed. Or
-buttoned. Or guarded. Or protected. Or folded. Or clenched.
-Or concealed. Or constipated. This may be enough definition
-for everyday use. But what then about those profounder
-moments of speech, when we talk of *eyes* being opened, or
-hearts, or minds, or again the proverbial door, always open
-to you? Here, it seems, we use the word "open" for
-a positive condition, a state of being, which any negative
-definition at best only half-comprehends. And to ask about
-the meaning of "open" in this sense is to ask about the
-meaning of hospitality, generosity, enlightenment, love. 
-
-## Introduction to paradox in the idea of being open
+from the way it is defined in dictionaries through negation.
+To be open means *not* to be closed. Or blocked. Or covered.
+Or fastened. Or sealed. Or buttoned. Or guarded. Or
+protected. Or folded. Or clenched. Or concealed. Or
+constipated.[^2] This may be enough definition for everyday use.
+But what then about those profounder moments of speech, when
+we talk of *eyes* being opened, or hearts, or minds, or
+again the proverbial door, always open to you? Here, it
+seems, we use the word "open" for a positive condition,
+a state of being, which any negative definition at best only
+half-comprehends. And to ask about the meaning of "open" in
+this affirmative sense is to ask about the meaning of hospitality,
+generosity, enlightenment, love. 
 
 But there is a final reason to wonder about the word "open",
 which brings me to my lecture tonight. For if we do consider
 openness a state of being, and try to make further sense of
 it, we quickly encounter a paradox. And in the first half of
 my lecture, I want to offer an account of this paradox, and
-what I see as its significance. In the second half of the
-lecture, I will propose one resolution of the paradox.
+its significance as I see it. I will then propose a resolution
+to the paradox in the second half of the
+lecture.
 
-# Body of Lecture
+[Back to top](#top)
 
-## Part One: Paradox Presented
 
-### Jar example:
+# Part One {#one}
 
-To begin to see the paradox in openness, then, let me start
+[Back to top](#top)
+
+## The jar {#jar}
+
+[Back to top](#top)
+
+To begin to see the paradox in openness, let me start
 with this question: What does it mean for a jar, say of
 pickles, to be opened?
 
 A first answer, a dictionary answer, might be: for the lid
 of the jar to be removed. 
 
-But why the lid, exactly? Suppose I decide not to trouble
-myself with the lid, and simply throw the jar to the ground,
+But why the lid, exactly? Suppose I decide not to bother
+with the lid, and simply throw the jar to the ground,
 breaking it open. Why is this not simply another way of
 opening the jar?
 
@@ -85,18 +102,22 @@ the sense in which there is continuity, yet at the same time
 distinctness, between inside and outside.
 
 But this, then, is the paradox lurking in the word "open".
-For how can there be continuity, yet at the same time
-distinctness, *discontinuity*, between the inside and
-outside of the jar? How can any continuous path from inside
-the jar out, or outside in, preserve this
-distinction rather than erase it? After all, if we leave the
-jar of pickles open, they will sooner or later spoil. ---As if
-for nature, even if not for us, there is no difference
+For how, once the jar is open, can there be continuity, yet
+at the same time distinctness, or *discontinuity*, between
+inside and outside? How can any continuous
+path from inside the jar out, or outside in, preserve this
+difference rather than erase it? After all, if we leave the
+jar of pickles open, they will sooner or later spoil. ---As
+if for nature, even if not for us, there is no difference
 between an open jar and a broken jar; no real distinction,
 that is, between inside and outside once the barrier between
 them has been removed. 
 
-### Parabola example:
+[Back to top](#top)
+
+## The parabola {#parabola}
+
+[Back to top](#top)
 
 Nor is this a problem just for nature. Consider an analogous
 case in geometry: [the
@@ -106,50 +127,63 @@ line, one convex and one concave, since the parabola is
 curved. But suppose we went further, and said that the
 convex side is "inside" the parabola, and the concave side
 "outside," as if the line of the parabola formed a figure,
-analogous to ellipse, only open rather than closed. I might
-object that the analogy only holds so far as the ends of the
-parabola are extended past any point in the geometric plane,
-in order to tell, unequivocally, whether that point will lie
-on the convex side or the concave of the parabola, if it is
-not found to lie on the parabola itself. Yet once we extend
-the ends of the parabola this far---to the very edge, as it
-were, of geometric space---there will be no way to get from
-outside in, or inside out, through the parabola's open end,
-since this is now infinitely far away. And again it seems as
-if the only way to distinguish inside from outside clearly,
-distinctly, truly, is by a barrier---even when the barrier
+analogous to the ellipse, only open rather than closed.
+I might object that the analogy only holds so far as the
+ends of the parabola are extended past any point in the
+geometric plane, in order to tell, unequivocally, whether
+that point will lie on the convex side or the concave side
+of the parabola, if it is on the line of the parabola
+itself. Yet once we extend the ends of the parabola this
+far---to the very edge, as it were, of geometric
+space---there will be no way to get from outside in, or
+inside out, through the parabola's open end, since this is
+now infinitely far away. And again it seems as if the only
+way to distinguish inside from outside clearly, distinctly,
+truly, is by a barrier to openness---even when the barrier
 never closes upon itself, giving us the tantalizing look of
 an opening forever beyond our reach.  
 
+[Back to top](#top)
 
-### From parabola to problem more generally  
+## The problem more generally {#problem}  
 
-Nor is the paradox limited to jars and parabolas: consider
-the open door we find in Homer's *Odyssey*, one that allows
-the suitors of Penelope to fill the house of Odysseus in his
-absence, but in the *abuse* of hospitality. Or consider the
-open eyes of Leontius in Plato's *Republic*, that allow
-rotting corpses to fill his gaze, to his own contempt, in
-a corruption of sight. Both examples suggest there is at
-least a threshold, if not a barrier, between inside
-from outside in cases of openness to be praised rather than
-condemned. But what *is* this threshold? And if it does
-exist, what makes it a threshold rather than a barrier?
+[Back to top](#top)
 
-The difficulty of answering such a question can be glimpsed
-in a remark the philosopher Schopenhauer once made, against
-sheer openness, when he said that the world "cannot stroll
-into our head ready-made through the senses and the openings
-of their organs". Fair enough---against anyone tempted to
-take a phrase like "open eyes" literally. But Schopenhauer's
-own inference from this is that the world is a product of
-the understanding---as if there were nothing truly outside
-us to be seen, making the phrase "open eyes" not just
-figurative, but false. Schopenhauer's most famous work, *The
-World as Will and Representation*, similarly begins by
+Nor is the paradox limited to jars and parabolas. Consider
+the open door we find in Homer's *Odyssey*, that allows the
+suitors of Penelope to fill the house of Odysseus in his
+absence, but in the *abuse* of hospitality. Or the open eyes
+of Leontius in Plato's *Republic*, that allow the spectacle
+of corpses to fill his gaze, but to his own contempt, in
+a similar abuse of sight.[^3] Both examples suggest there is
+something between inside and outside that can be violated,
+even broken, in cases of openness that can be condemned. But
+if this something is not a barrier, then what is it? And if
+we think about the phrase "open eyes" more generally, it can
+be easy to see we don't mean it literally, but hard to see
+how we then mean it figuratively. If our eyes are not open
+to the world like a lidless jar, then how does the world get
+in? After some schooling in philosophy, we might be tempted
+to argue as Schopenhauer once did, when he
+wrote:  
+
+<!-- Look up Payne translation for this -->
+
+> It is therefore the Understanding
+itself which has to create the objective world; for this
+world cannot walk into our brain from outside all ready cut
+and dried through the senses and the openings of their
+organs.
+
+On this reasoning, the way our eyes are *not* like lidless
+jars makes the world they deliver us to something produced
+rather than revealed---as if there were nothing truly
+outside us to be seen, and the phrase "open eyes" were
+figurative in being false.  Schopenhauer's most famous work,
+*The World as Will and Representation*, similarly begins by
 treating the eyes as if they were opaque rather than
-transparent; and the world they reveal, immanent rather
-than transcendent: 
+transparent, and the world we see as if it
+were inside us.  
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -162,30 +196,16 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.
 
-The self-containment of this passage, and philosophical
-discernment, is not just Schopenhauer's but philosophy's.
-
-> Everything is inside because in order to think anything
-whatsoever, it is necessary to 'be able to be conscious of
-it', it is necessary to say it, and so we are locked up in
-language or in consciousness without being able to get out.
-In this sense, they have no outside. But in another sense,
-they are entirely turned towards the outside; they are the
-world’s window: for to be conscious is always to be
-conscious of something, to speak is necessarily to speak
-about something. To be conscious of the tree is to be
-conscious of the tree itself, and not the idea of the tree;
-to speak about the tree is not just to utter a word but to
-speak about the thing. Consequently, consciousness and
-language enclose the world within themselves only insofar
-as, conversely, they are entirely contained by it. We are in
-consciousness or language as in a transparent cage.
-Everything is outside, yet it is impossible to get out.
-
-Meillassoux (Perhaps just use this quote):
+Nor is Schopenhauer alone, among philosophers, in his
+seeming denial of openness. There is nothing here that
+Schopenhauer himself wouldn't credit to Kant. And every
+philosopher since Kant might be thought to have made the
+same denial, willingly or no, at least if we accept the
+suggestion recently made by Quentin Meillassoux, who calls
+it a *loss*:  
 
 > For it could be that contemporary philosophers have lost
-the great outdoors, the absolute outside of pre-critical
+the *great outdoors*, the *absolute* outside of pre-critical
 thinkers: that outside which was not relative to us, and
 which was given as indifferent to its own givenness to be
 what it is, existing in itself regardless of whether we are
@@ -193,21 +213,29 @@ thinking of it or not; that outside which thought could
 explore with the legitimate feeling of being on foreign
 territory – of being entirely elsewhere. 
 
-Meillassoux, Quentin (2009-11-05). After Finitude: An Essay on the Necessity of Contingency (p. 7). Bloomsbury Publishing. Kindle Edition. 
-Schopenhauer he .  what
-to make of Schopenhauer's inference from this?
-"Consequently," he infers, "the understanding had first to
-create the objective world itself." (Revise from here,
-perhaps include Schopenhauer's remark on not seeing the sun
-but an eye that sees the sun.)
+Bergson quote: 
+
+> It would greatly astonish a man unaware of the
+speculations of philosophy if we told him that the
+object before him, which he sees and touches, exists
+only in his mind and for his mind or even, more generally,
+exists only for mind, as Berkeley held. Such a man would
+always maintain that the object exists independently
+of the consciousness which perceives it. But, on the 
+other hand, we should astonish him quite as much by
+telling him that the object is entirely different
+from that which is perceived in it, that it has
+neither the color ascribed to it by the eye nor the
+resistance found in it by the hand. The color, the
+resistance, are, for him, in the object: they are not
+states of our mind; they are part and parcel of an
+existence really independent of our own. For common
+sense, then, the object exists in itself, and,
+on the other hand, the object is, in itself, pictorial,
+as we perceive it: image it is, but a self-existing
+image.
 
 
-- Use examples from *Odyssey* and *Republic* to show
-problem in "open doors" and "open eyes": If openness
-can indeed be a state of being, it is not a matter
-of mere continuity between inside and outside; there
-is a threshold. But how to make sense of this
-threshold?
 
     - Note: openness indicates a threshold, from inside to
       outside, not just a continuity. (Perhaps senior oral
@@ -218,12 +246,6 @@ threshold?
     - Openness not merely a continuity, but a threshold
       between inside and outside. A relation between the two
       that preserves their dimensionality.
-
-    - Hospitality: suitors filling Odysseus’s house in
-      Homer’s Odyssey
-
-    - Perception and Intellect: Leontius in Republic getting
-      his fill of a sight.
 
     - And how to link to presence/absence? Odyessus absent;
       Leontius no longer mastering his eyes. But how to link
@@ -654,4 +676,28 @@ direction, without end.
 - Sellars: scientific vs manifest image
 - Heisenberg stuff in Senior Lab manual?
 - My senior oral piece
+
+# Notes
+
+[^1]: "...it is the function of the philosopher to be able
+to investigate all things. For if it is not the function of
+the philosopher, who is it who will inquire whether Socrates
+and Socrates seated are the same thing, or whether one thing
+has one contrary, or what contrariety is, or how many
+meanings it has? And similarly with all other such
+questions." (Book IV, Part 2, *Metaphysics*)
+
+[^2]: See, for example, the [Merriam Webster
+entry](https://www.merriam-webster.com/dictionary/open) for
+"open". 
+
+[^3]: "Leontius, the son of Aglaion, was going up from the
+Piraeus along the outside of the North Wall when he saw some
+corpses lying at the executioners feet. He had an appetite
+to look at them but at the same time he was disgusted and
+turned away. For a time he struggled with himself and
+covered his face, but, finally overpowered by the appetite,
+he pushed his eyes wide open and rushed towards the corpses,
+saying, 'Look for yourselves, you evil wretches, take your
+fill of the beautiful sight.' (*Republic*, Book IV, 439e-440a)
 
