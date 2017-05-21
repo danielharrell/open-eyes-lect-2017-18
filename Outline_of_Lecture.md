@@ -8,11 +8,15 @@
 # Contents {#top}
 
 1. [Introduction](#intro)  
-1. [Part One](#one)  
+1. [Part One: Paradox Introduced](#one)  
 <!-- Renumber according to Pandoc -->
     1. [The Jar](#jar)  
     1. [The Parabola](#parabola)  
     1. [The Problem More Generally](#problem)
+1. [Part Two: Paradox Explored](#two)
+1. [Part Three: Paradox Resolved](#three)
+1. [Conclusion](#conclude)
+1. [Notes](#notes)
 
 # Introduction {#intro}
 
@@ -22,7 +26,7 @@ Try to incorporate the "Open" viewbook
 -->
 
 The word "open", the topic of my lecture tonight, is used
-ways that range from the prosaic to the profound. 
+in ways that range from the prosaic to the profound. 
 
     - "I can't get the jar open." 
     - "When does the store open?"
@@ -62,16 +66,14 @@ generosity, enlightenment, love.
 But there is a final reason to wonder about the word "open",
 which brings me to my lecture tonight. For if we do consider
 openness a state of being, and try to make further sense of
-it, we quickly encounter a paradox. And in the first half of
-my lecture, I want to offer an account of this paradox, and
-its significance as I see it. I will then propose a resolution
-to the paradox in the second half of the
-lecture.
+it, we quickly encounter a paradox. I will introduce this
+paradox in the first part of my lecture; explore it further
+in a second part; and try to resolve it in a final part.
 
 [Back to top](#top)
 
 
-# Part One {#one}
+# Part One: Paradox introduced {#one}
 
 [Back to top](#top)
 
@@ -86,8 +88,8 @@ pickles, to be opened?
 A first answer, a dictionary answer, might be: for the lid
 of the jar to be removed. 
 
-But why the lid, exactly? Suppose I decide not to bother
-with the lid, and simply throw the jar to the ground,
+But why the lid? Suppose I decide not to bother
+with the lid, and throw the jar to the ground,
 breaking it open. Why is this not simply another way of
 opening the jar?
 
@@ -96,22 +98,22 @@ jar to remain a jar: something opened without being broken.
 Or to put the point more abstractly: we want the word
 "opened" in this case to mean that the barrier between the
 jar's inside and outside has been removed, without the
-distinction between inside and outside being erased. Or
+difference between inside and outside being erased. Or
 still more abstractly: we want the word "open" to refer to
 the sense in which there is continuity, yet at the same time
 distinctness, between inside and outside.
 
 But this, then, is the paradox lurking in the word "open".
-For how, once the jar is open, can there be continuity, yet
+For how, once the jar is open, can there be continuity,  yet
 at the same time distinctness, or *discontinuity*, between
-inside and outside? How can any continuous
-path from inside the jar out, or outside in, preserve this
-difference rather than erase it? After all, if we leave the
-jar of pickles open, they will sooner or later spoil. ---As
-if for nature, even if not for us, there is no difference
-between an open jar and a broken jar; no real distinction,
-that is, between inside and outside once the barrier between
-them has been removed. 
+inside and outside? How can any continuous path from inside
+the jar out, or outside in, preserve this difference rather
+than erase it? After all, if we leave the jar of pickles
+open, they will sooner or later spoil. ---As if for nature,
+even if not for us, there is no difference between an open
+jar and a broken jar; no real distinction, that is, between
+inside and outside once the barrier between them has been
+removed.
 
 [Back to top](#top)
 
@@ -122,26 +124,28 @@ them has been removed.
 Nor is this a problem just for nature. Consider an analogous
 case in geometry: [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
-It is easy enough to distinguish between the sides of this
-line, one convex and one concave, since the parabola is
-curved. But suppose we went further, and said that the
-convex side is "inside" the parabola, and the concave side
-"outside," as if the line of the parabola formed a figure,
-analogous to the ellipse, only open rather than closed.
-I might object that the analogy only holds so far as the
-ends of the parabola are extended past any point in the
-geometric plane, in order to tell, unequivocally, whether
-that point will lie on the convex side or the concave side
-of the parabola, if it is on the line of the parabola
-itself. Yet once we extend the ends of the parabola this
-far---to the very edge, as it were, of geometric
+<!-- Spell out paradox explicitly in terms of continuity and
+discontinuity in parabola --> It is easy enough to
+distinguish the sides of this line, one convex and one
+concave, since the parabola is curved. But suppose we went
+further, and said that the convex side is "inside" the
+parabola, and the concave side "outside," as if the line of
+the parabola formed a figure, analogous to the ellipse, only
+open rather than closed. But the analogy only holds, it
+seems, so far as the ends of the parabola are extended past
+any point in the geometric plane, in order to tell,
+unequivocally, where that point will lie in relation to the
+parabola: on its convex side; on its concave side; or on the
+parabola itself. Yet once we extend the ends of the parabola
+this far---to the very edge, as it were, of geometric
 space---there will be no way to get from outside in, or
 inside out, through the parabola's open end, since this is
-now infinitely far away. And again it seems as if the only
-way to distinguish inside from outside clearly, distinctly,
-truly, is by a barrier to openness---even when the barrier
-never closes upon itself, giving us the tantalizing look of
-an opening forever beyond our reach.  
+now infinitely far away. So again we encounter the paradox.
+For it seems as if the only way to distinguish inside from
+outside clearly, distinctly, truly, is by a barrier to
+openness---even when the barrier in this case never closes
+upon itself, giving us the tantalizing look of an opening
+always beyond our reach.  
 
 [Back to top](#top)
 
@@ -156,16 +160,21 @@ absence, but in the *abuse* of hospitality. Or the open eyes
 of Leontius in Plato's *Republic*, that allow the spectacle
 of corpses to fill his gaze, but to his own contempt, in
 a similar abuse of sight.[^3] Both examples suggest there is
-something between inside and outside that can be violated,
-even broken, in cases of openness that can be condemned. But
-if this something is not a barrier, then what is it? And if
-we think about the phrase "open eyes" more generally, it can
-be easy to see we don't mean it literally, but hard to see
-how we then mean it figuratively. If our eyes are not open
-to the world like a lidless jar, then how does the world get
-in? After some schooling in philosophy, we might be tempted
-to argue as Schopenhauer once did, when he
-wrote:  
+something between inside and outside that can be broken, in
+cases of openness to be condemned. But what is it, then,
+that remains intact in cases of openness to be praised? And
+how does it *provide* an opening, or even protect it, rather
+than preclude it?
+
+Or consider the phrase "open eyes" more generally. It seems
+to capture how we don't see *our eyes*, but rather a whole
+world *through* our eyes. But does this mean our eyes are
+literally open---like a lidless jar that allows the world
+in? And if we don't mean this literally, then how do we mean it
+figuratively? If our eyes are *not* like a lidless jar, then
+how *does* the world get in? Or perhaps the world *doesn't*
+get in, if we are tempted to argue as Schopenhauer
+once did, when he wrote:
 
 <!-- Look up Payne translation for this -->
 
@@ -175,8 +184,8 @@ world cannot walk into our brain from outside all ready cut
 and dried through the senses and the openings of their
 organs.
 
-On this reasoning, the way our eyes are *not* like lidless
-jars makes the world they deliver us to something produced
+On this reasoning, the way our eyes are *not* like a lidless
+jar makes the world they present something produced
 rather than revealed---as if there were nothing truly
 outside us to be seen, and the phrase "open eyes" were
 figurative in being false.  Schopenhauer's most famous work,
@@ -195,6 +204,35 @@ only an eye that sees a sun, a hand that feels an earth;
 that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.
+Schopenhauer's own answer, offered in this same remark as an
+inference, is that the world *doesn't* get in.
+"Consequently, the understanding had first to create the
+objective world itselfa."
+
+Schopenhauer's own answer, offered in this same remark as an
+inference, is that the world *doesn't* get in.
+"Consequently, the understanding had first to create the
+objective world itselfa."
+
+being a creation of the
+understanding, as if our eyes were closed rather than open,
+and the world they saw, so to speak, were something produced
+rather than revealed.[^5] And the reasoning here follows the
+logic of a parabola having to be completed, or a pickle jar
+closed, if the difference between inside and outside is to
+be made rather than erased. True, we may seem to see
+*through* our eyes, as if they were open, even transparent,
+to a world truly outside us. But for anyone who experiences
+the dawning of philosophical discernment, on Schopenhauer's
+view, it is as if the eyes are indeed opaque, and the world
+we see something inside us:
+
+> It then becomes clear and certain to him that he does not
+know a sun and an earth, but only an eye that sees a sun,
+a hand that feels an earth; that the world around him is
+there only as representation, in other words, only in
+reference to another thing, namely that which represents,
+and this is himself.[^6]
 
 Nor is Schopenhauer alone, among philosophers, in his
 seeming denial of openness. There is nothing here that
@@ -532,15 +570,25 @@ making things closed.
   contained by the world insofar as they are visible.
 
 
-## Part Two: Paradox Resolved
+# Part Two: Paradox explored {#two}
 
-### Revisiting of Parabola
+- Link philosophy at beginning to start reflection on
+openness to its impotence at end of first part to make
+sense of it
+
+[Back to top](#top)
+
+# Part Three: Paradox resolved {#three}
+
+[Back to top](#top)
+
+## Revisiting of Parabola
 - Parabola is infinitely open at end, leaving no room outside it. Perhaps the secret to openness.
 - Openness and closedness integrated in containment or comprehension of everything
 	- This in contrast to the hyperbola and its asymptotes
 - Mathematical example of parabola: perhaps to get from outside to inside requires the movement of infinity or even beyond. Containment allows this to happen somehow.
 
-### From parabola to solution more generally:
+## From parabola to solution more generally:
 - We are the beings who are open. (Heidegger on possibility.) 
 - Being open to one thing means being open to everything, but cast this now in the form of containment rather than exposure.
 - Possibly use Leibniz?
@@ -567,7 +615,7 @@ making things closed.
 		> - Matter would never have evolved into animals, had not organization been potential in it from the beginning; and organization would never have awakened consciousness had not essence and truth overarched existence from all eternity, and summed it up, with all its perspectives ready, for spirit to perceive."
 
 
-### Possible link to light
+## Possible link to light
 - Could openness finally be light?
 - Try to incorporate necessity of light in the idea of eyes being open
 - Light connecting absence and presence of eyes: allows us to see, but also to be seen
@@ -577,7 +625,7 @@ making things closed.
 	- Invisibility in openness like that of the burning wick, eclipsed by the glow it produces. Perhaps explains how eye disappears?
 	- Open a curtain: suggests that openness has something to do with light
 
-### Other thoughts to bring into lecture
+## Other thoughts to bring into lecture
 - Basic form of extrinsicness, time, means existence, and sense of existence, is temporal.
 - Not sure what I meant with above thought. Perhaps this is way to clarify division of inside from outside. Our sense of what lies outside us, as extrinsic, involves time. But our domain of awareness makes the extrinsic intrinsic, with a corresponding removal from the flux of time into an idea, or image, that is atemporal. Perhaps could spell this out.
 - PS to Brendan message: my own thinking about this is centered on the following idea: existence is what makes otherwise purely intrinsic relations extrinsic. The difference between the painting of a landscape and the real landscape it's a painting of, for example, would be that in the painting, the relation of ground to sky is internal to the painting; there is an important sense in which the ground is not outside the sky (or vice versa) as elements of the painting. But in the real, or existing landscape, the ground *is* outside the sky. And this is what it means for it to be real or existing, and not just an image in a frame.
@@ -586,9 +634,11 @@ making things closed.
 - Perhaps include discussion of "literacy" and liberal arts in discussion of perception. Perception as a way not of seeing the world, but of reading the world. Then move from symbolic in this sense to example in music, and Bach in particular. Perhaps this relates to idea of “things” in awareness as symbols.
 - Look at Augustine 8.5
 
-# Conclusion
+# Conclusion {#conclude}
 
-# Leftovers
+[Back to top](#top)
+
+## Leftovers
 - The word "open" also transcends grammar: verb (transitive and intransitive), adverb, adjective
 	- He opened the door
 	- The door opened slowly
@@ -668,7 +718,7 @@ direction, without end.
   outside to inside requires the movement of infinity or
   even beyond, but how is this possible?
 
-# Other things to look up
+## Other things to look up
 - Aristotle De Anima
 - Benardete article on De Anima
 - Nietzsche on perspective
@@ -677,7 +727,9 @@ direction, without end.
 - Heisenberg stuff in Senior Lab manual?
 - My senior oral piece
 
-# Notes
+# Notes {#notes}
+
+[Back to top](#top)
 
 [^1]: "...it is the function of the philosopher to be able
 to investigate all things. For if it is not the function of
@@ -701,3 +753,11 @@ he pushed his eyes wide open and rushed towards the corpses,
 saying, 'Look for yourselves, you evil wretches, take your
 fill of the beautiful sight.' (*Republic*, Book IV, 439e-440a)
 
+[^4]: Schopenhauer reference: Fourfold Root (Cambridge), 54. 
+
+[^5]: "Consequently, the understanding had first to create
+the objective world itself."
+Schopenhauer, Arthur (2012-09-20). Schopenhauer: 
+On the Fourfold Root of the Principle of Sufficient Reason and Other Writings: 4 (The Cambridge Edition of the Works of Schopenhauer) (p. 54). Cambridge University Press. Kindle Edition. 
+
+[^6]: Schopenhauer, World as Will and Representation (Dover, Payne), 2.
