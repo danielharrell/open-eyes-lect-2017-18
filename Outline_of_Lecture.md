@@ -91,29 +91,31 @@ of the jar to be removed.
 But why the lid? Suppose I decide not to bother
 with the lid, and throw the jar to the ground,
 breaking it open. Why is this not simply another way of
-opening the jar?
+opening the jar? Why do we call it a breaking-open
+rather than a merely-open?
 
 Well, when we say the jar is opened, it seems we want the
 jar to remain a jar: something opened without being broken.
 Or to put the point more abstractly: we want the word
-"opened" in this case to mean that the barrier between the
+"opened" to mean that the barrier between the
 jar's inside and outside has been removed, without the
 difference between inside and outside being erased. Or
-still more abstractly: we want the word "open" to refer to
-the sense in which there is continuity, yet at the same time
+still more abstractly: we want the word "open" to mean 
+that there is continuity, yet at the same time
 distinctness, between inside and outside.
 
-But this, then, is the paradox lurking in the word "open".
-For how, once the jar is open, can there be continuity,  yet
-at the same time distinctness, or *discontinuity*, between
-inside and outside? How can any continuous path from inside
-the jar out, or outside in, preserve this difference rather
-than erase it? After all, if we leave the jar of pickles
-open, they will sooner or later spoil. ---As if for nature,
-even if not for us, there is no difference between an open
-jar and a broken jar; no real distinction, that is, between
-inside and outside once the barrier between them has been
-removed.
+But this, then, is the paradox. For how, once the jar is
+open, can there be continuity,  yet at the same time
+distinctness, or *discontinuity*, between inside and
+outside? How can any continuous path from inside the jar
+out, or outside in, preserve this difference rather than
+erase it? After all, if we leave the jar of pickles open,
+they will sooner or later spoil. ---As if there is no
+real difference between an open jar and a broken jar; no real
+distinction between inside and outside once the
+barrier between them has been removed. So what makes the
+distinction real? In what sense can our jar be 
+open at all? 
 
 [Back to top](#top)
 
@@ -121,7 +123,7 @@ removed.
 
 [Back to top](#top)
 
-Nor is this a problem just for nature. Consider an analogous
+Nor is this a problem just for jars.  Consider an analogous
 case in geometry: [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 <!-- Spell out paradox explicitly in terms of continuity and
@@ -141,11 +143,13 @@ this far---to the very edge, as it were, of geometric
 space---there will be no way to get from outside in, or
 inside out, through the parabola's open end, since this is
 now infinitely far away. So again we encounter the paradox.
-For it seems as if the only way to distinguish inside from
-outside clearly, distinctly, truly, is by a barrier to
+For in what sense can our parabola be open at all? It seems
+that the only way to distinguish inside from outside
+clearly, distinctly, truly, is by a barrier to
 openness---even when the barrier in this case never closes
-upon itself, giving us the tantalizing look of an opening
-always beyond our reach.  
+upon itself: something we can plainly see, but never reach;
+as if openness had no being beyond seeming. 
+
 
 [Back to top](#top)
 
@@ -161,20 +165,27 @@ of Leontius in Plato's *Republic*, that allow the spectacle
 of corpses to fill his gaze, but to his own contempt, in
 a similar abuse of sight.[^3] Both examples suggest there is
 something between inside and outside that can be broken, in
-cases of openness to be condemned. But what is it, then,
-that remains intact in cases of openness to be praised? And
-how does it *provide* an opening, or even protect it, rather
-than preclude it?
+cases of openness to be condemned. But what is it that
+remains intact, then, in cases of openness to be praised?
+And how does this *provide* an opening, even protect it,
+rather than preclude it?
 
-Or consider the phrase "open eyes" more generally. It seems
-to capture how we don't see *our eyes*, but rather a whole
-world *through* our eyes. But does this mean our eyes are
-literally open---like a lidless jar that allows the world
-in? And if we don't mean this literally, then how do we mean it
-figuratively? If our eyes are *not* like a lidless jar, then
-how *does* the world get in? Or perhaps the world *doesn't*
-get in, if we are tempted to argue as Schopenhauer
-once did, when he wrote:
+Or consider the phrase "open eyes" more generally. 
+<!-- We refer literally perhaps to eyelids. Yet--> It seems
+to capture how we don't see *our eyes*, in normal cases of
+vision, but *through* our eyes to a world beyond, as if our
+eyes were indeed open, even transparent. Still, it is not as
+if our eyes could be open like their sockets <!--eyelids?-->, or a lidless
+jar, that allows the world in. For open eyes can be poked,
+injured, even blinded. So how again are they open? And if they
+are not like a lidless jar, then how *does* the world get
+in? 
+
+Well, perhaps the world *doesn't* get in, at least if we
+conceive the eye like a *closed* jar, or *completed*
+parabola, and once again call into question the very
+possibility of being open. And we could argue for this as the
+philosopher Schopenhauer once did, when he wrote:
 
 <!-- Look up Payne translation for this -->
 
@@ -182,17 +193,17 @@ once did, when he wrote:
 itself which has to create the objective world; for this
 world cannot walk into our brain from outside all ready cut
 and dried through the senses and the openings of their
-organs.
+organs.[^4]
 
 On this reasoning, the way our eyes are *not* like a lidless
-jar makes the world they present something produced
-rather than revealed---as if there were nothing truly
-outside us to be seen, and the phrase "open eyes" were
-figurative in being false.  Schopenhauer's most famous work,
+jar makes the world we see something produced
+rather than revealed---as if there were nothing 
+outside us to see, and the phrase "open eyes" were
+figurative in being false. Schopenhauer's most famous work,
 *The World as Will and Representation*, similarly begins by
 treating the eyes as if they were opaque rather than
 transparent, and the world we see as if it
-were inside us.  
+were inside us:
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -203,44 +214,26 @@ certain to him that he does not know a sun and an earth, but
 only an eye that sees a sun, a hand that feels an earth;
 that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
-that which represents, and this is himself.
-Schopenhauer's own answer, offered in this same remark as an
-inference, is that the world *doesn't* get in.
-"Consequently, the understanding had first to create the
-objective world itselfa."
-
-Schopenhauer's own answer, offered in this same remark as an
-inference, is that the world *doesn't* get in.
-"Consequently, the understanding had first to create the
-objective world itselfa."
-
-being a creation of the
-understanding, as if our eyes were closed rather than open,
-and the world they saw, so to speak, were something produced
-rather than revealed.[^5] And the reasoning here follows the
-logic of a parabola having to be completed, or a pickle jar
-closed, if the difference between inside and outside is to
-be made rather than erased. True, we may seem to see
-*through* our eyes, as if they were open, even transparent,
-to a world truly outside us. But for anyone who experiences
-the dawning of philosophical discernment, on Schopenhauer's
-view, it is as if the eyes are indeed opaque, and the world
-we see something inside us:
-
-> It then becomes clear and certain to him that he does not
-know a sun and an earth, but only an eye that sees a sun,
-a hand that feels an earth; that the world around him is
-there only as representation, in other words, only in
-reference to another thing, namely that which represents,
-and this is himself.[^6]
+that which represents, and this is himself.[^6]
 
 Nor is Schopenhauer alone, among philosophers, in his
-seeming denial of openness. There is nothing here that
-Schopenhauer himself wouldn't credit to Kant. And every
+seeming denial of openness. 
+<!-- Use philosophical discernment bit to make transition
+to philosophy more generally. Then briefly explain how
+"world-inside-us" can account for Odysseus and Leontinus
+(worlds inside doors and eyes) and also parabola (which
+swallows whole of geometric space in its asymptote-less
+spread. There is no outside, like infinite ellipse. (Look
+at example Erica sent.))-->
+There is nothing here that
+Schopenhauer himself wouldn't credit to Kant. 
+<!-- Find Kant references, either from Kant or from
+Schopenhauer -->
+And every
 philosopher since Kant might be thought to have made the
-same denial, willingly or no, at least if we accept the
-suggestion recently made by Quentin Meillassoux, who calls
-it a *loss*:  
+same denial, willing or no---at least if we accept the
+suggestion recently made by Quentin Meillassoux, about
+what philosophy has lost since Kant:  
 
 > For it could be that contemporary philosophers have lost
 the *great outdoors*, the *absolute* outside of pre-critical
@@ -251,6 +244,29 @@ thinking of it or not; that outside which thought could
 explore with the legitimate feeling of being on foreign
 territory – of being entirely elsewhere. 
 
+- To conclude this section
+
+    - Point out that it is philosophical reflection
+    that allows us to reflect on openness, but also
+    philosophical reflection that issues in its denial.
+
+        - Philosophy has a power to wonder about openness,
+	but an impotence to save it.
+    
+        - This is a kind of paradox about the paradox.
+
+    - Also, the denial is about our most common experience
+    of openness in perception and being-in-the-world. 
+    
+    - So why is this? A question that leads me to explore
+    the issue further in part 2. 
+
+    - Perhaps also mention that the problem is broader than
+    "post-Kantian" philosophy.
+
+# Part Two: Paradox explored {#two}
+
+[Back to top](#top)
 Bergson quote: 
 
 > It would greatly astonish a man unaware of the
@@ -570,13 +586,6 @@ making things closed.
   contained by the world insofar as they are visible.
 
 
-# Part Two: Paradox explored {#two}
-
-- Link philosophy at beginning to start reflection on
-openness to its impotence at end of first part to make
-sense of it
-
-[Back to top](#top)
 
 # Part Three: Paradox resolved {#three}
 
@@ -753,7 +762,8 @@ he pushed his eyes wide open and rushed towards the corpses,
 saying, 'Look for yourselves, you evil wretches, take your
 fill of the beautiful sight.' (*Republic*, Book IV, 439e-440a)
 
-[^4]: Schopenhauer reference: Fourfold Root (Cambridge), 54. 
+[^4]: Schopenhauer reference: Fourfold Root (Hillebrand), 956/507;
+Fourfold Root (Cambridge), 54. 
 
 [^5]: "Consequently, the understanding had first to create
 the objective world itself."
