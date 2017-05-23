@@ -104,18 +104,17 @@ still more abstractly: we want the word "open" to mean
 that there is continuity, yet at the same time
 distinctness, between inside and outside.
 
-But this, then, is the paradox. For how, once the jar is
-open, can there be continuity,  yet at the same time
-distinctness, or *discontinuity*, between inside and
-outside? How can any continuous path from inside the jar
-out, or outside in, preserve this difference rather than
-erase it? After all, if we leave the jar of pickles open,
-they will sooner or later spoil. ---As if there is no
-real difference between an open jar and a broken jar; no real
-distinction between inside and outside once the
-barrier between them has been removed. So what makes the
-distinction real? In what sense can our jar be 
-open at all? 
+But this, then, is the paradox. For how can there be
+continuity between inside and outside, yet at the same time
+distinctness, or discontinuity? Without the lid to separate
+them, how is the jar's inside indeed inside, and not
+outside? After all, if we leave the jar of pickles open,
+they will sooner or later spoil---as if the jar's inside
+were indeed outside, and there were no real difference between
+an open jar and a broken jar; no real distinction between
+inside and outside once the barrier between them has been
+removed. So what makes the distinction real without
+this barrier? In what sense can our jar be open at all? 
 
 [Back to top](#top)
 
@@ -123,7 +122,7 @@ open at all?
 
 [Back to top](#top)
 
-Nor is this a problem just for jars.  Consider an analogous
+Nor is this a paradox just for jars.  Consider an analogous
 case in geometry: [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 <!-- Spell out paradox explicitly in terms of continuity and
@@ -133,22 +132,22 @@ concave, since the parabola is curved. But suppose we went
 further, and said that the convex side is "inside" the
 parabola, and the concave side "outside," as if the line of
 the parabola formed a figure, analogous to the ellipse, only
-open rather than closed. But the analogy only holds, it
-seems, so far as the ends of the parabola are extended past
+open rather than closed. But the analogy holds, it seems,
+only so far as the ends of the parabola are extended past
 any point in the geometric plane, in order to tell,
 unequivocally, where that point will lie in relation to the
 parabola: on its convex side; on its concave side; or on the
 parabola itself. Yet once we extend the ends of the parabola
 this far---to the very edge, as it were, of geometric
 space---there will be no way to get from outside in, or
-inside out, through the parabola's open end, since this is
-now infinitely far away. So again we encounter the paradox.
-For in what sense can our parabola be open at all? It seems
-that the only way to distinguish inside from outside
-clearly, distinctly, truly, is by a barrier to
-openness---even when the barrier in this case never closes
-upon itself: something we can plainly see, but never reach;
-as if openness had no being beyond seeming. 
+inside out, through the parabola's open end; for this is now
+infinitely far away. So again we encounter the paradox. For
+in what sense can our parabola be open at all? It seems that
+the only way to distinguish inside from outside clearly,
+distinctly, truly, is by a barrier to openness---even when
+the barrier in this case never closes upon itself: the open
+end of the parabola that we can plainly see, but never
+reach; as if openness had no being beyond seeming. 
 
 
 [Back to top](#top)
@@ -157,7 +156,7 @@ as if openness had no being beyond seeming.
 
 [Back to top](#top)
 
-Nor is the paradox limited to jars and parabolas. Consider
+Nor is this a paradox just for jars and parabolas. Consider
 the open door we find in Homer's *Odyssey*, that allows the
 suitors of Penelope to fill the house of Odysseus in his
 absence, but in the *abuse* of hospitality. Or the open eyes
@@ -170,12 +169,12 @@ remains intact, then, in cases of openness to be praised?
 And how does this *provide* an opening, even protect it,
 rather than preclude it?
 
-Or consider the phrase "open eyes" more generally. 
-<!-- We refer literally perhaps to eyelids. Yet--> It seems
-to capture how we don't see *our eyes*, in normal cases of
-vision, but *through* our eyes to a world beyond, as if our
+Or consider the phrase "open eyes" more generally. Perhaps
+we only mean our eyelids are open. But the phrase also 
+captures how we seem not to see *our eyes*, in normal cases of
+vision, but *through* our eyes, to a world beyond, as if our
 eyes were indeed open, even transparent. Still, it is not as
-if our eyes could be open like their sockets <!--eyelids?-->, or a lidless
+if our eyes could be open like their eyelids, or a lidless
 jar, that allows the world in. For open eyes can be poked,
 injured, even blinded. So how again are they open? And if they
 are not like a lidless jar, then how *does* the world get
@@ -203,7 +202,7 @@ figurative in being false. Schopenhauer's most famous work,
 *The World as Will and Representation*, similarly begins by
 treating the eyes as if they were opaque rather than
 transparent, and the world we see as if it
-were inside us:
+were inside us, in a seeming denial of openness:
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -216,19 +215,90 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^6]
 
-Nor is Schopenhauer alone, among philosophers, in his
-seeming denial of openness. 
-<!-- Use philosophical discernment bit to make transition
-to philosophy more generally. Then briefly explain how
-"world-inside-us" can account for Odysseus and Leontinus
-(worlds inside doors and eyes) and also parabola (which
-swallows whole of geometric space in its asymptote-less
-spread. There is no outside, like infinite ellipse. (Look
-at example Erica sent.))-->
-There is nothing here that
-Schopenhauer himself wouldn't credit to Kant. 
-<!-- Find Kant references, either from Kant or from
-Schopenhauer -->
+On this reasoning, the world we experience as outside us can
+only be *an experience* insofar as it lies inside us, in
+a relation to us that is given rather than gained.  This may
+seem to replace one paradox with another: for if the world
+does lie inside us in this sense, then why do we experience
+it as outside us? But the idea of world in this context
+might be thought to *explain* the outside rather than erase
+it, and similarly explain the meaning of being open. To
+borrow a line of thinking from Schopenhauer's great teacher
+Kant, we could say that our very awareness of an outside, and
+of being open to it, comes from a sense of being
+inside space---all of space at once.  (Open end of
+parabola infinitely far away?) It would 
+be hard, otherwise, to explain how I could think of prolonging
+the ends of the parabola to the edge of
+the geometric plane until they reached the edge of
+the geometric plat space, And if we cast
+this space in geometric terms, conceive
+this space geometrically, we can (World gets
+differentiated more specifically as we move forward.) It is
+this sense of space as a totality, a kind of world, that
+allows to think of prolonging the ends of a parabola to the
+very edge 
+
+-Perhaps extend argument for this.
+
+- Then move on to point about parabola.
+
+
+, all of space,  feeling 
+located *within* space rather than without. our very awareness of outside, and of
+being open to the outside, comes from a sense of being
+inside space.  that
+is given rather than composed, and that contains us.
+
+With Odysseus, for example, goes the world
+of hospitality that makes sense of his open door, leaving
+a gap once he is gone, perhaps for good. With Leontius,
+similarly, goes the world of discernment that makes sense
+of his open eyes, leaving a like gap once he too is gone,
+in losing mastery over his sight. We can even use
+the idea of world to explain our open jar of pickles,
+in this case the world of canning and preserving.
+
+- World allows door to be opened.
+
+- Make sense of pickles being canned (last), Leontius, Odyssesus,
+Parabola, and Kant on space (as one thing we are "in, but as 
+totality that allows me to talk of parabola)" but then
+move on to larger paradox in glass cage, great outdoors,
+philosophical reflection. es it seem to lie where how can
+something inside us be experienced outside us. we experience something as outside us if it really lies
+inside us? if the
+world lies inside us so far as we can experience it at all,
+why do we experience it as outside us? , in
+something like the way we can only relate to something
+else 
+
+a denial of openness that if it
+really lies inside us.at the dawning of philosophical
+discernment, Nor is Schopenhauer alone, among philosophers,
+in thinking that the world we experience as outside us is
+really inside us---a thought he credits here to the dawning
+of philosophical discernment. Schopenhauer's great teacher
+in this was Kant, who gives painstaking arguments for the
+same thought in his first Critique. Here is one example of
+his way of putting it: in his first Critique for why I can
+only mean the word "outside" for a domain "neitherhis
+seeming denial of openness. <!-- Use philosophical
+discernment bit to make transition to philosophy more
+generally. Then briefly explain how "world-inside-us" can
+account for Odysseus and Leontinus (worlds inside doors and
+eyes) and also parabola (which swallows whole of geometric
+space in its asymptote-less spread. There is no outside,
+like infinite ellipse. (Look at example Erica sent.))-->
+There is nothing here that Schopenhauer himself wouldn't
+credit to Kant. <!-- Find Kant references, either from Kant
+or from Schopenhauer. Also perhaps delay quoting of
+Meillassoux until after speaking of paradox of paradox. Also
+perhaps introduce Kant here, space outside but inside us,
+after Schopenhauer. Or alternative: quote Meillassoux, then
+go on to quote Kant. Also perhaps bring back earlier quote
+from Meillassoux book-->
+
 And every
 philosopher since Kant might be thought to have made the
 same denial, willing or no---at least if we accept the
@@ -289,7 +359,9 @@ on the other hand, the object is, in itself, pictorial,
 as we perceive it: image it is, but a self-existing
 image.
 
-
+    - Basic arc: From Aristotle to Descartes, move
+    from thinking as receptivity to thinking as
+    activity.
 
     - Note: openness indicates a threshold, from inside to
       outside, not just a continuity. (Perhaps senior oral
