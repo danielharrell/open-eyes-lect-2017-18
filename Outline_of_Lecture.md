@@ -8,11 +8,12 @@
 # Contents {#top}
 
 1. [Introduction](#intro)  
-1. [Part One: Paradox Introduced](#one)  
+1. [Part One: The Paradox Introduced](#one)  
 <!-- Renumber according to Pandoc -->
-    1. [The Jar](#jar)  
-    1. [The Parabola](#parabola)  
-    1. [The Problem More Generally](#problem)
+    1. [The Paradox of the Jar](#jar)  
+    1. [The Paradox of the Parabola](#parabola)  
+    1. [The Paradox More Generally](#problem)
+    1. [The Paradox of the Paradox](#paradox)
 1. [Part Two: Paradox Explored](#two)
 1. [Part Three: Paradox Resolved](#three)
 1. [Conclusion](#conclude)
@@ -20,7 +21,6 @@
 
 # Introduction {#intro}
 
-[Back to top](#top)
 <!--
 Try to incorporate the "Open" viewbook
 -->
@@ -75,11 +75,7 @@ in a second part; and try to resolve it in a final part.
 
 # Part One: Paradox introduced {#one}
 
-[Back to top](#top)
-
-## The jar {#jar}
-
-[Back to top](#top)
+## The paradox of the jar {#jar}
 
 To begin to see the paradox in openness, let me start
 with this question: What does it mean for a jar, say of
@@ -118,9 +114,7 @@ this barrier? In what sense can our jar be open at all?
 
 [Back to top](#top)
 
-## The parabola {#parabola}
-
-[Back to top](#top)
+## The paradox of the parabola {#parabola}
 
 Nor is this a paradox just for jars.  Consider an analogous
 case in geometry: [the
@@ -152,9 +146,7 @@ reach; as if openness had no being beyond seeming.
 
 [Back to top](#top)
 
-## The problem more generally {#problem}  
-
-[Back to top](#top)
+## The paradox more generally {#problem}  
 
 Nor is this a paradox just for jars and parabolas. Consider
 the open door we find in Homer's *Odyssey*, that allows the
@@ -169,21 +161,21 @@ remains intact, then, in cases of openness to be praised?
 And how does this *provide* an opening, even protect it,
 rather than preclude it?
 
-Or consider the phrase "open eyes" more generally. Perhaps
-we only mean our eyelids are open. But the phrase also 
-captures how we seem not to see *our eyes*, in normal cases of
-vision, but *through* our eyes, to a world beyond, as if our
-eyes were indeed open, even transparent. Still, it is not as
-if our eyes could be open like their eyelids, or a lidless
-jar, that allows the world in. For open eyes can be poked,
-injured, even blinded. So how again are they open? And if they
-are not like a lidless jar, then how *does* the world get
-in? 
+Or consider the phrase "open eyes" more generally. We might
+mean merely that our eyelids are open. But the phrase also
+captures how, in normal cases of vision, we seem to see not
+*our eyes*, but *through* our eyes, to a world beyond, as if
+our eyes were indeed open, even transparent. Still, it is
+not as if our eyes could be open like their eyelids, or
+a lidless jar, letting the world in. For open eyes can
+be poked, injured, even blinded. So how again are they open?
+And if they are not like a lidless jar, then how *does* the
+world get in? 
 
-Well, perhaps the world *doesn't* get in, at least if we
-conceive the eye like a *closed* jar, or *completed*
+But perhaps the world *doesn't* get in, if we
+now conceive the eye like a *closed* jar, or *completed*
 parabola, and once again call into question the very
-possibility of being open. And we could argue for this as the
+possibility of being open. We could argue for this as the
 philosopher Schopenhauer once did, when he wrote:
 
 <!-- Look up Payne translation for this -->
@@ -216,28 +208,105 @@ in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^6]
 
 On this reasoning, the world we experience as outside us can
-only be *an experience* insofar as it lies inside us, in
+only *be* experienced insofar as it lies inside us, in
 a relation to us that is given rather than gained.  This may
 seem to replace one paradox with another: for if the world
-does lie inside us in this sense, then why do we experience
-it as outside us? But the idea of world in this context
-might be thought to *explain* the outside rather than erase
-it, and similarly explain the meaning of being open. To
-borrow a line of thinking from Schopenhauer's great teacher
-Kant, we could say that our very awareness of an outside, and
+does lie inside us, in being experienced at all, then why do
+we experience it as outside us? But we might borrow a line
+of thinking from Kant, to whom Schopenhauer was indebted, to
+make sense of this. For take space to be like such a world.
+It is hard to see how it could lie inside of me, since
+I experience it as around me, or outside of me, as if I were
+inside of it. Yet I distinguish one part of space as outside
+another, and can occupy both in turn, as if I were really
+outside and never inside, at least so far as space allowed
+me to move: from part to part, one outside the next. So how,
+then, do I remain inside of space all the while? Where does
+my sense of being inside space come from?
+
+<!--The above thought could be clarified: because any
+part of space I occupy can also be a part of space I
+don't, and thus a part *outside* me, there is no
+sense to be made of my being *inside* space, save
+that all parts of space are *in* space.-->
+
+The answer, on this line of thought at least, is that it
+comes from me. That is, I have a sense of space that
+*contains* space to locate me inside it. And while I move
+from part to part, one outside the next, every such part is
+*in* space, thanks to my all-encompassing sense of it. Or to
+borrow Kant's term for it: I find myself inside space
+insofar as space is a form of sensibility. And perhaps we
+experience the world that way: as outside us, but *because*
+it lies inside us. Without a sense of the world that
+contains it, on this view, we would never find ourselves
+inside what we can then experience as outside us. And if
+this inside sense of world were ever lost, then also lost,
+perhaps, would be any sense of outside---at least so far as
+this outside might be reached from inside. Once Odysseus,
+for example, is no longer master of his door, a world of
+hospitality is lost; and now his door can open only one way:
+to let the suitors in. Or once Leontius is no longer master
+of his eyes, a world of discernment is lost; and now his
+eyes can open only one way: to let the corpses in.   
+
+[Back to top](#top)
+
+## The paradox of the paradox {#paradox}
+
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to ‘be able to be conscious of
+it’, it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get out. 7
+
+Meillassoux, Quentin (2009-11-05). After Finitude: An Essay on the Necessity of Contingency (p. 6). Bloomsbury Publishing. Kindle Edition. 
+
+In any case, the view I am trying to describe here,
+and that Schopenhauer credits to the dawning of
+philosophical discernment, is compelling enough to
+have persuaded. 
+still denies our openness to the world, in offering
+an ostensible account of it. offers an account of our openness to the world that denies it. and that
+Schopenhauer credits to the dawning of philosophical discernment,volves a compelling enough denial of openness to characterize
+philosophical thought since Kant. 
+This way of explaining openness denies it. 
+But the idea of world in this
+sense might be thought to *explain* the outside rather than
+erase it, and similarly explain the meaning of being open.
+Odysseus, for example, goes the
+world of hospitality that makes sense of his open door,
+leaving a gap once he is gone, perhaps for good. With
+Leontius, similarly, goes the world of discernment that
+makes sense of his open eyes, leaving a like gap once he too
+is gone, in losing mastery over his sight. We can even use
+the idea of world to explain our open jar of pickles, in
+this case the world of canning and preserving. 
+
+- Our very awareness of an outside, and
 of being open to it, comes from a sense of being
-inside space---all of space at once.  (Open end of
-parabola infinitely far away?) It would 
-be hard, otherwise, to explain how I could think of prolonging
-the ends of the parabola to the edge of
-the geometric plane until they reached the edge of
-the geometric plat space, And if we cast
-this space in geometric terms, conceive
-this space geometrically, we can (World gets
-differentiated more specifically as we move forward.) It is
-this sense of space as a totality, a kind of world, that
-allows to think of prolonging the ends of a parabola to the
-very edge 
+inside space---all of space at once.  
+
+- It would be hard, otherwise, to explain how I could think
+  of prolonging the ends of the parabola to the edge of the
+  geometric plane until they reached the edge of the
+  geometric plat space, And if we cast this space in
+  geometric terms, conceive this space geometrically, we can
+  (World gets differentiated more specifically as we move
+  forward.) It is this sense of space as a totality, a kind
+  of world, that allows to think of prolonging the ends of
+  a parabola to the very edge 
 
 -Perhaps extend argument for this.
 
@@ -250,14 +319,6 @@ being open to the outside, comes from a sense of being
 inside space.  that
 is given rather than composed, and that contains us.
 
-With Odysseus, for example, goes the world
-of hospitality that makes sense of his open door, leaving
-a gap once he is gone, perhaps for good. With Leontius,
-similarly, goes the world of discernment that makes sense
-of his open eyes, leaving a like gap once he too is gone,
-in losing mastery over his sight. We can even use
-the idea of world to explain our open jar of pickles,
-in this case the world of canning and preserving.
 
 - World allows door to be opened.
 
