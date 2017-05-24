@@ -40,13 +40,14 @@ in ways that range from the prosaic to the profound.
 The word "open," then, has great scope; this is one reason
 to wonder about it. Another reason is that the word is
 typically used without further explanation, as if its
-meaning were already understood. But if it is only
-a philosopher, as Aristotle once remarked, that would care
-about the difference between Socrates and Socrates sitting,
-then perhaps the difference between a door and an *open*
-door is a fitting subject for further thought.[^1] And while it
-would be rude to ask a friend what he meant after telling
-you his door is *always* open, well, what *did* he mean? 
+meaning were already understood. But if it is only a
+philosopher, to borrow a remark from Aristotle, that would
+care about the difference between Socrates and 
+Socrates sitting, then perhaps the difference between a door
+and an *open* door is a fitting subject for further
+thought.[^1] And while it would be rude to ask a friend what
+he meant after telling you his door is *always* open, well,
+what *did* he mean? 
 
 Still another reason to wonder about the word "open" comes
 from the way it is defined in dictionaries through negation.
@@ -66,9 +67,11 @@ generosity, enlightenment, love.
 But there is a final reason to wonder about the word "open",
 which brings me to my lecture tonight. For if we do consider
 openness a state of being, and try to make further sense of
-it, we quickly encounter a paradox. I will introduce this
-paradox in the first part of my lecture; explore it further
-in a second part; and try to resolve it in a final part.
+it, we quickly encounter a paradox. And this paradox will
+concern me in the first part of my lecture. Yet this first
+paradox leads to a second paradox, which will concern me in
+the second part of my lecture. And in a final part,
+I will try to resolve both paradoxes. 
 
 [Back to top](#top)
 
@@ -211,60 +214,65 @@ On this reasoning, the world we experience as outside us can
 only *be* experienced insofar as it lies inside us, in
 a relation to us that is given rather than gained.  This may
 seem to replace one paradox with another: for if the world
-does lie inside us, in being experienced at all, then why do
-we experience it as outside us? But we might borrow a line
-of thinking from Kant, to whom Schopenhauer was indebted, to
-make sense of this. Consider our experience of space. On the
-one hand, we distinguish one part of space as *outside*
-another, and can occupy both in turn. And in this sense, we
-might say, space forms a kind of outside for me, as I move
-from place to place. Yet it is also forms a kind of inside
-for me, and as a whole. For each part of space, even if
-outside every other part, is still *in* space, and I occupy
-a part not merely *at* that place, but *in*
-that place. But this raises a question. For where does
-my sense of being *inside* space come from, especially
-since it seems not to fix me there, but allows me
-movement through its parts? 
+does lie inside us so far as it is experienced at all, then
+why do we experience it as outside us? But we might borrow
+a line of thinking from Kant, to whom Schopenhauer was
+indebted, to make sense of this. Consider our experience of
+space. On the one hand, we distinguish one part of space as
+*outside* another, and can occupy both in turn. And in this
+respect, space forms a kind of outside for me, as I move
+from place to place and sense its extent. On the other hand,
+space also forms a kind of inside for me, as a whole. For
+each part of space, even if outside every other part, is
+still *in* space, and I occupy a part not merely *at* that
+place, but *in* that place. But where, then, does my sense
+of being *inside* space come from, especially since it seems
+not to fix me there, but allows me movement through its
+parts? 
 
-It is hard to see how it could lie inside of
-me, since I experience it as around me, or outside of me, as
-if I were inside of it. Yet I distinguish one part of space
-as outside another, and can occupy both in turn, as if
-I were really outside and never inside, at least so far as
-space allowed me to move: from part to part, one outside the
-next. So how, then, do I remain inside of space all the
-while? Where does my sense of being inside space come from?
+The answer, on this line of thought at least, is that my
+sense of being inside space comes from me. That is, I have
+a sense of space that *contains* space to locate me inside
+it. And thanks to my all-encompassing sense of it, every
+part of space is *in* space for me, even though every part
+is also *outside* every other part, and allows me movement
+through it. I find myself inside space, then, insofar as
+space is not just a mode of extension, or medium of
+mobility, but a form of sensibility---to borrow Kant's term
+for it. 
 
-<!--The above thought could be clarified: because any
-part of space I occupy can also be a part of space I
-don't, and thus a part *outside* me, there is no
-sense to be made of my being *inside* space, save
-that all parts of space are *in* space.-->
-
-The answer, on this line of thought at least, is that it
-comes from me. That is, I have a sense of space that
-*contains* space to locate me inside it. And while I move
-from part to part, one outside the next, every such part is
-*in* space, thanks to my all-encompassing sense of it. Or to
-borrow Kant's term for it: I find myself inside space
-insofar as space is a form of sensibility. And perhaps we
-experience the world that way: as outside us, but *because*
-it lies inside us. Without a sense of the world that
-contains it, on this view, we would never find ourselves
-inside what we can then experience as outside us. And if
+And perhaps we experience the world that way: as outside us,
+but *because* it lies inside us. On this view, we would
+never find ourselves inside what we can then experience as
+outside us, unless we possessed a sense of the world that
+contains it, a sense of it that is all-encompassing. And if
 this inside sense of world were ever lost, then also lost,
-perhaps, would be any sense of outside---at least so far as
+perhaps, would be any sense of the outside---at least so far as
 this outside might be reached from inside. Once Odysseus,
-for example, is no longer master of his door, a world of
+for example, is no longer master of his door, we could say a world of
 hospitality is lost; and now his door can open only one way:
 to let the suitors in. Or once Leontius is no longer master
-of his eyes, a world of discernment is lost; and now his
+of his eyes, we could say a world of discernment is lost; and now his
 eyes can open only one way: to let the corpses in.   
+
+<!-- Perhaps also mention open jar and parabola here (which
+swallows whole of geometric space in its asymptote-less
+spread. There is no outside, like infinite ellipse. (Look at
+example Erica sent.)) Jar of pickles: World of canning
+and preserving.-->
 
 [Back to top](#top)
 
 ## The paradox of the paradox {#paradox}
+
+Still, while this sort of account may explain openness, it
+does so, again, in a kind of denial. The world never gets in
+because it is already there, behind open eyes, as if they
+were indeed like a closed jar, or completed parabola, that
+already *contained* what they saw in order to see it. We are
+paradoxically enclosed in openness on this account:
+a predicament captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
 
 > Everything is inside because in order to think anything
 whatsoever, it is necessary to ‘be able to be conscious of
@@ -281,102 +289,14 @@ speak about the thing. Consequently, consciousness and
 language enclose the world within themselves only insofar
 as, conversely, they are entirely contained by it. We are in
 consciousness or language as in a transparent cage.
-Everything is outside, yet it is impossible to get out. 7
+Everything is outside, yet it is impossible to get out.[^7]
 
-Meillassoux, Quentin (2009-11-05). After Finitude: An Essay on the Necessity of Contingency (p. 6). Bloomsbury Publishing. Kindle Edition. 
-
-In any case, the view I am trying to describe here,
-and that Schopenhauer credits to the dawning of
-philosophical discernment, is compelling enough to
-have persuaded. 
-still denies our openness to the world, in offering
-an ostensible account of it. offers an account of our openness to the world that denies it. and that
-Schopenhauer credits to the dawning of philosophical discernment,volves a compelling enough denial of openness to characterize
-philosophical thought since Kant. 
-This way of explaining openness denies it. 
-But the idea of world in this
-sense might be thought to *explain* the outside rather than
-erase it, and similarly explain the meaning of being open.
-Odysseus, for example, goes the
-world of hospitality that makes sense of his open door,
-leaving a gap once he is gone, perhaps for good. With
-Leontius, similarly, goes the world of discernment that
-makes sense of his open eyes, leaving a like gap once he too
-is gone, in losing mastery over his sight. We can even use
-the idea of world to explain our open jar of pickles, in
-this case the world of canning and preserving. 
-
-- Our very awareness of an outside, and
-of being open to it, comes from a sense of being
-inside space---all of space at once.  
-
-- It would be hard, otherwise, to explain how I could think
-  of prolonging the ends of the parabola to the edge of the
-  geometric plane until they reached the edge of the
-  geometric plat space, And if we cast this space in
-  geometric terms, conceive this space geometrically, we can
-  (World gets differentiated more specifically as we move
-  forward.) It is this sense of space as a totality, a kind
-  of world, that allows to think of prolonging the ends of
-  a parabola to the very edge 
-
--Perhaps extend argument for this.
-
-- Then move on to point about parabola.
-
-
-, all of space,  feeling 
-located *within* space rather than without. our very awareness of outside, and of
-being open to the outside, comes from a sense of being
-inside space.  that
-is given rather than composed, and that contains us.
-
-
-- World allows door to be opened.
-
-- Make sense of pickles being canned (last), Leontius, Odyssesus,
-Parabola, and Kant on space (as one thing we are "in, but as 
-totality that allows me to talk of parabola)" but then
-move on to larger paradox in glass cage, great outdoors,
-philosophical reflection. es it seem to lie where how can
-something inside us be experienced outside us. we experience something as outside us if it really lies
-inside us? if the
-world lies inside us so far as we can experience it at all,
-why do we experience it as outside us? , in
-something like the way we can only relate to something
-else 
-
-a denial of openness that if it
-really lies inside us.at the dawning of philosophical
-discernment, Nor is Schopenhauer alone, among philosophers,
-in thinking that the world we experience as outside us is
-really inside us---a thought he credits here to the dawning
-of philosophical discernment. Schopenhauer's great teacher
-in this was Kant, who gives painstaking arguments for the
-same thought in his first Critique. Here is one example of
-his way of putting it: in his first Critique for why I can
-only mean the word "outside" for a domain "neitherhis
-seeming denial of openness. <!-- Use philosophical
-discernment bit to make transition to philosophy more
-generally. Then briefly explain how "world-inside-us" can
-account for Odysseus and Leontinus (worlds inside doors and
-eyes) and also parabola (which swallows whole of geometric
-space in its asymptote-less spread. There is no outside,
-like infinite ellipse. (Look at example Erica sent.))-->
-There is nothing here that Schopenhauer himself wouldn't
-credit to Kant. <!-- Find Kant references, either from Kant
-or from Schopenhauer. Also perhaps delay quoting of
-Meillassoux until after speaking of paradox of paradox. Also
-perhaps introduce Kant here, space outside but inside us,
-after Schopenhauer. Or alternative: quote Meillassoux, then
-go on to quote Kant. Also perhaps bring back earlier quote
-from Meillassoux book-->
-
-And every
-philosopher since Kant might be thought to have made the
-same denial, willing or no---at least if we accept the
-suggestion recently made by Quentin Meillassoux, about
-what philosophy has lost since Kant:  
+Wolff puts this predicament in the terms and tone
+of a fact. Yet it is unsettling enough, and dependent enough
+on what Schopenhauer called the dawning of philosophical
+discernment, to wonder about. Another contemporary
+philosopher, Quentin Meillassoux, has suggested this about
+the predicament:
 
 > For it could be that contemporary philosophers have lost
 the *great outdoors*, the *absolute* outside of pre-critical
@@ -385,27 +305,17 @@ which was given as indifferent to its own givenness to be
 what it is, existing in itself regardless of whether we are
 thinking of it or not; that outside which thought could
 explore with the legitimate feeling of being on foreign
-territory – of being entirely elsewhere. 
+territory---of being entirely elsewhere.[^Meillassoux]
 
-- To conclude this section
+On this suggestion, as we might read it to counter
+Schopenhauer, at the dawning of philosophical discernment
+there is an embrace of openness, which is only denied, or
+lost, in further development. But this introduces another
+paradox. For if it is only a philosopher who would care
+about the difference between a door and an *open* door, why
+might it also be only a philosopher who would care to shut
+the door for good? This second paradox leads me to part two. 
 
-    - Point out that it is philosophical reflection
-    that allows us to reflect on openness, but also
-    philosophical reflection that issues in its denial.
-
-        - Philosophy has a power to wonder about openness,
-	but an impotence to save it.
-    
-        - This is a kind of paradox about the paradox.
-
-    - Also, the denial is about our most common experience
-    of openness in perception and being-in-the-world. 
-    
-    - So why is this? A question that leads me to explore
-    the issue further in part 2. 
-
-    - Perhaps also mention that the problem is broader than
-    "post-Kantian" philosophy.
 
 # Part Two: Paradox explored {#two}
 
@@ -916,3 +826,7 @@ Schopenhauer, Arthur (2012-09-20). Schopenhauer:
 On the Fourfold Root of the Principle of Sufficient Reason and Other Writings: 4 (The Cambridge Edition of the Works of Schopenhauer) (p. 54). Cambridge University Press. Kindle Edition. 
 
 [^6]: Schopenhauer, World as Will and Representation (Dover, Payne), 2.
+
+[^7]: Meillassoux, Quentin (2009-11-05). After Finitude: An Essay on the Necessity of Contingency (p. 6). Bloomsbury Publishing. Kindle Edition. 
+
+[^Meillassoux]: Meillassoux, p. 8.
