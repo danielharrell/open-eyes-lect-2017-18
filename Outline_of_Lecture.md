@@ -214,15 +214,27 @@ seem to replace one paradox with another: for if the world
 does lie inside us, in being experienced at all, then why do
 we experience it as outside us? But we might borrow a line
 of thinking from Kant, to whom Schopenhauer was indebted, to
-make sense of this. For take space to be like such a world.
-It is hard to see how it could lie inside of me, since
-I experience it as around me, or outside of me, as if I were
-inside of it. Yet I distinguish one part of space as outside
-another, and can occupy both in turn, as if I were really
-outside and never inside, at least so far as space allowed
-me to move: from part to part, one outside the next. So how,
-then, do I remain inside of space all the while? Where does
-my sense of being inside space come from?
+make sense of this. Consider our experience of space. On the
+one hand, we distinguish one part of space as *outside*
+another, and can occupy both in turn. And in this sense, we
+might say, space forms a kind of outside for me, as I move
+from place to place. Yet it is also forms a kind of inside
+for me, and as a whole. For each part of space, even if
+outside every other part, is still *in* space, and I occupy
+a part not merely *at* that place, but *in*
+that place. But this raises a question. For where does
+my sense of being *inside* space come from, especially
+since it seems not to fix me there, but allows me
+movement through its parts? 
+
+It is hard to see how it could lie inside of
+me, since I experience it as around me, or outside of me, as
+if I were inside of it. Yet I distinguish one part of space
+as outside another, and can occupy both in turn, as if
+I were really outside and never inside, at least so far as
+space allowed me to move: from part to part, one outside the
+next. So how, then, do I remain inside of space all the
+while? Where does my sense of being inside space come from?
 
 <!--The above thought could be clarified: because any
 part of space I occupy can also be a part of space I
