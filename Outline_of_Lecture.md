@@ -2,6 +2,8 @@
 % Daniel Harrell
 % March 2018
 
+- Alternative title: "Open"
+
 [Copy of lecture in HTML](https://www.dropbox.com/s/d1zo3s7hevyz5x5/Outline_of_Lecture.html?dl=0)  
 [Copy of lecture in PDF](https://www.dropbox.com/s/elqz5wxxi2r3fmh/Outline_of_Lecture.pdf?dl=0)
 
@@ -37,12 +39,27 @@ in ways that range from the prosaic to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-The word "open," then, has great scope; this is one reason
-to wonder about it. Another reason is that the word is
+This, then, is one reason
+to wonder about the word, for *why* does it have such scope?
+
+    - Answer to give later: it has this scope because it
+    is one way to characterize our condition in the world.
+
+Another reason to wonder about the word is that it is
 typically used without further explanation, as if its
-meaning were already understood. But if it is only a
-philosopher, to borrow a remark from Aristotle, that would
-care about the difference between Socrates and 
+meaning were already understood. Why is this?
+
+    - Note here: I could use the St. John's viewbook to
+    illustrate this: "Open", alone on the cover, is not
+    just an imperative to open the book, but has a nominative
+    power of suggestion as well.
+
+    - Answer to give later: this is another sign that our
+    condition in the world is one of openness.
+
+And if it were only a
+philosopher, as Aristotle once remarked, who cared
+about the difference between Socrates and 
 Socrates sitting, then perhaps the difference between a door
 and an *open* door is a fitting subject for further
 thought.[^1] And while it would be rude to ask a friend what
