@@ -39,8 +39,8 @@ in ways that range from the prosaic to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This, then, is one reason
-to wonder about the word, for *why* does it have such scope?
+This, then, is one reason to wonder about the word, for
+*why* does it have such scope?
 
     - Answer to give later: it has this scope because it
     is one way to characterize our condition in the world.
@@ -57,80 +57,99 @@ meaning were already understood. Why is this?
     - Answer to give later: this is another sign that our
     condition in the world is one of openness.
 
-And if it were only a
-philosopher, as Aristotle once remarked, who cared
-about the difference between Socrates and 
-Socrates sitting, then perhaps the difference between a door
-and an *open* door is a fitting subject for further
-thought.[^1] And while it would be rude to ask a friend what
-he meant after telling you his door is *always* open, well,
-what *did* he mean? 
+And a meaning already understood is perhaps a good sign of
+something better understood. Who if not the
+philosopher, so Aristotle once asked, would care about the
+difference between Socrates and Socrates sitting? Or, we
+could add, between a door and an *open* door?---which may
+then be a fitting subject for further thought.[^Socrates]
+And while it would be rude to ask a friend what he meant
+when he told you his door is *always* open, well, what *did*
+he mean? 
+
+    - In my further revision of  this part, I will introduce
+      philosophy in relation to the paradox. Then go on to
+      show how philosophy in a sense turns on itself in
+      a denial of openness.
 
 Still another reason to wonder about the word "open" comes
-from the way it is defined in dictionaries through negation.
-To be open means *not* to be closed. Or blocked. Or covered.
-Or fastened. Or sealed. Or buttoned. Or guarded. Or
-protected. Or folded. Or clenched. Or concealed. Or
-constipated.[^2] This may be enough definition for everyday use.
-But what then about those profounder moments of speech, when
-we talk of *eyes* being opened, or hearts, or minds, or
-again the proverbial door, always open to you? Here, it
+from the way it is defined in dictionaries, largely through
+negation. To be open means *not* to be closed. Or blocked.
+Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
+Or protected. Or folded. Or clenched. Or concealed. Or
+constipated.[^Dictionary] This may be enough definition for everyday
+use. But what then about those profounder moments of speech,
+when we talk of *eyes* being opened, or hearts, or minds, or
+again the proverbial door, always open to a friend? Here, it
 seems, we use the word "open" for a positive condition,
 a state of being, which any negative definition at best only
 half-comprehends. And to ask about the meaning of "open" in
-this affirmative sense is to ask about the meaning of hospitality,
-generosity, enlightenment, love. 
+this affirmative sense is to ask about the meaning of
+hospitality, generosity, enlightenment, love. 
 
-But there is a final reason to wonder about the word "open",
-which brings me to my lecture tonight. For if we do consider
-openness a state of being, and try to make further sense of
-it, we quickly encounter a paradox. And this paradox will
-concern me in the first part of my lecture. Yet this first
-paradox leads to a second paradox, which will concern me in
-the second part of my lecture. And in a final part,
-I will try to resolve both paradoxes. 
+Consider, too, how we can speak of our eyes being open
+rather than closed, to express the difference being being
+awake and being asleep. But why not say this merely of our
+eyelids? To say it of our eyes seems to capture how we
+somehow see *through* our eyes, to a whole world beyond. 
+To ask about the meaning of "open" in this sense, then, is
+to ask about the meaning of awareness. And awareness is
+arguably not just one state of being, but *our* state of
+being, the one that underlies all the others, and that helps
+explain, perhaps, why we use the word "open"
+with such great scope, and as if it were already
+understood.
 
 [Back to top](#top)
 
-
 # Part One: Paradox introduced {#one}
+
+Still, our reliance on negation to show that understanding
+suggests there is something here either *not* understood, or
+better understood. And there is indeed something puzzling
+about the meaning of "open", even paradoxical, that seems
+obscured, even hidden, if we take "open" to mean merely "not
+closed."  
+
+    - In above paragraph, change "paradox" language to
+    "possibility": the very possibility of being open.
 
 ## The paradox of the jar {#jar}
 
-To begin to see the paradox in openness, let me start
-with this question: What does it mean for a jar, say of
-pickles, to be opened?
+As a first example of the paradox, suppose I did say "I
+can't get the jar open"---about a stubborn jar of pickles. What would
+it mean to get the jar opened? 
 
-A first answer, a dictionary answer, might be: for the lid
-of the jar to be removed. 
+A first answer, a dictionary answer, might be: to get
+the lid off.  
 
-But why the lid? Suppose I decide not to bother
-with the lid, and throw the jar to the ground,
-breaking it open. Why is this not simply another way of
-opening the jar? Why do we call it a breaking-open
-rather than a merely-open?
+But why the lid? Suppose I decided not to bother with the
+lid, and threw the jar to the ground, in a fit of
+frustration, breaking it open. Why is this not simply
+another way of opening the jar? Why would we want to say
+instead that I *broke* the jar open? 
 
 Well, when we say the jar is opened, it seems we want the
 jar to remain a jar: something opened without being broken.
 Or to put the point more abstractly: we want the word
-"opened" to mean that the barrier between the
-jar's inside and outside has been removed, without the
-difference between inside and outside being erased. Or
-still more abstractly: we want the word "open" to mean 
-that there is continuity, yet at the same time
-distinctness, between inside and outside.
+"opened" to mean that the barrier between the jar's inside
+and outside has been removed, without the difference between
+inside and outside being erased. Or still more abstractly:
+we want the word "open" to mean that there is continuity,
+yet at the same time distinctness, or discontinuity, between
+inside and outside.
 
 But this, then, is the paradox. For how can there be
-continuity between inside and outside, yet at the same time
-distinctness, or discontinuity? Without the lid to separate
-them, how is the jar's inside indeed inside, and not
-outside? After all, if we leave the jar of pickles open,
-they will sooner or later spoil---as if the jar's inside
-were indeed outside, and there were no real difference between
-an open jar and a broken jar; no real distinction between
-inside and outside once the barrier between them has been
-removed. So what makes the distinction real without
-this barrier? In what sense can our jar be open at all? 
+continuity and discontinuity at once?
+How, in this case, is the jar's inside still inside, and not outside, once
+the lid is removed? After all, if we leave the jar of
+pickles open, they will sooner or later spoil---as if the
+jar's inside were now outside, and there were no real
+difference between an open jar and a broken jar; no real
+difference between inside and outside, once the barrier
+between them has been removed. So what makes the difference 
+real without this barrier? In what sense can our jar be open
+at all? 
 
 [Back to top](#top)
 
@@ -812,7 +831,7 @@ direction, without end.
 
 [Back to top](#top)
 
-[^1]: "...it is the function of the philosopher to be able
+[^Socrates]: "...it is the function of the philosopher to be able
 to investigate all things. For if it is not the function of
 the philosopher, who is it who will inquire whether Socrates
 and Socrates seated are the same thing, or whether one thing
@@ -820,7 +839,7 @@ has one contrary, or what contrariety is, or how many
 meanings it has? And similarly with all other such
 questions." (Book IV, Part 2, *Metaphysics*)
 
-[^2]: See, for example, the [Merriam Webster
+[^Dictionary]: See, for example, the [Merriam Webster
 entry](https://www.merriam-webster.com/dictionary/open) for
 "open". 
 
