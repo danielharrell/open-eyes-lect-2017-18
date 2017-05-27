@@ -42,30 +42,24 @@ in ways that range from the prosaic to the profound.
 This, then, is one reason to wonder about the word, for
 *why* does it have such scope?
 
-    - Answer to give later: it has this scope because it
-    is one way to characterize our condition in the world.
-
 Another reason to wonder about the word is that it is
 typically used without further explanation, as if its
-meaning were already understood. Why is this?
+meaning were already understood. But why is this?
 
     - Note here: I could use the St. John's viewbook to
     illustrate this: "Open", alone on the cover, is not
     just an imperative to open the book, but has a nominative
     power of suggestion as well.
 
-    - Answer to give later: this is another sign that our
-    condition in the world is one of openness.
-
-And a meaning already understood is perhaps a good sign of
-something better understood. Who if not the
-philosopher, so Aristotle once asked, would care about the
-difference between Socrates and Socrates sitting? Or, we
-could add, between a door and an *open* door?---which may
-then be a fitting subject for further thought.[^Socrates]
-And while it would be rude to ask a friend what he meant
-when he told you his door is *always* open, well, what *did*
-he mean? 
+And a meaning already understood is perhaps a sign of
+something not understood. Who if not the philosopher, so
+Aristotle once asked, would care about the difference
+between Socrates and Socrates sitting?[^Socrates] Or the
+difference, so we might add, between a door and an *open*
+door? The way we use "open" without further thought may then
+make it worth further thought. And while it would be rude to
+ask a friend what he meant when he told you his door is
+*always* open, well, what *did* he mean? 
 
     - In my further revision of  this part, I will introduce
       philosophy in relation to the paradox. Then go on to
@@ -73,52 +67,46 @@ he mean?
       a denial of openness.
 
 Still another reason to wonder about the word "open" comes
-from the way it is defined in dictionaries, largely through
-negation. To be open means *not* to be closed. Or blocked.
-Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
-Or protected. Or folded. Or clenched. Or concealed. Or
-constipated.[^Dictionary] This may be enough definition for everyday
-use. But what then about those profounder moments of speech,
-when we talk of *eyes* being opened, or hearts, or minds, or
-again the proverbial door, always open to a friend? Here, it
-seems, we use the word "open" for a positive condition,
-a state of being, which any negative definition at best only
-half-comprehends. And to ask about the meaning of "open" in
-this affirmative sense is to ask about the meaning of
-hospitality, generosity, enlightenment, love. 
+from the way it gets defined in dictionaries, largely
+through negation. To be open means *not* to be closed. Or
+blocked. Or covered. Or fastened. Or sealed. Or buttoned. Or
+guarded. Or protected. Or folded. Or clenched. Or concealed.
+Or constipated.[^Dictionary] This may be enough definition
+for everyday use. But what, then, about those profounder
+moments of speech, when we talk of *eyes* being opened, or
+hearts, or minds, or again the proverbial door, always open
+to a friend? Here, it seems, we use the word "open" for
+a positive condition, a way of being, which any negative
+definition at best only half-comprehends. And to ask about
+the meaning of "open" in this affirmative sense is to ask
+about the meaning of hospitality, generosity, enlightenment,
+love. 
 
-Consider, too, how we can speak of our eyes being open
+Nor are these the only states of being expressed by the word
+"open." Think of how we can speak of our eyes being open
 rather than closed, to express the difference being being
-awake and being asleep. But why not say this merely of our
-eyelids? To say it of our eyes seems to capture how we
-somehow see *through* our eyes, to a whole world beyond. 
-To ask about the meaning of "open" in this sense, then, is
-to ask about the meaning of awareness. And awareness is
-arguably not just one state of being, but *our* state of
+awake and being asleep. But why say this of our eyes, and
+not merely our eyelids? It seems to capture how we somehow
+see *through* our eyes, to a whole world beyond---as if our
+eyes *were* open, even transparent.  To ask about the
+meaning of "open" in this sense, then, is to ask about the
+meaning of wakefulness, alertness, awareness. And awareness
+is arguably not just one way of being, but *our* way of
 being, the one that underlies all the others, and that helps
-explain, perhaps, why we use the word "open"
-with such great scope, and as if it were already
-understood.
+explain why we use the word "open" with such great
+scope, and as if it were already understood.
 
 [Back to top](#top)
 
 # Part One: Paradox introduced {#one}
 
-Still, our reliance on negation to show that understanding
-suggests there is something here either *not* understood, or
-better understood. And there is indeed something puzzling
-about the meaning of "open", even paradoxical, that seems
-obscured, even hidden, if we take "open" to mean merely "not
-closed."  
-
-    - In above paragraph, change "paradox" language to
-    "possibility": the very possibility of being open.
-
 ## The paradox of the jar {#jar}
 
-As a first example of the paradox, suppose I did say "I
-can't get the jar open"---about a stubborn jar of pickles. What would
-it mean to get the jar opened? 
+Still, our reliance on negation to show that understanding
+suggests there is something here either *not* understood, or
+better understood. Suppose, for example, I did say "I can't
+get the jar open"---about a stubborn jar of pickles. What
+*would* it mean to get the jar opened? 
 
 A first answer, a dictionary answer, might be: to get
 the lid off.  
@@ -139,53 +127,71 @@ we want the word "open" to mean that there is continuity,
 yet at the same time distinctness, or discontinuity, between
 inside and outside.
 
-But this, then, is the paradox. For how can there be
-continuity and discontinuity at once?
-How, in this case, is the jar's inside still inside, and not outside, once
-the lid is removed? After all, if we leave the jar of
+But this, then, is puzzling, even paradoxical. For how can
+there be continuity and discontinuity at once? How, in this
+case, is the jar's inside still inside, and not outside,
+once the lid is removed? After all, if we leave the jar of
 pickles open, they will sooner or later spoil---as if the
 jar's inside were now outside, and there were no real
 difference between an open jar and a broken jar; no real
 difference between inside and outside, once the barrier
-between them has been removed. So what makes the difference 
+between them has been removed. So what makes the difference
 real without this barrier? In what sense can our jar be open
 at all? 
+
+From this example, then, it can start to look as if what we
+don't understand, in our use of the word "open", is how
+being open is even possible. 
 
 [Back to top](#top)
 
 ## The paradox of the parabola {#parabola}
 
-Nor is this a paradox just for jars.  Consider an analogous
-case in geometry: [the
+And this isn't the only such example. Consider---at the
+opposite end of jars, so to speak---an example from
+geometry: [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 <!-- Spell out paradox explicitly in terms of continuity and
 discontinuity in parabola --> It is easy enough to
 distinguish the sides of this line, one convex and one
-concave, since the parabola is curved. But suppose we went
-further, and said that the convex side is "inside" the
-parabola, and the concave side "outside," as if the line of
-the parabola formed a figure, analogous to the ellipse, only
-open rather than closed. But the analogy holds, it seems,
-only so far as the ends of the parabola are extended past
-any point in the geometric plane, in order to tell,
-unequivocally, where that point will lie in relation to the
-parabola: on its convex side; on its concave side; or on the
-parabola itself. Yet once we extend the ends of the parabola
-this far---to the very edge, as it were, of geometric
-space---there will be no way to get from outside in, or
-inside out, through the parabola's open end; for this is now
-infinitely far away. So again we encounter the paradox. For
-in what sense can our parabola be open at all? It seems that
-the only way to distinguish inside from outside clearly,
+concave, since the parabola is curved. And tempting enough
+to go a step further, conceiving the convex side as "inside"
+the parabola, and the concave side as "outside," as if the
+line of the parabola formed a figure, analogous to the
+ellipse, only open rather than closed. But if this line
+remains finite, and the parabola's open end stops somewhere
+in space to allow entrance or exit, we could well ask the
+same question we had about the open pickle jar. For why is
+the parabola's so-called inside truly inside, and not
+outside? What makes it more than merely the convex side of
+a finite curved line? <!--Transition should be: this is
+parasitic on the parabola's prolongation--> Of course we
+might conceive the curved line as infinite in length, and
+our parabola will now have a true inside---but in just the
+way, it seems, that our pickle jar possessed one when it was
+closed.  For there will be no way to get from outside in, or
+inside out, through the parabola's open end, since this is
+now infinitely far away. So in what sense can our parabola
+be open at all? 
+
+And from *this* example, then, it can start to look as if
+the reason we don't understand, in our use of the word
+"open", how being open is even possible---is because it
+*isn't* possible. It can start to look, that is, as if the
+only way to distinguish inside from outside clearly,
 distinctly, truly, is by a barrier to openness---even when
-the barrier in this case never closes upon itself: the open
-end of the parabola that we can plainly see, but never
-reach; as if openness had no being beyond seeming. 
+the barrier never closes upon itself, like the open end of
+a parabola, which we can plainly see, but never reach; as
+if openness had no being beyond seeming. 
 
 
 [Back to top](#top)
 
 ## The paradox more generally {#problem}  
+
+- In this section begin with point that perhaps openness is
+parasitic on our states of being. (Ways of being.) And perhaps
+later conclude it's like an optical illusion.
 
 Nor is this a paradox just for jars and parabolas. Consider
 the open door we find in Homer's *Odyssey*, that allows the
