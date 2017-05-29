@@ -194,20 +194,21 @@ way our eyes are open more generally, if figuratively, as we
 see *through* them, to a whole world beyond. Yet it is not as if
 our eyes could be open like eyelids, or a lidless jar,
 letting the world in. For open eyes can be poked, injured,
-even blinded. Nor do our eyes risk being spoiled by what
-they are open to; the world in this sense is indeed seen
-rather than suffered. Yet if our eyes, then, are then *not*
-like a lidless jar when open, then what *are* they like, and
-how *does* the world get in? 
+even blinded. Yet if our eyes are *not*
+like a lidless jar, then 
+how *does* the world get in?
 
-<!-- Perhaps put the world above here, as an effect rather
-than cause--> 
-
-Or perhaps the world *doesn't* get in, if we now conceive
-our eyes like a *closed* jar, or *completed* parabola, and
-once again call into question the very possibility of being
-open. We could argue for this as the philosopher
-Schopenhauer once did, when he wrote:
+Or *does* it get in? For unlike the way the world gets into
+a pickle jar, to *spoil* what's inside, the world gets into
+our eyes, we might say, to *make* what's inside, as if our
+eyes *contained* the world it was open to, in order to see
+it and not merely suffer it. But if our eyes contain the
+world in this sense, perhaps they are better compared to
+a *closed* jar, or *completed* parabola, where the world
+*never* gets in, being somehow already there.  
+ 
+We could argue for this as the philosopher Schopenhauer once
+did, when he wrote:
 
 <!-- Look up Payne translation for this -->
 
