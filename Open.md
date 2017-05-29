@@ -109,7 +109,7 @@ guide me in my lecture tonight: how is being open possible?
 If we take this question seriously, then just about every
 case of being open can start to look like a case of being
 closed---our own way of being open, most of all. But to begin
-with something smaller, suppose I say "I can't get the jar
+with a simpler case, suppose I say "I can't get the jar
 open"---about a stubborn jar of pickles. What *would* it
 mean to get the jar opened? 
 
@@ -145,9 +145,8 @@ enough to close the jar, but impossible to open it.
 
 ---
 
-Or now consider an example at the opposite end of pickle
-jars, in coming from geometry: [the
-parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
+Or now consider an example at the opposite end of a pickle
+jar: [the parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 <!-- Spell out paradox explicitly in terms of continuity and
 discontinuity in parabola --> We can readily distinguish the
 sides of this line, one convex and one concave, since the
@@ -173,36 +172,42 @@ being open were just an appearance.
 
 ---
 
-And once we turn to the ways we ourselves are open, this
-appearance can start to look like an illusion. (Mention
-that this will start a longer argument.) There is an
-open door in Homer's *Odyssey*, for example, but it allows
-the suitors of Penelope to fill the house of Odysseus in his
-absence, in the *abuse* of hospitality. Or the open eyes of
-Leontius in Plato's *Republic*, that allow the spectacle of
-corpses to fill his gaze, to his own contempt, in a similar
-abuse of sight.[^3] Both examples suggest there are cases of
-openness to be condemned, where something between inside and
-outside has been broken.  So what is it that remains intact,
-in cases of openness to be praised? And how does this
-*provide* an opening, even protect it, rather than preclude
-it?
+And this appearance can start to look like an illusion, once
+we turn to our own ways of being open, and can make deeper
+sense of them as ways of being closed. For example, while we
+speak of open doors and open eyes as if these were virtues,
+we could also speak of them as vices. Recall the open door
+in Homer's *Odyssey*, that allows the suitors of Penelope to
+fill the house of Odysseus in his absence, in the *abuse* of
+hospitality. Or the open eyes of Leontius in Plato's
+*Republic*, that allow the spectacle of corpses to fill his
+gaze, to his own contempt, in a similar abuse of sight.[^3]
+Both examples suggest there are cases of openness to be
+condemned, where something between outside and inside has
+been broken. So what is it that remains intact, in cases of
+openness to be praised? And so far as it does remain intact,
+why call these cases of being open, rather than cases of
+being closed?  
 
-Or recall the phrase "open eyes" more generally, as
-we use it to speak not of our eyelids but indeed our eyes,
-seeing *through* them to a world beyond. Still, it is not
-as if our eyes could be open like eyelids, or
-a lidless jar, letting the world in. For open eyes can be
-poked, injured, even blinded. So how again are they open?
-And if they are not like a lidless jar, then how *does* the
-world get in? 
+To press the question, we might turn next, and again, to the
+way our eyes are open more generally, if figuratively, as we
+see *through* them, to a whole world beyond. Yet it is not as if
+our eyes could be open like eyelids, or a lidless jar,
+letting the world in. For open eyes can be poked, injured,
+even blinded. Nor do our eyes risk being spoiled by what
+they are open to; the world in this sense is indeed seen
+rather than suffered. Yet if our eyes, then, are then *not*
+like a lidless jar when open, then what *are* they like, and
+how *does* the world get in? 
 
-But perhaps 
-the world *doesn't* get in, if we
-now conceive our eyes like a *closed* jar, or *completed*
-parabola, and once again call into question the very
-possibility of being open. We could argue for this as the
-philosopher Schopenhauer once did, when he wrote:
+<!-- Perhaps put the world above here, as an effect rather
+than cause--> 
+
+Or perhaps the world *doesn't* get in, if we now conceive
+our eyes like a *closed* jar, or *completed* parabola, and
+once again call into question the very possibility of being
+open. We could argue for this as the philosopher
+Schopenhauer once did, when he wrote:
 
 <!-- Look up Payne translation for this -->
 
