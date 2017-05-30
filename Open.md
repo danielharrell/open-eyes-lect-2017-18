@@ -38,8 +38,8 @@ in ways that range from the prosaic to the profound.
 This, then, is one reason to wonder about the word, for
 *why* does it have such scope?
 
-Another reason to wonder about the word is that it is
-typically used without further explanation, as if its
+Another reason to wonder is that the word is
+usually used without further explanation, as if its
 meaning were already understood. But if so, *how* is it
 already understood?
 
@@ -48,57 +48,55 @@ already understood?
    an imperative to open the book, but has a nominative
    power of suggestion as well.-->
 
-And perhaps this is a sign of
-something better understood. Who if not the philosopher, so
-Aristotle once asked, would care about the difference
-between Socrates and Socrates sitting?[^Socrates] Or the
-difference, we could add, between a door and an *open*
-door? The way we use "open" without further thought may then
-make it worth further thought. And while it would be rude to
-ask a friend what he meant when he told you his door is
-*always* open, well, what *did* he mean? 
+And perhaps this is a sign of something better understood.
+Who if not the philosopher, so Aristotle once asked, would
+care about the difference between Socrates and Socrates
+sitting?[^Socrates] Or the difference, we could add, between
+a door and an *open* door? The way we use "open" without
+further thought may then make it worth further thought. And
+while it would be rude to ask a friend what he meant when he
+told you his door is *always* open, well, what *did* he
+mean? 
 
    <!-- In my further revision of  this part, I will
    introduce philosophy in relation to the paradox. Then go
    on to show how philosophy in a sense turns on itself in
    a denial of openness.-->
 
-Still another reason to wonder about the word "open",
-and to think it could be better understood, comes
-from the way we define it in dictionaries, largely
-through negation. To be open means *not* to be closed. Or
-blocked. Or covered. Or fastened. Or sealed. Or buttoned. Or
-guarded. Or protected. Or folded. Or clenched. Or concealed.
-Or constipated.[^Dictionary] This may be enough definition
-for everyday use. But what, then, about those 
-deeper moments of speech, when we talk of *eyes* being opened, or
-hearts, or minds, or again the proverbial door, always open
-to a friend? Here, it seems, we use the word "open" for
+Still another reason to wonder about the word "open", and to
+think it could be better understood, comes from the way we
+define it in dictionaries, largely through negation. To be
+open means *not* to be closed. Or blocked. Or covered. Or
+fastened. Or sealed. Or buttoned. Or guarded. Or protected.
+Or folded. Or clenched. Or concealed. Or
+constipated.[^Dictionary] This may be enough definition for
+everyday use. But what, then, about those deeper moments of
+speech, when we talk of *eyes* being opened, or hearts, or
+minds, or again the proverbial door, always open to
+a friend? Here, it seems, we use the word "open" for
 a positive condition, a state of being, which any negative
 definition at best only half-comprehends. And to ask about
-the meaning of "open", then, is to ask
-about the meaning of hospitality, generosity, enlightenment,
-love. 
+the meaning of "open", then, is to ask about the meaning of
+hospitality, generosity, enlightenment, love. 
 
-Nor are these the only states of being expressed by the word
-"open." Think of how we can say our eyes are open rather
-than closed, to mean we are awake rather than asleep. But
-why say this of our eyes, and not merely our eyelids, to
-which the word "open" might seem to refer more literally?
-Calling *our eyes* "open" may be figurative, but it captures
-how we seem to see *through* our eyes, to a whole world
-beyond---as if our eyes *were* open, even transparent. To
-ask about the meaning of "open", then, is to ask about the
-meaning of wakefulness, alertness, awareness. And 
-awareness, perhaps, is not just one way of being, but *our* way of
-being: the one that underlies all the others; the one that
-explains *why* we use the word "open" with such great
-scope, and as if it were already understood.
+Nor are these the only such states of being. Think of how we
+say our eyes are open, to mean we are awake. But why say
+this of our eyes, and not our eyelids, to which the
+word "open" might seem to refer more literally? Calling *our
+eyes* "open" may be figurative, but it captures how we seem
+to see *through* our eyes, to a whole world beyond---as if
+our eyes *were* open, even transparent. To ask about the
+meaning of "open", then, is to ask about the meaning of
+wakefulness, alertness, awareness. And awareness, perhaps,
+is not just one way of being, but *our* way of being: the
+one that underlies all the others; the one that explains
+*why* we use the word "open" with such great scope, and as
+if it were already understood.
 
 It would also explain our reliance on negation to show that
 understanding---if being open meant being immanifest
 to ourselves, and saying what it is meant saying what it
-isn't. But in that case, what would make being open something rather
+isn't. But in that case, why is being open something rather
 than nothing? Or to put this question in the form that will
 guide me in my lecture tonight: how is being open possible? 
 
@@ -108,45 +106,43 @@ guide me in my lecture tonight: how is being open possible?
 
 If we take this question seriously, then just about every
 case of being open can start to look like a case of being
-closed---our own way of being open, perhaps most of all. But to begin
-with a simpler case, suppose I say "I can't get the jar
-open"---about a stubborn jar of pickles. What *would* it
-mean to get the jar opened? 
+closed. To start with a simple case, suppose I say "I can't
+get the jar open"---about a stubborn jar of pickles. What
+would it mean *to get* the jar opened? 
 
 A first answer, a dictionary answer, might be: to get the
 lid off.  
 
 But why the lid? Suppose I decide not to bother with the
-lid, and throw the jar to the ground, in a fit of
-frustration, breaking it open. Why is this not simply
-another way of opening the jar? Why would we want to say
-instead that I *broke* the jar open? 
+lid, and throw the jar to the ground, breaking it open. Why
+is this not simply another way of opening the jar? Why would
+we want to say instead that I *broke* the jar open? 
 
-Well, when we say the jar is opened, it seems we want the
+We would want to say this, it seems, in wanting the
 jar to remain a jar: something opened without being broken.
-Or to put the point more abstractly: we want the word
+Or to put the point more abstractly: we would want the word
 "opened" to mean that the barrier between the jar's inside
 and outside has been removed, without the difference between
 inside and outside being erased. Or still more abstractly:
-we want the word "open" to mean that there is continuity,
+we would want the word "open" to mean that there is continuity,
 yet at the same time distinctness, or discontinuity, between
 inside and outside.
 
-But here, then, is where our doubts can begin. For how can
+But here, then, is reason for doubt. For how can
 there be continuity and discontinuity at once? How, in this
 case, is the jar's inside still inside, and not outside,
-once the lid is removed? After all, if we leave the jar of
-pickles open, they will sooner or later spoil---as if the
-jar's inside were now outside, and there were no real
+once the lid is removed? After all, if we leave the jar 
+open, the pickles will spoil---as if the
+jar's inside *were* outside, and there were no real
 difference between an open jar and a broken jar; no real
-difference between inside and outside, once the barrier
-between them has been removed. Or as if it were easy
-enough to close the jar, but impossible to open it.   
+difference, that is, between inside and outside, once the barrier
+between them is gone. Or easy enough to close the jar, but
+impossible to open it.    
 
 ---
 
-Or now consider an example at the opposite end of a pickle
-jar: [the
+Or now take an example at the opposite end of a pickle
+jar, and consider [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 We can readily distinguish the sides of this line, one
 convex and one concave, since the parabola is curved. But
@@ -162,7 +158,7 @@ the parabola as if it were an infinite ellipse, formed of
 a line infinite in length, with ends that reach the edge of
 the geometric plane. But then our parabola will gain a true
 inside in just the way our pickle jar possessed one---when
-it was closed rather than open. For there will be no way to
+it was closed. For there will be no way to
 get into the parabola, or out of the parabola, through its
 open end, since this now lies infinitely far away, formed by
 a line that never closes upon itself, but also never stops.
@@ -172,7 +168,7 @@ appearance.
 
 ---
 
-And this appearance can start to look like an illusion, once
+And this appearance can start to look illusory, once
 we turn to our own ways of being open, and can make deeper
 sense of them as ways of being closed. For example, while we
 speak of open doors and open eyes as if these were virtues,
@@ -183,32 +179,32 @@ hospitality. Or the open eyes of Leontius in Plato's
 *Republic*, that allow the spectacle of corpses to fill his
 gaze, to his own contempt, in a similar abuse of sight.[^3]
 Both examples suggest there are cases of openness to be
-condemned, where something between outside and inside has
+condemned, where something between inside and outside has
 been broken. So what is it that remains intact, in cases of
-openness to be praised? And so far as it does remain intact,
+openness to be praised? And if intact, then 
 why call these cases of being open, rather than cases of
 being closed?  
 
 To press the question, we might turn next, and again, to the
 way our eyes are open more generally, if figuratively, as we
 see *through* them, to a whole world beyond. Yet 
-our eyes could not be open like eyelids, or a lidless jar,
+our eyes are not then open like eyelids, or a lidless jar,
 just letting the world in. For open eyes can be poked, injured,
 even blinded. Yet if our eyes are *not*
 like a lidless jar, then 
 how *does* the world get in?
 
-Or *does* it get in? For unlike the way the world gets into
-a pickle jar, to *spoil* what's inside, the world gets into
-our eyes, we might say, to *fill* what's inside, as if our
-eyes *contained* the world it was open to, in order to see
-it and not merely suffer it. But if our eyes contain the
-world in this sense, then perhaps they are better compared to
-a *closed* jar, or *completed* parabola, where the world
-*never* gets in, being somehow already there.  
+Unlike the way the world gets into a pickle jar, to *spoil*
+what's inside, the world gets into our eyes, we might say,
+to *fill* what's inside, as if our eyes *contained* the
+world it was open to, in order to see it and not merely
+suffer it. But if our eyes do contain the world, then *does*
+the world get in? What if our open eyes were more like
+a closed jar, or completed* parabola, where the world
+never gets in, since it is somehow already there.  
  
-As an example of this suggestion, consider this inference
-of the philosopher Schopenhauer: 
+And now to press this question, consider an inference once
+made by the philosopher Schopenhauer: 
 
 <!-- Look up Payne translation for this -->
 
@@ -222,9 +218,9 @@ On this inference, the way our eyes are *not* like
 a lidless jar makes the world we see something produced
 rather than revealed---as if there were nothing outside us
 to see, and the phrase "open eyes" were figurative in being
-false. And Schopenhauer's most famous work, *The World as
+false. Schopenhauer's most famous work, *The World as
 Will and Representation*, begins in a similar vein, treating
-the eyes as opaque rather than transparent, and the world we
+our open eyes as opaque rather than transparent, and the world we
 see as if it were inside us: 
 
 > "The world is my representation": this is a truth valid
@@ -240,33 +236,33 @@ that which represents, and this is himself.[^6]
 
 On this line of thought, where the world around us is only there
 as representation, what we experience as outside
-us can only *be* experienced insofar as it lies inside us,
+us can only *be* experienced at all, so far as it lies inside us,
 in a relation to us that is given rather than gained. This
 may seem to replace a puzzle about being open with
 a puzzle about being closed. For if the world does lie
 inside us, insofar as we experience it at all, then why do
 we experience it as outside us? 
 
-But we might borrow a line of thought from Kant, to whom
-Schopenhauer was indebted, to make sense of this. For take
-our experience of the world to be like our experience of
-space. On the one hand, we distinguish one part of space as
-*outside* another, and can occupy both parts in turn. And in
-this respect, space forms a kind of outside for us, as
-we move from place to place. On the other hand, space also
-forms a kind of inside for us, despite our movement
-from place to place. For every part of space, even
-if outside every other part, is still *in* space for us, and
-we occupy a part not merely *at* that place, but *in* it, 
-just as we move not merely *across* space, but *through*
-it. But why? Where does our sense of being *inside*
-space as a whole come from, if we are always *outside* every 
-unoccupied part, and *outside* even the occupied part, so soon
-as we move?
+But here we could borrow a line of thought from Kant, to
+whom Schopenhauer was indebted. For take our experience of
+the world to be like our experience of space. On the one
+hand, we distinguish one part of space as *outside* another,
+and can occupy both parts in turn. And in this respect,
+space forms a kind of outside for us, as we move from place
+to place. On the other hand, space forms a kind of
+inside for us, despite our movement from place to place. For
+every part of space, even if outside every other part, is
+still *in* space for us, just as we occupy a part not merely
+*at* that place, but *in* it; and just as we move not merely
+*across* space, but *through* it. But why? Where does our
+sense of being *inside* space as a whole come from, if we
+are always *outside* every unoccupied part, and *outside*
+even the occupied part, so soon as we move to another
+part?
 
 The answer, on this line of thought at least, is that our
 sense of being inside space as a whole comes from us. That
-is, we have a sense of space that *contains* not just us, but
+is, we have a sense of space that contains not just us, but
 all of space, to locate us *inside* it. And thanks to our
 all-encompassing sense of it, every part of space is *in*
 space for us, even though every part is also *outside* every
@@ -275,28 +271,28 @@ space is not just a mode of extension, or a medium of
 mobility, but a form of sensibility---to borrow Kant's term
 for it. 
 
-And perhaps we experience the world that way more generally:
-as outside us, but *because* it lies inside us. On this
-view, we would never find ourselves inside what we can then
-experience as outside us, unless we possessed a sense of the
-world that contains it, a sense of it that is
+So perhaps we experience the world that way: outside us, but
+*because* it lies inside us. For we would never find it
+outside us, on this view, unless we possessed a sense of the
+world that contained it, a sense of it that is
 all-encompassing. And if this inside sense of world were
 ever lost, then also lost, perhaps, would be any sense of
-the outside---at least so far as this outside might be
-reached from inside. Once Odysseus, for example, is no
-longer master of his door, we could say a world of
-hospitality is lost; and now his door can open only one way:
-to let the suitors in. Or once Leontius is no longer master
-of his eyes, we could say a world of discernment is lost;
-and now his eyes can open only one way: to let the corpses
-in.   
+outside---at least so far as it might be reached from
+inside. Once Odysseus, for example, is no longer master of
+his door, we could say a world of hospitality is lost; and
+now his door can only open outside in, to let the suitors
+through.  Or once Leontius is no longer master of his eyes,
+we could say a world of discernment is lost; and now his
+eyes can only open outside in: to let the corpses through.   
 
-Still, while this sort of account may explain openness, it
-does so, again, in a kind of denial. The world never gets in
-because it is already there, behind open eyes, as if they
-were indeed like a closed jar, or completed parabola, that
-already *contained* what they saw in order to see it. We are
-paradoxically enclosed in openness on this account:
+<!-- Note: later I could use "inside-out" to explore
+self-transcendence rather than self-containment".-->
+
+But how, then, is being open possible on this account? It is
+only possible by being closed. Our own ways of being
+open are really ways of being closed
+that look open, and give that look to anything we call
+"open." It is as if we were *enclosed* in openness:
 a predicament captured well, I think, in this description by
 Francis Wolff, a contemporary philosopher:
 
@@ -316,6 +312,19 @@ language enclose the world within themselves only insofar
 as, conversely, they are entirely contained by it. We are in
 consciousness or language as in a transparent cage.
 Everything is outside, yet it is impossible to get out.[^7]
+
+# Part Two: Paradox explored {#two}
+
+- There are, however, reasons to wonder whether this account
+of openness is true.
+
+- Tone of fact, but philosophical reflection on fact,
+according to Schopenhauer. This raises question about
+philosophy.
+
+- Make this section at start about philosophical reflection:
+how does openness elude it, despite the philosopher's caring
+about the difference between a door and an open door?
 
 - New transition: speak of eyes as a transparent cage,
 and then make part two the question: how do we get out? 
@@ -350,9 +359,9 @@ might it also be only a philosopher who would care to shut
 the door for good? This second paradox leads me to part two. 
 
 
-# Part Two: Paradox explored {#two}
-
 [Back to top](#top)
+
+
 Bergson quote: 
 
 > It would greatly astonish a man unaware of the
