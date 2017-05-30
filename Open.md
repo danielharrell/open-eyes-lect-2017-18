@@ -40,37 +40,35 @@ This, then, is one reason to wonder about the word, for
 
 Another reason to wonder is that the word is
 usually used without further explanation, as if its
-meaning were already understood. But if so, *how* is it
-already understood?
+meaning were already understood. But if so, then *how* is it
+understood?
 
    <!-- Note here: I could use the St. John's viewbook to
    illustrate this: "Open", alone on the cover, is not just
    an imperative to open the book, but has a nominative
    power of suggestion as well.-->
 
-And perhaps this is a sign of something better understood.
-Who if not the philosopher, so Aristotle once asked, would
-care about the difference between Socrates and Socrates
-sitting?[^Socrates] Or the difference, we could add, between
-a door and an *open* door? The way we use "open" without
-further thought may then make it worth further thought. And
-while it would be rude to ask a friend what he meant when he
-told you his door is *always* open, well, what *did* he
-mean? 
+And is there something here *yet* to be understood, or better
+understood? For who if not the philosopher, Aristotle once
+asked, would care about the difference between Socrates and
+Socrates sitting?[^Socrates] Or between a door and an
+*open* door?---so we could add. The way we use "open" without further thought
+may then make it worth further thought. And while it would
+be rude to ask a friend what he meant when he told you his
+door is *always* open, well, what *did* he mean? 
 
    <!-- In my further revision of  this part, I will
    introduce philosophy in relation to the paradox. Then go
    on to show how philosophy in a sense turns on itself in
    a denial of openness.-->
 
-Still another reason to wonder about the word "open", and to
-think it could be better understood, comes from the way we
-define it in dictionaries, largely through negation. To be
-open means *not* to be closed. Or blocked. Or covered. Or
-fastened. Or sealed. Or buttoned. Or guarded. Or protected.
-Or folded. Or clenched. Or concealed. Or
-constipated.[^Dictionary] This may be enough definition for
-everyday use. But what, then, about those deeper moments of
+Still another reason to wonder about the word "open" comes
+from the way we define it in dictionaries, largely through
+negation. To be open means *not* to be closed. Or blocked.
+Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
+Or protected. Or folded. Or clenched. Or concealed. Or
+constipated.[^Dictionary] This may be definition enough  for
+everyday use. But what about those deeper moments of
 speech, when we talk of *eyes* being opened, or hearts, or
 minds, or again the proverbial door, always open to
 a friend? Here, it seems, we use the word "open" for
@@ -81,22 +79,22 @@ hospitality, generosity, enlightenment, love.
 
 Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
-this of our eyes, and not our eyelids, to which the
-word "open" might seem to refer more literally? Calling *our
-eyes* "open" may be figurative, but it captures how we seem
-to see *through* our eyes, to a whole world beyond---as if
-our eyes *were* open, even transparent. To ask about the
-meaning of "open", then, is to ask about the meaning of
-wakefulness, alertness, awareness. And awareness, perhaps,
-is not just one way of being, but *our* way of being: the
-one that underlies all the others; the one that explains
-*why* we use the word "open" with such great scope, and as
-if it were already understood.
+this of our eyes, and not our eyelids, which we might call
+"open" more literally? Calling *our eyes* "open" may then be
+figurative, but it captures how we seem to see *through* our
+eyes, to a whole world beyond---as if our eyes *were* open,
+even transparent. To ask about the meaning of "open", then,
+is to ask about the meaning of wakefulness, alertness,
+awareness. And awareness may not be just one way of being,
+but *our* way of being: the one that
+underlies all the others; the one that explains *why* we use
+"open" with such great scope, and as if it were
+already understood.
 
-It would also explain our reliance on negation to show that
-understanding---if being open meant being immanifest
-to ourselves, and saying what it is meant saying what it
-isn't. But in that case, why is being open something rather
+This would also explain our reliance on negation to show that
+understanding---if we said what it is by saying
+what it isn't, because being open meant being immanifest
+to ourselves. But in that case, why is being open something rather
 than nothing? Or to put this question in the form that will
 guide me in my lecture tonight: how is being open possible? 
 
