@@ -80,7 +80,7 @@ hospitality, generosity, enlightenment, love.
 Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
-"open" more literally? Calling *our eyes* "open" may then be
+"open" more literally? Calling *our eyes* "open" may be
 figurative, but it captures how we seem to see *through* our
 eyes, to a whole world beyond---as if our eyes *were* open,
 even transparent. To ask about the meaning of "open", then,
@@ -91,19 +91,20 @@ underlies all the others; the one that explains *why* we use
 "open" with such great scope, and as if it were
 already understood.
 
-This would also explain our reliance on negation to show that
-understanding---if we said what it is by saying
-what it isn't, because being open meant being immanifest
-to ourselves. But in that case, why is being open something rather
-than nothing? Or to put this question in the form that will
-guide me in my lecture tonight: how is being open possible? 
+This would also explain our reliance on negation to show
+that understanding---if our being open were finally a way of being
+*other*, and saying what it is meant saying what it isn't. But
+if there were nothing to say about what it is, then how 
+is being open something rather than nothing? Or to ask this
+question in the form that will guide me in my lecture
+tonight: how is being open possible? 
 
 [Back to top](#top)
 
 # Part One {#one}
 
 If we take this question seriously, then just about every
-case of being open can start to look like a case of being
+case of being open can seem like a case of being
 closed. To start with a simple case, suppose I say "I can't
 get the jar open"---about a stubborn jar of pickles. What
 would it mean *to get* the jar opened? 
@@ -118,7 +119,7 @@ we want to say instead that I *broke* the jar open?
 
 We would want to say this, it seems, in wanting the
 jar to remain a jar: something opened without being broken.
-Or to put the point more abstractly: we would want the word
+More abstractly put: we would want the word
 "opened" to mean that the barrier between the jar's inside
 and outside has been removed, without the difference between
 inside and outside being erased. Or still more abstractly:
@@ -126,43 +127,41 @@ we would want the word "open" to mean that there is continuity,
 yet at the same time distinctness, or discontinuity, between
 inside and outside.
 
-But here, then, is reason for doubt. For how can
-there be continuity and discontinuity at once? How, in this
-case, is the jar's inside still inside, and not outside,
-once the lid is removed? After all, if we leave the jar 
-open, the pickles will spoil---as if the
-jar's inside *were* outside, and there were no real
-difference between an open jar and a broken jar; no real
-difference, that is, between inside and outside, once the barrier
-between them is gone. Or easy enough to close the jar, but
-impossible to open it.    
+But here, then, is reason for doubt. For how can there be
+continuity and discontinuity at once? In this case, how is
+the jar's inside still inside, and not outside, once the lid
+is removed? After all, if we leave the jar open, the pickles
+will spoil---as if the jar's inside *were* outside, and
+there were no difference between an open jar and a broken
+jar; no difference, that is, between inside and outside,
+once the barrier between them is gone. It would be easy
+enough to close the jar, but impossible to open it.    
 
 ---
 
-Or now take an example at the opposite end of a pickle
-jar, and consider [the
+As a second example, at the other end of a pickle jar,
+consider a line from geometry: [the
 parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
 We can readily distinguish the sides of this line, one
 convex and one concave, since the parabola is curved. But
 suppose we go further, and take the convex side to be
 "inside" the parabola, and the concave side to be "outside,"
-as if the line of the parabola formed a figure, analogous to
-the ellipse, only open rather than closed. What would
-justify this interpretation? Why aren't both sides still
-outside the parabola, since both lie outside the line of the
-parabola? To make the inside of the parabola definite, and
-press the analogy to the ellipse, it seems we have to take
-the parabola as if it were an infinite ellipse, formed of
-a line infinite in length, with ends that reach the edge of
-the geometric plane. But then our parabola will gain a true
-inside in just the way our pickle jar possessed one---when
-it was closed. For there will be no way to
-get into the parabola, or out of the parabola, through its
-open end, since this now lies infinitely far away, formed by
-a line that never closes upon itself, but also never stops.
-The parabola's open end, then, is something we can plainly
-see, but never reach, as if being open were mere 
-appearance.  
+as if the line formed a figure, analogous to the ellipse,
+only open rather than closed. What would justify this
+interpretation? Why aren't both sides still outside the
+parabola, since both lie outside the line of the parabola?
+To make the inside of the parabola definite, and press the
+analogy to the ellipse, we could take the parabola as an
+infinite ellipse, formed of a line infinite in length, with
+ends that reach the edge of the geometric plane. But then
+our parabola will gain a true inside in just the way our
+pickle jar possessed one---when it was closed. For there
+will be no way into the parabola, or out of the parabola,
+through its open end, since this now lies infinitely far
+away. The line of the parabola never closes upon itself,
+true, but also never stops. Its open end, then, is
+something we can plainly see, but never reach, as if being
+open were mere appearance.  
 
 ---
 
