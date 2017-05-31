@@ -48,14 +48,15 @@ understood?
    an imperative to open the book, but has a nominative
    power of suggestion as well.-->
 
-And is there something here *yet* to be understood, or better
-understood? For who if not the philosopher, Aristotle once
-asked, would care about the difference between Socrates and
-Socrates sitting?[^Socrates] Or between a door and an
-*open* door?---so we could add. The way we use "open" without further thought
-may then make it worth further thought. And while it would
-be rude to ask a friend what he meant when he told you his
-door is *always* open, well, what *did* he mean? 
+And is there something here *yet* to be understood, or
+better understood? For who if not the philosopher, Aristotle
+once asked, would care about the difference between Socrates
+and Socrates sitting?[^Socrates] Or between a door and an
+*open* door?---so we could add. The way we use "open"
+without further thought may make it worth further thought.
+And while it would be rude to ask a friend what he meant
+when he told you his door is *always* open, well, what *did*
+he mean? 
 
    <!-- In my further revision of  this part, I will
    introduce philosophy in relation to the paradox. Then go
@@ -91,13 +92,18 @@ underlies all the others; the one that explains *why* we use
 "open" with such great scope, and as if it were
 already understood.
 
-This would also explain our reliance on negation to show
-that understanding---if our being open were finally a way of being
-*other*, and saying what it is meant saying what it isn't. But
-if there were nothing to say about what it is, then how 
-is being open something rather than nothing? Or to ask this
-question in the form that will guide me in my lecture
-tonight: how is being open possible? 
+It might also explain our reliance on negation to show that
+understanding. For how can we catch our eyes open in speech,
+but to say that they are *not* what they see, yet also *not*
+what they are when closed, as we could say the same of
+what we are *not*, in being awake rather than asleep.  Yet if
+there were nothing more to say about being open but what it
+isn't, then how is being open anything at all,
+or something rather than nothing? 
+
+Or to ask this question in
+the form that will guide me in my
+lecture tonight: how is being open possible? 
 
 [Back to top](#top)
 
@@ -261,7 +267,7 @@ The answer, on this line of thought at least, is that our
 sense of being inside space as a whole comes from us. That
 is, we have a sense of space that contains not just us, but
 all of space, to locate us *inside* it. And thanks to our
-all-encompassing sense of it, every part of space is *in*
+all-encompassing sense of space, every part of it is *in*
 space for us, even though every part is also *outside* every
 other part. We find ourselves inside space, then, insofar as
 space is not just a mode of extension, or a medium of
@@ -278,9 +284,9 @@ outside---at least so far as it might be reached from
 inside. Once Odysseus, for example, is no longer master of
 his door, we could say a world of hospitality is lost; and
 now his door can only open outside in, to let the suitors
-through.  Or once Leontius is no longer master of his eyes,
+push through. Or once Leontius is no longer master of his eyes,
 we could say a world of discernment is lost; and now his
-eyes can only open outside in: to let the corpses through.   
+eyes can only open outside in: to let the corpses push through.   
 
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
@@ -345,6 +351,10 @@ what it is, existing in itself regardless of whether we are
 thinking of it or not; that outside which thought could
 explore with the legitimate feeling of being on foreign
 territory---of being entirely elsewhere.[^Meillassoux]
+
+<!--One idea: Odyesseus as a wanderer, going outside from
+inside. But not in gesture of hospitality. Perhaps put above
+Meillassoux quote.-->
 
 On this suggestion, as we might read it to counter
 Schopenhauer, at the dawning of philosophical discernment
