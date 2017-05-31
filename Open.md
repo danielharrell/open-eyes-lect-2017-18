@@ -23,7 +23,7 @@
 Try to incorporate the "Open" viewbook
 -->
 
-The word "open", the topic of my lecture tonight, is used
+The word "open" is used
 in ways that range from the prosaic to the profound. 
 
     - "I can't get the jar open." 
@@ -35,8 +35,8 @@ in ways that range from the prosaic to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This, then, is one reason to wonder about the word, for
-*why* does it have such scope?
+This, then, is one reason to wonder, for
+*why* does the word have such scope?
 
 Another reason to wonder is that the word is
 usually used without further explanation, as if its
@@ -48,7 +48,7 @@ understood?
    an imperative to open the book, but has a nominative
    power of suggestion as well.-->
 
-And is there something here *yet* to be understood, or
+And is there something here *not* understood, or
 better understood? For who if not the philosopher, Aristotle
 once asked, would care about the difference between Socrates
 and Socrates sitting?[^Socrates] Or between a door and an
@@ -63,20 +63,20 @@ he mean?
    on to show how philosophy in a sense turns on itself in
    a denial of openness.-->
 
-Still another reason to wonder about the word "open" comes
-from the way we define it in dictionaries, largely through
+Still another reason to wonder comes from the way the word
+"open" is defined in dictionaries---largely through
 negation. To be open means *not* to be closed. Or blocked.
 Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
 Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough  for
-everyday use. But what about those deeper moments of
-speech, when we talk of *eyes* being opened, or hearts, or
-minds, or again the proverbial door, always open to
-a friend? Here, it seems, we use the word "open" for
-a positive condition, a state of being, which any negative
-definition at best only half-comprehends. And to ask about
-the meaning of "open", then, is to ask about the meaning of
-hospitality, generosity, enlightenment, love. 
+everyday use. But what about those deeper moments of speech,
+when we talk of *eyes* being opened, or hearts, or minds, or
+again the proverbial door, always open to a friend? Here, it
+seems, we use the word "open" for a positive condition,
+a state of being, which any negative definition at best only
+half-comprehends. And to ask about the meaning of "open",
+then, is to ask about the meaning of hospitality,
+generosity, enlightenment, love. 
 
 Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
@@ -92,14 +92,13 @@ underlies all the others; the one that explains *why* we use
 "open" with such great scope, and as if it were
 already understood.
 
-It might also explain our reliance on negation to show that
-understanding. For how can we catch our eyes open in speech,
+It might also explain our reliance on negation. 
+For how can we catch our eyes open in speech,
 but to say that they are *not* what they see, yet also *not*
-what they are when closed, as we could say the same of
-what we are *not*, in being awake rather than asleep.  Yet if
-there were nothing more to say about being open but what it
-isn't, then how is being open anything at all,
-or something rather than nothing? 
+what they are when closed; as we could say the same of what
+*we* are not, in being awake rather than asleep.  Yet if
+there is nothing more to say, then how is being open
+anything at all---or something rather than nothing?  
 
 Or to ask this question in
 the form that will guide me in my
