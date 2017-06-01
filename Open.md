@@ -92,16 +92,15 @@ underlies all the others; the one that explains *why* we use
 "open" with such great scope, and as if it were
 already understood.
 
-It might also explain our reliance on negation. 
-For how can we catch our eyes open in speech,
-but to say that they are *not* what they see, yet also *not*
-what they are when closed; as we could say the same of what
-*we* are not, in being awake rather than asleep.  Yet if
-there is nothing more to say, then how is being open
-anything at all---or something rather than nothing?  
+It might also explain our reliance on negation---if
+accounting for awareness could only be done indirectly,
+through a kind of negation. For how can we catch our open
+eyes in speech, save to say that they are *not* closed, in
+being open; and *not* what they see, in being eyes. Yet if
+there were nothing more to say, then how would being open
+be anything at all? Something rather than nothing?  
 
-Or to ask this question in
-the form that will guide me in my
+Or to ask this question in the form that will guide me in my
 lecture tonight: how is being open possible? 
 
 [Back to top](#top)
@@ -165,13 +164,13 @@ will be no way into the parabola, or out of the parabola,
 through its open end, since this now lies infinitely far
 away. The line of the parabola never closes upon itself,
 true, but also never stops. Its open end, then, is
-something we can plainly see, but never reach, as if being
-open were mere appearance.  
+something we can plainly see, but never reach, as if openness
+had no being but seeming.
 
 ---
 
-And this appearance can start to look illusory, once
-we turn to our own ways of being open, and can make deeper
+And this seeming can start to look illusory, once
+we turn to our own ways of being open, and might make deeper
 sense of them as ways of being closed. For example, while we
 speak of open doors and open eyes as if these were virtues,
 we could also speak of them as vices. Recall the open door
@@ -189,27 +188,22 @@ being closed?
 
 To press the question, we might turn next, and again, to the
 way our eyes are open more generally, if figuratively, as we
-see *through* them, to a whole world beyond. Yet 
-our eyes are not then open like eyelids, or a lidless jar,
-just letting the world in. For open eyes can be poked, injured,
-even blinded. Yet if our eyes are *not*
-like a lidless jar, then 
-how *does* the world get in?
-
-Unlike the way the world gets into a pickle jar, to *spoil*
-what's inside, the world gets into our eyes, we might say,
-to *fill* what's inside, as if our eyes *contained* the
-world it was open to, in order to see it and not merely
-suffer it. But if our eyes do contain the world, then *does*
-the world get in? What if our open eyes were more like
-a closed jar, or completed* parabola, where the world
-never gets in, since it is somehow already there.  
+see *through* them, to a whole world beyond. Yet our eyes
+are not then open like eyelids, or a lidless jar, just
+letting the world in. For open eyes can be poked, injured,
+even blinded. Yet if our eyes are *not* like a lidless jar,
+then how *does* the world get in? It could not be the way
+the world gets into a pickle jar, to *spoil* what's inside.
+For the world gets into our eyes, we might say, to *fill*
+what's inside, as if our eyes *contained* the world it was
+open to, in order to see it and not merely suffer it. But if
+our eyes somehow do contain the world, then *does* the world
+get in? What if our world-containing eyes were more like
+a closed jar, or completed* parabola, where the world never
+gets in, since it is somehow already there? We might argue
+for this as the philosopher Schopenhauer once did, when he
+wrote: 
  
-And now to press this question, consider an inference once
-made by the philosopher Schopenhauer: 
-
-<!-- Look up Payne translation for this -->
-
 > It is therefore the Understanding
 itself which has to create the objective world; for this
 world cannot walk into our brain from outside all ready cut
