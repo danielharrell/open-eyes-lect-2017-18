@@ -199,10 +199,9 @@ what's inside, as if our eyes *contained* the world it was
 open to, in order to see it and not merely suffer it. But if
 our eyes somehow do contain the world, then *does* the world
 get in? What if our world-containing eyes were more like
-a closed jar, or completed* parabola, where the world never
-gets in, since it is somehow already there? We might argue
-for this as the philosopher Schopenhauer once did, when he
-wrote: 
+a closed jar, or completed* parabola, where the world *never*
+gets in, because it is already there? We might argue
+for this possibility as the philosopher Schopenhauer once did: 
  
 > It is therefore the Understanding
 itself which has to create the objective world; for this
