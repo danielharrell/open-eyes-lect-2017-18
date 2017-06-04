@@ -284,16 +284,24 @@ eyes can open only outside in: to let the corpses through.
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
-Or to put this view in positive and more general terms: it
-is only insofar as we already possess the world, and in that
-sense enclose it, that we are open to it---from inside out.
-And the world that fills our eyes, then, is indeed already
-there to fill them, reflecting how every way we have of
-being open is really a way of being closed that *looks*
-open, and gives that look to everything we call "open". Or
-more briefly put: we are *enclosed* in openness---a
-predicament captured well, I think, in this description by
-Francis Wolff, a contemporary philosopher:
+Or put the opposite way around: it is when we possess the
+world, and in that sense enclose it, that we can open
+ourselves to it---from inside out. When the world is
+already there, it can fill our eyes---from within---to open
+them.  <!-- Look up past formulations and re-use. E.g.,
+every case of being open is really a case of being closed.
+But now it is a case of being closed that makes openness
+possible.--> And since being open in this sense is the
+result of---even the *look* of---being closed, etc.
+every case of being open, then, is
+more deeply a case of being closed, when being open is
+a *result* of, even the *look* of being closed.Being open is
+a result of being closed: its look. etc. And every way we
+have of being open is thus a way of being closed that
+*looks* open, and gives that look to everything we call
+*open*. Or to put this another way: we are *enclosed* in
+openness---a predicament captured well, I think, in this
+description by Francis Wolff, a contemporary philosopher:
 
 > Everything is inside because in order to think anything
 whatsoever, it is necessary to ‘be able to be conscious of
