@@ -163,7 +163,7 @@ as an infinite ellipse, formed of a line infinite in length,
 with ends that reach the edge of the geometric plane. But
 then our parabola will gain a true inside in just the way
 our pickle jar possessed one: when it was closed. For there
-will be no way into the parabola, or out of the parabola,
+will be no way into the parabola, or out of it,
 through its open end, since this now lies infinitely far
 away. The line of the parabola never closes upon itself,
 true, but also never stops. Its open end, then, is something
@@ -211,7 +211,7 @@ parabola, where the world *never* gets in, because it is
 already there. 
 
 We could argue for this as the philosopher Schopenhauer once
-did, when he wrote:
+did:
  
 > It is therefore the Understanding
 itself which has to create the objective world; for this
@@ -240,12 +240,11 @@ in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
 To press this line of thought, we could say that what we
-experience as outside us, can only be experienced at all
-so far as it lies inside us, in a relation to us that is
-given rather than gained. This may seem to replace
-a puzzle about being open with a puzzle about being closed.
-For if the world does lie inside us, insofar as we
-experience it at all, then why do we experience it as
+experience as outside us, can only be experienced at all so
+far as it lies inside us, in a relation to us that is given
+rather than gained. This may seem to replace a puzzle about
+being open with a puzzle about being closed. For if the
+world does lie inside us, then why do we experience it as
 outside us? 
 
 But here we could borrow an argument from Kant, to
@@ -289,9 +288,7 @@ now his door can open only outside in: to let the suitors
 through. Or once Leontius is no longer master of his eyes,
 we could say a world of discernment is lost; and now his
 eyes can open only outside in: to let the corpses through.   
-<!-- Put here,
-or below, a sentence about intact vs broken, alluding to
-earlier formulation-->
+
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
@@ -299,44 +296,36 @@ self-transcendence rather than self-containment".-->
 and pickle jar-->
 
 What breaks, then, in cases of openness to be condemned, is
-a kind of hinge that opens inside out when the world can
-stand behind it. And so the world stands, in cases of
-openness to be praised---our own way of being open in
-awareness most of all. For it is when we possess the
-world on this view, and in that sense enclose it, that we
-can open ourselves to it---from inside out. When the world
-is already there, it can fill our eyes---from within---to
-open them. We can then see *through* our eyes, to a whole
-world outside us---in an experience of being open that
-*depends* on being closed, as if being open were
-how being closed *looked* when seen from within. And if
-we accept this account, then we could say that every
-case of being open is really a case of being closed that
-*appears* open, and gives that appearance to everything
-we call "open". We call the parabola "open", then, because
-we look at its completion from inside out, coming to an end in
-space before it can come to an end in itself. Or we call the
-pickle jar "open," similarly, insofar as we encounter its
-contents before encountering its seal,
+a kind of hinge that opens inside out only when the world
+can stand behind it. And the world does stand behind it in
+cases of openness to be praised. For on this view, we can
+only open ourselves to the world, from inside out, if we
+already possess the world, and in that sense 
+contain it. When the world is already there, it can fill our
+eyes---from within---to open them. And this allows us to see
+through our eyes, to a whole world outside us, in an
+experience of openness to the world that *depends on* having
+enclosed it, as if being open were how being closed *looked*,
+when seen from within. 
 
-<!--Above needs reworking. But on the right track.-->
+If we accept this account, then we could say that every case
+of being open is really a case of being closed that
+*appears* open, and that we call "open" from this mere
+appearance. We call a parabola "open", then, because the way
+it is closed gives it an inside we can see out of, just as
+we can likewise see out of a lidless pickle jar to call it
+"open". The jar's inside can *stay* inside once the lid is
+removed, since we can still look at the lidless jar from
+inside out. Just the parabola's inside can stay inside even
+when its line is finite, since we can still look at 
+the finite parabola from inside out. 
 
-because we look at its having to be
-closed from inside out, where its contents precede its seal. 
-or later closed from inside out, cbecause we look at it inside out,
-enclosing
-space before enclosing itself, reaching
-the edge of space before it can bounded by the
-edge of geometric space before it could ever be bounded
-by itself, The parabola thus looks open, on
-this view, because (Keep
-earlier language of look: where our every way of being open
-is a way of being closed that looks open, and gives that
-look to everything we call open. Mention parabola and pickle
-jar in this context.) It is as if we were somehow *enclosed*
-in openness) ---a predicament captured well, I think, in
-this description by Francis Wolff, a contemporary
-philosopher:
+Yet if being open is indeed the mere appearance or look of
+being closed, then our own being open becomes a kind of
+predicament, since we could say we are *enclosed* in
+openness. The sense of predicament here is captured well,
+I think, in this description by Francis Wolff,
+a contemporary philosopher:
 
 > Everything is inside because in order to think anything
 whatsoever, it is necessary to ‘be able to be conscious of
