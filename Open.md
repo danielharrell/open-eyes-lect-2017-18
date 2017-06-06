@@ -292,34 +292,41 @@ eyes can open only outside in: to let the corpses through.
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
-<!-- In paragraph below I can try to incorporate parabola
-and pickle jar-->
-
 What breaks, then, in cases of openness to be condemned, is
 a kind of hinge that opens inside out only when the world
-can stand behind it. And the world does stand behind it in
+can stand behind it. And the world does stand behind it, in
 cases of openness to be praised. For on this view, we can
-only open ourselves to the world, from inside out, if we
-already possess the world, and in that sense 
-contain it. When the world is already there, it can fill our
-eyes---from within---to open them. And this allows us to see
-through our eyes, to a whole world outside us, in an
-experience of openness to the world that *depends on* having
-enclosed it, as if being open were how being closed *looked*,
-when seen from within. 
+open ourselves to the world, from inside out, only if we
+already possess the world, and in that sense contain it.
+When the world is already there, it can fill our eyes---from
+within---to open them. And what we see, through our eyes, is
+this same whole world outside us, in an experience of
+openness to the world that *depends on* having enclosed it,
+as if being open were how being closed *looked*, when seen
+from within.
 
-If we accept this account, then we could say that every case
-of being open is really a case of being closed that
+If we accept this account, then we could conclude that every
+case of being open is indeed a case of being closed that
 *appears* open, and that we call "open" from this mere
 appearance. We call a parabola "open", then, because the way
 it is closed gives it an inside we can see out of, just as
 we can likewise see out of a lidless pickle jar to call it
-"open". The jar's inside can *stay* inside once the lid is
-removed, since we can still look at the lidless jar from
-inside out. Just the parabola's inside can stay inside even
-when its line is finite, since we can still look at 
-the finite parabola from inside out. 
+"open". The jar's inside can *stay* inside when the lid is
+removed, so long as we still look at the jar as if looking
+out of it, from the inside formed when the jar is closed.
+Just as the parabola's inside can stay inside even when its
+line is finite, so long as we still look at the parabola as
+if looking out of it, from the inside formed when the
+parabola is completed. And we are likely to look at things
+this way, as if looking out of them, or in a direction from
+inside out, since this is how we have to look, on this
+account, to see anything at all: from inside the whole world
+out, and as if we were *enclosed* in openness. 
 
+<!--put continuity resolution somewhere above, perhaps
+where the Kant acocunt is, to indicate "in" and "out"-->
+
+Or to borrow a description from Francis Wolff
 Yet if being open is indeed the mere appearance or look of
 being closed, then our own being open becomes a kind of
 predicament, since we could say we are *enclosed* in
