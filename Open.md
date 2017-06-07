@@ -35,8 +35,8 @@ in ways that range from the prosaic to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This, then, is one reason for wonder, for *why* does the
-word have such scope?
+This, then, is one reason to wonder about the word, for
+*why* does it have such scope?
 
 Another reason for wonder is that the word is
 used, mostly, without further explanation, as if its
@@ -52,7 +52,7 @@ And is there something here *not* understood, or
 better understood? For who if not the philosopher, Aristotle
 once asked, would care about the difference between Socrates
 and Socrates sitting?[^Socrates] Or between a door and an
-*open* door?---so we could add. The way we use "open"
+*open* door?---so we could add. The way we use the word "open"
 without further thought may make it worth further thought.
 And while it would be rude to ask a friend what he meant
 when he told you his door is *always* open, well, what *did*
@@ -91,7 +91,8 @@ but *our* way of being: the one that
 underlies all the others; the one that explains *why* we use
 "open" with such great scope, and as if it were
 already understood.
-
+<!--Note: perhaps add sentence about how open eyes are
+a symbol for awareness.-->
 It might also explain our reliance on negation---if our way
 of being open in awareness were a way of being *other*, of
 being outside ourselves, and could only be put into words
@@ -112,8 +113,9 @@ explicitly.-->
 # Part One {#one}
 
 If we take this question seriously, then just about every
-case of being open can seem like a case of being closed. To
-start with an everyday case, suppose I say "I can't get the jar
+case of being open can seem like a case of being closed---our
+own way of being open most of all. But to 
+start with a simpler case, suppose I say "I can't get the jar
 open"---about a stubborn jar of pickles. What would it mean
 *to get* the jar opened? 
 
@@ -175,6 +177,8 @@ being but seeming. A mere appearance in things.
 <!-- Should frame this section in terms of just one
 way of being open, our way, and use the other cases as
 extensions of this. Also borrow from previous formulations-->
+<!--Below might say something like "harder case deserves
+longer account."-->
 
 As a set of final examples, underneath the previous two, now
 consider what I earlier called *states of being*: the open
@@ -246,6 +250,11 @@ rather than gained. This may seem to replace a puzzle about
 being open with a puzzle about being closed. For if the
 world does lie inside us, then why do we experience it as
 outside us? 
+
+<!--Note, in below analysis, could bring out "part/whole"
+language more clearly. And connect to earlier paradox
+in opennness: outside and inside continuous but
+discontinuous in moving between whole and part-->
 
 But here we could borrow an argument from Kant, to
 whom Schopenhauer was indebted. For take our experience of
@@ -325,6 +334,10 @@ out, and as if we were *enclosed* in openness.
 
 <!--put continuity resolution somewhere above, perhaps
 where the Kant acocunt is, to indicate "in" and "out"-->
+<!--Inside is whole; outside is part-->
+
+<!--"predicament" below could be tied to language of "paradox"
+above if I bring back language of "paradox" for that.-->
 
 Or to borrow a description from Francis Wolff
 Yet if being open is indeed the mere appearance or look of
@@ -353,6 +366,10 @@ Everything is outside, yet it is impossible to get out.[^Wolff]
 
 # Part Two: Paradox explored {#two}
 
+- In part two, when I discuss both Aristotle and Descartes
+with contrasting views of place of thinker: can ask of both
+is this world *the* world?
+
 - There are, however, reasons to wonder whether this account
 of openness is true.
 
@@ -369,7 +386,8 @@ and then make part two the question: how do we get out?
 How is being open possible, how do we get out? 
 
 - True openness: transparency without cage; outside that is
-indeed elsewhere. How to understand this? 
+indeed elsewhere. Also note eyes being transparent in
+particular. How to understand this? 
 
 Wolff puts this predicament in the terms and tone
 of a fact. Yet it is unsettling enough, and dependent enough
