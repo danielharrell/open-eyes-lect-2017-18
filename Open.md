@@ -200,14 +200,18 @@ when open, then how *does* the world get in? It could not be
 the way the world gets into a pickle jar, to *spoil* what's
 inside. For the world gets into our eyes, we might say, to
 *fill* what's inside. It is as if our eyes *contained* the
-world it was open to, in order to see it and not merely
+world they were open to, in order to see it and not merely
 suffer it. But if our eyes do contain the world, then *does*
-the world get in? Or is it rather somehow already there, making
-our eyes more like a closed jar, or completed parabola? 
+the world get in? Or is the world somehow already there,
+filling our eyes *from within*, and making them more like
+a closed jar, or completed parabola? 
 
-Consider, in this direction, the brief argument given by the
-philosopher Schopenhauer, when he writes:
- 
+<!--In quotes below, quote first and then characterize
+quote-->
+
+We might argue for this as the philosopher Schopenhauer once
+did, with the brevity that befits a self-evident truth:
+
 > It is therefore the Understanding
 itself which has to create the objective world; for this
 world cannot walk into our brain from outside all ready cut
@@ -216,13 +220,13 @@ organs.[^Fourfold]
 
 On this inference, presented as immediate, it is because our
 open eyes are *not* like a lidless jar that the world we see
-is something produced rather than revealed---as if
-there were nothing outside us to see, and the phrase "open
-eyes" were figurative in being false. Schopenhauer's most
-famous work, *The World as Will and Representation*, begins
-in a similar vein of closedness, treating our open
-eyes as opaque, and the world we
-see as if it were inside us: 
+is something produced rather than revealed---as if there
+were nothing outside us to see, and the phrase "open eyes"
+were figurative in being false. Schopenhauer's most famous
+work, *The World as Will and Representation*, begins in
+a similar vein of closedness, treating our open eyes as
+opaque, and the world we see as if it were inside us, as
+a matter of the merest philosophical reflection: 
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -235,37 +239,108 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
+- For following part, perhaps use distinction between
+experience and possibility of experience
+
+- For following part, keep the earlier Kant account upfront,
+but then add the stuff that explains how perception is
+intensive rather than extensive.
+
 On this line of thought, we could say that what we see
 outside us, is really inside us to be seen at all, in
-a relation to us that is given rather than gained. Or to put
-this less paradoxically, we could say that what we see
-outside us *part-by-part*, is inside us *as a whole*
-to be seen at all. And this wholeness is given rather than
-gained. 
+a relation to us that is given rather than gained.
 
-We could elaborate on this through an analysis
-borrowed from Kant. For take our experience of the world, so
-far as it *seems* to lie outside us, to be an experience of
-space. 
+- Put rest of Kant here, and then move on to further
+elaboration.
 
-- One meaning of "outside": we can move to it, like moving
-to what we see. 
+, and
+that makes sense of how our eyes contain the world and that
+we earlier described as the sense in which our eyes. Or to put
+this less paradoxically, what we see outside us
+*part-by-part*, is inside us *as a whole* to be seen at all.
+And this wholeness is given rather than gained. 
 
-- Another meaning of "outside": we can't move to it, because
-it is outside as a whole. 
+We could elaborate on this through an argument borrowed from
+Kant. <!--Perhaps mention distinction between every part of
+space outside every other part being still in space.--> For
+take our experience of the world, so far as it *seems* to
+lie outside us, to be an experience of space. In this sense,
+whatever we see as outside us is in a place, that we might
+reach by movement to that place, and more generally move
+from place to place, as if the world outside us were built
+part by part. But *to see* it is already to have reached it
+in another sense; a sense not explained by its place outside
+us, or the movement that might reach it, or movement more
+generally from place to place. But this suggests that if the
+world can be seen at all, even as outside us, then it cannot
+be *simply* outside us, or merely built part by part. There
+must be a sense, a sense tied to sense, in which the world
+forms a whole inside us. Or to put this another way, which
+might make the thought more intelligible, the world we see
+lies outside us in a form of extensiveness, with parts
+always lying outside each other; but the world we see also
+lies inside us in a form of intensiveness, with no parts
+lying outside each other. where  any part is indeed
+*outside* any other part, sofar as we could call it
+*extensive*, where its parts always lie *outside* one
+another, one part always lies outside we can only see the
+world *as outside* us in seeing it as *extensive*
 
-(Need to clarify
-this by starting with sense of outside.) Yet space forms
-both a kind of outside for us, part by part; and a kind of
-inside for us, as a whole. For on the one hand, we
-distinguish one part of space as *outside* another, and can
-occupy both parts in turn, in a motion from place to place.
-Yet on the other hand, every part of space, even if outside
-every other part, is still *in* space, just as we occupy any
-part of it not merely *at* that place, but *in* it, and move
-not merely *across* space, but *through* it. 
+
+- Explain meaning of "outside" as part-by-part. 
+    - Perhaps could use category of extensive here
+    - Mode of extension and medium of motion.
+    - We can move from part to part, or place to place
+    - Every part of space outside every other part
+    - Can also move to what we see.
+        - This is perhaps best illustration of outside,
+	that what we see "outside" we can reach in
+	movement.
+
+- Transition to "inside" as whole
+    - How to reach what we see in sight, rather than
+    in movement? 
+    - Since every part of space outside every other part,
+    and insofar as all parts can be occupied in turn, how
+    is every part *in* space? 
+    - Or, how do we find the world *always* outside us, as
+    a matter of perception? 
+
+- Explain meaning of "inside" as whole
+    - Every part of space *in* space.
+    - Perhaps use category of intensive here.
+    - Form of sensibility.
+
+- Idea: it is only when we are inside space as a whole
+that space as a whole can also be outside.
+    - Problem  with this formulation: was introduced by a 
+    distinction between inside as a whole and outside
+    part-by-part. How to retain "part-by-part" element in
+    talking about the world being outside us.
+
+(Need to clarify this by starting with sense of outside.)
+Yet space forms both a kind of outside for us, part by part;
+and a kind of inside for us, as a whole. For on the one
+hand, we distinguish one part of space as *outside* another,
+and can occupy both parts in turn, in a motion from place to
+place. Yet on the other hand, every part of space, even if
+outside every other part, is still *in* space, just as we
+occupy any part of it not merely *at* that place, but *in*
+it, and move not merely *across* space, but *through* it. 
 
 Original paragraph:
+
+For take our experience of the world to be like
+our experience of space. On the one hand, we distinguish one
+part of space as *outside* another, and can occupy both
+parts in turn. In this respect, part by part, space forms
+a kind of outside for us, as we move from place to place. On
+the other hand, as a whole space also forms a kind of
+inside for us, despite our movement from place to place.
+For every part of space, even if outside every other part,
+is still *in* space, just as we occupy any part of it not
+merely *at* that place, but *in* it, and move not merely
+*across* space, but *through* it. 
 
 <!--Note, in below analysis, could bring out "part/whole"
 language more clearly. And connect to earlier paradox
