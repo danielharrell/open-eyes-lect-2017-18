@@ -242,37 +242,67 @@ the world inside us in this sense *appears* outside us,
 as if we were open to the very world we truly
 enclose.
 
-<!--In above, the thing to be explained is why the world
-inside us appears outside us. And the gist of the
-explanation is that it appears outside us, especially in the
+
+<!--To be explained: why the world
+inside us appears outside us. 
+It appears outside us, especially in the
 "outside" that makes sense of perception, as a phenomenal
 effect of being inside it as a whole, which in turn is
 explained by a sense of space being inside us.-->
 
-<--In below, make briefer, and clarify sense
+<!--In below, make briefer, and clarify sense
 in which we experience it outside us is not spatial,
-but worldly.--> 
+but worldly. Form of sensibility not spatial, but
+worldly (cosmic). At a center, suggesting a world.--> 
 
-For take our experience of the world, so far as we do
-experience it *outside* us, to be an experience of space.
-The outside, in this sense, is how we distinguish one part
-of the world spatially from another: the one part is always
-*outside* the other part, and we can occupy both parts only
-in turn, by movement from one to the other. In this senseAnd as we move
-from part to part, or place to place, we could say we are
-outside. 
+<!--Space as extensive: always on surface of globe.
+Space as intensive: always at center of globe.-->
 
-But this is only half the story about space, so to speak.
-For every part of the world, even if outside every
-other part, is *in* space for us, just as we occupy any part
-not merely *at* that place, but *in* it, and move from part
-to part not merely *across* space, *through* it. What is
-more, we can reach any part in perception *before* we reach
-it in motion, as if one part were *never* outside another
-part for our eyes, but only space as a whole, putting us
-inside it at a kind of center, where we never move but only
-look. It is here, *inside* the outside, that we seem to be
-*open* to the outside. 
+- The "outside" is spatial. 
+- But the spatial is outside without an inside
+    - We are outside in this sense
+    - We are as if on the surface of a sphere
+- The "outside" in this case has an inside
+    - We are inside this outside
+    - We are as if at the center of the sphere
+    - This center is not spatial
+        - We are unmoved there
+    - The inside is rather worldly, or cosmic
+        - For Kant, a form of sensibility that isn't spatial
+
+- Use old version of this section to bring back space.
+
+- Rewrite first sentence below to this effect: because
+we say the world is *outside* us, we might take this to
+be an experience of space. (But this won't be quite
+correct.) 
+
+For what do we mean by the word "outside", or should we
+mean, when we use it to locate the world in relation to us?
+We might think we mean it in a spatial sense. For the
+outside is how we distinguish one part of space from
+another: one part is always *outside* the other, and we can
+occupy both parts only in turn, by movement from one to the
+other. But in this sense we, too, are outside, as we move
+from part to part, or place to place. And the world, then,
+is not outside us spatially, but alongside us, or underneath
+us, as if the world were a sphere and we lived on its
+surface.  
+
+- This can't be the right sense, since in this sense we
+  ourselves are always outside. But this is only half the
+  story about space, so to speak. For every part of the
+  world, even if outside every other part, is *in* space for
+  us, just as we occupy any part not merely *at* that place,
+  but *in* it, and move from part to part not merely
+  *across* space, *through* it. What is more, we can reach
+  any part in perception *before* we reach it in motion, as
+  if one part were *never* outside another part for our
+  eyes, but only space as a whole, putting us inside it at
+  a kind of center, where we never move but only look. It is
+  here, *inside* the outside, that we seem to be *open* to
+  the outside. (And here where we can experience a world
+  outside us.)
 
 But what puts us, then, at this center of openness, inside
 the outside? Where, in other words, does our sense of being
