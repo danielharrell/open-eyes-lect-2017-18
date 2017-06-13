@@ -249,47 +249,56 @@ explanation is that it appears outside us, especially in the
 effect of being inside it as a whole, which in turn is
 explained by a sense of space being inside us.-->
 
+<--In below, make briefer, and clarify sense
+in which we experience it outside us is not spatial,
+but worldly.--> 
+
 For take our experience of the world, so far as we do
 experience it *outside* us, to be an experience of space.
 The outside, in this sense, is how we distinguish one part
-of space from another: the one part is always *outside* the other
-part, and we can occupy both only in turn, by movement from
-one to the other. And as we move from part to part, place to
-place, space forms a kind of outside for us, in a mode we
-might call *extensive*. 
+of the world spatially from another: the one part is always
+*outside* the other part, and we can occupy both parts only
+in turn, by movement from one to the other. In this senseAnd as we move
+from part to part, or place to place, we could say we are
+outside. 
 
 But this is only half the story about space, so to speak.
-Space also forms a kind of inside for us, in a mode we might
-call *intensive*. For every part of space, even if outside
-every other part, is still *in* space, just as we occupy any
-part of it not merely *at* that place, but *in* it, and move
-not merely *across* space, but *through* it. What is more,
-we can reach any part of space in perception *before* we
-reach it in motion, as if one part of space were *never*
-outside another part for our eyes, but only space as
-a whole, putting us inside it at a kind of center, where we
-never move but only look. It is at this center, in other
-words, inside space as a whole, that we could say we are
-open rather than closed.
+For every part of the world, even if outside every
+other part, is *in* space for us, just as we occupy any part
+not merely *at* that place, but *in* it, and move from part
+to part not merely *across* space, *through* it. What is
+more, we can reach any part in perception *before* we reach
+it in motion, as if one part were *never* outside another
+part for our eyes, but only space as a whole, putting us
+inside it at a kind of center, where we never move but only
+look. It is here, *inside* the outside, that we seem to be
+*open* to the outside. 
 
-But what, then, puts us at this center of openness? Where,
-in other words, does our sense of being inside space as
-a whole come from? After all, we are always outside every
-unoccupied part, and outside even the occupied part, so soon
-as we move to another part. There is nothing in our
-experience of space, then, that leaves any room for a center
-within it; nothing on the outside, in other words, to
-explain being on the inside. And this suggests, or so Kant
-might say, that our sense of being inside space as a whole
-comes not from space, but rather from us. That is, we have
-a sense of our place in space that contains not just us, in
-just that place, but all of space, to locate us *inside* it
-at just that place, or at any other place we might occupy. And
-we find ourselves inside space as a whole, then, precisely
-insofar as the whole of space is found inside us. Space is not
+But what puts us, then, at this center of openness, inside
+the outside? Where, in other words, does our sense of being
+inside the world as a whole come from? After all, we are
+always outside every unoccupied part, and outside even the
+occupied part, so soon as we move to another part. There
+seems to be nothing in our experience of the spatial world
+that leaves any room for a center within it; nothing on the
+outside, in other words, to explain being on the inside. And
+this suggests that our sense of being inside space as
+a whole comes not from space, but instead from us. That is,
+we have a sense of our place in space that contains not just
+us, in just that place, but all of space, to locate us
+*inside* it at just that place, or at any other place we
+might occupy. And we find ourselves inside space as a whole,
+then, insofar as the whole of space is found inside us. Or
+to put it less paradoxically, we could say that space is not
 just a mode of extension, or medium of motion, but *a form
-of sensibility*---to use Kant's term for it. <!--Note, in
-below analysis, could bring out "part/whole" language more
+of sensibility*---to use Kant's term for it. And it is only
+as a form of sensibility, on this view, that space can put
+the whole world *outside* us,  to be, as something to be
+seen, to beinside us that gives us a sense of the world
+outside us.
+
+<!--Note, in below
+analysis, could bring out "part/whole" language more
 clearly. And connect to earlier paradox in opennness:
 outside and inside continuous but discontinuous in moving
 between whole and part-->
