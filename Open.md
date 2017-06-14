@@ -242,6 +242,7 @@ the world inside us in this sense *appears* outside us,
 as if we were open to the very world we truly
 enclose.
 
+## Notes for this section
 
 <!--To be explained: why the world
 inside us appears outside us. 
@@ -277,39 +278,48 @@ we say the world is *outside* us, we might take this to
 be an experience of space. (But this won't be quite
 correct.) 
 
+## Start of section again
+
 For what do we mean by the word "outside", or should we
 mean, when we use it to locate the world in relation to us?
-We might think we mean it in a spatial sense. For the
-outside is how we distinguish one part of space from
-another: one part is always *outside* the other, and we can
-occupy both parts only in turn, by movement from one to the
-other. But in this sense we, too, are outside, as we move
-from part to part, or place to place. And the world, then,
-is not outside us spatially, but alongside us, or underneath
-us, as if the world were a sphere and we lived on its
-surface.  
 
-- This can't be the right sense, since in this sense we
-  ourselves are always outside. But this is only half the
-  story about space, so to speak. For every part of the
-  world, even if outside every other part, is *in* space for
-  us, just as we occupy any part not merely *at* that place,
-  but *in* it, and move from part to part not merely
-  *across* space, *through* it. What is more, we can reach
-  any part in perception *before* we reach it in motion, as
-  if one part were *never* outside another part for our
-  eyes, but only space as a whole, putting us inside it at
-  a kind of center, where we never move but only look. It is
-  here, *inside* the outside, that we seem to be *open* to
-  the outside. (And here where we can experience a world
-  outside us.)
+<!-- Later we could say that the world is spatially outside
+us, but as a world is inside us.--> We might think we mean
+it in a spatial sense. For the outside is how we distinguish
+one part of space from another: one part is always *outside*
+the other, and we can occupy both parts only in turn, by
+movement from one to the other. But in this sense we, too,
+are outside, as we move from part to part, or place to
+place. In spatial terms, then, it seems that only parts of the
+world are ever outside us; the world as a whole is rather
+alongside us, or underneath us, as if the world were
+a sphere and we lived on its surface.  
 
-But what puts us, then, at this center of openness, inside
-the outside? Where, in other words, does our sense of being
-inside the world as a whole come from? After all, we are
-always outside every unoccupied part, and outside even the
-occupied part, so soon as we move to another part. There
-seems to be nothing in our experience of the spatial world
+But what if we lived instead, or in addition, *inside* this
+sphere? Then it seems the world as a whole *would* be
+outside us, since we were inside it. But this could not be
+in a spatial sense, where there is *only* outside, the
+outside as such, with no room for an inside. And yet our
+sense of the outside as such suggests we are indeed inside
+it. For every part of space, even if outside every other
+part, is still *in* space for us, just as we occupy a part
+not merely *at* that place, but *in* it, and move from part
+to part not merely *across* space, but *through* it. What is
+more, we can reach any part of it in perception *before* we
+reach it in motion, as if one part were *never* outside
+another part for our eyes, but only space as a whole,
+putting us inside it at a kind of center, where we never
+move but only look. It is therefore at this center, *inside*
+the outside, that we seem to be *open* to the outside. The
+world is there, outside us, when we are here, inside it.  
+
+<!--Make sure to mention how being at a center is also not
+spatial--> But since space, the outside as such, again
+leaves no room for an inside, (much less one with a center),
+then how did we get inside? What puts us, then, at this
+center of openness, inside the outside? Where, in other
+words, does our sense of being inside space as a whole come
+from? There seems to be nothing in our experience of space
 that leaves any room for a center within it; nothing on the
 outside, in other words, to explain being on the inside. And
 this suggests that our sense of being inside space as
