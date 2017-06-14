@@ -290,7 +290,7 @@ one part of space from another: one part is always *outside*
 the other, and we can occupy both parts only in turn, by
 movement from one to the other. But in this sense we, too,
 are outside, as we move from part to part, or place to
-place. In spatial terms, then, it seems that only parts of the
+place. In spatial terms, only parts of the
 world are ever outside us; the world as a whole is rather
 alongside us, or underneath us, as if the world were
 a sphere and we lived on its surface.  
@@ -298,23 +298,41 @@ a sphere and we lived on its surface.
 But what if we lived instead, or in addition, *inside* this
 sphere? Then it seems the world as a whole *would* be
 outside us, since we were inside it. But this could not be
-in a spatial sense, where there is *only* outside, the
-outside as such, with no room for an inside. And yet our
-sense of the outside as such suggests we are indeed inside
-it. For every part of space, even if outside every other
-part, is still *in* space for us, just as we occupy a part
-not merely *at* that place, but *in* it, and move from part
-to part not merely *across* space, but *through* it. What is
-more, we can reach any part of it in perception *before* we
-reach it in motion, as if one part were *never* outside
-another part for our eyes, but only space as a whole,
-putting us inside it at a kind of center, where we never
-move but only look. It is therefore at this center, *inside*
-the outside, that we seem to be *open* to the outside. The
-world is there, outside us, when we are here, inside it.  
+true in a spatial sense, since parts of space again lie
+always outside each other, without any need, or room as it
+were, for an inside. Space, we might say, is the outside *as
+such*. And yet *our sense* of the outside as such suggests
+we are indeed inside it. For every part of space, even if
+outside every other part, is still *in* space for us, just
+as we occupy a part not merely *at* that place, but *in* it,
+and move from part to part not merely *across* space, but
+*through* it. What is more, it seems we can reach any part
+of space in perception *before* we reach it in motion, as if
+one part of space were *never* outside another part for our
+eyes, but only space as a whole, putting us inside it at
+a kind of center, where we never move but only look, and
+look always *out*. If we *are* open to the outside, then, it
+seems to be from a center *inside* the outside. And when we
+use the word "outside" to locate the world in relation to
+us, it seems we indeed mean it in some non-spatial sense, or
+call it trans-spatial sense, where the outside can have an
+inside, the inside can have a center, the center can have an
+occupant, and the occupant has the power, from that center,
+to encompass the outside and call it "the world".
 
-<!--Make sure to mention how being at a center is also not
-spatial--> But since space, the outside as such, again
+Or more briefly put, our use of the word "outside" to locate
+the world comes not from space, but instead from us, and the
+way that we *contain* the world from inside it to locate it
+outside us. In this sense "the outside" is no longer a mode
+of extension, or medium of motion, but a form of
+sensibility---to borrow Kant's term for it. But this use of
+"outside" for the world, then, comes not from space; but
+instead from us. trans-spatial sense, then, comes not from
+space, but instead from us, <!-- No way to get *into* this
+place; we must already possess it. Since we don't get it
+from space, we get it from us.--> 
+
+But since space, the outside as such, again
 leaves no room for an inside, (much less one with a center),
 then how did we get inside? What puts us, then, at this
 center of openness, inside the outside? Where, in other
