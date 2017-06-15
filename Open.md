@@ -309,26 +309,25 @@ space, but *through* it. We use prepositions for our place
 in space, then, that suggest we inhabit all of it while
 occupying only some of it. 
 
-<!--Revise/delete first sentence-->
-And because we inhabit it, it seems, we can be open to it.
-For any part of space we might reach in motion, we can reach
-first in perception, as if we could occupy two parts of
-space at once, so long as we used our eyes rather than our
-feet. And this would make sense, if the outside no longer
-distinguished one part of space from another, providing
-places to move between, in any direction; but rather
-distinguished the whole of space from a kind of center
-inside it, a place to look rather than move, in a single
-direction 'out'. It would then be from a center inside the
-outside that we are open to the outside. And when we
-use the word "outside", then, to locate the world in
-relation to us, we mean it in a non-spatial sense, or call
-it trans-spatial sense, where the outside has an inside, the
-inside has a center, the center has an inhabitant, and the
-inhabitant has a power, from that center, to encompass the
-outside, and call it "the world". <!--This last sentence
-might need clarification in terms of the whole-->
-
+<!--Revise/delete first sentence--> And because we inhabit
+it, it seems, we can be open to it. For any part of space we
+might reach in motion, we can reach first in perception, as
+if we could occupy two parts of space at once, so long as we
+used our eyes rather than our feet. And this would make
+sense, if the outside no longer distinguished one part of
+space from another, or places to move between in any
+direction; but rather distinguished the whole of space from
+a kind of center inside it, a place to look rather than
+move, in a single direction 'out'. It would then be from
+a center inside the outside that we could be open to the
+outside. And when we use the word "outside", then, to locate
+the world in relation to us, we mean it in a non-spatial
+sense, or call it trans-spatial sense, where the outside has
+an inside, the inside has a center, the center has an
+inhabitant, and the inhabitant has a power, from that
+center, to encompass the outside, and call it "the world".
+<!--Need to introduce "encompassing" as a distinct theme
+from being at a center.-->
 Or more briefly put, our use of the word "outside" to locate
 the world comes not from space, but instead from us, and the
 way that we *contain* the world from inside it to locate it
