@@ -280,45 +280,54 @@ correct.)
 
 ## Start of section again
 
-For what do we mean by the word "outside", or should we
-mean, when we use it to locate the world in relation to us?
-
-<!-- Later we could say that the world is spatially outside
-us, but as a world is inside us.--> We might think we mean
+For what does the word "outside" mean, when we use it to
+locate the world in relation to us? We might think we mean
 it in a spatial sense. For the outside is how we distinguish
 one part of space from another: one part is always *outside*
 the other, and we can occupy both parts only in turn, by
-movement from one to the other. But in this sense we, too,
-are outside, as we move from part to part, or place to
-place. In spatial terms, only parts of the
-world are ever outside us; the world as a whole is rather
-alongside us, or underneath us, as if the world were
-a sphere and we lived on its surface.  
+movement from one to the other. But in this sense we too are
+outside, as we move from part to part. And since we always
+occupy a part, it is never the whole world outside us in
+spatial terms. At best we might say it lies alongside us, or
+underneath us, as if the world were a sphere and we lived on
+its surface.
 
 But what if we lived instead, or in addition, *inside* this
-sphere? Then it seems the world as a whole *would* be
-outside us, since we were inside it. But this could not be
-true in a spatial sense, since parts of space again lie
-always outside each other, without any need, or room as it
-were, for an inside. Space, we might say, is the outside *as
-such*. And yet *our sense* of the outside as such suggests
-we are indeed inside it. For every part of space, even if
-outside every other part, is still *in* space for us, just
-as we occupy a part not merely *at* that place, but *in* it,
-and move from part to part not merely *across* space, but
-*through* it. What is more, it seems we can reach any part
-of space in perception *before* we reach it in motion, as if
-one part of space were *never* outside another part for our
-eyes, but only space as a whole, putting us inside it at
-a kind of center, where we never move but only look, and
-look always *out*. If we *are* open to the outside, then, it
-seems to be from a center *inside* the outside. And when we
-use the word "outside" to locate the world in relation to
-us, it seems we indeed mean it in some non-spatial sense, or
-call it trans-spatial sense, where the outside can have an
-inside, the inside can have a center, the center can have an
-occupant, and the occupant has the power, from that center,
-to encompass the outside and call it "the world".
+sphere? Then it seems the whole world *would* be outside us,
+since we were inside it. But again, this could not be true
+in a spatial sense, where one part of space is always
+outside another. That is, if one part is outside another,
+the other is also outside, not inside, the one. The outside
+of space, it seems, has no need, or room as it were, for an
+inside; and we might think of space as *the outside as
+such*. Still, *our sense* of the outside as such suggests we
+are, somehow, inside it. For even though one part of space
+is always outside another, every part is *in* space for us,
+just as we occupy a part not merely *at* that place, but
+*in* it, and move from part to part not merely *across*
+space, but *through* it. We use prepositions for our place
+in space, then, that suggest we inhabit all of it while
+occupying only some of it. 
+
+<!--Revise/delete first sentence-->
+And because we inhabit it, it seems, we can be open to it.
+For any part of space we might reach in motion, we can reach
+first in perception, as if we could occupy two parts of
+space at once, so long as we used our eyes rather than our
+feet. And this would make sense, if the outside no longer
+distinguished one part of space from another, providing
+places to move between, in any direction; but rather
+distinguished the whole of space from a kind of center
+inside it, a place to look rather than move, in a single
+direction 'out'. It would then be from a center inside the
+outside that we are open to the outside. And when we
+use the word "outside", then, to locate the world in
+relation to us, we mean it in a non-spatial sense, or call
+it trans-spatial sense, where the outside has an inside, the
+inside has a center, the center has an inhabitant, and the
+inhabitant has a power, from that center, to encompass the
+outside, and call it "the world". <!--This last sentence
+might need clarification in terms of the whole-->
 
 Or more briefly put, our use of the word "outside" to locate
 the world comes not from space, but instead from us, and the
