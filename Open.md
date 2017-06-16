@@ -188,6 +188,8 @@ cases of openness to be praised? And if it *is* intact, then
 why call these cases of being open, rather than cases of
 being closed?  
 
+---
+
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
@@ -242,43 +244,7 @@ the world inside us in this sense *appears* outside us,
 as if we were open to the very world we truly
 enclose.
 
-## Notes for this section
-
-<!--To be explained: why the world
-inside us appears outside us. 
-It appears outside us, especially in the
-"outside" that makes sense of perception, as a phenomenal
-effect of being inside it as a whole, which in turn is
-explained by a sense of space being inside us.-->
-
-<!--In below, make briefer, and clarify sense
-in which we experience it outside us is not spatial,
-but worldly. Form of sensibility not spatial, but
-worldly (cosmic). At a center, suggesting a world.--> 
-
-<!--Space as extensive: always on surface of globe.
-Space as intensive: always at center of globe.-->
-
-- The "outside" is spatial. 
-- But the spatial is outside without an inside
-    - We are outside in this sense
-    - We are as if on the surface of a sphere
-- The "outside" in this case has an inside
-    - We are inside this outside
-    - We are as if at the center of the sphere
-    - This center is not spatial
-        - We are unmoved there
-    - The inside is rather worldly, or cosmic
-        - For Kant, a form of sensibility that isn't spatial
-
-- Use old version of this section to bring back space.
-
-- Rewrite first sentence below to this effect: because
-we say the world is *outside* us, we might take this to
-be an experience of space. (But this won't be quite
-correct.) 
-
-## Start of section again
+---
 
 For what does the word "outside" mean, when we use it to
 locate the world in relation to us? We might think we mean
@@ -307,7 +273,7 @@ merely *across* space, but *through* it. We use prepositions
 for our place in space, then, that suggest we inhabit all of
 it while occupying only some of it. 
 
-A deeper sign of our inhabitance, however, is our openness.
+A deeper sign of our inhabitance is our openness.
 For any part of space we might reach in motion, we can reach
 first in perception, as if we could occupy two parts of
 space at once, so long as we used our eyes rather than our
@@ -329,120 +295,67 @@ it to locate the world in relation to us. For the outside
 now has an inside, the inside a center, the center an
 inhabitant, and the inhabitant a power, from that center, to
 encompass the outside, and call this "the world". And this
-inhabitant looks more like a native than like an immigrant.
-In other words, when we say the world lies *outside* us, our
-use of 'outside' seems to come not from space, or any story
-involving space, but instead from us, and the way we might be
-said inherently, even essentially, to *contain* the world,
-from inside it, to locate it---all of it---outside us. The
-outside, in this sense, is no longer a mode of extension, or
-medium of motion, but a *form of sensibility*---to borrow
-Kant's term for it. 
+inhabitant looks more native than immigrant.
+In other words, we use the word "outside" for the world
+because of a relation to it that is given rather than
+gained, and given insofar as we can be said to *contain* the
+world, from inside it, to locate all of it outside us. Or to
+put this view more conventionally, the outside is not just
+a mode of extension, or medium of motion, but a *form of
+sensibility*---to borrow Kant's term for it. And this
+explains why the world inside us *appears* outside us, as if
+we were open to the very world we truly enclose.
 
-But since space, the outside as such, again
-leaves no room for an inside, (much less one with a center),
-then how did we get inside? What puts us, then, at this
-center of openness, inside the outside? Where, in other
-words, does our sense of being inside space as a whole come
-from? There seems to be nothing in our experience of space
-that leaves any room for a center within it; nothing on the
-outside, in other words, to explain being on the inside. And
-this suggests that our sense of being inside space as
-a whole comes not from space, but instead from us. That is,
-we have a sense of our place in space that contains not just
-us, in just that place, but all of space, to locate us
-*inside* it at just that place, or at any other place we
-might occupy. And we find ourselves inside space as a whole,
-then, insofar as the whole of space is found inside us. Or
-to put it less paradoxically, we could say that space is not
-just a mode of extension, or medium of motion, but *a form
-of sensibility*---to use Kant's term for it. And it is only
-as a form of sensibility, on this view, that space can put
-the whole world *outside* us,  to be, as something to be
-seen, to beinside us that gives us a sense of the world
-outside us.
+---
 
-- And if we borrow an argument from Kant,
-to whom Schopenhauer was indebted, we can even explain why
-the world inside us in this sense *appears* outside us,
-as if we were open to the very world we truly
-enclose.
-
-<!--Note, in below
-analysis, could bring out "part/whole" language more
-clearly. And connect to earlier paradox in opennness:
-outside and inside continuous but discontinuous in moving
-between whole and part-->
-
-<!--Perhaps put more on reaching outside from inside as a way
-to explain perception in general. Only being "inside" world
-can explain reaching what lies outside us in perception-->
-
-And where we find space, so too, perhaps, we find the world:
-outside us, *because* it lies inside us. For we would never
-find it outside us, on this view, unless inside us there
-were a sense of the world that contained all of it along
-with us; a sense of it that is all-encompassing. <!-- This
-account explains what was earlier paradoxical. For one
-thing...--> And if this inside sense of world were ever lost,
-then also lost, perhaps, would be any sense of outside---at
-least so far as it might be reached from inside. Once
-Odysseus, for example, is no longer master of his door, we
-could say a world of hospitality is lost; and now his door
-can open only outside in: to let the suitors through. Or
-once Leontius is no longer master of his eyes, we could say
-a world of discernment is lost; and now his eyes can open
-only outside in: to let the corpses through.   
-
+This same view can explain the corruption of openness. For
+if we ever *lost* the world inside us, presumably we would lose any
+appearance of that same world outside us, as if true
+openness worked from the inside out, and its corruption from
+the outside in. Once Odysseus, for example, is no longer
+master of his door, we could say a world of hospitality is
+lost; and now his door can open only outside in: to let the
+suitors through. Or once Leontius is no longer master of his
+eyes, we could say a world of judgement is lost; and now
+his eyes can open only outside in: to let the corpses
+through. And what gets broken, then, in cases of
+openness to be condemned, is a kind of hinge that works
+inside out only when the world can stand behind them. 
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
-What <!--change "breaks" to some form of "is broken" to
-match earlier use of this--> breaks, then, in cases of
-openness to be condemned, is a kind of hinge that opens
-inside out only when the world can stand behind it. And the
-world does stand behind it, in cases of openness to be
-praised. For on this view, we can open ourselves to the
-world, from inside out, only if we already possess the
-world, and in that sense contain it. When the world is
-already there, it can fill our eyes---from within---to open
-them. And what we see, through our eyes, is this same whole
-world outside us, in an experience of openness to the world
-that *depends on* having enclosed it, as if being open were
-how being closed *looked*, when seen from within.
+But this is also to say, for cases of openness to be
+praised, that the world stands *behind* them, not in front
+of them. For on this account, again, our inherent openness
+to the world depends on having enclosed it, as if being open
+were how being closed *looked*, when seen from within. We
+are given all the more reason, then, to believe that every
+case of being open is a case of being closed that *appears*
+open, and that we call "open" from this mere appearance. We
+call a parabola "open", then, because the way it is closed
+gives it an inside we can see out of, just as we can
+likewise see out of a lidless pickle jar to call it "open".
+The jar's inside can *stay* inside when the lid is off, so
+long as we still look at the jar as if looking out of it,
+from the inside formed when the lid is on. And the
+parabola's inside can stay inside even when its line is
+finite, so long as we still look at the parabola as if
+looking out of it, from the inside formed when the
+parabola's line is infinite. And we are likely to look at
+things this way, as if we were in them looking out of them,
+since this is how we have to look, on this account, to see
+anything at all: from inside the entire world out, and as if
+we were *enclosed* in openness. 
 
-If we accept this account, then we could conclude that every
-case of being open is indeed a case of being closed that
-*appears* open, and that we call "open" from this mere
-appearance. We call a parabola "open", then, because the way
-it is closed gives it an inside we can see out of, just as
-we can likewise see out of a lidless pickle jar to call it
-"open". The jar's inside can *stay* inside when the lid is
-removed, so long as we still look at the jar as if looking
-out of it, from the inside formed when the jar is closed.
-Just as the parabola's inside can stay inside even when its
-line is finite, so long as we still look at the parabola as
-if looking out of it, from the inside formed when the
-parabola is completed. And we are likely to look at things
-this way, as if looking out of them, or in a direction from
-inside out, since this is how we have to look, on this
-account, to see anything at all: from inside the whole world
-out, and as if we were *enclosed* in openness. 
-
-<!--put continuity resolution somewhere above, perhaps
-where the Kant acocunt is, to indicate "in" and "out"-->
-<!--Inside is whole; outside is part-->
+<!--Is there a way to bring back continuity issue here,
+as something resolved on this account?-->
 
 <!--"predicament" below could be tied to language of "paradox"
 above if I bring back language of "paradox" for that.-->
 
-Or to borrow a description from Francis Wolff
-Yet if being open is indeed the mere appearance or look of
-being closed, then our own being open becomes a kind of
-predicament, since we could say we are *enclosed* in
-openness. The sense of predicament here is captured well,
-I think, in this description by Francis Wolff,
-a contemporary philosopher:
+The sense of this predicament, of being enclosed in
+openness, is captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
 
 > Everything is inside because in order to think anything
 whatsoever, it is necessary to ‘be able to be conscious of
@@ -644,6 +557,54 @@ this to Bergson.)
 - Use shift from jars to eyes as a way of indicating that
   distinction between inside and outside is not just
   dimensional but Ontological.
+
+## Notes for section on space
+
+<!--To be explained: why the world
+inside us appears outside us. 
+It appears outside us, especially in the
+"outside" that makes sense of perception, as a phenomenal
+effect of being inside it as a whole, which in turn is
+explained by a sense of space being inside us.-->
+
+<!--In below, make briefer, and clarify sense
+in which we experience it outside us is not spatial,
+but worldly. Form of sensibility not spatial, but
+worldly (cosmic). At a center, suggesting a world.--> 
+
+<!--Space as extensive: always on surface of globe.
+Space as intensive: always at center of globe.-->
+
+- The "outside" is spatial. 
+- But the spatial is outside without an inside
+    - We are outside in this sense
+    - We are as if on the surface of a sphere
+- The "outside" in this case has an inside
+    - We are inside this outside
+    - We are as if at the center of the sphere
+    - This center is not spatial
+        - We are unmoved there
+    - The inside is rather worldly, or cosmic
+        - For Kant, a form of sensibility that isn't spatial
+
+- Use old version of this section to bring back space.
+
+- Rewrite first sentence below to this effect: because
+we say the world is *outside* us, we might take this to
+be an experience of space. (But this won't be quite
+correct.) 
+
+<!--Note, in below
+analysis, could bring out "part/whole" language more
+clearly. And connect to earlier paradox in opennness:
+outside and inside continuous but discontinuous in moving
+between whole and part-->
+
+<!--Perhaps put more on reaching outside from inside as a way
+to explain perception in general. Only being "inside" world
+can explain reaching what lies outside us in perception-->
+
+
 
 #### Accounts of perception and Intellect another sign of problem 
 
