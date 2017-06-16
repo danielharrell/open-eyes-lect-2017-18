@@ -208,7 +208,12 @@ filling our eyes *from within*, and making them more like
 a closed jar, or completed parabola? 
 
 We might argue for this as the philosopher Schopenhauer once
-did, with the brevity that befits a self-evident truth:
+did, with the brevity of a self-evident truth: <!--Later
+return to the seeming self-evidence of this, a matter of
+philosophical discernment. For Part 2 opening, the
+predicament is that our very thinking that proves our
+freedom instead proves our enslavement. Our very openness
+proves our closedness.-->
 
 > It is therefore the Understanding
 itself which has to create the objective world; for this
@@ -262,18 +267,19 @@ But what if we lived instead, or in addition, *inside* this
 sphere? Then it seems the whole world *would* be outside us,
 since we were inside it. But again, this could not be true
 in a spatial sense, where parts of space are always outside
-one another. The outside of space, it seems, has no need, or room
-as it were, for an inside. And we might think of space
-as *the outside as such*. Still, *our sense* of the outside
-as such suggests we are, somehow, inside it. For even though
-parts of space are always outside one another, every part is
-*in* space for us, just as we occupy a part not merely *at*
-that place, but *in* it, and move from part to part not
-merely *across* space, but *through* it. We use prepositions
-for our place in space, then, that suggest we inhabit all of
-it while occupying only some of it. 
+one another. <!-- Note, perhaps introduce notion of
+"alongside" here.--> The outside of space, it seems, has no
+need, or room as it were, for an inside. And we might think
+of space as *the outside as such*. Still, *our sense* of the
+outside as such suggests we are, somehow, inside it. For
+even though parts of space are always outside one another,
+every part is *in* space for us, just as we occupy a part
+not merely *at* that place, but *in* it, and move from part
+to part not merely *across* space, but *through* it. We use
+prepositions for our place in space, then, that suggest we
+inhabit all of it while occupying only some of it. 
 
-A deeper sign of our inhabitance is our openness.
+A deeper sign of our inhabitance, however, is our openness.
 For any part of space we might reach in motion, we can reach
 first in perception, as if we could occupy two parts of
 space at once, so long as we used our eyes rather than our
@@ -281,13 +287,14 @@ feet. And this would make sense, if using our eyes meant
 that the outside no longer distinguished one part of space
 from another, or places to move between in any direction;
 but rather distinguished the whole of space from a kind of
-center inside it, a place to look rather than move, in
-a single direction 'out'. It would then be from this center,
-*inside* the outside, that we could be *open* to the
+center inside it, a place to look rather than move, in a
+single direction 'out'. <!--Note: this direction 'out'
+arguably lacks any distance.--> It would then be from this
+center, *inside* the outside, that we could be *open* to the
 outside. And since this *is* a center, inside the outside,
-we would be *open* to the outside so far as we *encompassed* it,
-just like the center of a sphere, but no other point inside
-the sphere, might be said to encompass its surface. 
+we would be *open* to the outside so far as we *encompassed*
+it, just like the center of a sphere, but no other point
+inside the sphere, might be said to encompass its surface. 
 
 But this again gives a non-spatial sense, or call it
 a trans-spatial sense, to the word "outside", and our use of
@@ -321,6 +328,7 @@ his eyes can open only outside in: to let the corpses
 through. And what gets broken, then, in cases of
 openness to be condemned, is a kind of hinge that works
 inside out only when the world can stand behind them. 
+
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
@@ -331,7 +339,7 @@ to the world depends on having enclosed it, as if being open
 were how being closed *looked*, when seen from within. We
 are given all the more reason, then, to believe that every
 case of being open is a case of being closed that *appears*
-open, and that we call "open" from this mere appearance. We
+open, and that we call "open" from this appearance. We
 call a parabola "open", then, because the way it is closed
 gives it an inside we can see out of, just as we can
 likewise see out of a lidless pickle jar to call it "open".
@@ -342,13 +350,29 @@ parabola's inside can stay inside even when its line is
 finite, so long as we still look at the parabola as if
 looking out of it, from the inside formed when the
 parabola's line is infinite. And we are likely to look at
-things this way, as if we were in them looking out of them,
+things this way, as if we were in them, looking out of them,
 since this is how we have to look, on this account, to see
-anything at all: from inside the entire world out, and as if
+anything at all: from inside the entire world out. 
+
+- From here introduce enclosed in openness as separate
+theme to introduce next part.
+and as if
 we were *enclosed* in openness. 
 
-<!--Is there a way to bring back continuity issue here,
-as something resolved on this account?-->
+This may still sound paradoxical, even though this account
+resolves the paradox in the word "open" that I described
+earlier, and the continuity and disconuity ia word from which we want both continuity and
+discontinuity between inside and outside. The continuity, on
+this view, is found in space, where the inside can become an
+outside; while the discontinuity is found in us, where the
+inside remains an inside.  The paradox that lingers, if we
+are enclosed in openness, is that the inside contains the
+outside, might better be called a predicament.
+
+<!--In Wolff quote could say this replaces a paradox
+with a predicament. One way to put predicament: openness
+is proof of closedness, the world as it is, is not as
+it seems.-->
 
 <!--"predicament" below could be tied to language of "paradox"
 above if I bring back language of "paradox" for that.-->
