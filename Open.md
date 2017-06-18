@@ -4,13 +4,10 @@
 
 <!--Alternative title: "Open"-->
 
-[Copy of lecture in HTML](https://www.dropbox.com/s/d1zo3s7hevyz5x5/Outline_of_Lecture.html?dl=0)  
-[Copy of lecture in PDF](https://www.dropbox.com/s/elqz5wxxi2r3fmh/Outline_of_Lecture.pdf?dl=0)
-
 # Contents {#top}
 
-1. [Introduction](#intro)  
-1. [Part One](#one)  
+1. [Introduction](#intro)
+1. [Part One](#one)
 <!-- Renumber according to Pandoc -->
 1. [Part Two: Paradox Explored](#two)
 1. [Part Three: Paradox Resolved](#three)
@@ -20,9 +17,9 @@
 # Introduction {#intro}
 
 The word "open" is used in ways that range from the prosaic
-to the profound. 
+to the profound.
 
-    - "I can't get the jar open." 
+    - "I can't get the jar open."
     - "When does the store open?"
     - "The window is open."
     - "He's an open book." 
@@ -31,28 +28,27 @@ to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This, then, is one reason to wonder about the word, for
-*why* does it have such scope?
+This, then, is one reason to wonder about the word, for why
+does it have such scope?
 
-Another reason for wonder is that the word is
-used, mostly, without further explanation, as if its
-meaning were already understood. But if so, then *how* is it
-understood?
+Another reason for wonder is that the word is used, mostly,
+without further explanation, as if its meaning were already
+understood. But if so, then how is it understood?
 
    <!-- Note here: I could use the St. John's viewbook to
    illustrate this: "Open", alone on the cover, is not just
    an imperative to open the book, but has a nominative
    power of suggestion as well.-->
 
-And is there something here *not* understood, or
-better understood? Who if not the philosopher, Aristotle
-once asked, would care about the difference between Socrates
-and Socrates sitting?[^Socrates] Or between a door and an
-*open* door?---so we could add. The way we use the word "open"
+And is there something here not understood, or better
+understood? Who if not the philosopher, Aristotle once
+asked, would care about the difference between Socrates and
+Socrates sitting?[^Socrates] Or between a door and an open
+door?---so we could add. The way we use the word "open"
 without further thought may make it worth further thought.
 And while it would be rude to ask a friend what he meant
-when he told you his door is *always* open, well, what *did*
-he mean? 
+when he told you his door is always open, well, what did he
+mean?
 
    <!-- In my further revision of  this part, I will
    introduce philosophy in relation to the paradox. Then go
@@ -61,48 +57,45 @@ he mean?
 
 Still another reason for wonder comes from the way the word
 "open" is defined in dictionaries---largely through
-negation. To be open means *not* to be closed. Or blocked.
-Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
-Or protected. Or folded. Or clenched. Or concealed. Or
+negation. To be open means not to be closed. Or blocked. Or
+covered. Or fastened. Or sealed. Or buttoned. Or guarded. Or
+protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
-when we talk of *eyes* being opened? Or hearts? Or minds? Or
+when we talk of eyes being opened? Or hearts? Or minds? Or
 again the proverbial door, always open to a friend? Here, it
 seems, we use the word "open" for a positive condition,
 a state of being, which any negative definition at best only
 half-comprehends. And to ask about the meaning of "open",
 then, is to ask about the meaning of hospitality,
-generosity, enlightenment, love. 
+generosity, enlightenment, love.
 
 Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
-"open" more literally? Calling *our eyes* "open" may be
-figurative, but it captures how we seem to see *through* our
-eyes, to a whole world outside us---as if our eyes *were*
+"open" more literally? Calling our eyes "open" may be
+figurative, but it captures how we seem to see through our
+eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
 then, is to ask about the meaning of wakefulness, alertness,
 awareness. And awareness may be not just one way of being,
-but *our* way of being: the one that underlies all the
-others; the one that explains *why* we use "open" with such
-great scope, and as if it were already understood. <!--Note:
+but our way of being: the one that underlies all the others;
+the one that explains why we use "open" with such great
+scope, and as if it were already understood. <!--Note:
 perhaps add sentence about how open eyes are a symbol for
 awareness.-->
 
 It might also explain our reliance on negation---if being
-open in this sense meant being *not* ourselves, so far as we
-were aware of anything else. And how *can* we catch our open
-eyes in speech, save to say that they are *not* closed, in
-being open; and *not* what they see, in being eyes. Yet if
-there is nothing more to say, nothing but what being open
-is *not*, then how is being open
-something rather than nothing?  
+open in this sense meant being not ourselves, so far as we
+were aware of anything else. And how can we catch our open
+eyes in speech, save to say that they are not closed, in
+being open; and not what they see, in being eyes. Yet if
+there is nothing more to say, nothing but what being open is
+not, then how is being open something rather than nothing?
 
 Or to ask this question in the form that will guide me in my
-lecture tonight: how is being open possible? 
-
-<!-- Need to end first section with the above question
-explicitly.-->
+lecture tonight: how is being open possible? <!-- Need to
+end first section with the above question explicitly.-->
 
 [Back to top](#top)
 
@@ -113,15 +106,15 @@ case of being open can start to look like a case of being
 closed---our own way of being open most of all. But to begin
 with a simpler case, suppose I say "I can't get the jar
 open"---about a stubborn jar of pickles. What would it mean
-*to get* the jar opened? 
+*to get* the jar opened?
 
 A first answer, a dictionary answer, might be: to get the
-lid off.  
+lid off.
 
 But why the lid? Suppose I decide not to bother with the
 lid, and throw the jar to the ground, breaking it open. Why
 is this not simply another way of opening the jar? Why say
-instead that I *broke* the jar open? 
+instead that I broke the jar open?
 
 We say this, it seems, in wanting the jar to remain a jar:
 something opened without being broken. More abstractly put:
@@ -136,37 +129,36 @@ Here, then, is reason for doubt. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the lid
 is removed? After all, if we leave the jar open, the pickles
-will spoil---as if the jar's inside *were* outside, and
-there were no difference between an open jar and a broken
-jar. No difference, that is, between inside and outside,
-once the barrier between them is gone. And it starts to look
-easy enough to close the jar, but impossible to open it.    
+will spoil---as if the jar's inside were outside, and there
+were no difference between an open jar and a broken jar. No
+difference, that is, between inside and outside, once the
+barrier between them is gone. And it starts to look easy
+enough to close the jar, but impossible to open it.
 
 ---
 
 As a second example, at the other end of a pickle jar,
-consider a line from geometry: [the
-parabola](https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0).
-We can readily distinguish the sides of this line, one
-convex and one concave, since the parabola is curved. But
-suppose we go further, and take the convex side to be
-"inside" the parabola, and the concave side to be "outside".
-This would treat the curved line as a figure, analogous to
-the ellipse, only open rather than closed. But what would
-justify this interpretation? Why aren't both sides of the
-parabola still outside it, since both lie outside the line
-of the parabola? To make the inside of the parabola
-definite, and press the analogy to the ellipse, we could
-take the parabola as an infinite ellipse, formed of a line
-infinite in length, with ends that reach the edge of the
-geometric plane. But then our parabola will gain a true
-inside in just the way our pickle jar possessed one: by
-being closed. For there will be no way into the parabola, or
-out of it, through its open end, since this now lies
-infinitely far away. So while the line of the parabola never
-closes upon itself, it also never stops. Its open end, then,
-is something we can plainly see, even point to, but never
-reach---as if openness had no being but seeming.
+consider a line from geometry: [the parabola]. We can
+readily distinguish the sides of this line, one convex and
+one concave, since the parabola is curved. But suppose we go
+further, and take the convex side to be "inside" the
+parabola, and the concave side to be "outside". This would
+treat the curved line as a figure, analogous to the ellipse,
+only open rather than closed. But what would justify this
+interpretation? Why aren't both sides of the parabola still
+outside it, since both lie outside the line of the parabola?
+To make the inside of the parabola definite, and press the
+analogy to the ellipse, we could take the parabola as an
+infinite ellipse, formed of a line infinite in length, with
+ends that reach the edge of the geometric plane. But then
+our parabola will gain a true inside in just the way our
+pickle jar possessed one: by being closed. For there will be
+no way into the parabola, or out of it, through its open
+end, since this now lies infinitely far away. So while the
+line of the parabola never closes upon itself, it also never
+stops. Its open end, then, is something we can plainly see,
+even point to, but never reach---as if openness had no being
+but seeming.
 
 ---
 
@@ -178,34 +170,34 @@ genuineness of a virtue, but the kind of virtue that can be
 corrupted, and cast this genuineness into doubt. Recall the
 open door in Homer's *Odyssey*, that lets the suitors of
 Penelope fill the house of Odysseus in his absence, in the
-*abuse* of hospitality. Or the open eyes of Leontius in
+abuse of hospitality. Or the open eyes of Leontius in
 Plato's *Republic*, that let the spectacle of corpses fill
 his gaze, to his own contempt, in a similar abuse of
 sight.[^3] Both examples suggest there are cases of openness
 to be condemned, where something between outside and inside
 has broken. But what is it, then, that remains intact, in
-cases of openness to be praised? And if it *is* intact, then
+cases of openness to be praised? And if it is intact, then
 why call these cases of being open, rather than cases of
-being closed?  
+being closed?
 
 ---
 
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
-*through* them, to a whole world outside us. Yet our eyes
+through them, to a whole world outside us. Yet our eyes
 could not be open like our eyelids, or a lidless jar, just
 letting the world in. For open eyes can be poked, injured,
-even blinded. Yet if our eyes are *not* like a lidless jar
-when open, then how *does* the world get in? It could not be
-the way the world gets into a pickle jar, to *spoil* what's
+even blinded. Yet if our eyes are not like a lidless jar
+when open, then how does the world get in? It could not be
+the way the world gets into a pickle jar, to spoil what's
 inside. For the world gets into our eyes, we might say, to
-*fill* what's inside. It is as if our eyes *contained* the
-world they were open to, in order to see it and not merely
-suffer it. But if our eyes do contain the world, then *does*
-the world get in? Or is the world somehow already there,
-filling our eyes *from within*, and making them more like
-a closed jar, or completed parabola? 
+fill what's inside. It is as if our eyes contained the world
+they were open to, in order to see it and not merely suffer
+it. But if our eyes do contain the world, then does the
+world get in? Or is the world somehow already there, filling
+our eyes *from within*, and making them more like a closed
+jar, or completed parabola?
 
 We might argue for this as the philosopher Schopenhauer once
 did, with the brevity of a self-evident truth: <!--Later
@@ -221,7 +213,7 @@ our brain from outside all ready cut and dried through the
 senses and the openings of their organs.[^Fourfold]
 
 On this inference, presented as immediate, it is because our
-open eyes are *not* like a lidless jar that the world we see
+open eyes are not like a lidless jar that the world we see
 is something produced rather than revealed---as if there
 were nothing outside us to see, and the phrase "open eyes"
 were figurative in being false. Schopenhauer's most famous
@@ -240,169 +232,147 @@ in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
 The truth, on this account, is that our open eyes are not
-transparent but opaque; and what we see through them is not
-outside but inside, having a relation to us that is given
-rather than gained. 
+transparent but opaque; and the world we see through them is
+not outside but inside, having a relation to us that is
+given rather than gained.
 
 ---
 
-But if this *is* true, then why does the world inside us
+But if this is true, then why does the world inside us
 appear outside us, as if we were open to the very world we
-enclose? Answering this question, at least if we do it by
-borrowing an argument from Kant, to whom Schopenhauer was 
-indebted, underlines how our own way
-of being open is really a way of being closed that *looks*
-open, and gives that look to everything we call "open".
-<!--Repeat above sentence later-->
-<!--The account below is too belabored. It seems clear enough
-that we live *in* the world to locate it outside us. The
-burden of the argument is then to explain why this "outside"
-is non-spatial, or trans-spatial. 
+enclose? We can answer this question with an argument
+borrowed from Kant, to whom Schopenhauer was indebted. And
+it underscores how we can think of being open as a way of
+being closed that looks open, and gives that look to
+everything we call "open." 
 
-We can begin this argument with the following question: what
-does the word "outside" mean, when we use it to locate the
-world in relation to us? We might think we mean it in
-a spatial sense. For the outside is how we distinguish one
-part of space from another: one part is always *outside* the
-other, and we can occupy both parts only in turn, by
-movement from one to the other. But in this sense we too are
-outside, as we move from part to part. And since we always
-occupy a part, it is never the whole world outside us in
-spatial terms. At best we might say that most of the world
-lies outside us. Or perhaps that the whole world lies
-alongside us, or underneath us, as if the world were
-a sphere and we lived on its surface. This gives us a first
-reason, then, doubting that the word "outside" is spatial, when
-used for the world. 
+We begin the argument with this question: What does the word
+"outside" mean, when we use it to locate the world in
+relation to us? We might think we mean it in a spatial
+sense. For the outside is how we distinguish one part of
+space from another: one part is always outside the other,
+and we can occupy both parts only in turn, by movement from
+one to the other. But in this sense we, too, are outside, as
+we move from part to part, and always occupy
+a part. So it is never the whole world outside us in spatial
+terms. At best we might say most of it is
+outside us. Or perhaps that the whole world lies beside
+us, or underneath us, as if the world were a sphere and we
+lived on its surface. 
 
-A second reason for doubt follows fast upon the first. For
-suppose the world *were* a sphere, but that we lived not
-*on* it, but *in* it? Since we were now inside the world, it
-seems we *could* say---and say of all of it, not just most of
-it---that the world was outside us. But again, this could not
-be true in a spatial sense, where parts of space are always
-outside one another. The outside of space, it seems, has no
-need, or room as it were, for an inside. And we might think
-of space as *the outside as such*.   
+But suppose the world were a sphere, yet we lived not on it,
+but in it. Since we were now inside the world---all of it,
+it seems we could say the world was outside us---all of it.
+But this would be true in what we might call a trans-spatial
+sense, where the outside now had an inside to be outside of,
+and from where the whole world beside us could now be outside
+us. And there are signs this is just where we live, inside
+the outside. For while parts of space are always outside one
+another, every such part is also *in* space for us, just as we
+occupy a part not merely at that place, but in it, and move
+from part to part not merely across space, but through it.
+We use prepositions for our place in space, then, that
+suggest we inhabit all of it, even though we occupy only some
+of it.
 
-But to think this is to think it of space as a whole, as if
-we *were* inside the outside as such, despite its lack of
-room. This is then a third reason to doubt that our use of
-"outside" for the world is spatial. For there are signs that
-we indeed live inside the outside to use the word "outside"
-in this case as we do. While parts of space are always outside one
-another, every such part is also *in* space for us, just as
-we occupy a part not merely *at* that place, but *in* it,
-and move from part to part not merely *across* space, but
-*through* it. We use prepositions for our place in space,
-then, that suggest we inhabit all of it, even while
-occupying only some of it. 
-
-A deeper sign of our inhabitance of space, however, is our
-apparent openness to it. And this gives us a final reason
-to doubt the spatial sense of "outside" for the world, along
-with an initial description of its non-spatial sense.
-For any part of space we might reach in motion, we
-can reach first in perception, as if we could occupy two
+A deeper sign that we inhabit space, however, that we are
+open to it. For any part of space we might reach in motion,
+we can reach first in perception, as if we could occupy two
 parts of space at once, so long as we used our eyes rather
-than our feet. And this would make sense---and perhaps only
-make sense---if using our eyes meant that the outside no
-longer distinguished one part of space from another, or
-places to move between in any direction; but rather
-distinguished the whole of space from a kind of center
-within it, a place to look rather than move, in a single
-direction 'out'. 
+than our feet. This would make sense---and perhaps only make
+sense---if using our eyes meant that the outside no longer
+distinguished one part of space from another, or places to
+move between in any direction; but rather distinguished the
+whole of space from a kind of center within it, a place to
+look rather than move, in a single direction 'out'.
+It would then be from this center, inside the outside, that
+we could be open to the outside. 
 
-It would then be from this center, *inside* the outside,
-that we could be *open* to the outside. And since this *is*
-a center, inside the outside, we would be *open* to the
-outside insofar as we *encompassed* it, just like the center
-of a sphere, but no other point inside the sphere, might be
-said to encompass its surface. And "the outside" we invoke
-in locating the world would then have a non-spatial sense,
-or call it a trans-spatial sense, as we use it to locate the
-world in relation to us, since the outside now has an
+And since this is a center, we would be open to the outside
+by encompassing it, just like the center of a sphere, but no
+other point in the sphere, might be said to encompass its
+surface. This would deepen the trans-spatial sense of the
+word "outside" for the world. For the outside now has an
 inside, the inside a center, the center an inhabitant, and
 the inhabitant a power, from that center, to encompass the
-outside, and call this "the world". 
+outside, and call this "the world".
 
-And this
-inhabitant looks more native than immigrant.
-In other words, we use the word "outside" for the world
-because of a relation to it that is given rather than
-gained, and given insofar as we can be said to *contain* the
+What is more, this inhabitant looks more native than
+immigrant. That is, we use the word "outside" for the
+world because our relation to it is given rather than
+gained, and given insofar as we can be said to contain the
 world, from inside it, to locate all of it outside us. Or to
-put this view more conventionally, the outside is not just
-a mode of extension, or medium of motion, but a *form of
+put this view more conventionally, the outside is not just a
+mode of extension, or medium of motion, but a *form of
 sensibility*---to borrow Kant's term for it. And this
-explains why the world inside us *appears* outside us, as if
+explains why the world inside us appears outside us, as if
 we were open to the very world we enclose.
 
 ---
 
 This same view can explain the corruption of openness. For
-if we ever *lost* the world inside us, presumably we would lose any
-appearance of that same world outside us, as if true
-openness worked from the inside out, and its corruption from
-the outside in. Once Odysseus, for example, is no longer
-master of his door, we could say a world of hospitality is
-lost; and now his door can open only outside in: to let the
-suitors through. Or once Leontius is no longer master of his
-eyes, we could say a world of judgement is lost; and now
-his eyes can open only outside in: to let the corpses
-through. And what gets broken, then, in cases of
+if we ever lost the world inside us, presumably we would
+lose any appearance of that same world outside us, as if
+true openness worked from the inside out, and its corruption
+from the outside in. Once Odysseus, for example, is no
+longer master of his door, we could say a world of
+hospitality is lost; and now his door can open only outside
+in: to let the suitors through. Or once Leontius is no
+longer master of his eyes, we could say a world of judgement
+is lost; and now his eyes can open only outside in: to let
+the corpses through. And what gets broken, then, in cases of
 openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them. 
+inside out only when the world can stand behind them.
 
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
 
 But this is also to say, for cases of openness to be
-praised, that the world stands *behind* them, not in front
-of them. For on this account, again, our inherent openness
-to the world depends on having enclosed it, as if being open
-were how being closed *looked*, when seen from within. We
-are given all the more reason, then, to believe that every
-case of being open is a case of being closed that *appears*
-open, and that we call "open" from this appearance. We
-call a parabola "open", then, because the way it is closed
-gives it an inside we can see out of, just as we can
-likewise see out of a lidless pickle jar to call it "open".
-The jar's inside can *stay* inside when the lid is off, so
-long as we still look at the jar as if looking out of it,
-from the inside formed when the lid is on. And the
-parabola's inside can stay inside even when its line is
-finite, so long as we still look at the parabola as if
-looking out of it, from the inside formed when the
-parabola's line is infinite. And we are likely to look at
-things this way, as if we were in them, looking out of them,
-since this is how we have to look, on this account, to see
-anything at all: from inside the entire world out. 
+praised, that the world stands behind them, not in front of
+them. For on this account, again, our inherent openness to
+the world depends on having enclosed it, as if being open
+were how being closed looked, when seen from within. We are
+given all the more reason, then, to believe that every case
+of being open is a case of being closed that appears open,
+and that we call "open" from this appearance. We call
+a parabola "open", then, because the way it is closed gives
+it an inside we can see out of, just as we can likewise see
+out of a lidless pickle jar to call it "open". The jar's
+inside can stay inside when the lid is off, so long as we
+still look at the jar as if looking out of it, from the
+inside formed when the lid is on. And the parabola's inside
+can stay inside even when its line is finite, so long as we
+still look at the parabola as if looking out of it, from the
+inside formed when the parabola's line is infinite. And we
+are likely to look at things this way, as if we were in
+them, looking out of them, since this is how we have to
+look, on this account, to see anything at all: from inside
+the entire world out.
 
 ---
 
-- From here introduce enclosed in openness as separate
-theme to introduce next part.
-and as if
-we were *enclosed* in openness. 
+- From here introduce enclosed in openness as separate theme
+  to introduce next part. and as if we were enclosed in
+  openness.
 
 This may still sound paradoxical, even though this account
 resolves the paradox in the word "open" that I described
-earlier, and the continuity and disconuity ia word from which we want both continuity and
-discontinuity between inside and outside. The continuity, on
-this view, is found in space, where the inside can become an
-outside; while the discontinuity is found in us, where the
-inside remains an inside.  The paradox that lingers, if we
-are enclosed in openness, is that the inside contains the
-outside, might better be called a predicament.
+earlier, and the continuity and disconuity ia word from
+which we want both continuity and discontinuity between
+inside and outside. The continuity, on this view, is found
+in space, where the inside can become an outside; while the
+discontinuity is found in us, where the inside remains an
+inside.  The paradox that lingers, if we are enclosed in
+openness, is that the inside contains the outside, might
+better be called a predicament.
 
-<!--In Wolff quote could say this replaces a paradox
-with a predicament. One way to put predicament: openness
-is proof of closedness, the world as it is, is not as
-it seems.-->
+<!--In Wolff quote could say this replaces a paradox with
+a predicament. One way to put predicament: openness is proof
+of closedness, the world as it is, is not as it seems.-->
 
-<!--"predicament" below could be tied to language of "paradox"
-above if I bring back language of "paradox" for that.-->
+<!--"predicament" below could be tied to language of
+"paradox" above if I bring back language of "paradox" for
+that.-->
 
 The sense of this predicament, of being enclosed in
 openness, is captured well, I think, in this description by
@@ -423,7 +393,8 @@ speak about the thing. Consequently, consciousness and
 language enclose the world within themselves only insofar
 as, conversely, they are entirely contained by it. We are in
 consciousness or language as in a transparent cage.
-Everything is outside, yet it is impossible to get out.[^Wolff]
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
 
 # Part Two: Paradox explored {#two}
 
@@ -442,9 +413,9 @@ philosophy.
 how does openness elude it, despite the philosopher's caring
 about the difference between a door and an open door?
 
-- New transition: speak of eyes as a transparent cage,
-and then make part two the question: how do we get out? 
-How is being open possible, how do we get out? 
+- New transition: speak of eyes as a transparent cage, and
+  then make part two the question: how do we get out? How is
+  being open possible, how do we get out?
 
 - True openness: transparency without cage; outside that is
 indeed elsewhere. Also note eyes being transparent in
@@ -475,7 +446,7 @@ Schopenhauer, at the dawning of philosophical discernment
 there is an embrace of openness, which is only denied, or
 lost, in further development. But this introduces another
 paradox. For if it is only a philosopher who would care
-about the difference between a door and an *open* door, why
+about the difference between a door and an open door, why
 might it also be only a philosopher who would care to shut
 the door for good? This second paradox leads me to part two. 
 
@@ -556,12 +527,12 @@ this to Bergson.)
 
 - Santayana on necessity of being closed
 
-	> - Page 642 RB: To be specific and exclusive is the
-	    condition for existing at all, for having
-	    a vocation, and for establishing an interest,
-	    even formal and unconscious, by which to
-	    distinguish life from death, benefit from
-	    injury.
+	> Page 642 RB: To be specific and exclusive is the
+	  condition for existing at all, for having
+	  a vocation, and for establishing an interest,
+	  even formal and unconscious, by which to
+	  distinguish life from death, benefit from
+	  injury.
 
 - Santayana on how being closed also means being open?
 
@@ -604,7 +575,7 @@ this to Bergson.)
   a sense of allowing the outside to come in. (Or of going
   out?). But how can the outside come in without destroying
   the inside.
-
+Mr. Honeycutt went to market.
 - Use shift from jars to eyes as a way of indicating that
   distinction between inside and outside is not just
   dimensional but Ontological.
@@ -1001,6 +972,10 @@ direction, without end.
 - Sellars: scientific vs manifest image
 - Heisenberg stuff in Senior Lab manual?
 - My senior oral piece
+
+# Links {#Links}
+
+[the parabola]: https://www.dropbox.com/s/tlziqt2g1dkmwbi/parabola_ex.png?dl=0 
 
 # Notes {#notes}
 
