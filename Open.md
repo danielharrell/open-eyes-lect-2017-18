@@ -89,7 +89,7 @@ It might also explain our reliance on negation---if being
 open in this sense meant being not ourselves, so far as we
 were aware of anything else. And how can we catch our open
 eyes in speech, save to say that they are not closed, in
-being open; and not what they see, in being eyes. Yet if
+being open; and not what they see, in being eyes? Yet if
 there is nothing more to say, nothing but what being open is
 not, then how is being open something rather than nothing?
 
@@ -196,7 +196,7 @@ fill what's inside. It is as if our eyes contained the world
 they were open to, in order to see it and not merely suffer
 it. But if our eyes do contain the world, then does the
 world get in? Or is the world somehow already there, filling
-our eyes *from within*, and making them more like a closed
+our eyes from within, and making them more like a closed
 jar, or completed parabola?
 
 We might argue for this as the philosopher Schopenhauer once
@@ -238,108 +238,52 @@ given rather than gained.
 
 ---
 
-But if this is true, then why does the world inside us
-appear outside us, as if we were open to the very world we
-enclose? We can answer this question with an argument
-borrowed from Kant, to whom Schopenhauer was indebted. And
-it underscores how we can think of being open as a way of
-being closed that looks open, and gives that look to
-everything we call "open." 
+What is more, we can borrow an argument from Kant, to whom
+Schopenhauer was indebted, to explain why the world inside
+us appears outside us, as if we were open to the very world
+we enclose. For what does the word "outside" mean, when we
+use it to locate the world in relation to us? We seem not to
+mean it in a strictly spatial sense. For it is never the
+whole world outside us in a spatial sense, since we occupy
+a part of it ourselves, and can move from part to part. Or
+perhaps we might say that spatially, the whole world lies
+beside us, or underneath us, as if the world were a sphere
+and we lived on its surface. 
 
-We begin the argument with this question: What does the word
-"outside" mean, when we use it to locate the world in
-relation to us? We might think we mean it in a spatial
-sense. For the outside is how we distinguish one part of
-space from another: one part is always outside the other,
-and we can occupy both parts only in turn, by movement from
-one to the other. But in this sense we, too, are outside, as
-we move from part to part, and always occupy a part. So it
-is never the whole world outside us in spatial terms. Or
-perhaps we could say the whole world lies beside us, or
-even underneath us, as if the world were a sphere and we lived on
-its surface. 
+But in what we might call a *transpatial* sense, we live in
+the world rather than on it, as if inside a sphere, putting
+all of it, as we say, *outside* us. This is why we move from
+part to part not merely across space, but through it, with
+a sense of inhabiting all of it while occupying only some of
+it. It also seems why we can reach a part of space in
+perception before we reach it in motion, as if we could
+occupy two parts of space at once, so long as we used our
+eyes rather than our feet. The one part of space would be
+inside, where we are, and the other part outside, where what
+we see is. But this again would not be the outside for our
+feet, the strictly spatial outside, which distinguishes one
+part of space from another, at any distance in any
+direction. It would rather be the transpatial outside for
+our eyes, and for awareness more generally, that
+distinguishes the whole of space from a kind of center
+inside it, a place to look rather than move, that turns 
+every distance and direction into a single one *out*. It
+would then be from this center, inside the outside, that we
+are open to the outside. Or from this center that the
+world appears outside us.
 
-But suppose the world were a sphere, yet we lived not on it,
-but in it. Since we were now inside the world---all of it,
-it seems we could say the world was outside us---all of it.
-But this would be true in what we might call *a transpatial
-sense*, where the outside now had an inside to be altogether
-outside of, and from where the whole world beside us could
-now be outside us. And there are signs we do live, somehow,
-inside the outside. For while parts of space are always
-outside each other, every part is also *in* space for us,
-just as we occupy a part not merely at that place, but in
-it, and move from part to part not merely across space, but
-through it. We use prepositions for our place in space,
-then, that suggest we inhabit all of it, even though we
-occupy only some of it.
-
-<!-- In below, elaborate more on how the center defines
-both a direction and a distance: this allows "out" to be
-unequivocally out, but at the cost of having to encompass
-the world, like the center of a sphere.-->
-
-A deeper sign of our inhabitance, however, is our openness.
-For any part of space we might reach in motion, we can reach
-first in perception, as if we could occupy two parts of
-space at once, so long as we used our eyes rather than our
-feet. This would also make sense---and perhaps only make
-sense---if using our eyes put us in two places at once: an
-inside, where we are; and an outside, where what we see is.
-The outside for our feet would still distinguish one part of
-space from another, at any distance in any direction,
-locating the places we might move between. But the outside
-for our eyes would now distinguish the whole of space from a
-kind of center inside it, a place to look rather than move,
-that reduced every direction and distance to a single one
-*out*. And it would then be from this center, inside the
-outside, that we are open to the outside. 
-
-Yet if we are open to the outside from a center inside it,
-then it seems we must *encompass* the outside to reach the
-outside, like the center of a sphere might be thought to
-reach its surface, and not just a point on the surface,
-insofar as it encompasses the surface. Or put another way, a
-center of openness on the inside implies a circumference on
-the outside.  . a direction and distance *out*. reduce every
-direction and distance a direction and distance out if it
-encompasses ut if being open thus means being at a center,
-it seems we could say it can only define a direction and
-distance *out* by *encompassing* , if we then pressed the
-analogy between world and sphere, we would have to say that
-this center of openness, in being a center, can only define
-a direction and distance *out* by encompassing the outside.
-it. it is the one place from which the the entire outside
-might be reached, in just the way the center of a sphere
-might be said to encompass its surface. Like the center
-inside a sphere that encompasses its surface, eing at the
-center, in this case, seems to mean more than just being
-inside. since this is a center, it can encompass the whole
-outside 
-- The center is the only point inside the sphere that can
-  encompass the sphere.
-- Our openness to the outside is comparable to this
-  encompassment.
-- Center point equidistant from every point on surface, as
-  if open to every point on surface.
-
-Yet since this is a center, we would be open to the outside
-in the way the center of a sphere, 
-but no other point in the
-sphere, might be said to encompass its surface. This would
-deepen the trans-spatial sense of the word "outside" for the
-world. For the outside now has an inside, the inside a
-center, the center an inhabitant, and the inhabitant a
-power, from that center, to encompass the outside, and call
-this "the world".
-
-What is more, this inhabitant looks more native than
-immigrant. That is, we use the word "outside" for the
-world because our relation to it is given rather than
-gained, and given insofar as we can be said to contain the
-world, from inside it, to locate all of it outside us. Or to
-put this view more conventionally, the outside is not just a
-mode of extension, or medium of motion, but a *form of
+But this same world lies inside us, as contained by this
+center. For we can press the analogy to a sphere, and the
+way its center encompasses its surface, to say that it is
+only from such a center, bounding the outside from inside,
+that we can be open to the outside in its entirety. Or only
+if the world is thus encompassed, that it can appear as
+a whole outside us. For otherwise some part of it might lie
+outside the outside, beyond our openness, like a Kantian
+thing-in-itself. So it seems we must contain the world from
+inside it, to locate all of it outside us. Or we could say,
+more conventionally, that the outside is not just a mode of
+extension, or medium of motion, but a *form of
 sensibility*---to borrow Kant's term for it. And this
 explains why the world inside us appears outside us, as if
 we were open to the very world we enclose.
