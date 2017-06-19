@@ -200,12 +200,11 @@ our eyes from within, and making them more like a closed
 jar, or completed parabola?
 
 We might argue for this as the philosopher Schopenhauer once
-did: <!--Later
-return to the seeming self-evidence of this, a matter of
-philosophical discernment. For Part 2 opening, the
-predicament is that our very thinking that proves our
-freedom instead proves our enslavement. Our very openness
-proves our closedness.-->
+did: <!--Later return to the seeming self-evidence of this,
+     a matter of philosophical discernment. For Part
+     2 opening, the predicament is that our very thinking
+     that proves our freedom instead proves our enslavement.
+     Our very openness proves our closedness.-->
 
 > It is therefore the Understanding itself which has to
 create the objective world; for this world cannot walk into
@@ -239,21 +238,25 @@ given rather than gained.
 ---
 
 What is more, we can borrow an argument from Kant, to whom
-Schopenhauer was indebted, to explain why the world inside
-us appears outside us, as if we were open to the very world
-we enclose. For what does the word "outside" mean, when we
-use it to locate the world in relation to us? It cannot be
-a merely spatial sense, for in this sense only parts of the
-world at best lie outside us: the parts outside the part, or
-parts, we occupy ourselves. 
+Schopenhauer was indebted, along with an image from
+geometry, to explain why the world inside us appears outside
+us, as if we were open to the very world we enclose. For
+suppose the world were a sphere outside us. Where would we
+be in relation to the sphere? In one sense, which we might
+call *spatial*, we could say we were on the sphere. Or that
+the world was beside us, or beneath us, and in that sense
+outside us. Or that the world is outside us insofar as we
+are outside the world, just as parts of space are outside
+each other more generally. 
 
-it is never the
-whole world that lies outside us. since we 
-occupy a part of it ourselves, and can move
-from part to part. Or perhaps we might say that spatially,
-the whole world lies beside us, or beneath us, as if the
-world were a sphere and we lived on its surface. 
-
+But in another sense, which we might call *transpatial*,
+we could say we were not *on* the sphere, but *in* the
+sphere; and that the world was outside us because 
+we were inside it. What is more, we could say that
+the world *appears* outside us because we are inside
+it. , since we
+were inside the world. because
+we were inside it. 
 But in what we might call a *transpatial* sense, we live not
 on the world but in it, as if inside a sphere, putting the
 whole world *outside* us, as we say. And since we are inside
