@@ -253,49 +253,85 @@ sense. For the outside is how we distinguish one part of
 space from another: one part is always outside the other,
 and we can occupy both parts only in turn, by movement from
 one to the other. But in this sense we, too, are outside, as
-we move from part to part, and always occupy
-a part. So it is never the whole world outside us in spatial
-terms. At best we might say most of it is
-outside us. Or perhaps that the whole world lies beside
-us, or underneath us, as if the world were a sphere and we
-lived on its surface. 
+we move from part to part, and always occupy a part. So it
+is never the whole world outside us in spatial terms. Or
+perhaps we could say the whole world lies beside us, or
+even underneath us, as if the world were a sphere and we lived on
+its surface. 
 
 But suppose the world were a sphere, yet we lived not on it,
 but in it. Since we were now inside the world---all of it,
 it seems we could say the world was outside us---all of it.
-But this would be true in what we might call a trans-spatial
-sense, where the outside now had an inside to be outside of,
-and from where the whole world beside us could now be outside
-us. And there are signs this is just where we live, inside
-the outside. For while parts of space are always outside one
-another, every such part is also *in* space for us, just as we
-occupy a part not merely at that place, but in it, and move
-from part to part not merely across space, but through it.
-We use prepositions for our place in space, then, that
-suggest we inhabit all of it, even though we occupy only some
-of it.
+But this would be true in what we might call *a transpatial
+sense*, where the outside now had an inside to be altogether
+outside of, and from where the whole world beside us could
+now be outside us. And there are signs we do live, somehow,
+inside the outside. For while parts of space are always
+outside each other, every part is also *in* space for us,
+just as we occupy a part not merely at that place, but in
+it, and move from part to part not merely across space, but
+through it. We use prepositions for our place in space,
+then, that suggest we inhabit all of it, even though we
+occupy only some of it.
 
-A deeper sign that we inhabit space, however, that we are
-open to it. For any part of space we might reach in motion,
-we can reach first in perception, as if we could occupy two
-parts of space at once, so long as we used our eyes rather
-than our feet. This would make sense---and perhaps only make
-sense---if using our eyes meant that the outside no longer
-distinguished one part of space from another, or places to
-move between in any direction; but rather distinguished the
-whole of space from a kind of center within it, a place to
-look rather than move, in a single direction 'out'.
-It would then be from this center, inside the outside, that
-we could be open to the outside. 
+<!-- In below, elaborate more on how the center defines
+both a direction and a distance: this allows "out" to be
+unequivocally out, but at the cost of having to encompass
+the world, like the center of a sphere.-->
 
-And since this is a center, we would be open to the outside
-by encompassing it, just like the center of a sphere, but no
-other point in the sphere, might be said to encompass its
-surface. This would deepen the trans-spatial sense of the
-word "outside" for the world. For the outside now has an
-inside, the inside a center, the center an inhabitant, and
-the inhabitant a power, from that center, to encompass the
-outside, and call this "the world".
+A deeper sign of our inhabitance, however, is our openness.
+For any part of space we might reach in motion, we can reach
+first in perception, as if we could occupy two parts of
+space at once, so long as we used our eyes rather than our
+feet. This would also make sense---and perhaps only make
+sense---if using our eyes put us in two places at once: an
+inside, where we are; and an outside, where what we see is.
+The outside for our feet would still distinguish one part of
+space from another, at any distance in any direction,
+locating the places we might move between. But the outside
+for our eyes would now distinguish the whole of space from a
+kind of center inside it, a place to look rather than move,
+that reduced every direction and distance to a single one
+*out*. And it would then be from this center, inside the
+outside, that we are open to the outside. 
+
+Yet if we are open to the outside from a center inside it,
+then it seems we must *encompass* the outside to reach the
+outside, like the center of a sphere might be thought to
+reach its surface, and not just a point on the surface,
+insofar as it encompasses the surface. Or put another way, a
+center of openness on the inside implies a circumference on
+the outside.  . a direction and distance *out*. reduce every
+direction and distance a direction and distance out if it
+encompasses ut if being open thus means being at a center,
+it seems we could say it can only define a direction and
+distance *out* by *encompassing* , if we then pressed the
+analogy between world and sphere, we would have to say that
+this center of openness, in being a center, can only define
+a direction and distance *out* by encompassing the outside.
+it. it is the one place from which the the entire outside
+might be reached, in just the way the center of a sphere
+might be said to encompass its surface. Like the center
+inside a sphere that encompasses its surface, eing at the
+center, in this case, seems to mean more than just being
+inside. since this is a center, it can encompass the whole
+outside 
+- The center is the only point inside the sphere that can
+  encompass the sphere.
+- Our openness to the outside is comparable to this
+  encompassment.
+- Center point equidistant from every point on surface, as
+  if open to every point on surface.
+
+Yet since this is a center, we would be open to the outside
+in the way the center of a sphere, 
+but no other point in the
+sphere, might be said to encompass its surface. This would
+deepen the trans-spatial sense of the word "outside" for the
+world. For the outside now has an inside, the inside a
+center, the center an inhabitant, and the inhabitant a
+power, from that center, to encompass the outside, and call
+this "the world".
 
 What is more, this inhabitant looks more native than
 immigrant. That is, we use the word "outside" for the
