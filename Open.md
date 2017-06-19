@@ -43,8 +43,8 @@ understood. But if so, then how is it understood?
 And is there something here not understood, or better
 understood? Who if not the philosopher, Aristotle once
 asked, would care about the difference between Socrates and
-Socrates sitting?[^Socrates] Or between a door and an open
-door?---so we could add. The way we use the word "open"
+Socrates sitting?[^Socrates] Or, so we could add, between a
+door and an open door? The way we use the word "open"
 without further thought may make it worth further thought.
 And while it would be rude to ask a friend what he meant
 when he told you his door is always open, well, what did he
@@ -173,12 +173,12 @@ Penelope fill the house of Odysseus in his absence, in the
 abuse of hospitality. Or the open eyes of Leontius in
 Plato's *Republic*, that let the spectacle of corpses fill
 his gaze, to his own contempt, in a similar abuse of
-sight.[^3] Both examples suggest there are cases of openness
-to be condemned, where something between outside and inside
-has broken. But what is it, then, that remains intact, in
-cases of openness to be praised? And if it is intact, then
-why call these cases of being open, rather than cases of
-being closed?
+sight.[^Republic] Both examples suggest there are cases of
+openness to be condemned, where something between outside
+and inside has broken. But what is it, then, that remains
+intact, in cases of openness to be praised? And if it is
+intact, then why call these cases of being open, rather than
+cases of being closed?
 
 ---
 
@@ -200,7 +200,7 @@ our eyes from within, and making them more like a closed
 jar, or completed parabola?
 
 We might argue for this as the philosopher Schopenhauer once
-did, with the brevity of a self-evident truth: <!--Later
+did: <!--Later
 return to the seeming self-evidence of this, a matter of
 philosophical discernment. For Part 2 opening, the
 predicament is that our very thinking that proves our
@@ -212,13 +212,13 @@ create the objective world; for this world cannot walk into
 our brain from outside all ready cut and dried through the
 senses and the openings of their organs.[^Fourfold]
 
-On this inference, presented as immediate, it is because our
-open eyes are not like a lidless jar that the world we see
-is something produced rather than revealed---as if there
-were nothing outside us to see, and the phrase "open eyes"
-were figurative in being false. Schopenhauer's most famous
-work, *The World as Will and Representation*, similarly
-begins in a self-evident vein of closedness:
+On this inference, it is because our open eyes are not like
+a lidless jar that the world we see is produced rather than
+revealed---as if there were nothing outside us to see, and
+the phrase "open eyes" were figurative in being false.
+Schopenhauer's most famous work, *The World as Will and
+Representation*, similarly begins in a vein of
+closedness:
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -242,46 +242,54 @@ What is more, we can borrow an argument from Kant, to whom
 Schopenhauer was indebted, to explain why the world inside
 us appears outside us, as if we were open to the very world
 we enclose. For what does the word "outside" mean, when we
-use it to locate the world in relation to us? We seem not to
-mean it in a strictly spatial sense. For it is never the
-whole world outside us in a spatial sense, since we occupy
-a part of it ourselves, and can move from part to part. Or
-perhaps we might say that spatially, the whole world lies
-beside us, or underneath us, as if the world were a sphere
-and we lived on its surface. 
+use it to locate the world in relation to us? It cannot be
+a merely spatial sense, for in this sense only parts of the
+world at best lie outside us: the parts outside the part, or
+parts, we occupy ourselves. 
 
-But in what we might call a *transpatial* sense, we live in
-the world rather than on it, as if inside a sphere, putting
-all of it, as we say, *outside* us. This is why we move from
-part to part not merely across space, but through it, with
-a sense of inhabiting all of it while occupying only some of
-it. It also seems why we can reach a part of space in
-perception before we reach it in motion, as if we could
+it is never the
+whole world that lies outside us. since we 
+occupy a part of it ourselves, and can move
+from part to part. Or perhaps we might say that spatially,
+the whole world lies beside us, or beneath us, as if the
+world were a sphere and we lived on its surface. 
+
+But in what we might call a *transpatial* sense, we live not
+on the world but in it, as if inside a sphere, putting the
+whole world *outside* us, as we say. And since we are inside
+it, we can move from part to part not merely across space
+but through it, with a sense of inhabiting all of it while
+occupying only some of it. We can also reach a part of space
+in perception before we reach it in motion, as if we could
 occupy two parts of space at once, so long as we used our
-eyes rather than our feet. The one part of space would be
-inside, where we are, and the other part outside, where what
-we see is. But this again would not be the outside for our
-feet, the strictly spatial outside, which distinguishes one
-part of space from another, at any distance in any
-direction. It would rather be the transpatial outside for
-our eyes, and for awareness more generally, that
-distinguishes the whole of space from a kind of center
-inside it, a place to look rather than move, that turns 
-every distance and direction into a single one *out*. It
-would then be from this center, inside the outside, that we
-are open to the outside. Or from this center that the
-world appears outside us.
+eyes rather than our feet. One part of space would be
+inside, or where we are in order to see, and the other part
+would be outside, or where what we see is to be seen. But
+again, this would not be the outside for motion, the
+strictly spatial outside, where one part of space is outside
+another, at any distance in any direction. It would rather
+be the transpatial outside for perception, and for awareness
+more generally, where the whole of space is outside a kind
+of center inside it, a place to look rather than move, that
+turns any distance and direction into a single one *out*.
+And it would be from this center, inside the outside, that
+we are then open to the outside. Or from this center that
+the world can appear outside us.
 
-But this same world lies inside us, as contained by this
-center. For we can press the analogy to a sphere, and the
-way its center encompasses its surface, to say that it is
-only from such a center, bounding the outside from inside,
-that we can be open to the outside in its entirety. Or only
-if the world is thus encompassed, that it can appear as
-a whole outside us. For otherwise some part of it might lie
-outside the outside, beyond our openness, like a Kantian
-thing-in-itself. So it seems we must contain the world from
-inside it, to locate all of it outside us. Or we could say,
+But again, it is the whole world that appears outside us
+from this center. And this suggests that the center is
+a center, from which we can encompass the world as a whole,
+like the surface of a sphere about its center, so that the
+whole world *does* appear outside us, with none of the world
+left outside the circumference of our openness; which is to
+say, outside even the outside, or beyond all appearance,
+like a thing-in-itself that can never become a thing-for-us.
+
+It seems we must contain the world inside us, It seems we
+can only find all the world outside us if we already have it
+all inside us, , in other words, it seems we must find all
+of it It seems we must find all the world inside us, in
+other words, to find all of it outside us. Or we could say,
 more conventionally, that the outside is not just a mode of
 extension, or medium of motion, but a *form of
 sensibility*---to borrow Kant's term for it. And this
@@ -973,7 +981,7 @@ questions." (Book IV, Part 2, *Metaphysics*)
 entry](https://www.merriam-webster.com/dictionary/open) for
 "open". 
 
-[^3]: "Leontius, the son of Aglaion, was going up from the
+[^Republic]: "Leontius, the son of Aglaion, was going up from the
 Piraeus along the outside of the North Wall when he saw some
 corpses lying at the executioners feet. He had an appetite
 to look at them but at the same time he was disgusted and
