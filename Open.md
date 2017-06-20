@@ -238,56 +238,34 @@ given rather than gained.
 ---
 
 But if the world is inside us in this sense, then why does
-it appear outside us? Why does it seem as if we are open to
-the very world we enclose? To answer these questions, we can
-borrow an argument from Kant, to whom Schopenhauer was
-indebted. For what does the word "outside" mean, when we use
-it to locate the world in relation to us? In one sense,
-which we might call *spatial*, it means that the world is
-beside us, or beneath us, and in that sense outside us. Or
-more generally put, it means that the world is outside us
-just as we are outside the world, and just as parts of space
-are outside each other more generally. 
-
-But in another sense, which we might call *transpatial*,
-the world is outside us not as we are outside, but
-inside, the world. Or more generally as parts of space, even
-if outside each other, are still in space as a whole for us, 
-and as we move from part to part not merely across space
-but through it, with a sense of inhabiting all of it while
-occupying only some of it. 
-
-This inhabitance of the spatial world also underlies our
-awareness more generally, as we might think of it working
-from inside out. We could then say that the world appears
-outside us because we are inside it. For consider how we
-reach a part of space in perception before we reach it in
-motion, as if we could occupy two parts of space at once, so
-long as we used our eyes rather than our feet. This would
-make transpatial sense, if one part were inside and the
-other part outside, distinguishing a place to see from a 
-place to be seen.
-
-Or to put this a different way: there is the outside
-for motion, the spatial outside, where one part of space is
-outside another, at any distance in any direction; and there
-is the outside for perception, and for awareness
-more generally, where the whole of space is outside a kind
-of center inside it, a place to look rather than move, that
-turns any distance and direction into a single one *out*.
-And it would be from this center, inside the outside, that
-we are open to the outside, and that
-the world can appear outside us.
+it appear outside us, as if we were inside it rather than
+the other way round? We can answer this question by
+borrowing an argument from Kant, to whom Schopenhauer was
+indebted. And the answer, in essence, is that the appearance
+of the world outside us depends on our having encompassed the
+world from inside it, as if the world were a sphere, and
+appeared outside us from its center. For if
+the world could escape being encompassed this way, then it
+seems that re were no such center inside the world to bound
+it on the outside, it seems that part of
+the world might lie even outside the outside, , and therefore
+no such circumference the world went unbounded from the inside, or if the outside
+had no circumference, then it seems
+there might be some of the world even outside the outside, it it
+is only if the world is bounded to the inside that it
+can appear outside us it that it
+*can* appeark so
+that it does appear outside us, with none of the world left
+outside even the outside, or beyond all appearance, like
+a thing-in-itself that can never become a thing-for-us. In
+other words, it seems we must contain the world inside us to
+locate all of it outside us.
 
 But a center inside implies a circumference outside. Or to
 put this implication in context, if it is from inside the
 world that the world can appear outside us, then it seems
 the inside must have a center, or something like it, to
 encompass the world, so that it *does* appear outside us,
-with none of the world left outside even the outside, or
-beyond all appearance, like a thing-in-itself that can never
-become a thing-for-us. In other words, it seems we must
-contain the world inside us to locate all of it outside us.
 <!-- Perhaps use circumference of figure for above
 sentence.-->
 Or to put this containment of the world more conventionally,
