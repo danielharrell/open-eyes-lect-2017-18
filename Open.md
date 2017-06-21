@@ -91,7 +91,8 @@ were aware of anything else. And how can we catch our open
 eyes in speech, save to say that they are not closed, in
 being open; and not what they see, in being eyes? Yet if
 there is nothing more to say, nothing but what being open is
-not, then how is being open something rather than nothing?
+not, then what makes being open something rather than
+nothing?
 
 Or to ask this question in the form that will guide me in my
 lecture tonight: how is being open possible? <!-- Need to
@@ -147,6 +148,7 @@ treat the curved line as a figure, analogous to the ellipse,
 only open rather than closed. But what would justify this
 interpretation? Why aren't both sides of the parabola still
 outside it, since both lie outside the line of the parabola?
+
 To make the inside of the parabola definite, and press the
 analogy to the ellipse, we could take the parabola as an
 infinite ellipse, formed of a line infinite in length, with
@@ -197,14 +199,16 @@ they were open to, in order to see it and not merely suffer
 it. But if our eyes do contain the world, then does the
 world get in? Or is the world somehow already there, filling
 our eyes from within, and making them more like a closed
-jar, or completed parabola?
+jar, or completed parabola? 
 
 We might argue for this as the philosopher Schopenhauer once
-did: <!--Later return to the seeming self-evidence of this,
-     a matter of philosophical discernment. For Part
-     2 opening, the predicament is that our very thinking
-     that proves our freedom instead proves our enslavement.
-     Our very openness proves our closedness.-->
+did: 
+
+<!--Later return to the seeming self-evidence of this, a
+matter of philosophical discernment. For Part 2 opening, the
+predicament is that our very thinking that proves our
+freedom instead proves our enslavement. Our very openness
+proves our closedness.-->
 
 > It is therefore the Understanding itself which has to
 create the objective world; for this world cannot walk into
@@ -230,50 +234,48 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-The truth, on this account, is that our open eyes are not
-transparent but opaque; and the world we see through them is
-not outside but inside, having a relation to us that is
-given rather than gained.
+This account describes our open eyes as if they were opaque
+rather than transparent, and the world we see through them
+as if it were inside rather than outside, having a relation
+to us that is given rather than gained. 
 
 ---
 
-But if the world is inside us in this sense, then why does
-it appear outside us, as if we were inside it rather than
-the other way round? We can answer this question by
-borrowing an argument from Kant, to whom Schopenhauer was
-indebted. And the answer, in essence, is that the appearance
-of the world outside us depends on our having encompassed the
-world from inside it, as if the world were a sphere, and
-appeared outside us from its center. For if
-the world could escape being encompassed this way, then it
-seems that re were no such center inside the world to bound
-it on the outside, it seems that part of
-the world might lie even outside the outside, , and therefore
-no such circumference the world went unbounded from the inside, or if the outside
-had no circumference, then it seems
-there might be some of the world even outside the outside, it it
-is only if the world is bounded to the inside that it
-can appear outside us it that it
-*can* appeark so
-that it does appear outside us, with none of the world left
-outside even the outside, or beyond all appearance, like
-a thing-in-itself that can never become a thing-for-us. In
-other words, it seems we must contain the world inside us to
-locate all of it outside us.
+And while this runs contrary to appearances, perhaps it can
+then explain the appearances. For example, the world appears
+outside us. But how can we call what appears *the
+world*? We seem to see only part of it, after all, at any
+one place or time. And we might suspect more generally that
+the outside of appearance, in this sense, leaves at least
+part of the world outside this outside, or beyond all
+appearance, like a thing-in-itself that can never become a
+thing-for us. Yet to suspect this of part of the world is
+still to include all of the world in an appearance for
+thought, giving our suspicion about the world its object.
+And the question, then, is how the world can be such an
+object. How can the world be contained in any appearance,
+even a doubtful one---at all?
 
-But a center inside implies a circumference outside. Or to
-put this implication in context, if it is from inside the
-world that the world can appear outside us, then it seems
-the inside must have a center, or something like it, to
-encompass the world, so that it *does* appear outside us,
-<!-- Perhaps use circumference of figure for above
-sentence.-->
-Or to put this containment of the world more conventionally,
-we could say that the world can appear outside us, when the
-outside is no longer a mode of extension, or medium of
-motion, but a *form of sensibility*---to borrow Kant's term
-for it. And this is why the world inside us appears outside
+On this account, the answer is that the world can
+be contained in an appearance if this happens from
+the inside rather than the outside, ,world can be contained in any
+appearance if this happens from the inside rather than
+the outside, like the circumference produced by a
+compass. And this then explains how the world can appear
+outside us: by a containment of the world inside us, that
+makes its appearance outside us possible. Or to put this
+containment in more familiar philosophical language: the
+world can appear outside us insofar as the outside is not
+just a mode of extension, or medium of motion, but a form of
+sensibility---to borrow Kant's term for it. 
+
+And this is why the world inside us appears outside
 us, as if we were open to the very world we enclose.
+
+---
+
+- Now move on to an account of the appearance of openness
+more generally. Finish with corruption of openness.
 
 ---
 
