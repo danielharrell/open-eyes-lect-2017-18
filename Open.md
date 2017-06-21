@@ -220,7 +220,7 @@ a lidless jar that the world we see is produced rather than
 revealed---as if there were nothing outside us to see, and
 the phrase "open eyes" were figurative in being false.
 Schopenhauer's most famous work, *The World as Will and
-Representation*, similarly begins in a vein of
+Representation*, begins in a similar vein of
 closedness:
 
 > "The world is my representation": this is a truth valid
@@ -234,39 +234,32 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-This account describes our open eyes as if they were opaque
-rather than transparent, and the world we see through them
-as if it were inside rather than outside, having a relation
-to us that is given rather than gained. 
+On this account, our open eyes are not transparent but
+opaque; and the world we see through them is not outside but
+inside, having a relation to us that is given rather than
+gained. 
 
 ---
 
-And while this runs contrary to appearances, perhaps it can
-then explain the appearances. For example, the world appears
-outside us. But how can we call what appears *the
-world*? We seem to see only part of it, after all, at any
-one place or time. And we might suspect more generally that
-the outside of appearance, in this sense, leaves at least
-part of the world outside this outside, or beyond all
-appearance, like a thing-in-itself that can never become a
-thing-for us. Yet to suspect this of part of the world is
-still to include all of the world in an appearance for
-thought, giving our suspicion about the world its object.
-And the question, then, is how the world can be such an
-object. How can the world be contained in any appearance,
-even a doubtful one---at all?
-
-On this account, the answer is that the world can
-be contained in an appearance if this happens from
-the inside rather than the outside, ,world can be contained in any
-appearance if this happens from the inside rather than
-the outside, like the circumference produced by a
-compass. And this then explains how the world can appear
-outside us: by a containment of the world inside us, that
-makes its appearance outside us possible. Or to put this
-containment in more familiar philosophical language: the
-world can appear outside us insofar as the outside is not
-just a mode of extension, or medium of motion, but a form of
+And while the account runs contrary to appearances, perhaps
+it can then explain the appearances. For example, the world
+appears outside us. But how can we call what appears outside
+us *the world*? We seem to see only part of it, after all,
+at any one place or time. And we might suspect we see none
+of it truly, at any place or time, as if the real world
+could lie beyond all appearance, outside even our outside, a
+thing-in-itself that can never become a thing-for us. Yet to
+suspect this of the world is still to contain all of it,
+somehow, in an appearance for thought, giving our suspicion
+about the world its object. And this suggests that when the
+world does appear outside us, the appearance comes, as would
+any doubts about it, from inside us. Or put another way, the
+world can be contained in an appearance if the containment
+comes from within that appearance, like the circumference
+produced by a compass. Or to express this containment from
+within in more familiar philosophical language: the world
+can appear outside us insofar as the outside is not just a
+mode of extension, or medium of motion, but a form of
 sensibility---to borrow Kant's term for it. 
 
 And this is why the world inside us appears outside
