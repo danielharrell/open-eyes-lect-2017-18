@@ -198,7 +198,7 @@ fill what's inside. It is as if our eyes contained the world
 they were open to, in order to see it and not merely suffer
 it. But if our eyes do contain the world, then does the
 world get in? Or is the world somehow already there, filling
-our eyes from within, and making them more like a closed
+our eyes from within, making them more like a closed
 jar, or completed parabola? 
 
 We might argue for this as the philosopher Schopenhauer once
@@ -241,11 +241,44 @@ gained.
 
 ---
 
-And while the account runs contrary to appearances, perhaps
-it can then explain the appearances. For example, the world
-appears outside us. But how can we call what appears outside
-us *the world*? We seem to see only part of it, after all,
-at any one place or time. And we might suspect we see none
+And while this account runs contrary to appearances, perhaps
+it can then explain the appearances. (To start with most
+pressing one) For example, the world appears outside us. But
+how? That is, how can we call what appears *the world*, as
+if the appearance contained the reality? The real world,
+after all, might be different from how it appears, and even
+a true appearance is likely to be partial. Yet if the world
+can be distinguished from its appearance, the distinction
+will contain the world in yet another appearance, where it
+now looks distinguishable from any appearance. And our
+question can be asked again. For how can we call what
+appears not to appear in full, or in truth, *the world*? How
+can the world appear at all? What allows it to be contained
+in appearance, even when the world in full or truth appears
+to be beyond all appearance, a thing-in-itself rather than
+a thing-for-us? 
+
+The force of these questions already suggest it would be
+futile to look outside us for an answer. For outside
+us is merely the world as it appears, while the world
+as it is may lie outside this outside, leaving its
+appearance inexplicable. 
+(Use language of horizon along with encompassment. World
+forms horizon of its own questionability. How things look,
+appearance of being open but really case of being closed) 
+too far beyond this appearance to have
+produced it. not be there to have produced this appearance. and it may not
+really be there to have produced the appearance.   to 
+that appears outside us may not really be there to produce
+the appearance, but somewhere beyond . not even be outside us 
+The answer, on this account, is that every such appearance
+contains the world from within rather than without. it can
+only be contained in this appearance if the source of
+the appearance is it is only part of the world we can see, at any one place or
+time; and there are not places or times enough, in one life,
+to see all of it. 
+
+Or perhaps we suspect we see none
 of it truly, at any place or time, as if the real world
 could lie beyond all appearance, outside even our outside, a
 thing-in-itself that can never become a thing-for us. Yet to
