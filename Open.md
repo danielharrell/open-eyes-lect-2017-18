@@ -242,10 +242,13 @@ gained.
 ---
 
 And while this account runs contrary to appearances, perhaps
-it can then explain the appearances. To begin with the most
-pressing one, for anyone skeptical that the world could
-be inside us, the world appears outside us. But how? That
-is, how can we call what appears *the world*, as if the
+it can then explain the appearances. The most pressing such
+appearance is perhaps that the world appears outside us,
+since this would make us skeptical that the world could be
+inside us rather than the other way around. To begin with
+the most pressing one, for anyone skeptical that the world
+could be inside us, the world appears outside us. But how?
+That is, how can we call what appears *the world*, as if the
 appearance contained the reality? The real world, after all,
 might be different from how it appears, and even a true
 appearance is likely to be partial. Still, if the world can
@@ -257,6 +260,11 @@ can we call what appears not to appear in full, or in truth,
 *the world*? How can the world make any appearance at all?
 What allows it to be contained in appearance, even the
 appearance of transcending appearance?
+
+<!--In below account, need to clarify the sense in which
+we lie inside the world, and then move to sense in which
+world lies inside us, as a horizon. As it stands my
+writing here doesn't seem espeically penetrating.-->
 
 The force of these questions already suggest it would be
 futile to look outside us for an answer. For outside us is
