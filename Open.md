@@ -243,56 +243,49 @@ gained.
 
 And while this account runs contrary to appearances, perhaps
 it can then explain the appearances. To begin with the most
-immediate one, the world appears outside us. But how? That
+pressing one, for anyone skeptical that the world could
+be inside us, the world appears outside us. But how? That
 is, how can we call what appears *the world*, as if the
 appearance contained the reality? The real world, after all,
 might be different from how it appears, and even a true
 appearance is likely to be partial. Still, if the world can
 be distinguished from its appearance, this distinction will
 contain the world in yet another appearance, where it now
-looks, however paradoxically, distinguishable from any look.
-And our question can be asked again. For how can we call
-what appears not to appear in full, or in truth, *the
-world*? How can the world appear at all? What allows it to
-be contained in appearance, even when the world in full or
-truth appears to be beyond all appearance? A thing-in-itself
-rather than a thing-for-us? 
+looks, perhaps paradoxically, distinguishable from any look.
+So our question about the world can be asked again. For how
+can we call what appears not to appear in full, or in truth,
+*the world*? How can the world make any appearance at all?
+What allows it to be contained in appearance, even the
+appearance of transcending appearance?
 
 The force of these questions already suggest it would be
 futile to look outside us for an answer. For outside us is
 merely the world as it appears, while the world as it is may
-lie outside this outside, leaving its appearance
-inexplicable. But what would it mean to look inside us for
-an answer, which makes this appearance explicable? On this
-account, it would again be in a relation we have to the
-world that is given rather than gained. Or to put this now
-another way: the world could be contained in an appearance,
-no matter how far from it the world might be in reality, if
-the containment comes from within the appearance, like the
-circumference produced by a compass. Or to put this still
-another way, we can call what appears outside us *the world*,
-if the world in this sense is encompassed by the appearance
-rather than revealed through it, and thus forms a horizon
-rather than an object. Or to try a final formulation, in
-more conventional philosophical language: the world
-can appear outside us, if the outside is not just a
-mode of extension, or medium of motion, but a form of
+lie outside this outside, beyond all appearance, leaving its
+appearance inexplicable. But what would it mean to look
+inside us for an answer, that makes this appearance
+explicable? On this account, it would mean recognizing
+a relation we have to the world that is given rather than
+gained. Or to put this now another way: the world could be
+contained in appearance, no matter how far from this its
+reality, if the containment came from within the appearance,
+like the circumference produced by a compass. Or put still
+another way: we can call what appears outside us *the
+world*, if the world in this sense is encompassed by the
+appearance rather than revealed through it, and thus forms
+a horizon rather than an object. Or to try a final
+formulation, in more conventional philosophical language:
+the world can appear outside us, if the outside is not just
+a mode of extension, or medium of motion, but a form of
 sensibility.
 
-But all these formulations come to the same point: that the
-world can appear outside us only from inside us, again as if
-being open were really being closed. <!--Find other older
-formulations for the above sentence. Or see if I can just
-move on to stuff below, if the formulations there make
-sense with the above.-->
+But all these formulations come to the same conclusion:
+that the world can appear outside us only from inside us,
+and that we are open to the world only from having enclosed
+it. , as if being open were how being closed
 
-And this is why the world inside us appears outside
-us, as if we were open to the very world we enclose.
-
----
-
-- Now move on to an account of the appearance of openness
-more generally. Finish with corruption of openness.
+<!-- Put the final paragraph (with the look of the parabola
+and pickle jar) here, then end with corruption of openness-->
 
 ---
 
