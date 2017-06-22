@@ -242,58 +242,49 @@ gained.
 ---
 
 And while this account runs contrary to appearances, perhaps
-it can then explain the appearances. (To start with most
-pressing one) For example, the world appears outside us. But
-how? That is, how can we call what appears *the world*, as
-if the appearance contained the reality? The real world,
-after all, might be different from how it appears, and even
-a true appearance is likely to be partial. Yet if the world
-can be distinguished from its appearance, the distinction
-will contain the world in yet another appearance, where it
-now looks distinguishable from any appearance. And our
-question can be asked again. For how can we call what
-appears not to appear in full, or in truth, *the world*? How
-can the world appear at all? What allows it to be contained
-in appearance, even when the world in full or truth appears
-to be beyond all appearance, a thing-in-itself rather than
-a thing-for-us? 
+it can then explain the appearances. To begin with the most
+immediate one, the world appears outside us. But how? That
+is, how can we call what appears *the world*, as if the
+appearance contained the reality? The real world, after all,
+might be different from how it appears, and even a true
+appearance is likely to be partial. Still, if the world can
+be distinguished from its appearance, this distinction will
+contain the world in yet another appearance, where it now
+looks, however paradoxically, distinguishable from any look.
+And our question can be asked again. For how can we call
+what appears not to appear in full, or in truth, *the
+world*? How can the world appear at all? What allows it to
+be contained in appearance, even when the world in full or
+truth appears to be beyond all appearance? A thing-in-itself
+rather than a thing-for-us? 
 
 The force of these questions already suggest it would be
-futile to look outside us for an answer. For outside
-us is merely the world as it appears, while the world
-as it is may lie outside this outside, leaving its
-appearance inexplicable. 
-(Use language of horizon along with encompassment. World
-forms horizon of its own questionability. How things look,
-appearance of being open but really case of being closed) 
-too far beyond this appearance to have
-produced it. not be there to have produced this appearance. and it may not
-really be there to have produced the appearance.   to 
-that appears outside us may not really be there to produce
-the appearance, but somewhere beyond . not even be outside us 
-The answer, on this account, is that every such appearance
-contains the world from within rather than without. it can
-only be contained in this appearance if the source of
-the appearance is it is only part of the world we can see, at any one place or
-time; and there are not places or times enough, in one life,
-to see all of it. 
-
-Or perhaps we suspect we see none
-of it truly, at any place or time, as if the real world
-could lie beyond all appearance, outside even our outside, a
-thing-in-itself that can never become a thing-for us. Yet to
-suspect this of the world is still to contain all of it,
-somehow, in an appearance for thought, giving our suspicion
-about the world its object. And this suggests that when the
-world does appear outside us, the appearance comes, as would
-any doubts about it, from inside us. Or put another way, the
-world can be contained in an appearance if the containment
-comes from within that appearance, like the circumference
-produced by a compass. Or to express this containment from
-within in more familiar philosophical language: the world
-can appear outside us insofar as the outside is not just a
+futile to look outside us for an answer. For outside us is
+merely the world as it appears, while the world as it is may
+lie outside this outside, leaving its appearance
+inexplicable. But what would it mean to look inside us for
+an answer, which makes this appearance explicable? On this
+account, it would again be in a relation we have to the
+world that is given rather than gained. Or to put this now
+another way: the world could be contained in an appearance,
+no matter how far from it the world might be in reality, if
+the containment comes from within the appearance, like the
+circumference produced by a compass. Or to put this still
+another way, we can call what appears outside us *the world*,
+if the world in this sense is encompassed by the appearance
+rather than revealed through it, and thus forms a horizon
+rather than an object. Or to try a final formulation, in
+more conventional philosophical language: the world
+can appear outside us, if the outside is not just a
 mode of extension, or medium of motion, but a form of
-sensibility---to borrow Kant's term for it. 
+sensibility.
+
+But all these formulations come to the same point: that the
+world can appear outside us only from inside us, again as if
+being open were really being closed. <!--Find other older
+formulations for the above sentence. Or see if I can just
+move on to stuff below, if the formulations there make
+sense with the above.-->
 
 And this is why the world inside us appears outside
 us, as if we were open to the very world we enclose.
