@@ -250,8 +250,11 @@ The world surrounds us, and seems to be encompassed in
 appearance rather than revealed through it, as if it were
 a horizon rather than an object. We can ask if the world
 is really the way it seems, which means it keeps appearing
-even when called into question. This shows our relation
-to it is given rather than gained.
+even when called into question. The friend would vanish if
+we mistakenly identified him. Even when it may lie
+in truth beyond appearances. This shows our relation
+to it is given rather than gained. Or even that we are
+responsible for the idea of world.
 
 (Perhaps go back to earlier distinction for outside here.)
 Or more exactly, why do we call
@@ -307,11 +310,11 @@ sensibility.
 But all these formulations come to the same conclusion:
 that the world can appear outside us only from inside us,
 and that we are open to the world only from having enclosed
-it. , as if being open were how being closed
-<!--Don't forget formulation: we contain the world inside us
-to locate it outside us.-->
-<!-- Put the final paragraph (with the look of the parabola
-and pickle jar) here, then end with corruption of openness-->
+it. , as if being open were how being closed <!--Don't
+forget formulation: we contain the world inside us to locate
+it outside us.--> <!-- Put the final paragraph (with the
+look of the parabola and pickle jar) here, then end with
+corruption of openness-->
 
 ---
 
