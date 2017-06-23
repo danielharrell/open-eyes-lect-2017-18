@@ -242,46 +242,55 @@ gained.
 ---
 
 And while this account runs contrary to appearances, perhaps
-it can then explain the appearances. The most pressing such
-appearance is perhaps that the world appears outside us,
-since this would make us skeptical that the world could be
-inside us rather than the other way around. To begin with
-the most pressing one, for anyone skeptical that the world
-could be inside us, the world appears outside us. But how?
-That is, how can we call what appears *the world*, as if the
-appearance contained the reality? The real world, after all,
-might be different from how it appears, and even a true
-appearance is likely to be partial. Still, if the world can
-be distinguished from its appearance, this distinction will
-contain the world in yet another appearance, where it now
-looks, perhaps paradoxically, distinguishable from any look.
-So our question about the world can be asked again. For how
-can we call what appears not to appear in full, or in truth,
-*the world*? How can the world make any appearance at all?
-What allows it to be contained in appearance, even the
-appearance of transcending appearance?
+it can then explain the appearances. For example, why does
+the world appear outside us? 
 
-<!--In below account, need to clarify the sense in which
-we lie inside the world, and then move to sense in which
-world lies inside us, as a horizon. As it stands my
-writing here doesn't seem espeically penetrating.-->
+(Perhaps go back to earlier distinction for outside here.)
+Or more exactly, why do we call
+what appears *the world*?  Or still more exactly, why do we
+use a term of totality for what appears, as if the
+appearance could be all-encompassing? After all, appearances
+can be partial, or even false---especially of the world,
+which we might have thought too large, or too deep, or just
+too much, for any mere appearance to encompass. Yet even if
+we then distinguished the world from any appearance, this
+very distinction would seem to encompass the world in an
+appearance: the appearance of transcending appearance. Or to
+put the point less paradoxically, in one direction the world
+may escape any appearance; but in another direction the
+appearance of the world is inescapable. the totality of the
+world may locate it outside any appearance, while the
+world's totality in one sense makes any appearance
+questionable, in another sense it seems to make some
+appearance necessary. is not just a reason to doubt the
+truth of any appearance; it is also a reason to is even if
+there is something in the world's totality that makes its
+appearance in any instance questionable, there is also
+something in this totality even if how the world seems is
+not how it is, there seems to be no way of thinking this
+thought, much less reflecting on it, unless the world we can
+wonder about how the world really is, as if how it seems
+wereis present for us, has a presence for useven if the
+world were to 
 
 The force of these questions already suggest it would be
 futile to look outside us for an answer. For outside us is
 merely the world as it appears, while the world as it is may
-lie outside this outside, beyond all appearance, leaving its
-appearance inexplicable. But what would it mean to look
-inside us for an answer, that makes this appearance
+well lie outside this outside, beyond all appearance,
+leaving its appearance inexplicable. But what would it mean
+to look inside us for an answer, that makes this appearance
 explicable? On this account, it would mean recognizing
 a relation we have to the world that is given rather than
-gained. Or to put this now another way: the world could be
+gained. Or to put this now another way: it would mean
+that the world's appearance to us, no matter how
+far the world could be
 contained in appearance, no matter how far from this its
-reality, if the containment came from within the appearance,
-like the circumference produced by a compass. Or put still
-another way: we can call what appears outside us *the
-world*, if the world in this sense is encompassed by the
-appearance rather than revealed through it, and thus forms
-a horizon rather than an object. Or to try a final
+reality, if this containment came from within the
+appearance, like a circumference produced by a compass. Or
+put still another way: we can call what appears outside us
+*the world*, if the world in this sense is encompassed by
+the appearance rather than revealed through it, and thus
+forms a horizon rather than an object. Or to try a final
 formulation, in more conventional philosophical language:
 the world can appear outside us, if the outside is not just
 a mode of extension, or medium of motion, but a form of
@@ -291,28 +300,12 @@ But all these formulations come to the same conclusion:
 that the world can appear outside us only from inside us,
 and that we are open to the world only from having enclosed
 it. , as if being open were how being closed
-
+<!--Don't forget formulation: we contain the world inside us
+to locate it outside us.-->
 <!-- Put the final paragraph (with the look of the parabola
 and pickle jar) here, then end with corruption of openness-->
 
 ---
-
-This same view can explain the corruption of openness. For
-if we ever lost the world inside us, presumably we would
-lose any appearance of that same world outside us, as if
-true openness worked from the inside out, and its corruption
-from the outside in. Once Odysseus, for example, is no
-longer master of his door, we could say a world of
-hospitality is lost; and now his door can open only outside
-in: to let the suitors through. Or once Leontius is no
-longer master of his eyes, we could say a world of judgement
-is lost; and now his eyes can open only outside in: to let
-the corpses through. And what gets broken, then, in cases of
-openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them.
-
-<!-- Note: later I could use "inside-out" to explore
-self-transcendence rather than self-containment".-->
 
 But this is also to say, for cases of openness to be
 praised, that the world stands behind them, not in front of
@@ -335,6 +328,25 @@ are likely to look at things this way, as if we were in
 them, looking out of them, since this is how we have to
 look, on this account, to see anything at all: from inside
 the entire world out.
+
+
+This same view can explain the corruption of openness. For
+if we ever lost the world inside us, presumably we would
+lose any appearance of that same world outside us, as if
+true openness worked from the inside out, and its corruption
+from the outside in. Once Odysseus, for example, is no
+longer master of his door, we could say a world of
+hospitality is lost; and now his door can open only outside
+in: to let the suitors through. Or once Leontius is no
+longer master of his eyes, we could say a world of judgement
+is lost; and now his eyes can open only outside in: to let
+the corpses through. And what gets broken, then, in cases of
+openness to be condemned, is a kind of hinge that works
+inside out only when the world can stand behind them, and not just
+in front of them.
+
+<!-- Note: later I could use "inside-out" to explore
+self-transcendence rather than self-containment".-->
 
 ---
 
