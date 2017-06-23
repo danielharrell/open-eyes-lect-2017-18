@@ -243,7 +243,11 @@ gained.
 
 And while this account runs contrary to appearances, perhaps
 it can then explain the appearances. For example, why does
-the world appear outside us? 
+the world appear outside us? Or to put the question another
+way, what do we mean by *the world* when we say "the world
+appears outside us?" What we don't mean, it seems, is that
+the world is an object for us, the way that a friend, for
+example, is one when she appears. 
 
 - We don't mean the world here the way we would mean a friend.
 The world surrounds us, and seems to be encompassed in
