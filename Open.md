@@ -245,6 +245,14 @@ And while this account runs contrary to appearances, perhaps
 it can then explain the appearances. For example, why does
 the world appear outside us? 
 
+- We don't mean the world here the way we would mean a friend.
+The world surrounds us, and seems to be encompassed in
+appearance rather than revealed through it, as if it were
+a horizon rather than an object. We can ask if the world
+is really the way it seems, which means it keeps appearing
+even when called into question. This shows our relation
+to it is given rather than gained.
+
 (Perhaps go back to earlier distinction for outside here.)
 Or more exactly, why do we call
 what appears *the world*?  Or still more exactly, why do we
