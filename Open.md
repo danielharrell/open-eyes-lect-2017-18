@@ -216,8 +216,8 @@ our brain from outside all ready cut and dried through the
 senses and the openings of their organs.[^Fourfold]
 
 On this inference, it is because our open eyes are not like
-a lidless jar that the world we see is produced rather than
-revealed---as if there were nothing outside us to see, and
+a lidless jar that the world we see comes from within rather
+than without---as if there were nothing outside us to see, and
 the phrase "open eyes" were figurative in being false.
 Schopenhauer's most famous work, *The World as Will and
 Representation*, begins in a similar vein of
@@ -243,73 +243,60 @@ gained.
 
 And while this account runs contrary to appearances, perhaps
 it can then explain the appearances. For example, why does
-the world appear outside us? Or to put the question another
-way, what do we mean by *the world* when we say "the world
-appears outside us?" What we don't mean, it seems, is that
-the world is an object for us, the way that a friend, for
-example, is one when she appears. 
+the world appear outside us? Or more exactly, what do we
+mean by *the world* when we say it appears outside us? For
+we might have said as much of a friend, for example, who we
+see walking towards us. But the friend would appear in front
+of us; and vanish, so to speak, if she proved a stranger who
+only resembled our friend. The world, by contrast, seems to
+surround us, and survives any mistake about what it is.
+Indeed, the world may be most apparent to us when we wonder
+what it is. Where the friend appears outside us, then, as an
+object, the world appears outside us as something more like
+a horizon. Or we might say that the friend is revealed
+through her appearance, while the world is encompassed by
+its appearance. 
 
-- We don't mean the world here the way we would mean a friend.
-The world surrounds us, and seems to be encompassed in
-appearance rather than revealed through it, as if it were
-a horizon rather than an object. We can ask if the world
-is really the way it seems, which means it keeps appearing
-even when called into question. The friend would vanish if
-we mistakenly identified him. Even when it may lie
-in truth beyond appearances. This shows our relation
-to it is given rather than gained. Or even that we are
-responsible for the idea of world.
+But what explains this difference? What makes the world's
+appearance outside us different from the friend's? A first
+answer might be that we are *in* the world, and therefore
+always surrounded by it. But this leaves the word "world"
+for what surrounds us unexplained. For we use the word, we
+might say, to surround in speech what surrounds us in fact.
+So how are we able to do this? Or when we say the world
+appears outside us, we are able to put what surrounds us in
+front of us, as if it were an object. So how are we able to
+do this? And we can do this, evidently, even if, or
+especially if, we wonder whether the world as it is, is
+anything like the world as it seems. But if the world is
+nothing like it seems, then how does it seem to be anything
+at all? How does a world beyond appearance become one, even
+to call it "a world beyond appearance"? And where do we find the
+source of its appearance outside us, even granting a reality
+outside us?
 
-(Perhaps go back to earlier distinction for outside here.)
-Or more exactly, why do we call
-what appears *the world*?  Or still more exactly, why do we
-use a term of totality for what appears, as if the
-appearance could be all-encompassing? After all, appearances
-can be partial, or even false---especially of the world,
-which we might have thought too large, or too deep, or just
-too much, for any mere appearance to encompass. Yet even if
-we then distinguished the world from any appearance, this
-very distinction would seem to encompass the world in an
-appearance: the appearance of transcending appearance. Or to
-put the point less paradoxically, in one direction the world
-may escape any appearance; but in another direction the
-appearance of the world is inescapable. the totality of the
-world may locate it outside any appearance, while the
-world's totality in one sense makes any appearance
-questionable, in another sense it seems to make some
-appearance necessary. is not just a reason to doubt the
-truth of any appearance; it is also a reason to is even if
-there is something in the world's totality that makes its
-appearance in any instance questionable, there is also
-something in this totality even if how the world seems is
-not how it is, there seems to be no way of thinking this
-thought, much less reflecting on it, unless the world we can
-wonder about how the world really is, as if how it seems
-wereis present for us, has a presence for useven if the
-world were to 
+If the first answer is that we are in the world and
+surrounded by it, the second answer is that the world is
+in us, and surrounded by us. 
 
-The force of these questions already suggest it would be
-futile to look outside us for an answer. For outside us is
-merely the world as it appears, while the world as it is may
-well lie outside this outside, beyond all appearance,
-leaving its appearance inexplicable. But what would it mean
-to look inside us for an answer, that makes this appearance
-explicable? On this account, it would mean recognizing
-a relation we have to the world that is given rather than
-gained. Or to put this now another way: it would mean
-that the world's appearance to us, no matter how
-far the world could be
-contained in appearance, no matter how far from this its
-reality, if this containment came from within the
-appearance, like a circumference produced by a compass. Or
-put still another way: we can call what appears outside us
-*the world*, if the world in this sense is encompassed by
-the appearance rather than revealed through it, and thus
-forms a horizon rather than an object. Or to try a final
-formulation, in more conventional philosophical language:
-the world can appear outside us, if the outside is not just
-a mode of extension, or medium of motion, but a form of
-sensibility.
+We look inside us. (Now move on to earlier stuff.) 
+
+But what would it mean to look inside us for an answer, that
+makes this appearance explicable? On this account, it would
+mean recognizing a relation we have to the world that is
+given rather than gained. Or to put this now another way: it
+would mean that the world's appearance to us, no matter how
+far the world could be contained in appearance, no matter
+how far from this its reality, if this containment came from
+within the appearance, like a circumference produced by a
+compass. Or put still another way: we can call what appears
+outside us *the world*, if the world in this sense is
+encompassed by the appearance rather than revealed through
+it, and thus forms a horizon rather than an object. Or to
+try a final formulation, in more conventional philosophical
+language: the world can appear outside us, if the outside
+is not just a mode of extension, or medium of motion, but a
+form of sensibility.
 
 But all these formulations come to the same conclusion:
 that the world can appear outside us only from inside us,
