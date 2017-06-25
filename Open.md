@@ -200,9 +200,14 @@ the world, then does the world get in? Or is it already
 there, filling our eyes from within? Seeing a whole world
 outside us, after all, is not just to see outside us, but to
 see it whole---whole enough, at any rate, to give it the
-name of "world". And this suggests that we surround in sight
-what surrounds us in turn, or contain in sight what contains us in
-turn.  
+name "world". (Perhaps include how questioning the world
+gives it a horizon.) And this word for what we see is a sign that
+we contain in sight what contains us in turn, or more
+generally encompass the world from inside it, as if our
+openness to the world possessed a 
+circumference. closed
+jar or completed parabola. or contain
+in sight what contains us in turn.  
 
 - Revise from here. Put Open eyes like closed parabola above,
 then move on to look of openness generally.
