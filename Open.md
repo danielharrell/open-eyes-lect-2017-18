@@ -187,19 +187,47 @@ cases of being closed?
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
-through them, to a whole world outside us. Yet our eyes
-could not be open like our eyelids, or a lidless jar, just
-letting the world in. For open eyes can be poked, injured,
-even blinded. Yet if our eyes are not like a lidless jar
-when open, then how does the world get in? It could not be
-the way the world gets into a pickle jar, to spoil what's
-inside. For the world gets into our eyes, we might say, to
-fill what's inside. It is as if our eyes contained the world
-they were open to, in order to see it and not merely suffer
-it. But if our eyes do contain the world, then does the
-world get in? Or is the world somehow already there, filling
-our eyes from within, making them more like a closed
-jar, or completed parabola? 
+through them, to a whole world outside us. But our eyes
+could not be open like our eyelids, or like a lidless jar,
+just letting the world in. For open eyes can be poked,
+injured, even blinded. But then how does the world get in?
+It could not be the way the world gets into a pickle jar, to
+spoil what's inside. For the world gets into our eyes, we
+might say, to fill what's inside. It is as if our eyes
+contained the world they were open to, in order to see it
+and not merely suffer it. But if our open eyes do contain
+the world, then does the world get in? Or is it already
+there, filling our eyes from within? Seeing a whole world
+outside us, after all, is not just to see outside us, but to
+see it whole---whole enough, at any rate, to give it the
+name of "world". And this suggests that we surround in sight
+what surrounds us in turn, or contain in sight what contains us in
+turn.  
+
+- Revise from here. Put Open eyes like closed parabola above,
+then move on to look of openness generally.
+
+and given the name of "world", unless we also surrounded the
+world even to the point of surrounding us; yet how could it
+be a whole for sight, and given the name of "world", unless
+itwe see what surrounds us whole, or give it a name, Seeing
+a whole world outside us, after all, is at once to be
+surrounded by the world, as if we were inside it, yet also
+to surround the world, so to speak, in a name for it, as if
+we were outside it. And it is hard to see how we could be in
+both places at once, unless we somehow enclosed the world
+from inside it, making our open eyes like a closed jar or
+completed parabola.
+
+We are surrounded by world as if inside it, but also surround it in the word "world" as if outside it. These are reconciled if we enclose the world from inside it, like the circumference produced by a parabola. 
+
+Move onto look stuff from here
+
+Then begin next section with series of quotes. 
+
+Circumference like eyes
+
+try integrating world inside us in earlier part: appearance of world through eyes is peculiar (see other note)
 
 We might argue for this as the philosopher Schopenhauer once
 did: 
