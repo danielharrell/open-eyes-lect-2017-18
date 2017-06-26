@@ -200,15 +200,25 @@ the world, then does the world get in? Or is it already
 there, filling our eyes from within? Seeing a whole world
 outside us, after all, is not just to see outside us, but to
 see it whole---whole enough, at any rate, to give it the
-name "world". (Perhaps include how questioning the world
-gives it a horizon.) And this word for what we see is a sign that
-we contain in sight what contains us in turn, or more
-generally encompass the world from inside it, as if our
-openness to the world possessed a 
-circumference. closed
-jar or completed parabola. or contain
-in sight what contains us in turn.  
+name "world". And seeing it whole, in this sense, need not
+mean seeing it truly. We can wonder about the world before
+we see it truly, and even doubt, in our wonder, that we will
+ever see it truly. But this is perhaps the deepest way of
+seeing it whole, as it gains the presence, the appearance,
+of something altogether outside us. 
 
+, even in the doubt that
+we will ever see it truly. And this is perhaps the deepest
+way of seeing it whole. (Perhaps include how questioning the
+world gives it a horizon.) And this word for what we see is
+a sign that we contain in sight what contains us in turn, or
+more generally encompass the world from inside it, as if our
+openness to the world possessed a circumference. closed jar
+or completed parabola. or contain in sight what contains us
+in turn.  We may even create the world if we can call into
+question or suppose it may not appear at all. 
+
+To see it whole is not to see it truly. We can wonder about the world 
 - Revise from here. Put Open eyes like closed parabola above,
 then move on to look of openness generally.
 
