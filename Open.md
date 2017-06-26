@@ -187,25 +187,32 @@ cases of being closed?
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
-through them, to a whole world outside us. But our eyes
-could not be open like our eyelids, or like a lidless jar,
-just letting the world in. For open eyes can be poked,
-injured, even blinded. But then how does the world get in?
-It could not be the way the world gets into a pickle jar, to
-spoil what's inside. For the world gets into our eyes, we
-might say, to fill what's inside. It is as if our eyes
-contained the world they were open to, in order to see it
-and not merely suffer it. But if our open eyes do contain
+through them, to a whole world outside us. But there is
+reason to think this same world must somehow lie inside us
+to appear outside us. For our eyes could not be open like
+our eyelids, or like a lidless jar, just letting the world
+in. Open eyes can be poked, injured, even blinded, as if
+they were closed even while open. So how does the world get
+in? It could not be the way the world gets into a pickle
+jar, to spoil what's inside. For the world gets into our
+eyes, we might say, to fill what's inside. It is as if our
+eyes contained the world they were open to, in order to see
+it and not merely suffer it. But if our open eyes do contain
 the world, then does the world get in? Or is it already
 there, filling our eyes from within? Seeing a whole world
 outside us, after all, is not just to see outside us, but to
 see it whole---whole enough, at any rate, to give it the
-name "world". And seeing it whole, in this sense, need not
-mean seeing it truly. We can wonder about the world before
-we see it truly, and even doubt, in our wonder, that we will
-ever see it truly. But this is perhaps the deepest way of
-seeing it whole, as it gains the presence, the appearance,
-of something altogether outside us. 
+name "world". (Put sentence about name from below here. Then
+move on to more general issue, drawing conclusion that we
+might well make the world in containing it.) And seeing it
+whole, in this sense, need not mean seeing it truly. We can
+wonder about the world before we see it truly, and even
+wonder if we will ever see it truly. But this is perhaps the
+deepest way of seeing it whole, as it gains the appearance
+of something altogether outside us. Yet if it is altogether
+outside us, and without any relation to us in its being,
+then how can it gain such a relation to us in its seeming,
+and appear outside us, even to be wondered about? 
 
 , even in the doubt that
 we will ever see it truly. And this is perhaps the deepest
