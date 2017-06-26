@@ -199,28 +199,49 @@ eyes, we might say, to fill what's inside. It is as if our
 eyes contained the world they were open to, in order to see
 it and not merely suffer it. But if our open eyes do contain
 the world, then does the world get in? Or is it already
-there, filling our eyes from within? Seeing a whole world
-outside us, after all, is not just to see outside us, but to
-see it whole---whole enough, at any rate, to give it the
-name "world". (Put sentence about name from below here. Then
-move on to more general issue, drawing conclusion that we
-might well make the world in containing it.) And seeing it
-whole, in this sense, need not mean seeing it truly. We can
-wonder about the world before we see it truly, and even
-wonder if we will ever see it truly. But this is perhaps the
-deepest way of seeing it whole, as it gains the appearance
-of something altogether outside us. Yet if it is altogether
-outside us, and without any relation to us in its being,
-then how can it gain such a relation to us in its seeming,
-and appear outside us, even to be wondered about? 
+there, filling our eyes from within? After all, we give the
+same name "world" to what we see everywhere outside us, as
+if the world were more like a postulate for sight than like
+a discovery, and appeared outside us as a horizon rather
+than an object. And all the more so, it seems, when we
+wonder about the world, and it gains the appearance
+of being altogether outside us, or beyond all appearance, 
+leaving this appearance unexplained, unless we look
+for what might have caused it in us rather than the world.
+(Revise from here.)
+outside us darkly, or falsely, or even hopelessly, in
+despair that we will ever see clear and true. For in this
+case the world can appear altogether outside us, without any
+relation to us to explain its appearance or its name.  We
+somehow still see whole. ---Whole enough, at least, to keep
+the name 'world' for what we think we may never come to
+know, and that now appears altogether outside us, without
+any relation to us to explain its appearance or its name. We
+then seem to surround in speech what can only then surround
+us in sight, and encompass the world from inside it not
+simply to identify it outside us, but put it outside us, in
+an act of making rather than naming. to surround in speech
+what surrounds us in sight, and as if we encompassed the
+world from inside it to identify it outside us. Seeing
+a whole world outside us, after all, is not just to see
+outside us, but to see it whole---whole enough, at any rate,
+to give it the name "world". And  seeing it whole, in this
+sense, need not mean seeing it truly. We can wonder about
+the world before we see it truly, and even wonder if we will
+ever see it truly. But this is perhaps the deepest way of
+seeing it whole, as it gains the appearance of something
+altogether outside us. Yet if it is altogether outside us,
+and without any relation to us in its being, then how can it
+gain this relation in its seeming, and appear outside us?
+And this name for what we see is a sign that we contain in
+sight what contains us in turn, or more generally encompass
+the world from inside it, as if our openness to the world
+possessed a circumference.
 
 , even in the doubt that
 we will ever see it truly. And this is perhaps the deepest
 way of seeing it whole. (Perhaps include how questioning the
-world gives it a horizon.) And this word for what we see is
-a sign that we contain in sight what contains us in turn, or
-more generally encompass the world from inside it, as if our
-openness to the world possessed a circumference. closed jar
+world gives it a horizon.) closed jar
 or completed parabola. or contain in sight what contains us
 in turn.  We may even create the world if we can call into
 question or suppose it may not appear at all. 
@@ -232,14 +253,7 @@ then move on to look of openness generally.
 and given the name of "world", unless we also surrounded the
 world even to the point of surrounding us; yet how could it
 be a whole for sight, and given the name of "world", unless
-itwe see what surrounds us whole, or give it a name, Seeing
-a whole world outside us, after all, is at once to be
-surrounded by the world, as if we were inside it, yet also
-to surround the world, so to speak, in a name for it, as if
-we were outside it. And it is hard to see how we could be in
-both places at once, unless we somehow enclosed the world
-from inside it, making our open eyes like a closed jar or
-completed parabola.
+itwe see what surrounds us whole, or give it a name, 
 
 We are surrounded by world as if inside it, but also surround it in the word "world" as if outside it. These are reconciled if we enclose the world from inside it, like the circumference produced by a parabola. 
 
