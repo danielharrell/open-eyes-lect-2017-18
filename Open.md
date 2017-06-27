@@ -206,7 +206,11 @@ seen or unseen. But how could the world outside us be so
 inclusive in appearance, even to reach beyond appearance,
 unless it were more like a postulate for sight than like
 a discovery, and in that sense stood behind our eyes rather
-than in front of them? a whole, much less The Whole, the
+than in front of them? 
+
+Revise from here.
+
+a whole, much less The Whole, the
 wholeTo have the whole world outside us perhaps requires
 that we have it inside us first, t is only if we can contain
 all the world inside us that we can have the whole world
