@@ -203,63 +203,58 @@ there, filling our eyes from within? After all, we give the
 name "world" not to one thing we see outside us, but to
 everything, and even to anything that might lie outside us,
 seen or unseen. But how could the world outside us be so
-inclusive in appearance, even to reach beyond appearance,
+encompassing in appearance, even to reach beyond appearance,
 unless it were more like a postulate for sight than like
 a discovery, and in that sense stood behind our eyes rather
-than in front of them? 
+than in front of them? To see through our eyes, in that
+case, would mean to see through the world, to everything in
+it---as if our eyes contained the world to give the outside
+a form, and thus a context for any content. 
 
-Revise from here.
+(Review above paragraph and tighten, then move on to revise
+paragraphs below.)
+---
 
-a whole, much less The Whole, the
-wholeTo have the whole world outside us perhaps requires
-that we have it inside us first, t is only if we can contain
-all the world inside us that we can have the whole world
-outside us perhaps require
+But on this account of awareness, then, our openness to
+the world depends on having enclosed it, as if being open
+were how being closed looked, when seen from within. We are
+given all the more reason, then, to believe that every case
+of being open is a case of being closed that appears open,
+and that we call "open" from this appearance. We call
+a parabola "open", then, because the way it is closed gives
+it an inside we can see out of, just as we can likewise see
+out of a lidless pickle jar to call it "open". The jar's
+inside can stay inside when the lid is off, so long as we
+still look at the jar as if looking out of it, from the
+inside formed when the lid is on. And the parabola's inside
+can stay inside even when its line is finite, so long as we
+still look at the parabola as if looking out of it, from the
+inside formed when the parabola's line is infinite. And we
+are likely to look at things this way, as if we were in
+them, looking out of them, since this is how we have to
+look, on this account, to see anything at all: from inside
+the entire world out.
 
-outside us, but put it outside us, in an act of making
-rather than naming. to surround in speech what surrounds us
-in sight, and as if we encompassed the world from inside it
-to identify it outside us. Seeing a whole world outside us,
-after all, is not just to see outside us, but to see it
-whole---whole enough, at any rate, to give it the name
-"world". And  seeing it whole, in this sense, need not mean
-seeing it truly. We can wonder about the world before we see
-it truly, and even wonder if we will ever see it truly. But
-this is perhaps the deepest way of seeing it whole, as it
-gains the appearance of something altogether outside us. Yet
-if it is altogether outside us, and without any relation to
-us in its being, then how can it gain this relation in its
-seeming, and appear outside us? And this name for what we
-see is a sign that we contain in sight what contains us in
-turn, or more generally encompass the world from inside it,
-as if our openness to the world possessed a circumference.
 
-, even in the doubt that
-we will ever see it truly. And this is perhaps the deepest
-way of seeing it whole. (Perhaps include how questioning the
-world gives it a horizon.) closed jar
-or completed parabola. or contain in sight what contains us
-in turn.  We may even create the world if we can call into
-question or suppose it may not appear at all. 
+This same view can explain the corruption of openness. For
+if we ever lost the world inside us, presumably we would
+lose any appearance of that same world outside us, as if
+true openness worked from the inside out, and its corruption
+from the outside in. Once Odysseus, for example, is no
+longer master of his door, we could say a world of
+hospitality is lost; and now his door can open only outside
+in: to let the suitors through. Or once Leontius is no
+longer master of his eyes, we could say a world of judgement
+is lost; and now his eyes can open only outside in: to let
+the corpses through. And what gets broken, then, in cases of
+openness to be condemned, is a kind of hinge that works
+inside out only when the world can stand behind them, and not just
+in front of them.
 
-To see it whole is not to see it truly. We can wonder about the world 
-- Revise from here. Put Open eyes like closed parabola above,
-then move on to look of openness generally.
+<!-- Note: later I could use "inside-out" to explore
+self-transcendence rather than self-containment".-->
 
-and given the name of "world", unless we also surrounded the
-world even to the point of surrounding us; yet how could it
-be a whole for sight, and given the name of "world", unless
-itwe see what surrounds us whole, or give it a name, 
-
-We are surrounded by world as if inside it, but also surround it in the word "world" as if outside it. These are reconciled if we enclose the world from inside it, like the circumference produced by a parabola. 
-
-Move onto look stuff from here
-
-Then begin next section with series of quotes. 
-
-Circumference like eyes
-
-try integrating world inside us in earlier part: appearance of world through eyes is peculiar (see other note)
+---
 
 We might argue for this as the philosopher Schopenhauer once
 did: 
@@ -301,116 +296,8 @@ gained.
 
 ---
 
-And while this account runs contrary to appearances, perhaps
-it can then explain the appearances. For example, why does
-the world appear outside us? Or more exactly, what do we
-mean by *the world* when we say it appears outside us? For
-we might have said as much of a friend, for example, who we
-see walking towards us. But the friend would appear in front
-of us; and vanish, so to speak, if she proved a stranger who
-only resembled our friend. The world, by contrast, seems to
-surround us, and survives any mistake about what it is.
-Indeed, the world may be most apparent to us when we wonder
-what it is. Where the friend appears outside us, then, as an
-object, the world appears outside us as something more like
-a horizon. Or we might say that the friend is revealed
-through her appearance, while the world is encompassed by
-its appearance. 
-
-But what explains this difference? What makes the world's
-appearance outside us different from the friend's? A first
-answer might be that we are *in* the world, and therefore
-always surrounded by it. But this leaves the word "world"
-for what surrounds us unexplained. For we use the word, we
-might say, to surround in speech what surrounds us in fact.
-So how are we able to do this? Or when we say the world
-appears outside us, we are able to put what surrounds us in
-front of us, as if it were an object. So how are we able to
-do this? And we can do this, evidently, even if, or
-especially if, we wonder whether the world as it is, is
-anything like the world as it seems. But if the world is
-nothing like it seems, then how does it seem to be anything
-at all? How does a world beyond appearance become one, even
-to call it "a world beyond appearance"? And where do we find the
-source of its appearance outside us, even granting a reality
-outside us?
-
-If the first answer is that we are in the world and
-surrounded by it, the second answer is that the world is
-in us, and surrounded by us. 
-
-We look inside us. (Now move on to earlier stuff.) 
-
-But what would it mean to look inside us for an answer, that
-makes this appearance explicable? On this account, it would
-mean recognizing a relation we have to the world that is
-given rather than gained. Or to put this now another way: it
-would mean that the world's appearance to us, no matter how
-far the world could be contained in appearance, no matter
-how far from this its reality, if this containment came from
-within the appearance, like a circumference produced by a
-compass. Or put still another way: we can call what appears
-outside us *the world*, if the world in this sense is
-encompassed by the appearance rather than revealed through
-it, and thus forms a horizon rather than an object. Or to
-try a final formulation, in more conventional philosophical
-language: the world can appear outside us, if the outside
-is not just a mode of extension, or medium of motion, but a
-form of sensibility.
-
-But all these formulations come to the same conclusion:
-that the world can appear outside us only from inside us,
-and that we are open to the world only from having enclosed
-it. , as if being open were how being closed <!--Don't
-forget formulation: we contain the world inside us to locate
-it outside us.--> <!-- Put the final paragraph (with the
-look of the parabola and pickle jar) here, then end with
-corruption of openness-->
-
 ---
 
-But this is also to say, for cases of openness to be
-praised, that the world stands behind them, not in front of
-them. For on this account, again, our inherent openness to
-the world depends on having enclosed it, as if being open
-were how being closed looked, when seen from within. We are
-given all the more reason, then, to believe that every case
-of being open is a case of being closed that appears open,
-and that we call "open" from this appearance. We call
-a parabola "open", then, because the way it is closed gives
-it an inside we can see out of, just as we can likewise see
-out of a lidless pickle jar to call it "open". The jar's
-inside can stay inside when the lid is off, so long as we
-still look at the jar as if looking out of it, from the
-inside formed when the lid is on. And the parabola's inside
-can stay inside even when its line is finite, so long as we
-still look at the parabola as if looking out of it, from the
-inside formed when the parabola's line is infinite. And we
-are likely to look at things this way, as if we were in
-them, looking out of them, since this is how we have to
-look, on this account, to see anything at all: from inside
-the entire world out.
-
-
-This same view can explain the corruption of openness. For
-if we ever lost the world inside us, presumably we would
-lose any appearance of that same world outside us, as if
-true openness worked from the inside out, and its corruption
-from the outside in. Once Odysseus, for example, is no
-longer master of his door, we could say a world of
-hospitality is lost; and now his door can open only outside
-in: to let the suitors through. Or once Leontius is no
-longer master of his eyes, we could say a world of judgement
-is lost; and now his eyes can open only outside in: to let
-the corpses through. And what gets broken, then, in cases of
-openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them, and not just
-in front of them.
-
-<!-- Note: later I could use "inside-out" to explore
-self-transcendence rather than self-containment".-->
-
----
 
 - From here introduce enclosed in openness as separate theme
   to introduce next part. and as if we were enclosed in
@@ -1144,4 +1031,55 @@ place. Yet on the other hand, every part of space, even if
 outside every other part, is still *in* space, just as we
 occupy any part of it not merely *at* that place, but *in*
 it, and move not merely *across* space, but *through* it. 
+
+And while this account runs contrary to appearances, perhaps
+it can then explain the appearances. For example, why does
+the world appear outside us? Or more exactly, what do we
+mean by *the world* when we say it appears outside us? For
+we might have said as much of a friend, for example, who we
+see walking towards us. But the friend would appear in front
+of us; and vanish, so to speak, if she proved a stranger who
+only resembled our friend. The world, by contrast, seems to
+surround us, and survives any mistake about what it is.
+Indeed, the world may be most apparent to us when we wonder
+what it is. Where the friend appears outside us, then, as an
+object, the world appears outside us as something more like
+a horizon. Or we might say that the friend is revealed
+through her appearance, while the world is encompassed by
+its appearance. 
+
+But what explains this difference? What makes the world's
+appearance outside us different from the friend's? A first
+answer might be that we are *in* the world, and therefore
+always surrounded by it. But this leaves the word "world"
+for what surrounds us unexplained. For we use the word, we
+might say, to surround in speech what surrounds us in fact.
+So how are we able to do this? Or when we say the world
+appears outside us, we are able to put what surrounds us in
+front of us, as if it were an object. So how are we able to
+do this? And we can do this, evidently, even if, or
+especially if, we wonder whether the world as it is, is
+anything like the world as it seems. But if the world is
+nothing like it seems, then how does it seem to be anything
+at all? How does a world beyond appearance become one, even
+to call it "a world beyond appearance"? And where do we find the
+source of its appearance outside us, even granting a reality
+outside us?
+
+But what would it mean to look inside us for an answer, that
+makes this appearance explicable? On this account, it would
+mean recognizing a relation we have to the world that is
+given rather than gained. Or to put this now another way: it
+would mean that the world's appearance to us, no matter how
+far the world could be contained in appearance, no matter
+how far from this its reality, if this containment came from
+within the appearance, like a circumference produced by a
+compass. Or put still another way: we can call what appears
+outside us *the world*, if the world in this sense is
+encompassed by the appearance rather than revealed through
+it, and thus forms a horizon rather than an object. Or to
+try a final formulation, in more conventional philosophical
+language: the world can appear outside us, if the outside
+is not just a mode of extension, or medium of motion, but a
+form of sensibility.
 
