@@ -200,43 +200,35 @@ eyes contained the world they were open to, in order to see
 it and not merely suffer it. But if our open eyes do contain
 the world, then does the world get in? Or is it already
 there, filling our eyes from within? After all, we give the
-same name "world" to what we see everywhere outside us, as
-if the world were more like a postulate for sight than like
-a discovery, and appeared outside us as a horizon rather
-than an object. And all the more so, it seems, when we
-wonder about the world, and it gains the appearance
-of being altogether outside us, or beyond all appearance, 
-leaving this appearance unexplained, unless we look
-for what might have caused it in us rather than the world.
-(Revise from here.)
-outside us darkly, or falsely, or even hopelessly, in
-despair that we will ever see clear and true. For in this
-case the world can appear altogether outside us, without any
-relation to us to explain its appearance or its name.  We
-somehow still see whole. ---Whole enough, at least, to keep
-the name 'world' for what we think we may never come to
-know, and that now appears altogether outside us, without
-any relation to us to explain its appearance or its name. We
-then seem to surround in speech what can only then surround
-us in sight, and encompass the world from inside it not
-simply to identify it outside us, but put it outside us, in
-an act of making rather than naming. to surround in speech
-what surrounds us in sight, and as if we encompassed the
-world from inside it to identify it outside us. Seeing
-a whole world outside us, after all, is not just to see
-outside us, but to see it whole---whole enough, at any rate,
-to give it the name "world". And  seeing it whole, in this
-sense, need not mean seeing it truly. We can wonder about
-the world before we see it truly, and even wonder if we will
-ever see it truly. But this is perhaps the deepest way of
-seeing it whole, as it gains the appearance of something
-altogether outside us. Yet if it is altogether outside us,
-and without any relation to us in its being, then how can it
-gain this relation in its seeming, and appear outside us?
-And this name for what we see is a sign that we contain in
-sight what contains us in turn, or more generally encompass
-the world from inside it, as if our openness to the world
-possessed a circumference.
+name "world" not to one thing we see outside us, but to
+everything, and even to anything that might lie outside us,
+seen or unseen. But how could the world outside us be so
+inclusive in appearance, even to reach beyond appearance,
+unless it were more like a postulate for sight than like
+a discovery, and in that sense stood behind our eyes rather
+than in front of them? a whole, much less The Whole, the
+wholeTo have the whole world outside us perhaps requires
+that we have it inside us first, t is only if we can contain
+all the world inside us that we can have the whole world
+outside us perhaps require
+
+outside us, but put it outside us, in an act of making
+rather than naming. to surround in speech what surrounds us
+in sight, and as if we encompassed the world from inside it
+to identify it outside us. Seeing a whole world outside us,
+after all, is not just to see outside us, but to see it
+whole---whole enough, at any rate, to give it the name
+"world". And  seeing it whole, in this sense, need not mean
+seeing it truly. We can wonder about the world before we see
+it truly, and even wonder if we will ever see it truly. But
+this is perhaps the deepest way of seeing it whole, as it
+gains the appearance of something altogether outside us. Yet
+if it is altogether outside us, and without any relation to
+us in its being, then how can it gain this relation in its
+seeming, and appear outside us? And this name for what we
+see is a sign that we contain in sight what contains us in
+turn, or more generally encompass the world from inside it,
+as if our openness to the world possessed a circumference.
 
 , even in the doubt that
 we will ever see it truly. And this is perhaps the deepest
