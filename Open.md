@@ -199,23 +199,40 @@ eyes, we might say, to fill what's inside. It is as if our
 eyes contained the world they were open to, in order to see
 it and not merely suffer it. But if our open eyes do contain
 the world, then does the world get in? Or is it already
-there, filling our eyes from within? After all, we give the
-name "world" not to one thing we see outside us, but to
-everything, and even to anything that might lie outside us,
-seen or unseen. But how could the world outside us be so
-encompassing in appearance, even to reach beyond appearance,
-unless it were more like a postulate for sight than like
-a discovery, and in that sense stood behind our eyes rather
-than in front of them? To see through our eyes, in that
-case, would mean to see through the world, to everything in
-it---as if our eyes contained the world to give the outside
-a form, and thus a context for any content. 
+there, filling our eyes from within? We give the name
+"world", after all, not just to one thing we see outside us,
+but to everything, and even to anything that might lie
+outside us, seen or unseen. But how could the world outside
+us be so encompassing in appearance, even to reach beyond
+appearance, unless it were more like a postulate for sight
+than like a discovery, and in that sense stood behind our
+eyes rather than in front of them? To see through our eyes,
+in that case, would mean to see through the world, to
+everything in it---as if our eyes contained the world to
+give the outside a form, and thus a context for any content.
+The world would then lie inside us to appear outside us, as
+a horizon for everything else that might appear outside us.
 
-(Review above paragraph and tighten, then move on to revise
-paragraphs below.)
 ---
 
-But on this account of awareness, then, our openness to
+This same view can explain the corruption of openness. For
+if we ever lost the world inside us, presumably we would
+lose any appearance of that same world outside us, as if
+true openness worked from the inside out, and its corruption
+from the outside in. Once Odysseus, for example, is no
+longer master of his door, we could say a world of
+hospitality is lost; and now his door can open only outside
+in: to let the suitors through. Or once Leontius is no
+longer master of his eyes, we could say a world of judgement
+is lost; and now his eyes can open only outside in: to let
+the corpses through. And what gets broken, then, in cases of
+openness to be condemned, is a kind of hinge that works
+inside out only when the world can stand behind them, and not just
+in front of them.
+
+But this is also to say, for cases of openness to be
+praised, that the world stands behind them, not in front of
+them. For on this account, again, our inherent openness to
 the world depends on having enclosed it, as if being open
 were how being closed looked, when seen from within. We are
 given all the more reason, then, to believe that every case
@@ -235,21 +252,23 @@ them, looking out of them, since this is how we have to
 look, on this account, to see anything at all: from inside
 the entire world out.
 
+But on this account of awareness, then, our openness to the
+world depends on having enclosed it, as if being open were
+how being closed looked, when seen from within. We call
+a parabola "open", then, because the way it is closed gives
+it an inside we can see out of, just as we can likewise see
+out of a lidless pickle jar to call it "open". The jar's
+inside can stay inside when the lid is off, so long as we
+still look at the jar as if looking out of it, from the
+inside formed when the lid is on. And the parabola's inside
+can stay inside even when its line is finite, so long as we
+still look at the parabola as if looking out of it, from the
+inside formed when the parabola's line is infinite. And we
+are likely to look at things this way, as if we were in
+them, looking out of them, since this is how we have to
+look, on this account, to see anything at all: from inside
+the entire world out.
 
-This same view can explain the corruption of openness. For
-if we ever lost the world inside us, presumably we would
-lose any appearance of that same world outside us, as if
-true openness worked from the inside out, and its corruption
-from the outside in. Once Odysseus, for example, is no
-longer master of his door, we could say a world of
-hospitality is lost; and now his door can open only outside
-in: to let the suitors through. Or once Leontius is no
-longer master of his eyes, we could say a world of judgement
-is lost; and now his eyes can open only outside in: to let
-the corpses through. And what gets broken, then, in cases of
-openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them, and not just
-in front of them.
 
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
