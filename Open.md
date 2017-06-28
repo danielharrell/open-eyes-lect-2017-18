@@ -187,35 +187,40 @@ cases of being closed?
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
-through them, to a whole world outside us. But there is
-reason to think this same world must somehow lie inside us
-to appear outside us. For our eyes could not be open like
-our eyelids, or like a lidless jar, just letting the world
-in. Open eyes can be poked, injured, even blinded, as if
-they were closed even while open. So how does the world get
-in? It could not be the way the world gets into a pickle
-jar, to spoil what's inside. For the world gets into our
-eyes, we might say, to fill what's inside. It is as if our
-eyes contained the world they were open to, in order to see
-it and not merely suffer it. But if our open eyes do contain
-the world, then does the world get in? Or is it already
-there, filling our eyes from within? We give the name
-"world", after all, not just to one thing we see outside us,
-but to everything, and even to anything that might lie
-outside us, seen or unseen. But how could the world outside
-us be so encompassing in appearance, even to reach beyond
+through them, to a whole world outside us. But our eyes
+could not be open like our eyelids, or like a lidless jar,
+just letting the world in. For eyes can be poked, injured,
+even blinded, as if they were closed even while open. So how
+does the world get in? It could not be the way the world
+gets into a pickle jar, to spoil what's inside. For the
+world gets into our eyes, we might say, to fill what's
+inside. Our eyes seem to contain the world they are open to,
+in order to see it and not merely suffer it. But if our open
+eyes do contain the world, then does the world get in? Or is
+it already there, filling our eyes from within? We give the
+name "world", after all, not just to one thing we see
+outside us, but to everything, and even to anything that
+might lie outside us, seen or unseen. But how could the
+world be so encompassing in appearance, even to reach beyond
 appearance, unless it were more like a postulate for sight
 than like a discovery, and in that sense stood behind our
-eyes rather than in front of them? To see through our eyes,
-in that case, would mean to see through the world, to
-everything in it---as if our eyes contained the world to
-give the outside a form, and thus a context for any content.
-The world would then lie inside us to appear outside us, as
-a horizon for everything else that might appear outside us.
+eyes rather than in front of them? And while we said we see
+through our eyes to a whole world outside us, perhaps this
+is inexact, and we don't see to the world, but through the
+world, to everything in it. The world would then be a place,
+or even a perspective, rather than an object; and the sort
+of thing our eyes could contain, as we see through them, to
+give what lies outside them context rather than content. Or
+more generally put: the world would lie inside us to appear
+outside us, as a horizon for everything else that might
+appear outside us. And we would be open to the world, on
+this account, from having enclosed it. 
 
 ---
 
-This same view can explain the corruption of openness. For
+This account thus gives us a way to explain every
+case of being open as a case of being closed. For example,
+the corruption of openness. For
 if we ever lost the world inside us, presumably we would
 lose any appearance of that same world outside us, as if
 true openness worked from the inside out, and its corruption
@@ -229,6 +234,7 @@ the corpses through. And what gets broken, then, in cases of
 openness to be condemned, is a kind of hinge that works
 inside out only when the world can stand behind them, and not just
 in front of them.
+
 
 But this is also to say, for cases of openness to be
 praised, that the world stands behind them, not in front of
