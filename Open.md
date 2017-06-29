@@ -156,7 +156,7 @@ ends that reach the edge of the geometric plane. But then
 our parabola will gain a true inside in just the way our
 pickle jar possessed one: by being closed. For there will be
 no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. So while the
+end, since this now lies infinitely far away. And while the
 line of the parabola never closes upon itself, it also never
 stops. Its open end, then, is something we can plainly see,
 even point to, but never reach---as if openness had no being
@@ -177,7 +177,7 @@ Plato's *Republic*, that let the spectacle of corpses fill
 his gaze, to his own contempt, in a similar abuse of
 sight.[^Republic] Both examples suggest there are cases of
 openness to be condemned, where something between outside
-and inside has broken. But what is it, then, that remains
+and inside has broken. But what is it, then, that stays
 intact, in cases of openness to be praised? And if it is
 intact, then why call these cases of being open, rather than
 cases of being closed?
@@ -189,53 +189,53 @@ called *our own state of being* in awareness. Our eyes are
 open in this sense, generally if figuratively, as we see
 through them, to a whole world outside us. But our eyes
 could not be open like our eyelids, or like a lidless jar,
-just letting the world in. For eyes can be poked, injured,
-even blinded, as if they were closed even while open. So how
-does the world get in? It could not be the way the world
-gets into a pickle jar, to spoil what's inside. For the
-world gets into our eyes, we might say, to fill what's
-inside. Our eyes seem to contain the world they are open to,
-in order to see it and not merely suffer it. But if our open
-eyes do contain the world, then does the world get in? Or is
-it already there, filling our eyes from within? We give the
-name "world", after all, not just to one thing we see
-outside us, but to everything, and even to anything that
-might lie outside us, seen or unseen. But how could the
-world be so encompassing in appearance, even to reach beyond
-appearance, unless it were more like a postulate for sight
-than like a discovery, and in that sense stood behind our
-eyes rather than in front of them? And while we said we see
-through our eyes to a whole world outside us, perhaps this
-is inexact, and we don't see to the world, but through the
-world, to everything in it. The world would then be a place,
-or even a perspective, rather than an object; and the sort
-of thing our eyes could contain, as we see through them, to
-give what lies outside them context rather than content. Or
-more generally put: the world would lie inside us to appear
-outside us, as a horizon for everything else that might
-appear outside us. And we would be open to the world, on
-this account, from having enclosed it. 
+just letting the world in. For open eyes can be poked,
+injured, even blinded. So how does the world get in? It
+could not be the way the world gets into a pickle jar, to
+spoil what's inside. For the world gets into our eyes, we
+might say, to fill what's inside. It is as if our eyes
+contain the world they are open to, in order to see it and
+not merely suffer it. But if our open eyes do contain the
+world, then does the world get in? Or is it already there,
+filling our eyes from within? We give the name "world",
+after all, not just to one thing we see outside us, but to
+everything, and even to anything that might lie outside us,
+seen or unseen. We see the world, in this sense, before we
+see anything that belongs to it, as if it were a postulate for sight
+rather than a discovery, and stood behind our eyes rather
+than in front of them. And perhaps we see through our eyes
+not *to* the world, but *through* the world, to everything
+*in* the world. The world would then be a place, or even a
+perspective, rather than an object; and the sort of thing
+our eyes could contain, as we see through them, to give what
+lies outside them context rather than content. The world
+would then lie inside us to appear outside us, as a horizon for
+everything else that might appear outside us. And we would
+be open to the world, on this account, from having enclosed
+it.
 
 ---
 
-This account thus gives us a way to explain every
-case of being open as a case of being closed. For example,
-the corruption of openness. For
-if we ever lost the world inside us, presumably we would
-lose any appearance of that same world outside us, as if
-true openness worked from the inside out, and its corruption
-from the outside in. Once Odysseus, for example, is no
-longer master of his door, we could say a world of
-hospitality is lost; and now his door can open only outside
-in: to let the suitors through. Or once Leontius is no
-longer master of his eyes, we could say a world of judgement
-is lost; and now his eyes can open only outside in: to let
-the corpses through. And what gets broken, then, in cases of
-openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them, and not just
-in front of them.
+Or at least we would, in cases of openness that depend on
+awareness. For if we ever lost the world inside us, on this
+account, presumably we would lose any appearance of that
+same world outside us, along with any form of openness to
+the world that works from the inside out. , which we might
+say has to work from the inside out. And where true openness
+worked from the inside out, its corruption would work from
+the outside in. Once Odysseus, for example, is no longer
+master of his door, we could say a world of hospitality is
+lost; and now his door can open only outside in: to let the
+suitors through. Or once Leontius is no longer master of his
+eyes, we could say a world of judgement is lost; and now his
+eyes can open only outside in: to let the corpses through.
+What gets broken, then, in cases of openness to be
+condemned, is a kind of hinge that works inside out only
+when the world can stand behind them, and not just in front
+of them.
 
-
+This same account of openness could explain every case
+of being open as a case of being closed that looks open.
 But this is also to say, for cases of openness to be
 praised, that the world stands behind them, not in front of
 them. For on this account, again, our inherent openness to
