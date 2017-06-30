@@ -102,12 +102,12 @@ end first section with the above question explicitly.-->
 
 # Part One {#one}
 
-If we take this question seriously, then just about every
-case of being open can start to look like a case of being
-closed---our own way of being open most of all. But to begin
-with a simpler case, suppose I say "I can't get the jar
-open"---about a stubborn jar of pickles. What would it mean
-*to get* the jar opened?
+If we take this question seriously, we can wonder
+whether every way of being open is really a way of being
+closed that looks open---our own way of being open most
+of all. But to begin with a simpler case: suppose I say "I
+can't get the jar open" about a stubborn jar of pickles.
+What would it mean to get the jar opened?
 
 A first answer, a dictionary answer, might be: to get the
 lid off.
@@ -179,61 +179,78 @@ sight.[^Republic] Both examples suggest there are cases of
 openness to be condemned, where something between outside
 and inside has broken. But what is it, then, that stays
 intact, in cases of openness to be praised? And if it is
-intact, then why call these cases of being open, rather than
-cases of being closed?
+intact, then why call these ways of being open, rather than
+ways of being closed?
 
----
+<!-- Below should stick with "stay intact" wording. Move
+on to corruption.-->
 
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
-open in this sense, generally if figuratively, as we see
-through them, to a whole world outside us. But our eyes
-could not be open like our eyelids, or like a lidless jar,
-just letting the world in. For open eyes can be poked,
-injured, even blinded. So how does the world get in? It
-could not be the way the world gets into a pickle jar, to
-spoil what's inside. For the world gets into our eyes, we
-might say, to fill what's inside. It is as if our eyes
+open, in this sense, as we see through them, to a whole
+world outside us. Yet our eyes could not be open like our
+eyelids, or like a lidless jar, just letting the world in.
+For open eyes can be poked, injured, even blinded, as if
+they were closed even while open. So how how does the world
+get in? It could not be the way the world gets into a pickle
+jar, to spoil what's inside. For the world gets into our
+eyes, we might say, to fill what's inside. ---As if our eyes
 contain the world they are open to, in order to see it and
-not merely suffer it. But if our open eyes do contain the
-world, then does the world get in? Or is it already there,
-filling our eyes from within? We give the name "world",
-after all, not just to one thing we see outside us, but to
-everything, and even to anything that might lie outside us,
-seen or unseen. We see the world, in this sense, before we
-see anything that belongs to it, as if it were a postulate
-for sight rather than a discovery, and stood behind our eyes
-rather than in front of them. And perhaps we see through
-our eyes not *to* the world, but *through* the world, to
-everything *in* the world. The world would then be a place,
-or even a perspective, rather than an object; and the sort
-of thing our eyes could contain, as we see through them, to
-give what lies outside them context rather than content. The
-world would then lie inside us to appear outside us, as a
-horizon for everything else that might appear outside us.
-And we would be open to the world, on this account, from
-having enclosed it.
+not merely suffer it. But if they do contain it, then does
+the world get in? Or is it already there, filling our eyes
+from within, and proving them closed? We give the name
+"world", after all, not just to one thing we see outside us,
+but to everything, and even to anything that might lie
+outside us, seen or unseen. We see the whole world, in this
+sense, before we see any part of it, as if the world were
+more a postulate for sight than a discovery, and stood
+behind our eyes rather than in front of them. And perhaps we
+see through our eyes not *to* the world, but *through* the
+world, to everything *in* the world. The world would then be
+a place, or even a perspective, rather than an object. ---Or
+the sort of object that our eyes could contain, as we see
+through them, to give what lies outside them context rather
+than content. But under any such description, the world
+would be inside us to appear outside us, as a horizon for
+everything else that might appear outside us. We would be
+open to the world, in other words, from having enclosed it. 
 
 ---
 
-And if we can thus explain this case of being open, our
-being open, as a case of being closed, then perhaps we can
-likewise explain every other case. (Revise from here.) The
-corruption of openness, for example, could be explained as
-the loss of the world inside us, and thus the loss of any
-appearance of that same world outside us, along with any
-form of openness to the world that works from inside out.
-The only form of openness left would work from outside in,
-in an absence of awareness allowing for corruption. Once
-Odysseus, for example, is no longer master of his door, we
-could say a world of hospitality is lost; and now his door
-can open only outside in: to let the suitors through. Or
-once Leontius is no longer master of his eyes, we could say
-a world of judgement is lost; and now his eyes can open only
-outside in: to let the corpses through. What gets broken,
-then, in cases of openness to be condemned, is a kind of
-hinge that works inside out only when the world can stand
-behind them, and not just in front of them.
+And if we can thus explain our own way of being open as
+a way of being closed, perhaps we can likewise explain
+every other way, especially if it depends on our way. For
+if we ever lost the world inside us, on this account, we
+would lose its appearance outside us, along with any way
+of being open to the world from inside out. Once Odysseus,
+for example, is no longer master of his door, we could say
+a world of hospitality is lost; and now his door can open
+only outside in, as the suitors push through: to let the
+suitors through. Or once Leontius is no longer master of
+his eyes, we could say a world of judgement is lost; and
+now his eyes can open only outside in: to let the corpses
+through. (Revise from here.) Every such case of letting
+in would really be a getting in, In every such case of
+corruption, openness would involve getting in rather than
+letting in, have devolved from a letting in to a getting in,
+True openness would be distinguished from its corruption,
+in these cases, in the same way we distinguish letting in
+from getting in, where the one works inside out and the
+other works outside in.. What gets broken, then, in cases
+of openness to be condemned, is a kind of hinge that works
+inside out only when the world can stand behind them, and
+not just in front of them.Consider how we might then explain
+the corruption of openness, which could be distinguished
+from true openness, on this account, in the same way we
+distinguish letting in from getting in, the one way working
+from inside out, outside in, . And the only way left would
+work from outside in. Or to put this difference another
+way, true openness would involve a letting in; while its
+corruption would involve a getting in. For on this account,
+the difference between openness and its corruption would be
+the difference between letting in and getting in, where true
+openness works inside out, and its corruption works outside
+in.
 
 This same account of openness could explain every case
 of being open as a case of being closed that looks open.
