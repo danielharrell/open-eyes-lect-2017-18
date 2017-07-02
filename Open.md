@@ -190,75 +190,53 @@ called *our own state of being* in awareness. Our eyes are
 open, in this sense, as we see through them, to a whole
 world outside us. Yet our eyes could not be open like our
 eyelids, or like a lidless jar, just letting the world in.
-For open eyes can be poked, injured, even blinded, as if
-they were closed even while open. So how how does the world
-get in? It could not be the way the world gets into a pickle
-jar, to spoil what's inside. For the world gets into our
-eyes, we might say, to fill what's inside. It is as if our eyes
-contain the world they are open to, in order to see it and
-not merely suffer it. 
+For open eyes can be poked, injured, even blinded. So how
+does the world get in? It could not be the way the world
+gets into a pickle jar, to spoil what's inside. For the
+world gets into our eyes, we might say, to fill what's
+inside. It is as if our eyes contained the world they were open
+to, in order to see it and not merely suffer it. 
 
-But if our open eyes do contain the world, then does the
-world get in? Or is it already there, filling our eyes from
-within? We give the name "world", after all, not just to one
-thing we see outside us, but to everything, and even to
-anything that might lie outside us, seen or unseen. We see
-the whole world, in this sense, before we see any part of
-it, as if our relation to it were given before it is gained.
-Or as if the world were a postulate for sight before it can
-be a discovery, and stood behind our eyes before it can
-stand in front of them. And perhaps we see through our eyes
-not *to* the world, but *through* the world, to everything
-*in* the world. The world would then be a place, or even
-a perspective, rather than an object. Or the sort of
-object that our eyes could contain, as we see through them,
-to give what lies outside them context rather than content.
-But under any such description, the world would be inside us
-to appear outside us, as a horizon for everything else that
-might appear outside us. We would be open to the world, in
-other words, from having enclosed it first. 
+But if our eyes do contain the world, then does the world
+get in? Or is it already there, filling our eyes from
+within? We give the name "world", after all, not just to
+one thing we see outside us, or one thing after another;
+but to everything at once, along with anything unseen that
+might lie outside us. We see the whole world, in this sense,
+before we see any part of it, as if our relation to it
+were given before it can be gained. Or as if the world were a
+postulate for sight before it can be a discovery, and stood
+behind our eyes before it can stand in front of them. And
+perhaps we see through our eyes not to the world, but
+through the world, to everything in the world. The world
+would then be a place, or even a perspective, rather than
+an object. Or the sort of object our eyes could contain, as
+we see through them, to give what lies outside them context
+rather than content. But under any such description, the
+world would be inside us to appear outside us, as a horizon
+for everything else that might appear outside us. We would
+be open to the world, in other words, from having enclosed
+it.
 
 ---
 
-And if our own way of being open depends on being closed,
-perhaps every other way depends on it, as a result, direct
-or indirect, of our way. The corruption of openness, for
-example, would involve a loss of closedness. For if we ever
-lost the world inside us, on this account, we would lose its
-appearance outside us, along with any way of reaching the
-world, of being open to the world, from within. Once
+And if we can thus explain our way of being open as a way of
+being closed, perhaps we can likewise explain every other
+way. Consider how we might then explain the corruption of
+openness. For if we ever lost the world inside us, on this
+account, we would lose its appearance outside us, along with
+any way of being open to the world from within. Once
 Odysseus, for example, is no longer master of his door, we
-could say a world of hospitality is lost. And now, through
-a door that only opens from the outside, the suitors can get
-in. Or once Leontius is no longer master of his eyes, we
-could say a world of judgement is lost. And now, through eyes
-that only open from the outside, the corpses can get in.
-What gets broken, then, in cases of openness to be condemned,
-is a kind of hinge that works from the inside rather than
-the outside when the world can stand behind it rather than in front of
-it, to make being open a letting-in rather than a getting-in.
-
-(Revise from here.)
-
-and involves n the world can stand behind it, and involves
-letting in rather than getting in, in cases of openness to
-be praised. . In every such case, we could say that a hinge
-in openness has broken, True openness in these cases would
-not involve getting in, but letting in, by a kind of hinge
-in openness that turns inside out when the world can stand
-behind it, but as if there were a hinge that turned inside
-out in cases of openness to be praised, being open had a
-hinge that turns from the inside out when our relation to
-the world stays intact, What gets broken, then, in cases
-of openness to be condemned, is a kind of hinge that opens
-from the inside only when the world can stand behind it, .
-True openness in these cases would not involve getting in,
-but letting in, where one can be open from the inside, by
-a kind of hinge in openness that works inside out in cases
-to be prasied, but breaks What gets broken, then, in cases
-of openness to be condemned, is a kind of hinge that works
-inside out only when the world can stand behind them, and
-not just in front of them.,
+could say a world of hospitality is lost, along with the
+opening of his door from the inside. So now the suitors can
+get in from the outside. Or once Leontius is no longer
+master of his eyes, we could say a world of judgement is
+lost, along with the opening of his eyes from the inside.
+So now the corpses can get in from the outside. And what gets
+broken, then, in cases of openness to be condemned, is
+a kind of hinge that turns from the inside rather than outside,
+when the world can stand behind it rather than in front of it,
+to make being open a letting-in rather than getting-in.
 
 This same account of openness could explain every case
 of being open as a case of being closed that looks open.
