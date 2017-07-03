@@ -102,12 +102,12 @@ end first section with the above question explicitly.-->
 
 # Part One {#one}
 
-If we take this question seriously, we can wonder
-whether every way of being open is really a way of being
-closed that looks open---our own way of being open most
-of all. But to begin with a simpler case: suppose I say "I
-can't get the jar open" about a stubborn jar of pickles.
-What would it mean to get the jar opened?
+If we take this question seriously, every way of being open
+can start to look like a way of being closed that merely
+seems open---our own way of being open most of all. But to
+begin with a simpler case: suppose I say "I can't get the
+jar open" about a stubborn jar of pickles. What would it
+mean to get the jar opened?
 
 A first answer, a dictionary answer, might be: to get the
 lid off.
@@ -188,14 +188,20 @@ on to corruption.-->
 To press the question, we can turn next to what I earlier
 called *our own state of being* in awareness. Our eyes are
 open, in this sense, as we see through them, to a whole
-world outside us. Yet our eyes could not be open like our
-eyelids, or like a lidless jar, just letting the world in.
-For open eyes can be poked, injured, even blinded. So how
-does the world get in? It could not be the way the world
-gets into a pickle jar, to spoil what's inside. For the
-world gets into our eyes, we might say, to fill what's
-inside. It is as if our eyes contained the world they were open
-to, in order to see it and not merely suffer it. 
+world outside us. But this sense is again figurative, and
+perhaps even false. Our eyes could not be open, after all,
+like our eyelids, or like a lidless jar, just letting the
+world in. For open eyes can be poked, injured, even
+blinded---as if their staying open again meant staying
+intact, and in that sense closed. And how, in any case, does
+the world get in? For this could not be the way the world
+gets into a pickle jar, to spoil what's inside. The world
+gets into our eyes, we might say, to fill what's inside. It 
+as if our eyes contained the world they
+were open to, in order to see it and not merely suffer it.
+Yet if they contain it while also staying intact, or closed,
+then it looks as if the world never gets it, being already
+there. 
 
 But if our eyes do contain the world, then does the world
 get in? Or is it already there, filling our eyes from
