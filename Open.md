@@ -192,16 +192,21 @@ world outside us. But this sense is again figurative, and
 perhaps even false. Our eyes could not be open, after all,
 like our eyelids, or like a lidless jar, just letting the
 world in. For open eyes can be poked, injured, even
-blinded---as if their staying open again meant staying
-intact, and in that sense closed. And how, in any case, does
-the world get in? For this could not be the way the world
-gets into a pickle jar, to spoil what's inside. The world
-gets into our eyes, we might say, to fill what's inside. It 
-as if our eyes contained the world they
-were open to, in order to see it and not merely suffer it.
-Yet if they contain it while also staying intact, or closed,
-then it looks as if the world never gets it, being already
-there. 
+blinded---as if their staying open meant staying intact. And
+if staying intact means standing firm against the world as a
+threat, how does the world still get into our eyes, so to
+speak, as an object of sight? The world gets into a pickle
+jar, it seems, to spoil what's inside. But the world gets
+into our eyes, we might say, to fill what's inside.  Our
+eyes contain the world they are open to, in order to see it
+rather than suffer it. Yet how can they contain it and stay
+intact---unless they contain it to stay intact, which
+suggests they contain it from the start. That is,
+the world poses no threat as an object of sight because
+as a sight the world lies inside our eyes and as a threat
+only outside our eyes. 
+
+(Revise here.)
 
 But if our eyes do contain the world, then does the world
 get in? Or is it already there, filling our eyes from
