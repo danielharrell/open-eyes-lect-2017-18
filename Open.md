@@ -31,7 +31,7 @@ to the profound.
 This, then, is one reason to wonder about the word, for why
 does it have such scope?
 
-Another reason for wonder is that the word is used, mostly,
+Another reason for wonder is that the word is used, typically,
 without further explanation, as if its meaning were already
 understood. But if so, then how is it understood?
 
@@ -55,19 +55,19 @@ mean?
    on to show how philosophy in a sense turns on itself in
    a denial of openness.-->
 
-Still another reason for wonder comes from the way the word
-"open" is defined in dictionaries---largely through
+Still another reason for wonder comes from the way the
+word "open" is defined in dictionaries---largely through
 negation. To be open means not to be closed. Or blocked. Or
-covered. Or fastened. Or sealed. Or buttoned. Or guarded. Or
-protected. Or folded. Or clenched. Or concealed. Or
+covered. Or fastened. Or sealed. Or buttoned. Or guarded.
+Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
-when we talk of eyes being opened? Or hearts? Or minds? Or
-again the proverbial door, always open to a friend? Here, it
-seems, we use the word "open" for a positive condition,
-a state of being, which any negative definition at best only
-half-comprehends. And to ask about the meaning of "open",
-then, is to ask about the meaning of hospitality,
+when we talk of eyes being opened? Or hearts? Or minds?
+Or again the proverbial door, always open to a friend?
+Here, we use the word "open" for a positive condition, a
+state of being, which any negative definition at best
+only half-comprehends. And to ask about the meaning of
+"open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
 
 Nor are these the only such states of being. Think of how we
@@ -164,70 +164,66 @@ but seeming.
 
 ---
 
-As a set of final examples, underneath the previous two, now
-consider what I earlier called *states of being*: the open
-door of hospitality; the open heart of generosity; the open
-mind of enlightenment. Openness in these cases has the
-genuineness of a virtue, but the kind of virtue that can be
-corrupted, and cast this genuineness into doubt. Recall the
-open door in Homer's *Odyssey*, that lets the suitors of
-Penelope fill the house of Odysseus in his absence, in the
-abuse of hospitality. Or the open eyes of Leontius in
-Plato's *Republic*, that let the spectacle of corpses fill
-his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest there are cases of
-openness to be condemned, where something between outside
-and inside has broken. But what is it, then, that stays
-intact, in cases of openness to be praised? And if it is
-intact, then why call these ways of being open, rather than
-ways of being closed?
+As a set of final examples, underneath the previous two,
+now consider what I earlier called *states of being*: the
+open door of hospitality; the open heart of generosity; the
+open mind of enlightenment. Openness in these cases has the
+genuineness of a virtue, but the kind of virtue that can
+be corrupted, casting this genuineness into doubt. Recall
+the open door in Homer's *Odyssey*, that lets the suitors
+of Penelope fill the house of Odysseus in his absence, in
+the abuse of hospitality. Or the open eyes of Leontius
+in Plato's *Republic*, that let the spectacle of corpses
+fill his gaze, to his own contempt, in a similar abuse of
+sight.[^Republic] Both examples suggest that there are cases
+of openness to be condemned, where something between inside
+and outside has broken. But what is this something? And if
+it stays intact, in cases of openness to be praised, then
+why is this not boundary enough to make them closed rather
+than open? Closed enough, at least, to prevent the suitors
+or corpses in these cases from simply getting in, or more
+generally to distinguish true openness from mere openness?
 
 <!-- Below should stick with "stay intact" wording. Move
 on to corruption.-->
 
-To press the question, we can turn next to what I earlier
-called *our own state of being* in awareness. Our eyes are
-open, in this sense, as we see through them, to a whole
-world outside us. But this sense is again figurative, and
-perhaps even false. Our eyes could not be open, after all,
-like our eyelids, or like a lidless jar, just letting the
-world in. For open eyes can be poked, injured, even
-blinded---as if their staying open meant staying intact. And
-if staying intact means standing firm against the world as a
-threat, how does the world still get into our eyes, so to
-speak, as an object of sight? The world gets into a pickle
-jar, it seems, to spoil what's inside. But the world gets
-into our eyes, we might say, to fill what's inside.  Our
-eyes contain the world they are open to, in order to see it
-rather than suffer it. Yet how can they contain it and stay
-intact---unless they contain it to stay intact, which
-suggests they contain it from the start. That is,
-the world poses no threat as an object of sight because
-as a sight the world lies inside our eyes and as a threat
-only outside our eyes. 
+We can press this question by returning to our own state of
+being in awareness. Our eyes are open, in this sense, as
+we see through them, to a whole world outside us. But this
+sense is again figurative, and perhaps even false. Our eyes
+could not be open, after all, like our eyelids, or like
+a lidless jar, just letting the world in. For open eyes
+can be poked, injured, even blinded---as if their staying
+open again meant staying intact. But how, then, does the
+world get in? It could not be the way the world gets into a
+pickle jar, to spoil what's inside. For the world gets into
+our eyes, we might say, to fill what's inside, as if there
+were nothing already in our eyes to spoil. But how can the
+world fill our eyes so completely, if they do stay intact,
+unless the world filled them somehow from within rather than
+without? That is, unless our eyes somehow already contained
+the world they were open to, in order to see it rather than
+suffer it?
 
-(Revise here.)
-
-But if our eyes do contain the world, then does the world
-get in? Or is it already there, filling our eyes from
-within? We give the name "world", after all, not just to
-one thing we see outside us, or one thing after another;
-but to everything at once, along with anything unseen that
-might lie outside us. We see the whole world, in this sense,
-before we see any part of it, as if our relation to it
-were given before it can be gained. Or as if the world were a
-postulate for sight before it can be a discovery, and stood
-behind our eyes before it can stand in front of them. And
-perhaps we see through our eyes not to the world, but
-through the world, to everything in the world. The world
-would then be a place, or even a perspective, rather than
-an object. Or the sort of object our eyes could contain, as
-we see through them, to give what lies outside them context
-rather than content. But under any such description, the
-world would be inside us to appear outside us, as a horizon
-for everything else that might appear outside us. We would
-be open to the world, in other words, from having enclosed
-it.
+There are other reasons to think that the world we see
+outside us is really inside us. We give the name "world",
+after all, not just to one thing we see outside us, or one
+thing after another, but to everything at once, along with
+anything unseen that might lie outside us. We see the whole
+world, in this sense, before we see any part of it, as if
+our relation to it were given before it can be gained. Or
+as if the world were a postulate for sight before it can be
+a discovery, and stood behind our eyes before it can stand
+in front of them. And perhaps we should say we see through
+our eyes not *to* the world, but *through* the world, to
+everything *in* the world. The world would then be a place,
+or even a perspective, rather than an object. Or the sort
+of object our eyes could contain, as we see through them,
+to give what lies outside them context rather than content.
+But under any such description, the world would be inside us
+to appear outside us, as a horizon for everything else that
+might appear outside us. And we would be open to the world,
+on this account, from having enclosed it.
 
 ---
 
