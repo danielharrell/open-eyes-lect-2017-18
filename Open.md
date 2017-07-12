@@ -175,19 +175,19 @@ of Penelope fill the house of Odysseus in his absence, in
 the abuse of hospitality. Or the open eyes of Leontius
 in Plato's *Republic*, that let the spectacle of corpses
 fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest that there are cases
-of openness to be condemned, where something between inside
-and outside has broken. But what is this something? And if
-it stays intact, in cases of openness to be praised, then
-why is this not boundary enough to make them closed rather
-than open? Closed enough, at least, to prevent the suitors
-or corpses in these cases from simply getting in, or more
-generally to distinguish true openness from mere openness?
+sight.[^Republic] Both examples suggest that there are
+cases of openness to be condemned, where something between
+inside and outside has broken. But what is this something?
+And if it stays intact, in cases of openness to be praised,
+then why is this not boundary enough to close them? Close
+them enough, at least, to prevent the suitors or corpses in
+these cases from simply getting in; or more generally 
+distinguish true openness from mere openness?
 
 <!-- Below should stick with "stay intact" wording. Move
 on to corruption.-->
 
-We can press this question by returning to our own state of
+To press this question, we can return to our own state of
 being in awareness. Our eyes are open, in this sense, as
 we see through them, to a whole world outside us. But this
 sense is again figurative, and perhaps even false. Our eyes
@@ -205,7 +205,7 @@ without? That is, unless our eyes somehow already contained
 the world they were open to, in order to see it rather than
 suffer it?
 
-There are other reasons to think that the world we see
+There is further reason to think that the world we see
 outside us is really inside us. We give the name "world",
 after all, not just to one thing we see outside us, or one
 thing after another, but to everything at once, along with
@@ -217,57 +217,55 @@ a discovery, and stood behind our eyes before it can stand
 in front of them. And perhaps we should say we see through
 our eyes not *to* the world, but *through* the world, to
 everything *in* the world. The world would then be a place,
-or even a perspective, rather than an object. Or the sort
-of object our eyes could contain, as we see through them,
-to give what lies outside them context rather than content.
-But under any such description, the world would be inside us
-to appear outside us, as a horizon for everything else that
-might appear outside us. And we would be open to the world,
-on this account, from having enclosed it.
+or even a perspective, rather than an object. Or at least
+the sort of object our eyes could contain, as we see through
+them, to give what lies outside them context rather than
+content. But under any such description, the world would be
+inside us to appear outside us, as a horizon for everything
+else that might appear outside us. And we would be open to
+the world, on this account, from having enclosed it.
 
 ---
 
-And if we can thus explain our way of being open as a way of
-being closed, perhaps we can likewise explain every other
-way. Consider how we might then explain the corruption of
-openness. For if we ever lost the world inside us, on this
-account, we would lose its appearance outside us, along with
-any way of being open to the world from within. Once
-Odysseus, for example, is no longer master of his door, we
-could say a world of hospitality is lost, along with the
-opening of his door from the inside. So now the suitors can
-get in from the outside. Or once Leontius is no longer
-master of his eyes, we could say a world of judgement is
-lost, along with the opening of his eyes from the inside.
-So now the corpses can get in from the outside. And what gets
-broken, then, in cases of openness to be condemned, is
-a kind of hinge that turns from the inside rather than outside,
-when the world can stand behind it rather than in front of it,
-to make being open a letting-in rather than getting-in.
+And if we can thus explain our own way of being open as
+a way of being closed, perhaps we can likewise explain
+every other way. Consider how we might then explain the
+corruption of openness. For if we ever lost the world inside
+us, on this account, we would presumably lose its appearance
+outside us, along with any way of being open to the world
+from within. And the only way left, from without, would
+involve getting in rather than letting in. Once Odysseus,
+then, is no longer master of his door, we could say
+a world of hospitality is lost, along with any way for his
+door to open from the inside. So now, from the outside, the
+suitors get in. Or once Leontius is no longer master of
+his eyes, we could say a world of judgement is lost, along
+with any way for his eyes to open from the inside. So now,
+from the outside, the corpses get in.
 
-This same account of openness could explain every case
-of being open as a case of being closed that looks open.
-But this is also to say, for cases of openness to be
-praised, that the world stands behind them, not in front of
-them. For on this account, again, our inherent openness to
-the world depends on having enclosed it, as if being open
-were how being closed looked, when seen from within. We are
-given all the more reason, then, to believe that every case
-of being open is a case of being closed that appears open,
-and that we call "open" from this appearance. We call
-a parabola "open", then, because the way it is closed gives
-it an inside we can see out of, just as we can likewise see
-out of a lidless pickle jar to call it "open". The jar's
-inside can stay inside when the lid is off, so long as we
-still look at the jar as if looking out of it, from the
-inside formed when the lid is on. And the parabola's inside
-can stay inside even when its line is finite, so long as we
-still look at the parabola as if looking out of it, from the
-inside formed when the parabola's line is infinite. And we
-are likely to look at things this way, as if we were in
-them, looking out of them, since this is how we have to
-look, on this account, to see anything at all: from inside
-the entire world out.
+(Revise from here.) This same account of openness could
+explain every case of being open as a case of being closed
+that looks open. But this is also to say, for cases of
+openness to be praised, that the world stands behind them,
+not in front of them. For on this account, again, our
+inherent openness to the world depends on having enclosed
+it, as if being open were how being closed looked, when seen
+from within. We are given all the more reason, then, to
+believe that every case of being open is a case of being
+closed that appears open, and that we call "open" from this
+appearance. We call a parabola "open", then, because the way
+it is closed gives it an inside we can see out of, just as
+we can likewise see out of a lidless pickle jar to call it
+"open". The jar's inside can stay inside when the lid is
+off, so long as we still look at the jar as if looking out
+of it, from the inside formed when the lid is on. And the
+parabola's inside can stay inside even when its line is
+finite, so long as we still look at the parabola as if
+looking out of it, from the inside formed when the
+parabola's line is infinite. And we are likely to look at
+things this way, as if we were in them, looking out of them,
+since this is how we have to look, on this account, to see
+anything at all: from inside the entire world out.
 
 But on this account of awareness, then, our openness to the
 world depends on having enclosed it, as if being open were
