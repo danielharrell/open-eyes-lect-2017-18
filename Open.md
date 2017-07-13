@@ -175,13 +175,13 @@ of Penelope fill the house of Odysseus in his absence, in
 the abuse of hospitality. Or the open eyes of Leontius
 in Plato's *Republic*, that let the spectacle of corpses
 fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest that there are
+sight.[^Republic] Both examples suggest there are
 cases of openness to be condemned, where something between
-inside and outside has broken. But what is this something?
+inside and outside has broken. But what?
 And if it stays intact, in cases of openness to be praised,
 then why is this not boundary enough to close them? Close
 them enough, at least, to prevent the suitors or corpses in
-these cases from simply getting in; or more generally 
+these cases from simply getting in, or more generally to 
 distinguish true openness from mere openness?
 
 <!-- Below should stick with "stay intact" wording. Move
@@ -198,32 +198,33 @@ open again meant staying intact. But how, then, does the
 world get in? It could not be the way the world gets into a
 pickle jar, to spoil what's inside. For the world gets into
 our eyes, we might say, to fill what's inside, as if there
-were nothing already in our eyes to spoil. But how can the
+were nothing already in our eyes to spoil. But how could the
 world fill our eyes so completely, if they do stay intact,
-unless the world filled them somehow from within rather than
-without? That is, unless our eyes somehow already contained
-the world they were open to, in order to see it rather than
-suffer it?
+unless the world filled them without getting in? Which
+would mean filling them from within rather than
+without? 
 
-There is further reason to think that the world we see
-outside us is really inside us. We give the name "world",
-after all, not just to one thing we see outside us, or one
-thing after another, but to everything at once, along with
-anything unseen that might lie outside us. We see the whole
-world, in this sense, before we see any part of it, as if
-our relation to it were given before it can be gained. Or
-as if the world were a postulate for sight before it can be
-a discovery, and stood behind our eyes before it can stand
-in front of them. And perhaps we should say we see through
-our eyes not *to* the world, but *through* the world, to
-everything *in* the world. The world would then be a place,
-or even a perspective, rather than an object. Or at least
-the sort of object our eyes could contain, as we see through
-them, to give what lies outside them context rather than
-content. But under any such description, the world would be
-inside us to appear outside us, as a horizon for everything
-else that might appear outside us. And we would be open to
-the world, on this account, from having enclosed it.
+On this suggestion, then, we would not be able to see the
+world, but only suffer it, unless our eyes already contained
+the world they were open to. And there are further signs of
+this containment. We give the name "world", after all, not
+just to one thing we see outside us, or one thing after
+another, but to everything at once, along with anything
+unseen that might lie outside us. We see the whole world, in
+this sense, before we see any part of it, as if our relation
+to it were given before it can be gained. Or as if the world
+were a postulate for sight before it can be a discovery, and
+stood behind our eyes before it can stand in front of them.
+And perhaps we should say that we see through our eyes not
+*to* the world, but *through* the world, to everything *in*
+the world. The world would then be a place, or even a
+perspective, rather than an object. Or the sort of object
+that our eyes could contain, as we see through them, to give
+what lies outside them context rather than content. But
+under any such description, the world would be inside us to
+appear outside us, as a horizon for everything else that
+might appear outside us. And we would be open to the world,
+on this account, from having enclosed it.
 
 ---
 
@@ -234,16 +235,20 @@ corruption of openness. For if we ever lost the world inside
 us, on this account, we would presumably lose its appearance
 outside us, along with any way of being open to the world
 from within. And the only way left, from without, would
-involve getting in rather than letting in. Once Odysseus,
-then, is no longer master of his door, we could say
-a world of hospitality is lost, along with any way for his
-door to open from the inside. So now, from the outside, the
-suitors get in. Or once Leontius is no longer master of
-his eyes, we could say a world of judgement is lost, along
-with any way for his eyes to open from the inside. So now,
-from the outside, the corpses get in.
+involve getting in rather than letting in; and bear closer
+analogy to the way the world gets into a pickle jar,
+to spoil what's inside. Once Odysseus, then, is no longer
+master of his door, we could say a world of hospitality
+is lost, along with any way for his door to open from the
+inside. So now, from the outside, the suitors get in, to
+spoil what's inside. Or once Leontius is no longer master
+of his eyes, we could say a world of judgement is lost,
+along with any way for his eyes to open from the inside. So
+now, from the outside, the corpses get in, to spoil what's
+inside. (Perhaps keep "spoiling" analogy for paragraph
+below, along with elaboration in more elementary examples.)
 
-(Revise from here.) This same account of openness could
+This same account of openness could
 explain every case of being open as a case of being closed
 that looks open. But this is also to say, for cases of
 openness to be praised, that the world stands behind them,
