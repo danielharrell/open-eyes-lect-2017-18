@@ -126,7 +126,7 @@ more abstractly, and paradoxically: we want the word "open"
 to mean that there is continuity, yet at the same time
 discontinuity, between inside and outside.
 
-Here, then, is reason for doubt. For how can there be
+But how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the lid
 is removed? After all, if we leave the jar open, the pickles
@@ -198,15 +198,18 @@ open again meant staying intact. But how, then, does the
 world get in? It could not be the way the world gets into a
 pickle jar, to spoil what's inside. For the world gets into
 our eyes, we might say, to fill what's inside, as if there
-were nothing already in our eyes to spoil. But how could the
+were nothing already in our eyes to spoil. But how can the
 world fill our eyes so completely, if they do stay intact,
-unless the world filled them without getting in? Which
-would mean filling them from within rather than
+unless the world could fill them without getting in? Which
+means filling them from within rather than
 without? 
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes already contained
-the world they were open to. And there are further signs of
+the world they were open to. (Should use this later: we
+contain the parabola, or the pickle jar, in calling them
+open. Try to link language of containment to language
+of working inside out.) And there are further signs of
 this containment. We give the name "world", after all, not
 just to one thing we see outside us, or one thing after
 another, but to everything at once, along with anything
@@ -235,42 +238,30 @@ corruption of openness. For if we ever lost the world inside
 us, on this account, we would presumably lose its appearance
 outside us, along with any way of being open to the world
 from within. And the only way left, from without, would
-involve getting in rather than letting in; and bear closer
-analogy to the way the world gets into a pickle jar,
-to spoil what's inside. Once Odysseus, then, is no longer
-master of his door, we could say a world of hospitality
-is lost, along with any way for his door to open from the
-inside. So now, from the outside, the suitors get in, to
-spoil what's inside. Or once Leontius is no longer master
-of his eyes, we could say a world of judgement is lost,
-along with any way for his eyes to open from the inside. So
-now, from the outside, the corpses get in, to spoil what's
-inside. (Perhaps keep "spoiling" analogy for paragraph
-below, along with elaboration in more elementary examples.)
+involve getting in rather than letting in. Once Odysseus,
+for example, is no longer master of his door, we could say
+a world of hospitality is lost, along with any way for his
+door to open from the inside. So now, from the outside, the
+suitors get in. Or once Leontius is no longer master of
+his eyes, we could say a world of judgement is lost, along
+with any way for his eyes to open from the inside. So now,
+from the outside, the corpses get in.
 
-This same account of openness could
-explain every case of being open as a case of being closed
-that looks open. But this is also to say, for cases of
-openness to be praised, that the world stands behind them,
-not in front of them. For on this account, again, our
-inherent openness to the world depends on having enclosed
-it, as if being open were how being closed looked, when seen
-from within. We are given all the more reason, then, to
-believe that every case of being open is a case of being
-closed that appears open, and that we call "open" from this
-appearance. We call a parabola "open", then, because the way
-it is closed gives it an inside we can see out of, just as
-we can likewise see out of a lidless pickle jar to call it
-"open". The jar's inside can stay inside when the lid is
-off, so long as we still look at the jar as if looking out
-of it, from the inside formed when the lid is on. And the
-parabola's inside can stay inside even when its line is
-finite, so long as we still look at the parabola as if
-looking out of it, from the inside formed when the
-parabola's line is infinite. And we are likely to look at
-things this way, as if we were in them, looking out of them,
-since this is how we have to look, on this account, to see
-anything at all: from inside the entire world out.
+What is more, the corpses and suitors get in to spoil what's
+inside. Which suggests that true openness, even in the
+case of a pickle jar, or a parabola, works inside out. 
+We can call the jar "open", then, because the jar's inside can stay
+inside, even when the lid is off, if we look at the jar
+as if looking out of it, from the inside formed when the
+lid is on. And we can call the parabola "open", similarly, because
+the parabola's inside can stay inside, even when its line is
+finite, if we look at the parabola as if looking out
+of it, from the inside formed when the parabola's line is
+infinite. And we do look at things this way, as
+if we were in them, looking out of them, since this is how
+we have to look, on this account, to see anything at all:
+from inside the entire world out, as we open ourselves
+to it from having enclosed it first. 
 
 But on this account of awareness, then, our openness to the
 world depends on having enclosed it, as if being open were
