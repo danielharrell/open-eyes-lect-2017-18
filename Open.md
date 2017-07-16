@@ -62,10 +62,10 @@ covered. Or fastened. Or sealed. Or buttoned. Or guarded.
 Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
-when we talk of eyes being opened? Or hearts? Or minds?
-Or again the proverbial door, always open to a friend?
-Here, we use the word "open" for a positive condition, a
-state of being, which any negative definition at best
+when we talk of eyes being opened? Or hearts? Or minds? Or
+again the proverbial door, always open to a friend? Here,
+it seems, we use the word "open" for a positive condition,
+a state of being, which any negative definition at best
 only half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
@@ -78,15 +78,15 @@ figurative, but it captures how we seem to see through our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
 then, is to ask about the meaning of wakefulness, alertness,
-awareness. And awareness may be not just one way of being,
+awareness. And awareness is arguably not just one way of being,
 but our way of being: the one that underlies all the others;
 the one that explains why we use "open" with such great
 scope, and as if it were already understood. <!--Note:
 perhaps add sentence about how open eyes are a symbol for
 awareness.-->
 
-It might also explain our reliance on negation---if being
-open in this sense meant being not ourselves, so far as we
+Awareness might also explain our reliance on negation---if being
+open in this sense meant being *not* ourselves, so far as we
 were aware of anything else. And how can we catch our open
 eyes in speech, save to say that they are not closed, in
 being open; and not what they see, in being eyes? Yet if
@@ -106,7 +106,7 @@ If we take this question seriously, every way of being open
 can start to look like a way of being closed that merely
 seems open---our own way of being open most of all. But to
 begin with a simpler case: suppose I say "I can't get the
-jar open" about a stubborn jar of pickles. What would it
+jar open", about a stubborn jar of pickles. What would it
 mean to get the jar opened?
 
 A first answer, a dictionary answer, might be: to get the
@@ -126,14 +126,14 @@ more abstractly, and paradoxically: we want the word "open"
 to mean that there is continuity, yet at the same time
 discontinuity, between inside and outside.
 
-But how can there be
+Here, then, is reason for doubt. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the lid
 is removed? After all, if we leave the jar open, the pickles
 will spoil---as if the jar's inside were outside, and there
 were no difference between an open jar and a broken jar. No
 difference, that is, between inside and outside, once the
-barrier between them is gone. And it starts to look easy
+barrier between them is gone. And it can start to look easy
 enough to close the jar, but impossible to open it.
 
 ---
@@ -175,59 +175,63 @@ of Penelope fill the house of Odysseus in his absence, in
 the abuse of hospitality. Or the open eyes of Leontius
 in Plato's *Republic*, that let the spectacle of corpses
 fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest there are
-cases of openness to be condemned, where something between
-inside and outside has broken. But what?
-And if it stays intact, in cases of openness to be praised,
-then why is this not boundary enough to close them? Close
-them enough, at least, to prevent the suitors or corpses in
-these cases from simply getting in, or more generally to 
+sight.[^Republic] Both examples suggest there are cases of
+openness to be condemned, where something between inside
+and outside has broken. But what? And if it stays intact,
+in cases of openness to be praised, then why is this not
+boundary enough to close them? Close them
+enough, at least, to prevent the suitors or corpses in
+these cases from simply getting in, or more generally to
 distinguish true openness from mere openness?
 
 <!-- Below should stick with "stay intact" wording. Move
 on to corruption.-->
 
-To press this question, we can return to our own state of
+To press this question, we can turn to our own state of
 being in awareness. Our eyes are open, in this sense, as
-we see through them, to a whole world outside us. But this
+we see through them to a whole world outside us. But this
 sense is again figurative, and perhaps even false. Our eyes
-could not be open, after all, like our eyelids, or like
-a lidless jar, just letting the world in. For open eyes
-can be poked, injured, even blinded---as if their staying
-open again meant staying intact. But how, then, does the
-world get in? It could not be the way the world gets into a
-pickle jar, to spoil what's inside. For the world gets into
-our eyes, we might say, to fill what's inside, as if there
-were nothing already in our eyes to spoil. But how can the
-world fill our eyes so completely, if they do stay intact,
-unless the world could fill them without getting in? Which
-means filling them from within rather than
-without? 
+could not be open, after all, like our eyelids, or like a
+lidless jar, just letting the world in. For open eyes can
+be poked, injured, even blinded---as if their staying open
+meant staying intact, and in that respect informed every
+way of being truly open, not merely open. But if truly open
+eyes stay intact, then how does the world get in? It could
+not be the way the world gets into a pickle jar, to spoil
+what's inside. For the world gets into our eyes, we might
+say, to fill what's inside, as if there were nothing already
+in our eyes to spoil. But how can the world fill our eyes
+so completely, if they also stay intact, unless the world
+could fill them without getting in? Which seems to mean
+filling them from within rather than without? Or even to
+mean not filling them at all, if the world is fully there
+already, within our eyes at the moment they open, as a cause
+of openness rather than an effect?
 
 On this suggestion, then, we would not be able to see the
-world, but only suffer it, unless our eyes already contained
-the world they were open to. (Should use this later: we
-contain the parabola, or the pickle jar, in calling them
-open. Try to link language of containment to language
-of working inside out.) And there are further signs of
-this containment. We give the name "world", after all, not
-just to one thing we see outside us, or one thing after
-another, but to everything at once, along with anything
-unseen that might lie outside us. We see the whole world, in
-this sense, before we see any part of it, as if our relation
-to it were given before it can be gained. Or as if the world
-were a postulate for sight before it can be a discovery, and
-stood behind our eyes before it can stand in front of them.
-And perhaps we should say that we see through our eyes not
-*to* the world, but *through* the world, to everything *in*
-the world. The world would then be a place, or even a
-perspective, rather than an object. Or the sort of object
-that our eyes could contain, as we see through them, to give
-what lies outside them context rather than content. But
-under any such description, the world would be inside us to
-appear outside us, as a horizon for everything else that
-might appear outside us. And we would be open to the world,
-on this account, from having enclosed it.
+world, but only suffer it, unless our eyes somehow contained
+the world they were open to, like a closed jar or completed
+parabola. And there are further signs that the world we see
+outside us really lies inside us, in a relation to us
+that is given rather than gained. We give the name "world",
+after all, not just to one thing we see outside us, or one
+thing after another, but to everything at once, along with
+anything unseen that might lie outside us. The whole world
+seems to provide a frame for any part we
+see, as if it were a postulate for sight
+rather than a discovery, and in that sense stood behind our eyes
+rather than in front of them. And perhaps
+we should say we see through our eyes not *to* the world,
+but *through* the world, to everything *in* the world. The
+world would then be a place, or even a perspective, rather
+than an object. Or at least the sort of object that our
+eyes could contain, as we see through them, to give what
+lies outside them context rather than content. Under any
+such description, the world would be inside us to appear
+outside us, as a horizon for everything else that might
+appear outside us. Or we could say that we contain the world
+inside us to locate all of it outside us. And we would be
+open to the world, on this account, from having enclosed it.
 
 ---
 
