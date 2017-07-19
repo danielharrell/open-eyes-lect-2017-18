@@ -131,8 +131,8 @@ continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the lid
 is removed? After all, if we leave the jar open, the pickles
 will spoil---as if the jar's inside were outside, and there
-were no difference between an open jar and a broken jar. No
-difference, that is, between inside and outside, once the
+were no real difference between an open jar and a broken jar. No
+real difference, that is, between inside and outside, once the
 barrier between them is gone. And it can start to look easy
 enough to close the jar, but impossible to open it.
 
@@ -194,8 +194,9 @@ sense is again figurative, and perhaps even false. Our eyes
 could not be open, after all, like our eyelids, or like a
 lidless jar, just letting the world in. For open eyes can
 be poked, injured, even blinded---as if their staying open
-meant staying intact, and in that respect informed every
-way of being truly open, not merely open. But if truly open
+meant staying intact, just like every other way of being
+truly open. (Perhaps make contrast here: on the other
+hand, the world gets in completely.) But if truly open
 eyes stay intact, then how does the world get in? It could
 not be the way the world gets into a pickle jar, to spoil
 what's inside. For the world gets into our eyes, we might
@@ -205,14 +206,14 @@ so completely, if they also stay intact, unless the world
 could fill them without getting in? Which seems to mean
 filling them from within rather than without? Or even to
 mean not filling them at all, if the world is fully there
-already, within our eyes at the moment they open, as a cause
+already, at once, within our eyes at the moment they open, as a cause
 of openness rather than an effect?
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes somehow contained
-the world they were open to, like a closed jar or completed
+the world they were open to, as it were, like a closed jar or completed
 parabola. And there are further signs that the world we see
-outside us really lies inside us, in a relation to us
+outside us is really inside us, in a relation to us
 that is given rather than gained. We give the name "world",
 after all, not just to one thing we see outside us, or one
 thing after another, but to everything at once, along with
