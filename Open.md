@@ -28,7 +28,7 @@ to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This, then, is one reason to wonder about the word, for why
+This is one reason to wonder about the word. For why
 does it have such scope?
 
 Another reason for wonder is that the word is used, typically,
@@ -42,13 +42,13 @@ understood. But if so, then how is it understood?
 
 And is there something here not understood, or better
 understood? Who if not the philosopher, Aristotle once
-asked, would care about the difference between Socrates and
-Socrates sitting?[^Socrates] Or, so we could add, between a
-door and an open door? The way we use the word "open"
-without further thought may make it worth further thought.
-And while it would be rude to ask a friend what he meant
-when he told you his door is always open, well, what did he
-mean?
+asked, would care about the difference between Socrates
+and Socrates sitting?[^Socrates] Or the difference, we
+could add, between a door and an open door? The way we use
+the word "open" without further thought may make it worth
+further thought. If a friend tells you his door is always
+open, it may be rude to ask him what he means. But what does
+he mean?
 
    <!-- In my further revision of  this part, I will
    introduce philosophy in relation to the paradox. Then go
@@ -74,7 +74,7 @@ Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? Calling our eyes "open" may be
-figurative, but it captures how we seem to see through our
+figurative, but it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
 then, is to ask about the meaning of wakefulness, alertness,
@@ -102,7 +102,7 @@ end first section with the above question explicitly.-->
 
 # Part One {#one}
 
-If we take this question seriously, every way of being open
+If we take this question seriously, then every way of being open
 can start to look like a way of being closed that merely
 seems open---our own way of being open most of all. But to
 begin with a simpler case: suppose I say "I can't get the
@@ -169,7 +169,7 @@ now consider what I earlier called *states of being*: the
 open door of hospitality; the open heart of generosity; the
 open mind of enlightenment. Openness in these cases has the
 genuineness of a virtue, but the kind of virtue that can
-be corrupted, casting this genuineness into doubt. Recall
+be corrupted. Recall
 the open door in Homer's *Odyssey*, that lets the suitors
 of Penelope fill the house of Odysseus in his absence, in
 the abuse of hospitality. Or the open eyes of Leontius
@@ -181,33 +181,33 @@ and outside has broken. But what? And if it stays intact,
 in cases of openness to be praised, then why is this not
 boundary enough to close them? Close them
 enough, at least, to prevent the suitors or corpses in
-these cases from simply getting in, or more generally to
+these cases from simply getting in, or more generally 
 distinguish true openness from mere openness?
 
 <!-- Below should stick with "stay intact" wording. Move
 on to corruption.-->
 
-To press this question, we can turn to our own state of
-being in awareness. Our eyes are open, in this sense, as
-we see through them to a whole world outside us. But this
-sense is again figurative, and perhaps even false. Our eyes
-could not be open, after all, like our eyelids, or like a
-lidless jar, just letting the world in. For open eyes can
-be poked, injured, even blinded---as if their staying open
-meant staying intact, just like every other way of being
-truly open. (Perhaps make contrast here: on the other
-hand, the world gets in completely.) But if truly open
-eyes stay intact, then how does the world get in? It could
-not be the way the world gets into a pickle jar, to spoil
-what's inside. For the world gets into our eyes, we might
-say, to fill what's inside, as if there were nothing already
-in our eyes to spoil. But how can the world fill our eyes
-so completely, if they also stay intact, unless the world
-could fill them without getting in? Which seems to mean
-filling them from within rather than without? Or even to
-mean not filling them at all, if the world is fully there
-already, at once, within our eyes at the moment they open, as a cause
-of openness rather than an effect?
+(Revise from here.) To press this question, we can turn to
+our own state of being in awareness. Our eyes are open, in
+this sense, as we see through them to a whole world outside
+us. But this sense is again figurative, and perhaps even
+false. Our eyes could not be open, after all, like our
+eyelids, or like a lidless jar, just letting the world in.
+For open eyes can be poked, injured, even blinded---as if
+their staying open meant staying intact, just like every
+other way of being truly open. (Perhaps make contrast here:
+on the other hand, the world gets in completely.) But if
+truly open eyes stay intact, then how does the world get in?
+It could not be the way the world gets into a pickle jar, to
+spoil what's inside. For the world gets into our eyes, we
+might say, to fill what's inside, as if there were nothing
+already in our eyes to spoil. But how can the world fill our
+eyes so completely, if they also stay intact, unless the
+world could fill them without getting in? Which seems to
+mean filling them from within rather than without? Or even
+to mean not filling them at all, if the world is fully there
+already, at once, within our eyes at the moment they open,
+as a cause of openness rather than an effect?
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes somehow contained
