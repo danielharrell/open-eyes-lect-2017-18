@@ -16,6 +16,15 @@
 
 # Introduction {#intro}
 
+<!-- Note here: Need to incorporate St. John's viewbook. And
+don't forget to mention ambiguity in word: a command, but
+also a state. Also underline sense in which the power
+of the word to go unexplained, but needs explaining, even
+to the point of being spoiled in effect.
+
+Also need to introduce the question of paradox and possibility
+more explicitly to begin lecture proper.-->
+
 The word "open" is used in ways that range from the prosaic
 to the profound.
 
@@ -28,32 +37,22 @@ to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-This is one reason to wonder about the word. For why
-does it have such scope?
+But why does the word have such scope? This is one reason
+for wonder.
 
-Another reason for wonder is that the word is used, typically,
+Another reason is that the word is used, typically,
 without further explanation, as if its meaning were already
 understood. But if so, then how is it understood?
 
-   <!-- Note here: I could use the St. John's viewbook to
-   illustrate this: "Open", alone on the cover, is not just
-   an imperative to open the book, but has a nominative
-   power of suggestion as well.-->
-
 And is there something here not understood, or better
-understood? Who if not the philosopher, Aristotle once
-asked, would care about the difference between Socrates
-and Socrates sitting?[^Socrates] Or the difference, we
-could add, between a door and an open door? The way we use
+understood? The difference between a door and an open door
+may be like the difference between Socrates and Socrates
+sitting---something, according to Aristotle, that only
+a philosopher would care about.[^Socrates] The way we use
 the word "open" without further thought may make it worth
-further thought. If a friend tells you his door is always
-open, it may be rude to ask him what he means. But what does
-he mean?
-
-   <!-- In my further revision of  this part, I will
-   introduce philosophy in relation to the paradox. Then go
-   on to show how philosophy in a sense turns on itself in
-   a denial of openness.-->
+further thought. We can wonder what it means to say "my
+door is always open", even if asking this of a friend,
+who just said it to you, would be rude, or dense.
 
 Still another reason for wonder comes from the way the
 word "open" is defined in dictionaries---largely through
@@ -66,7 +65,7 @@ when we talk of eyes being opened? Or hearts? Or minds? Or
 again the proverbial door, always open to a friend? Here,
 it seems, we use the word "open" for a positive condition,
 a state of being, which any negative definition at best
-only half-comprehends. And to ask about the meaning of
+half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
 
@@ -74,16 +73,14 @@ Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? Calling our eyes "open" may be
-figurative, but it captures how we seem to see *through* our
+figurative. But it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
 then, is to ask about the meaning of wakefulness, alertness,
 awareness. And awareness is arguably not just one way of being,
 but our way of being: the one that underlies all the others;
 the one that explains why we use "open" with such great
-scope, and as if it were already understood. <!--Note:
-perhaps add sentence about how open eyes are a symbol for
-awareness.-->
+scope, and as if it were already understood.
 
 Awareness might also explain our reliance on negation---if being
 open in this sense meant being *not* ourselves, so far as we
