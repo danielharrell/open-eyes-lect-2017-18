@@ -22,8 +22,14 @@ also a state. Also underline sense in which the power
 of the word to go unexplained, but needs explaining, even
 to the point of being spoiled in effect.
 
+Idea for incorporating viewbook: we are also asking about
+ourselves, at St. John's. Link to the idea that
+we form a community of learning. This connects the openness
+of a self with openness in relation to others.
+
 Also need to introduce the question of paradox and possibility
-more explicitly to begin lecture proper.-->
+more explicitly to begin lecture proper. Perhaps hold off on
+issue about negation until end.-->
 
 The word "open" is used in ways that range from the prosaic
 to the profound.
@@ -52,7 +58,7 @@ a philosopher would care about.[^Socrates] The way we use
 the word "open" without further thought may make it worth
 further thought. We can wonder what it means to say "my
 door is always open", even if asking this of a friend,
-who just said it to you, would be rude, or dense.
+who just said it to you, risks being rude, or dense.
 
 Still another reason for wonder comes from the way the
 word "open" is defined in dictionaries---largely through
@@ -76,11 +82,27 @@ this of our eyes, and not our eyelids, which we might call
 figurative. But it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
-then, is to ask about the meaning of wakefulness, alertness,
+then, is to ask about the meaning of wakefulness, watchfulness,
 awareness. And awareness is arguably not just one way of being,
 but our way of being: the one that underlies all the others;
-the one that explains why we use "open" with such great
+the one that explains why we use the word "open" with such great
 scope, and as if it were already understood.
+
+We can also appreciate the scope of the word in a deeper way.
+For if its range includes Combines solitude with solicitude. can also think of how this word combines a reference to
+self, in awareness, with a reference to others,   The power in this word, 
+<!-- In above paragraph, perhaps make explicit the doubleness
+in openness of self-referring and other-referring. Then
+link to a community of learning. To ask about the meaning of
+the word of "open", is to ask about the meaning of St. John's
+College.  And if you think this is a stretch, here is the
+cover of our current viewbook to prove otherwise. Then go on
+to spell this out a little perhaps. Pregnancy of word. Power
+of the word that it can be put on the cover of the viewbook,
+by itself.-->
+
+<!-- Delay paragraph below, to introduce paradox or puzzle
+explicitly-->
 
 Awareness might also explain our reliance on negation---if being
 open in this sense meant being *not* ourselves, so far as we
