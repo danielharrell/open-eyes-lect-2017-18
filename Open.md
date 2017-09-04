@@ -84,13 +84,41 @@ eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open",
 then, is to ask about the meaning of wakefulness, watchfulness,
 awareness. And awareness is arguably not just one way of being,
-but our way of being: the one that underlies all the others;
-the one that explains why we use the word "open" with such great
+but our way of being: the one underneath all the others;
+the one that explains why we use the word "open" with such 
 scope, and as if it were already understood.
 
-We can also appreciate the scope of the word in a deeper way.
-For if its range includes Combines solitude with solicitude. can also think of how this word combines a reference to
-self, in awareness, with a reference to others,   The power in this word, 
+- There is also a sense in which asking about the meaning
+of "open" is to ask about the meaning of education. The
+connection of the word "open" to states of being also gives
+the word a different and deeper scope than from prosaic to
+profound. For it makes reference to others and to self at
+once. 
+
+- Should negation come next as a topic? Or delayed
+until the introduction of the paradox?
+
+- In any case, I need to have a paragraph on how asking
+about the word "open" is *also* to ask about St. John's
+College. One strategy is just to claim this, mention that
+it might seem a stretch, and then introduce the cover of
+the viewbook that way. I will also need to explain the
+sense of this more generally. The earlier states of being
+refer to others, the final one (awareness) refers to the
+self. Another way to put this, with a nice consonance of
+words, is to say that the word "open" ranges over moments
+of solititude and moments of solicitude. This could be tied
+to learning, and what it means to be in a community of
+learning. (This suggests a different way to introduce this:
+talking about how the word also has a range over ways of
+being.)
+
+We can also appreciate the scope of the word in a deeper
+way. For if its range includes Combines solitude with
+solicitude. can also think of how this word combines a
+reference to self, in awareness, with a reference to others,
+The power in this word,
+
 <!-- In above paragraph, perhaps make explicit the doubleness
 in openness of self-referring and other-referring. Then
 link to a community of learning. To ask about the meaning of
