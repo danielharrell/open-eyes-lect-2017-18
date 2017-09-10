@@ -51,14 +51,15 @@ without further explanation, as if its meaning were already
 understood. But if so, then how is it understood?
 
 And is there something here not understood, or better
-understood? The difference between a door and an open door
-may be like the difference between Socrates and Socrates
-sitting---something, according to Aristotle, that only
-a philosopher would care about.[^Socrates] The way we use
-the word "open" without further thought may make it worth
-further thought. We can wonder what it means to say "my
-door is always open", even if asking this of a friend,
-who just said it to you, risks being rude, or dense.
+understood? The difference between a door and an open
+door may be like the difference between Socrates and
+Socrates sitting---something, according to Aristotle, that
+only a philosopher would care about.[^Socrates.] And the
+philosopher in all of us can wonder what it means
+to say "my door is always open", even if asking this of a
+friend, who just said it to you, risks being rude, or dense.
+The way we use the word "open" without further thought may
+make it worth further thought.
 
 Still another reason for wonder comes from the way the
 word "open" is defined in dictionaries---largely through
@@ -79,45 +80,40 @@ Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? Calling our eyes "open" may be
-figurative. But it captures how we seem to see *through* our
+figurative, but it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes were
-open, even transparent. To ask about the meaning of "open",
-then, is to ask about the meaning of wakefulness, watchfulness,
+open, even transparent. To ask about the meaning of "open", then,
+is to ask about the meaning of wakefulness, watchfulness,
 awareness. And awareness is arguably not just one way of being,
 but our way of being: the one underneath all the others;
 the one that explains why we use the word "open" with such 
 scope, and as if it were already understood.
 
-- There is also a sense in which asking about the meaning
-of "open" is to ask about the meaning of education. The
-connection of the word "open" to states of being also gives
-the word a different and deeper scope than from prosaic to
-profound. For it makes reference to others and to self at
-once. 
+Awareness might also explain our reliance on negation---if
+being open in this sense meant being *not* ourselves, so
+far as we were aware of anything else. But negation again
+risks half-comprehension; for underneath our awareness of
+anything else is an awareness we have of ourselves. And
+this gives the word "open" a deeper sense of scope, as it
+encompasses self and other at once, and captures something
+that our times of solitude and our times of solicitude have
+in common. 
 
-- Should negation come next as a topic? Or delayed
-until the introduction of the paradox?
+In this vein, too, the word "open" might have a home in any
+community that conceives itself as a community of learning,
+and believes, without the blush of contradiction, that
+learning best happens among others, yet only happens in
+oneself. And if no one else can do your learning for you, it
+might require a word like "open" to explain why you don't find
+yourself alone, but always facing others at a table. 
+To ask about the meaning of "open", then, to ask about the meaning
+of this. The meaning of us. And we can wonder, as we look at
+the cover of the current St. John's viewbook, why the word
+"open" might be enough to introduce us.
 
-- In any case, I need to have a paragraph on how asking
-about the word "open" is *also* to ask about St. John's
-College. One strategy is just to claim this, mention that
-it might seem a stretch, and then introduce the cover of
-the viewbook that way. I will also need to explain the
-sense of this more generally. The earlier states of being
-refer to others, the final one (awareness) refers to the
-self. Another way to put this, with a nice consonance of
-words, is to say that the word "open" ranges over moments
-of solititude and moments of solicitude. This could be tied
-to learning, and what it means to be in a community of
-learning. (This suggests a different way to introduce this:
-talking about how the word also has a range over ways of
-being.)
+From here move to more specific sense of wonder in paradox or perplexity,
+through Aristotle.
 
-We can also appreciate the scope of the word in a deeper
-way. For if its range includes Combines solitude with
-solicitude. can also think of how this word combines a
-reference to self, in awareness, with a reference to others,
-The power in this word,
 
 <!-- In above paragraph, perhaps make explicit the doubleness
 in openness of self-referring and other-referring. Then
@@ -129,12 +125,13 @@ to spell this out a little perhaps. Pregnancy of word. Power
 of the word that it can be put on the cover of the viewbook,
 by itself.-->
 
+<!-- Power of word: nothing more need be put on the cover, and
+any elaboration risks spoiling the effect. But now that the
+viewbook has done its work, we can ask why.-->
 <!-- Delay paragraph below, to introduce paradox or puzzle
 explicitly-->
 
-Awareness might also explain our reliance on negation---if being
-open in this sense meant being *not* ourselves, so far as we
-were aware of anything else. And how can we catch our open
+And how can we catch our open
 eyes in speech, save to say that they are not closed, in
 being open; and not what they see, in being eyes? Yet if
 there is nothing more to say, nothing but what being open is
@@ -1011,7 +1008,7 @@ direction, without end.
 
 [Back to top](#top)
 
-[^Socrates]: "...it is the function of the philosopher to be able
+[^Socrates.]: "...it is the function of the philosopher to be able
 to investigate all things. For if it is not the function of
 the philosopher, who is it who will inquire whether Socrates
 and Socrates seated are the same thing, or whether one thing
