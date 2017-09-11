@@ -100,34 +100,45 @@ in common.
 In this vein, too, the word "open" might have a home in any
 community that conceives itself as a community of learning,
 and believes, without the blush of contradiction, that
-learning best happens among others, yet only happens in
+learning best happens among others yet only happens in
 oneself. And if no one else can do your learning for you, it
-might require a word like "open" to explain why you don't find
+might take a word like "open" to explain why you don't find
 yourself alone, but always facing others at a table. 
 To ask about the meaning of "open", then, to ask about the meaning
 of this. The meaning of us. Just as we can ask, as we look at
 the cover of the current St. John's viewbook, why the word
 "open" might be enough to introduce us.
 
-But while the word thus gives us much to wonder about,
-there is another sense, I want to suggest, in which the
-word gives us just one thing to wonder about. And this is
-by analogy, borrowing from Aristotle again, to the one
-thing we can wonder about when we encounter, as if for
-the first time, wooden figures come to life; or the sun
-reverse course one day in the sky; or the diagonal of a
-square escape any division into equal parts when these are
-taken from the side.[^AristotleWonder.] The wonder, in each case, is how such
-a thing is possible. Once we learn how, we can give what
-we encounter a name, like "marionette", or "solstice",
+But while the word thus gives us much to wonder about, there
+is another sense, I want to suggest, in which the word gives
+us just one thing to wonder about. And this is by analogy,
+borrowing from Aristotle again, to the one thing we can
+wonder about when we encounter, as if for the first time,
+wooden figures come to life; or the sun reverse course 
+day in the sky; or the diagonal of a square escape 
+division by any part that perfectly divides the side.
+[^AristotleWonder.] The wonder, in each case, is how
+such a thing is possible. Once we learn how, we can give
+what we encounter a name, like "marionette", or "solstice",
 or "incommensurable." But names like this can serve to
 discourage understanding as much as display it.
 
-The word "open", I suspect, is just such a name. Behind
+And the word "open", I suspect, is just such a name. Behind
 it, or beneath it, lies a problem, a paradox, to make us wonder
 how being open is even possible. But to wonder about this is
-also unlikely, since we have the word "open" as a kind of proof
-of possibility. (Move on to jar.) 
+also unlikely, since we have the word "open" to prove its
+possibility. If I say "I can't get the jar open",
+about a stubborn jar of pickles, I will look for
+a better grip on the lid rather than the word. But I can
+wonder even here about the word. For (revise from here).
+
+werenot on the meaning of being open.  will consider my problem
+to be with the lid, not with a way of being, and look for
+a better grip . The jar, I'm sure
+to say, will be open, just as soon as I manage to turn the
+lid. Once I get the lid
+off, the jar, I'm sure to say, will be open. I amcan't get a stubborn jar of
+pickles open, for example,) 
 
 be a sign of what we don't understand, or won't
 understand, as much of what we do. once the name is
