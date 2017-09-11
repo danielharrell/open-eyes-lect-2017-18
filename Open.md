@@ -1,4 +1,4 @@
-% On Being Open
+% The Wonder in the Word "Open".
 % Daniel Harrell
 % March 2018
 
@@ -80,7 +80,7 @@ Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? Calling our eyes "open" may be
-figurative, but it captures how we seem to see *through* our
+figurative, but it captures how we seem to see through our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open", then,
 is to ask about the meaning of wakefulness, watchfulness,
@@ -107,11 +107,36 @@ oneself. And if no one else can do your learning for you, it
 might require a word like "open" to explain why you don't find
 yourself alone, but always facing others at a table. 
 To ask about the meaning of "open", then, to ask about the meaning
-of this. The meaning of us. And we can wonder, as we look at
+of this. The meaning of us. Just as we can ask, as we look at
 the cover of the current St. John's viewbook, why the word
 "open" might be enough to introduce us.
 
-From here move to more specific sense of wonder in paradox or perplexity,
+But while the word thus gives us much to wonder about, there
+is another sense in which the word gives us just one thing
+to wonder about. And this is by analogy, borrowing from
+Aristotle again, to the one thing we can wonder about when
+we encounter, as if for the first time, wooden figures come
+to life, or the sun reverse course one day in the sky, or
+the diagonal of a square escape any division into equal
+parts when these are taken from the side. The wonder, in
+each case, is how such a thing is possible. Once we learn
+how, we can give what we encounter a name, like "marionette",
+or "solstice", or "incommensurable." But names like this
+can serve to discourage understanding as much as display it.
+
+And the word "open", I think, is just such a name. Behind
+it lies a problem, a paradox, to make us wonder
+how being open is even possible.  be a sign of what we don't understand, or won't
+understand, as much of what we do. once the name is
+given, it can be a sign of what we just
+as well discourage understanding as display it. 
+
+can give what we encounter in
+each case a
+name---"marionette", "solstice", "incommensurable"---yet behind this
+name there remains a paradox, which causes our wonder ,
+at least when the parts are taken from the side. Calling whaa line drawn diagonal to the square  , re is much, then, to wonder about in the word "open",
+there From here move to more specific sense of wonder in paradox or perplexity,
 through Aristotle.
 
 
