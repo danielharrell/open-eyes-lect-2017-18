@@ -1,8 +1,6 @@
-% The Wonder in the Word "Open".
+% The Wonder in the Word "Open"
 % Daniel Harrell
-% March 2018
-
-<!--Alternative title: "Open"-->
+% April 6, 2018
 
 # Contents {#top}
 
@@ -111,22 +109,27 @@ of this. The meaning of us. Just as we can ask, as we look at
 the cover of the current St. John's viewbook, why the word
 "open" might be enough to introduce us.
 
-But while the word thus gives us much to wonder about, there
-is another sense in which the word gives us just one thing
-to wonder about. And this is by analogy, borrowing from
-Aristotle again, to the one thing we can wonder about when
-we encounter, as if for the first time, wooden figures come
-to life, or the sun reverse course one day in the sky, or
-the diagonal of a square escape any division into equal
-parts when these are taken from the side. The wonder, in
-each case, is how such a thing is possible. Once we learn
-how, we can give what we encounter a name, like "marionette",
-or "solstice", or "incommensurable." But names like this
-can serve to discourage understanding as much as display it.
+But while the word thus gives us much to wonder about,
+there is another sense, I want to suggest, in which the
+word gives us just one thing to wonder about. And this is
+by analogy, borrowing from Aristotle again, to the one
+thing we can wonder about when we encounter, as if for
+the first time, wooden figures come to life; or the sun
+reverse course one day in the sky; or the diagonal of a
+square escape any division into equal parts when these are
+taken from the side.[^AristotleWonder.] The wonder, in each case, is how such
+a thing is possible. Once we learn how, we can give what
+we encounter a name, like "marionette", or "solstice",
+or "incommensurable." But names like this can serve to
+discourage understanding as much as display it.
 
-And the word "open", I think, is just such a name. Behind
-it lies a problem, a paradox, to make us wonder
-how being open is even possible.  be a sign of what we don't understand, or won't
+The word "open", I suspect, is just such a name. Behind
+it, or beneath it, lies a problem, a paradox, to make us wonder
+how being open is even possible. But to wonder about this is
+also unlikely, since we have the word "open" as a kind of proof
+of possibility. (Move on to jar.) 
+
+be a sign of what we don't understand, or won't
 understand, as much of what we do. once the name is
 given, it can be a sign of what we just
 as well discourage understanding as display it. 
@@ -1044,6 +1047,8 @@ questions." (Book IV, Part 2, *Metaphysics*)
 [^Dictionary]: See, for example, the [Merriam Webster
 entry](https://www.merriam-webster.com/dictionary/open) for
 "open". 
+
+[^AristotleWonder.]: Put Metphysics reference here.
 
 [^Republic]: "Leontius, the son of Aglaion, was going up from the
 Piraeus along the outside of the North Wall when he saw some
