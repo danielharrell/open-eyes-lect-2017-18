@@ -5,7 +5,9 @@
 # Contents {#top}
 
 1. [Introduction](#intro)
-1. [Part One](#one)
+1. [Part One](#one)  
+    1. [The Jar](#jar)  
+    1. [The Parabola](#parabola)
 <!-- Renumber according to Pandoc -->
 1. [Part Two: Paradox Explored](#two)
 1. [Part Three: Paradox Resolved](#three)
@@ -106,120 +108,70 @@ might take a word like "open" to explain why you don't find
 yourself alone, but always facing others at a table. 
 To ask about the meaning of "open", then, to ask about the meaning
 of this. The meaning of us. Just as we can ask, as we look at
-the cover of the current St. John's viewbook, why the word
+the cover of the St. John's viewbook, why the word
 "open" might be enough to introduce us.
-
-But while the word thus gives us much to wonder about, there
-is another sense, I want to suggest, in which the word gives
-us just one thing to wonder about. And this is by analogy,
-borrowing from Aristotle again, to the one thing we can
-wonder about when we encounter, as if for the first time,
-wooden figures come to life; or the sun reverse course 
-day in the sky; or the diagonal of a square escape 
-division by any part that perfectly divides the side.
-[^AristotleWonder.] The wonder, in each case, is how
-such a thing is possible. Once we learn how, we can give
-what we encounter a name, like "marionette", or "solstice",
-or "incommensurable." But names like this can serve to
-discourage understanding as much as display it.
-
-And the word "open", I suspect, is just such a name. Behind
-it, or beneath it, lies a problem, a paradox, to make us wonder
-how being open is even possible. But to wonder about this is
-also unlikely, since we have the word "open" to prove its
-possibility. If I say "I can't get the jar open",
-about a stubborn jar of pickles, I will look for
-a better grip on the lid rather than the word. But I can
-wonder even here about the word. For (revise from here).
-
-werenot on the meaning of being open.  will consider my problem
-to be with the lid, not with a way of being, and look for
-a better grip . The jar, I'm sure
-to say, will be open, just as soon as I manage to turn the
-lid. Once I get the lid
-off, the jar, I'm sure to say, will be open. I amcan't get a stubborn jar of
-pickles open, for example,) 
-
-be a sign of what we don't understand, or won't
-understand, as much of what we do. once the name is
-given, it can be a sign of what we just
-as well discourage understanding as display it. 
-
-can give what we encounter in
-each case a
-name---"marionette", "solstice", "incommensurable"---yet behind this
-name there remains a paradox, which causes our wonder ,
-at least when the parts are taken from the side. Calling whaa line drawn diagonal to the square  , re is much, then, to wonder about in the word "open",
-there From here move to more specific sense of wonder in paradox or perplexity,
-through Aristotle.
-
-
-<!-- In above paragraph, perhaps make explicit the doubleness
-in openness of self-referring and other-referring. Then
-link to a community of learning. To ask about the meaning of
-the word of "open", is to ask about the meaning of St. John's
-College.  And if you think this is a stretch, here is the
-cover of our current viewbook to prove otherwise. Then go on
-to spell this out a little perhaps. Pregnancy of word. Power
-of the word that it can be put on the cover of the viewbook,
-by itself.-->
-
-<!-- Power of word: nothing more need be put on the cover, and
-any elaboration risks spoiling the effect. But now that the
-viewbook has done its work, we can ask why.-->
-<!-- Delay paragraph below, to introduce paradox or puzzle
-explicitly-->
-
-And how can we catch our open
-eyes in speech, save to say that they are not closed, in
-being open; and not what they see, in being eyes? Yet if
-there is nothing more to say, nothing but what being open is
-not, then what makes being open something rather than
-nothing?
-
-Or to ask this question in the form that will guide me in my
-lecture tonight: how is being open possible? <!-- Need to
-end first section with the above question explicitly.-->
 
 [Back to top](#top)
 
 # Part One {#one}
 
-If we take this question seriously, then every way of being open
-can start to look like a way of being closed that merely
-seems open---our own way of being open most of all. But to
-begin with a simpler case: suppose I say "I can't get the
-jar open", about a stubborn jar of pickles. What would it
-mean to get the jar opened?
+But while the word thus gives us much to wonder about,
+there is another sense, I want to suggest, in which the
+word gives us just one thing to wonder about. And this is
+by analogy, borrowing from Aristotle again, to the one
+thing we can wonder about when we encounter, as if for the
+first time, wooden figures come to life; or the sun reverse
+course one day in the sky; or the diagonal of a square
+escape measure by any part, no matter how small, of the
+side.[^AristotleWonder.] The wonder, in each case, is how
+such a thing is possible. Once we learn how, we can give
+what we encounter a name, like "marionette", or "solstice",
+or "incommensurable." But names like this, once they become
+words we inherit rather than originate, can just as
+well discourage understanding as display it,
+and identify what we don't yet know as if we do.
 
-A first answer, a dictionary answer, might be: to get the
-lid off.
+The word "open", I suspect, is just such a name. Behind
+it, or beneath it, lies a problem, a paradox, to make us wonder
+how being open is even possible. But to wonder how is
+also unlikely, since we have the word "open" to prove its
+possibility. If, for example, I say "I can't get the jar open",
+about a stubborn jar of pickles, I will look for
+a better grip on the lid, not the word. 
 
-But why the lid? Suppose I decide not to bother with the
-lid, and throw the jar to the ground, breaking it open. Why
-is this not simply another way of opening the jar? Why say
-instead that I broke the jar open?
+[Back to top](#top)
+
+## The Jar {#jar}
+
+But even here, I can wonder about the word. For why get a
+better grip on the lid to open the jar? Suppose I decide not
+to bother with the lid, and throw the jar to the ground,
+breaking it open. Why is this not simply another way of
+opening the jar? Why say instead that I broke the jar open?
 
 We say this, it seems, in wanting the jar to remain a jar:
 something opened without being broken. More abstractly put:
 we want the word "opened" to mean that the barrier between
 the jar's inside and outside has been removed, without the
 difference between inside and outside being erased. Or still
-more abstractly, and paradoxically: we want the word "open"
+more abstractly: we want the word "open"
 to mean that there is continuity, yet at the same time
 discontinuity, between inside and outside.
 
-Here, then, is reason for doubt. For how can there be
+But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
-the jar's inside still inside, and not outside, once the lid
-is removed? After all, if we leave the jar open, the pickles
-will spoil---as if the jar's inside were outside, and there
-were no real difference between an open jar and a broken jar. No
-real difference, that is, between inside and outside, once the
-barrier between them is gone. And it can start to look easy
-enough to close the jar, but impossible to open it.
+the jar's inside still inside, and not outside, once the
+lid is removed? And if we leave the jar open, the pickles
+will spoil---as if for nature, even if not for us, the
+lidless jar has no inside, and can only gain one by being
+closed. But in that case, in what sense, if any, can I
+truly open the jar, no matter how great my grip on the lid?
 
----
+## The Parabola {#parabola}
+
+Begin this section with transitional sentence, referring
+back to "as if for nature, even if not for us" above, to
+suggest that this is not just a problem for nature.
 
 As a second example, at the other end of a pickle jar,
 consider a line from geometry: [the parabola]. We can
