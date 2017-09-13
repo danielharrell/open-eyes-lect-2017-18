@@ -96,7 +96,7 @@ risks half-comprehension; for underneath our awareness of
 anything else is an awareness we have of ourselves. And
 this gives the word "open" a deeper sense of scope, as it
 encompasses self and other at once, and captures something
-that our times of solitude and our times of solicitude have
+that our times of solitude and solicitude have
 in common. 
 
 In this vein, too, the word "open" might have a home in any
@@ -105,7 +105,7 @@ and believes, without the blush of contradiction, that
 learning best happens among others yet only happens in
 oneself. And if no one else can do your learning for you, it
 might take a word like "open" to explain why you don't find
-yourself alone, but always facing others at a table. 
+yourself alone here, but facing others at a table. 
 To ask about the meaning of "open", then, to ask about the meaning
 of this. The meaning of us. Just as we can ask, as we look at
 the cover of the St. John's viewbook, why the word
@@ -119,17 +119,17 @@ But while the word thus gives us much to wonder about,
 there is another sense, I want to suggest, in which the
 word gives us just one thing to wonder about. And this is
 by analogy, borrowing from Aristotle again, to the one
-thing we can wonder about when we encounter, as if for the
-first time, wooden figures come to life; or the sun reverse
-course one day in the sky; or the diagonal of a square
-escape measure by any part, no matter how small, of the
-side.[^AristotleWonder.] The wonder, in each case, is how
+thing we can wonder about when we encounter, as if for
+the first time, wooden figures come to life; or the sun
+reverse course one day in the sky; or the diagonal of a
+square escape measure by any part of its side, no matter how
+small.[^AristotleWonder.] The wonder, in each case, is how
 such a thing is possible. Once we learn how, we can give
 what we encounter a name, like "marionette", or "solstice",
 or "incommensurable." But names like this, once they become
-words we inherit rather than originate, can just as
-well discourage understanding as display it,
-and identify what we don't yet know as if we do.
+words we inherit rather than originate, can just as well
+discourage understanding as display it, and identify what we
+don't yet know as if we do.
 
 The word "open", I suspect, is just such a name. Behind
 it, or beneath it, lies a problem, a paradox, to make us wonder
@@ -151,7 +151,7 @@ opening the jar? Why say instead that I broke the jar open?
 
 We say this, it seems, in wanting the jar to remain a jar:
 something opened without being broken. More abstractly put:
-we want the word "opened" to mean that the barrier between
+we want the word "open" to mean that the barrier between
 the jar's inside and outside has been removed, without the
 difference between inside and outside being erased. Or still
 more abstractly: we want the word "open"
@@ -161,27 +161,30 @@ discontinuity, between inside and outside.
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the
-lid is removed? And if we leave the jar open, the pickles
+lid is removed? If we leave the jar open, the pickles
 will spoil---as if for nature, even if not for us, the
 lidless jar has no inside, and can only gain one by being
-closed. But in that case, in what sense, if any, can I
-truly open the jar, no matter how great my grip on the lid?
+closed. Given that, in what sense, if any, can I
+truly open the jar---keeping its inside inside, but indeed open
+to the outside---no matter how great my grip on the lid?
 
 ## The Parabola {#parabola}
 
-Begin this section with transitional sentence, referring
-back to "as if for nature, even if not for us" above, to
-suggest that this is not just a problem for nature.
-
-As a second example, at the other end of a pickle jar,
-consider a line from geometry: [the parabola]. We can
-readily distinguish the sides of this line, one convex and
-one concave, since the parabola is curved. But suppose we go
-further, and take the convex side to be "inside" the
-parabola, and the concave side to be "outside". This would
-treat the curved line as a figure, analogous to the ellipse,
-only open rather than closed. But what would justify this
-interpretation? Why aren't both sides of the parabola still
+We can ask this same question even without the given part:
+that is, without any appeal to nature, and the way it can
+make an open jar seem no different from a broken jar once
+the contents of the jar are spoiled. For now consider a line
+from geometry: [the parabola]. We can readily distinguish
+the sides of this line, one convex and one concave, since
+the parabola is curved. But suppose we go further, and take
+the convex side to be "inside" the parabola, and the concave
+side to be "outside". This would treat the curved line as
+a figure, analogous to the ellipse, only open rather than
+closed. We might even liken the parabola to an lidless,
+empty pickle jar, turned upside down. But what would justify
+this interpretation? That is, why think that the parabola
+has an inside, which is distinct from, but indeed open to,
+an outside? Why aren't both sides of the parabola still
 outside it, since both lie outside the line of the parabola?
 
 To make the inside of the parabola definite, and press the
@@ -189,13 +192,15 @@ analogy to the ellipse, we could take the parabola as an
 infinite ellipse, formed of a line infinite in length, with
 ends that reach the edge of the geometric plane. But then
 our parabola will gain a true inside in just the way our
-pickle jar possessed one: by being closed. For there will be
-no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. And while the
-line of the parabola never closes upon itself, it also never
-stops. Its open end, then, is something we can plainly see,
-even point to, but never reach---as if openness had no being
-but seeming.
+pickle jar possessed one: by being closed. For there will
+be no way into the parabola, or out of it, through its open
+end, since this now lies infinitely far away. (Do I need the
+next sentence?) And while the line of the parabola never
+closes upon itself, it also never stops. Its open end, then,
+is something we can plainly see, even point to, but never
+reach---as if openness had no being but seeming. So in what
+sense, if any, can I truly open the parabola, no matter
+how great my grip on it with my mind? (finish question on analogy to pickle jar)
 
 ---
 
