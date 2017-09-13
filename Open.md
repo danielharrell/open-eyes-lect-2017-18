@@ -165,8 +165,10 @@ lid is removed? If we leave the jar open, the pickles
 will spoil---as if for nature, even if not for us, the
 lidless jar has no inside, and can only gain one by being
 closed. Given that, in what sense, if any, can I
-truly open the jar---keeping its inside inside, but indeed open
-to the outside---no matter how great my grip on the lid?
+truly open the jar, no matter how great my grip on
+the lid? How do I keep the jar's inside inside, so it
+can indeed be open to the outside rather than become
+a part of the outside?
 
 ## The Parabola {#parabola}
 
