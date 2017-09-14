@@ -8,6 +8,7 @@
 1. [Part One](#one)  
     1. [The Jar](#jar)  
     1. [The Parabola](#parabola)
+    1. [Awareness](#awareness)
 <!-- Renumber according to Pandoc -->
 1. [Part Two: Paradox Explored](#two)
 1. [Part Three: Paradox Resolved](#three)
@@ -166,45 +167,68 @@ will spoil---as if for nature, even if not for us, the
 lidless jar has no inside, and can only gain one by being
 closed. Given that, in what sense, if any, can I
 truly open the jar, no matter how great my grip on
-the lid? How do I keep the jar's inside inside, so it
-can indeed be open to the outside rather than become
-a part of the outside?
+the lid? How do I keep the jar's inside inside,
+so that it can be open, not belong, to the
+outside?
 
 ## The Parabola {#parabola}
 
-We can ask this same question even without the given part:
-that is, without any appeal to nature, and the way it can
-make an open jar seem no different from a broken jar once
-the contents of the jar are spoiled. For now consider a line
-from geometry: [the parabola]. We can readily distinguish
-the sides of this line, one convex and one concave, since
-the parabola is curved. But suppose we go further, and take
-the convex side to be "inside" the parabola, and the concave
-side to be "outside". This would treat the curved line as
-a figure, analogous to the ellipse, only open rather than
-closed. We might even liken the parabola to an lidless,
-empty pickle jar, turned upside down. But what would justify
+This, then, is one way to wonder how being open is possible.
+But not the only way; and other ways need make no appeal
+to the risks of ruin if an inside is left open to the
+outside too long. Consider a line from geometry:
+[the parabola]. We can readily distinguish the sides of
+this line, one convex and one concave, since the parabola
+is curved. But suppose we go further, and take the convex
+side to be "inside" the parabola, and the concave side
+to be "outside". This would treat the curved line as a
+figure, analogous to the ellipse, only open rather than
+closed. We might even liken this figure to an lidless, empty
+pickle jar, turned upside down. But what would justify
 this interpretation? That is, why think that the parabola
-has an inside, which is distinct from, but indeed open to,
-an outside? Why aren't both sides of the parabola still
-outside it, since both lie outside the line of the parabola?
+has an inside, distinct from, but open to, an outside? Why
+aren't both sides of the parabola outside it, since both lie
+outside the line of the parabola?
 
 To make the inside of the parabola definite, and press the
 analogy to the ellipse, we could take the parabola as an
-infinite ellipse, formed of a line infinite in length, with
+infinite figure, formed of a line infinite in length, with
 ends that reach the edge of the geometric plane. But then
 our parabola will gain a true inside in just the way our
 pickle jar possessed one: by being closed. For there will
 be no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. (Do I need the
-next sentence?) And while the line of the parabola never
-closes upon itself, it also never stops. Its open end, then,
-is something we can plainly see, even point to, but never
-reach---as if openness had no being but seeming. So in what
-sense, if any, can I truly open the parabola, no matter
-how great my grip on it with my mind? (finish question on analogy to pickle jar)
+end, since this now lies infinitely far away. This open end
+is something we can see, even point to, but never
+reach---as if openness had no being but seeming. 
 
----
+## Awareness {#awareness}
+
+Or to put this implication another way: being open is
+how being closed looks, when seen from within. We call a
+parabola "open", then, (bring up paragraph below).
+
+But on this account of awareness, then, our openness to the
+world depends on having enclosed it, as if being open were
+how being closed looked, when seen from within. We call
+a parabola "open", then, because the way it is closed gives
+it an inside we can see out of, just as we can likewise see
+out of a lidless pickle jar to call it "open". The jar's
+inside can stay inside when the lid is off, so long as we
+still look at the jar as if looking out of it, from the
+inside formed when the lid is on. And the parabola's inside
+can stay inside even when its line is finite, so long as we
+still look at the parabola as if looking out of it, from the
+inside formed when the parabola's line is infinite. And we
+are likely to look at things this way, as if we were in
+them, looking out of them, since this is how we have to
+look, on this account, to see anything at all: from inside
+the entire world out.
+
+
+
+
+- Bring up later stuff about openness being an optical illusion.
+Put discussion of awareness before other ways of being.
 
 As a set of final examples, underneath the previous two,
 now consider what I earlier called *states of being*: the
