@@ -167,14 +167,12 @@ will spoil---as if for nature, even if not for us, the
 lidless jar has no inside, and can only gain one by being
 closed. Given that, in what sense, if any, can I
 truly open the jar, no matter how great my grip on
-the lid? How do I keep the jar's inside inside,
-so that it can be open, not belong, to the
-outside?
+the lid?
 
 ## The Parabola {#parabola}
 
 This, then, is one way to wonder how being open is possible.
-But not the only way; and other ways need make no appeal
+But not the only way; and other ways need make no appeal 
 to the risks of ruin if an inside is left open to the
 outside too long. Consider a line from geometry:
 [the parabola]. We can readily distinguish the sides of
@@ -191,89 +189,55 @@ aren't both sides of the parabola outside it, since both lie
 outside the line of the parabola?
 
 To make the inside of the parabola definite, and press the
-analogy to the ellipse, we could take the parabola as an
-infinite figure, formed of a line infinite in length, with
+analogy to the ellipse, we could take the parabola as an 
+infinite ellipse, formed of a line infinite in length, with
 ends that reach the edge of the geometric plane. But then
 our parabola will gain a true inside in just the way our
 pickle jar possessed one: by being closed. For there will
 be no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. This open end
+end, since this now lies infinitely far away. The open end
 is something we can see, even point to, but never
-reach---as if openness had no being but seeming. 
+reach---as if openness had no being but seeming.
 
 ## Awareness {#awareness}
 
-Or to put this implication another way: being open is
-how being closed looks, when seen from within. We call a
-parabola "open", then, (bring up paragraph below).
+And the parabola, thus understood, can serve as a geometric
+image for a more general predicament.
 
-But on this account of awareness, then, our openness to the
-world depends on having enclosed it, as if being open were
-how being closed looked, when seen from within. We call
-a parabola "open", then, because the way it is closed gives
-it an inside we can see out of, just as we can likewise see
-out of a lidless pickle jar to call it "open". The jar's
-inside can stay inside when the lid is off, so long as we
-still look at the jar as if looking out of it, from the
-inside formed when the lid is on. And the parabola's inside
-can stay inside even when its line is finite, so long as we
-still look at the parabola as if looking out of it, from the
-inside formed when the parabola's line is infinite. And we
-are likely to look at things this way, as if we were in
-them, looking out of them, since this is how we have to
-look, on this account, to see anything at all: from inside
-the entire world out.
+- For recall now our own ways of being, especially that
+of awarenness, where we seem to be open to the world. But
+there is an argument that we are only open the the world
+from having enclosed it first. 
 
+- More general predicament: we are open to the world only
+from having enclosed it first.
 
+- Another way to put predicament: openness is illusory,
+no being but seeming.
 
+- Below is original paragraph to re-work:
 
-- Bring up later stuff about openness being an optical illusion.
-Put discussion of awareness before other ways of being.
+To press this question, we can turn to
+our own state of being in awareness. 
 
-As a set of final examples, underneath the previous two,
-now consider what I earlier called *states of being*: the
-open door of hospitality; the open heart of generosity; the
-open mind of enlightenment. Openness in these cases has the
-genuineness of a virtue, but the kind of virtue that can
-be corrupted. Recall
-the open door in Homer's *Odyssey*, that lets the suitors
-of Penelope fill the house of Odysseus in his absence, in
-the abuse of hospitality. Or the open eyes of Leontius
-in Plato's *Republic*, that let the spectacle of corpses
-fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest there are cases of
-openness to be condemned, where something between inside
-and outside has broken. But what? And if it stays intact,
-in cases of openness to be praised, then why is this not
-boundary enough to close them? Close them
-enough, at least, to prevent the suitors or corpses in
-these cases from simply getting in, or more generally 
-distinguish true openness from mere openness?
-
-<!-- Below should stick with "stay intact" wording. Move
-on to corruption.-->
-
-(Revise from here.) To press this question, we can turn to
-our own state of being in awareness. Our eyes are open, in
-this sense, as we see through them to a whole world outside
-us. But this sense is again figurative, and perhaps even
-false. Our eyes could not be open, after all, like our
-eyelids, or like a lidless jar, just letting the world in.
-For open eyes can be poked, injured, even blinded---as if
-their staying open meant staying intact, just like every
-other way of being truly open. (Perhaps make contrast here:
-on the other hand, the world gets in completely.) But if
-truly open eyes stay intact, then how does the world get in?
-It could not be the way the world gets into a pickle jar, to
-spoil what's inside. For the world gets into our eyes, we
-might say, to fill what's inside, as if there were nothing
-already in our eyes to spoil. But how can the world fill our
-eyes so completely, if they also stay intact, unless the
-world could fill them without getting in? Which seems to
-mean filling them from within rather than without? Or even
-to mean not filling them at all, if the world is fully there
-already, at once, within our eyes at the moment they open,
-as a cause of openness rather than an effect?
+Our eyes are open, in this sense, as we see through them
+to a whole world outside us. But this sense is again
+figurative, and perhaps even false. Our eyes could not be
+open, after all, like our eyelids, or like a lidless jar,
+just letting the world in. For open eyes can be poked,
+injured, even blinded. Being open evidently means staying
+intact, at least for eyes. (Being open also means being empty.
+So how can intact and empty go together.) But then how does the world get in? 
+And if it does get in, the world gets in, we might say, to
+fill what's inside, as if there were nothing already in
+our eyes to spoil---another difference between 
+open eyes and open jars. But then how can the world fill our eyes so
+completely, if they also stay intact, unless the world could
+fill them without getting in? Which seems to mean filling
+them from within rather than without? Or even to mean not
+filling them at all, if the world is fully there already, at
+once, within our eyes at the moment they open, as a cause of
+openness rather than an effect?
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes somehow contained
@@ -301,6 +265,29 @@ inside us to locate all of it outside us. And we would be
 open to the world, on this account, from having enclosed it.
 
 ---
+
+As a set of final examples, underneath the previous two,
+now consider what I earlier called *states of being*: the
+open door of hospitality; the open heart of generosity; the
+open mind of enlightenment. Openness in these cases has the
+genuineness of a virtue, but the kind of virtue that can
+be corrupted. Recall
+the open door in Homer's *Odyssey*, that lets the suitors
+of Penelope fill the house of Odysseus in his absence, in
+the abuse of hospitality. Or the open eyes of Leontius
+in Plato's *Republic*, that let the spectacle of corpses
+fill his gaze, to his own contempt, in a similar abuse of
+sight.[^Republic] Both examples suggest there are cases of
+openness to be condemned, where something between inside
+and outside has broken. But what? And if it stays intact,
+in cases of openness to be praised, then why is this not
+boundary enough to close them? Close them
+enough, at least, to prevent the suitors or corpses in
+these cases from simply getting in, or more generally 
+distinguish true openness from mere openness?
+
+<!-- Below should stick with "stay intact" wording. Move
+on to corruption.-->
 
 And if we can thus explain our own way of being open as
 a way of being closed, perhaps we can likewise explain
