@@ -17,21 +17,6 @@
 
 # Introduction {#intro}
 
-<!-- Note here: Need to incorporate St. John's viewbook. And
-don't forget to mention ambiguity in word: a command, but
-also a state. Also underline sense in which the power
-of the word to go unexplained, but needs explaining, even
-to the point of being spoiled in effect.
-
-Idea for incorporating viewbook: we are also asking about
-ourselves, at St. John's. Link to the idea that
-we form a community of learning. This connects the openness
-of a self with openness in relation to others.
-
-Also need to introduce the question of paradox and possibility
-more explicitly to begin lecture proper. Perhaps hold off on
-issue about negation until end.-->
-
 The word "open" is used in ways that range from the prosaic
 to the profound.
 
@@ -80,7 +65,7 @@ generosity, enlightenment, love.
 Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
-"open" more literally? Calling our eyes "open" may be
+"open" more literally? To use the word for our eyes may be
 figurative, but it captures how we seem to see through our
 eyes, to a whole world outside us---as if our eyes were
 open, even transparent. To ask about the meaning of "open", then,
@@ -133,12 +118,12 @@ discourage understanding as display it, and identify what we
 don't yet know as if we do.
 
 The word "open", I suspect, is just such a name. Behind
-it, or beneath it, lies a problem, a paradox, to make us wonder
-how being open is even possible. But to wonder how is
+it, or beneath it, lies a problem, a paradox, to make us
+wonder how being open is even possible. But to wonder how is
 also unlikely, since we have the word "open" to prove its
-possibility. If, for example, I say "I can't get the jar open",
-about a stubborn jar of pickles, I will look for
-a better grip on the lid, not the word. 
+possibility. If I say "I can't get the jar
+open", I will look for a better grip on the lid, not the
+word.
 
 [Back to top](#top)
 
@@ -162,82 +147,85 @@ discontinuity, between inside and outside.
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the
-lid is removed? If we leave the jar open, the pickles
-will spoil---as if for nature, even if not for us, the
+lid is removed? If we leave the jar open, the contents
+may spoil---as if for nature, even if not for us, the
 lidless jar has no inside, and can only gain one by being
-closed. Given that, in what sense, if any, can I
+closed. But in what sense, then, can I
 truly open the jar, no matter how great my grip on
 the lid?
 
 ## The Parabola {#parabola}
 
-This, then, is one way to wonder how being open is possible.
-But not the only way; and other ways need make no appeal 
-to the risks of ruin if an inside is left open to the
-outside too long. Consider a line from geometry:
-[the parabola]. We can readily distinguish the sides of
-this line, one convex and one concave, since the parabola
-is curved. But suppose we go further, and take the convex
-side to be "inside" the parabola, and the concave side
-to be "outside". This would treat the curved line as a
-figure, analogous to the ellipse, only open rather than
-closed. We might even liken this figure to an lidless, empty
-pickle jar, turned upside down. But what would justify
-this interpretation? That is, why think that the parabola
-has an inside, distinct from, but open to, an outside? Why
-aren't both sides of the parabola outside it, since both lie
-outside the line of the parabola?
+This is one way to wonder how being open is possible.
+But not the only way. And other ways need make no appeal to
+the risk of ruin if an inside is left open to the outside
+too long. Consider a line from geometry: [the parabola]. We
+can distinguish the sides of this line, one convex
+and one concave, since the parabola is curved. But suppose
+we go further, and take the convex side to be "inside" the
+parabola, and the concave side to be "outside". This would
+treat the curved line as a figure, analogous to the ellipse,
+only open rather than closed. We might even liken this
+figure to an lidless, empty jar, turned upside down. But
+what would justify this interpretation? Why think
+that the parabola has an inside, distinct from, but open to,
+an outside? Why aren't both sides of the parabola outside
+it, since both lie outside the line of the parabola?
 
 To make the inside of the parabola definite, and press the
 analogy to the ellipse, we could take the parabola as an 
 infinite ellipse, formed of a line infinite in length, with
 ends that reach the edge of the geometric plane. But then
 our parabola will gain a true inside in just the way our
-pickle jar possessed one: by being closed. For there will
+jar possessed one: by being closed. For there will
 be no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. The open end
+end, since this now lies infinitely far away. It
 is something we can see, even point to, but never
 reach---as if openness had no being but seeming.
 
 ## Awareness {#awareness}
 
+<!-- Make sure to include this thought by end of section:-
+we are open to the world only from having enclosed it
+first. Also make mention of openness having seeming but
+no being.-->
+
 And the parabola, thus understood, can serve as a geometric
-image for a more general predicament.
+image for a more general predicament. For now consider our
+own way of being in awareness. Our eyes are open, in this
+sense, as we see through them to a whole world outside
+us. But this sense is again figurative, and perhaps even
+false. If eyes were open the way jars are open, then there
+would be nothing at their top, so to speak, to poke, or
+injure, or even blind; and yet there might be something at
+their bottom to spoil or ruin if left open too long. Eyes
+are open, then, in a different way, and puzzling way, that
+seems to combine intactness with emptiness, allowing them to
+withstand the world in one sense, but in another sense to
+yield to the world altogether.
 
-- For recall now our own ways of being, especially that
-of awarenness, where we seem to be open to the world. But
-there is an argument that we are only open the the world
-from having enclosed it first. 
+- Revise from here: incorporate stuff from below, with question
+about how these senses could both hold unless the world filled
+our eyes without getting in.
 
-- More general predicament: we are open to the world only
-from having enclosed it first.
-
-- Another way to put predicament: openness is illusory,
-no being but seeming.
-
-- Below is original paragraph to re-work:
-
-To press this question, we can turn to
-our own state of being in awareness. 
-
-Our eyes are open, in this sense, as we see through them
-to a whole world outside us. But this sense is again
-figurative, and perhaps even false. Our eyes could not be
-open, after all, like our eyelids, or like a lidless jar,
-just letting the world in. For open eyes can be poked,
-injured, even blinded. Being open evidently means staying
-intact, at least for eyes. (Being open also means being empty.
-So how can intact and empty go together.) But then how does the world get in? 
-And if it does get in, the world gets in, we might say, to
-fill what's inside, as if there were nothing already in
-our eyes to spoil---another difference between 
-open eyes and open jars. But then how can the world fill our eyes so
-completely, if they also stay intact, unless the world could
-fill them without getting in? Which seems to mean filling
-them from within rather than without? Or even to mean not
-filling them at all, if the world is fully there already, at
-once, within our eyes at the moment they open, as a cause of
-openness rather than an effect?
+For one thing, open eyes can be poked, injured, even
+blinded. Unlike open jars, then, open eyes stay
+intact at the top, so to speak. just letting the world in.
+Being open, for eyes, seems to mean staying intact.
+For another thing, the world gets into our eyes, we might
+say, to fill what's inside rather than spoil it---again
+unlike a lidless jar, just letting the world in. But how
+could the world fill what has to stay intact, how does the
+world get in? And if it does get in, the world gets in, we
+might say, to fill what's inside, as if there were nothing
+already in our eyes to spoil---another difference between
+open eyes and open jars. But then how can the world fill our
+eyes so completely, if they also stay intact, unless the
+world could fill them without getting in? Which seems to
+mean filling them from within rather than without? Or even
+to mean not filling them at all, if the world is fully there
+already, at once, within our eyes at the moment they open,
+as a cause of openness rather than an effect?
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes somehow contained
