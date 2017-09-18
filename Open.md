@@ -185,57 +185,55 @@ reach---as if openness had no being but seeming.
 
 ## Awareness {#awareness}
 
-<!-- Make sure to include this thought by end of section:-
-we are open to the world only from having enclosed it
-first. Also make mention of openness having seeming but
-no being.-->
-
 And the parabola, thus understood, can serve as a geometric
-image for a more general predicament, where even our own
-ways of being open, upon closer look, prove to be ways of
-being closed that only seem open. Consider again how we
-seem to see through our eyes, to a whole world outside us,
-and therefore call them "open". But how are they open? If
-eyes were open the way jars are open, then there would be
-nothing at their top, so to speak, to poke, or injure, or
-even blind; and yet there might be something at their bottom
-to spoil or ruin, if left open too long. But eyes instead seem
-both intact and empty: intact enough, at least, to withstand
-the world to remain an organ of sight, yet also empty enough to yield to
-the world to a faculty of sight. stay intact enough,
-it seems, to withstand the world as an organ of sight; yet
-also stay empty enough to yield to the world as a faculty of sight.
-But this suggests that the world somehow fills our eyes,
-without getting in. Which seems to mean filling them from
-within rather than without. Or even to mean not filling them
-at all, as if the world were there already, in our eyes the
-moment they open, as a cause of openness rather than an
-effect.
+image for a more general predicament. For what if our own
+ways of being open are really ways of being closed that
+merely look open, and give that look to everything we call
+"open"? Consider, in this light, our very awareness of the
+world. And in particular, the way we again seem to see
+through our eyes, to a whole world outside us, and therefore
+call our eyes "open". But how, more exactly, are they open?
+It could not be how lidless jars are open, as it were,
+just letting the world in. For open eyes can be poked,
+injured, even blinded---as if their staying open meant
+staying intact. But if they stay intact, then how does the
+world get in? Again it could not be how the world gets into
+so-called open jars, to spoil what's inside. For the world gets into
+eyes, we might say, to fill what's inside. And the difference
+between spoiling and filling, in this case, is the difference
+between blindly suffering the world and truly seeing it. So
+let the world fill our open eyes. But how can it fill them,
+if our eyes also stay intact, unless the world 
+could fill them, somehow, without getting in? Which seems to
+mean filling them from within rather than without? Or even
+to mean not filling them at all, if the world were somehow
+already there, within our eyes at the moment they open, as a
+cause of sight rather than an effect?
 
-On this suggestion, then, we would not be able to see the
-world, but only suffer it, unless our eyes somehow contained
-the world they were open to, as it were, like a closed jar or completed
-parabola. And there are further signs that the world we see
-outside us is really inside us, in a relation to us
-that is given rather than gained. We give the name "world",
-after all, not just to one thing we see outside us, or one
-thing after another, but to everything at once, along with
-anything unseen that might lie outside us. The whole world
-seems to provide a frame for any part we
-see, as if it were a postulate for sight
-rather than a discovery, and in that sense stood behind our eyes
-rather than in front of them. And perhaps
-we should say we see through our eyes not *to* the world,
-but *through* the world, to everything *in* the world. The
-world would then be a place, or even a perspective, rather
-than an object. Or at least the sort of object that our
-eyes could contain, as we see through them, to give what
-lies outside them context rather than content. Under any
-such description, the world would be inside us to appear
-outside us, as a horizon for everything else that might
-appear outside us. Or we could say that we contain the world
-inside us to locate all of it outside us. And we would be
-open to the world, on this account, from having enclosed it.
+On this suggestion, then, we would not see the world, but
+only suffer it, unless our eyes somehow contained the
+world they were open to, as it were; like a closed jar, or
+completed parabola. And there are further signs that the
+world we see outside us is really inside us, in a relation
+to us that is given rather than gained. We give the name
+"world", after all, not just to one thing we see outside us,
+or one thing after another, but to everything at once, along
+with anything unseen that might lie outside us. The whole
+world seems to provide a frame for any part we see, as if
+it were a postulate for sight rather than a discovery, and
+in that sense stood behind our eyes rather than in front
+of them. And perhaps we should say we see through our eyes
+not *to* the world, but *through* the world, to everything
+*in* the world. The world would then be a place, or even a
+perspective, rather than an object. Or at least the sort of
+object that our eyes could contain, as we see through them,
+to give what lies outside them context rather than content.
+But under any such description, the world would again be
+inside us to appear outside us, as a horizon for everything
+else that might appear outside us. Or we could say that we
+contain the world inside us to locate all of it outside us.
+And we would be open to the world, on this account, from
+having enclosed it.
 
 ---
 
