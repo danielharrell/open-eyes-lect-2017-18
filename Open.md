@@ -191,41 +191,26 @@ first. Also make mention of openness having seeming but
 no being.-->
 
 And the parabola, thus understood, can serve as a geometric
-image for a more general predicament. For now consider our
-own way of being in awareness. Our eyes are open, in this
-sense, as we see through them to a whole world outside
-us. But this sense is again figurative, and perhaps even
-false. If eyes were open the way jars are open, then there
-would be nothing at their top, so to speak, to poke, or
-injure, or even blind; and yet there might be something at
-their bottom to spoil or ruin if left open too long. Eyes
-are open, then, in a different way, and puzzling way, that
-seems to combine intactness with emptiness, allowing them to
-withstand the world in one sense, but in another sense to
-yield to the world altogether.
-
-- Revise from here: incorporate stuff from below, with question
-about how these senses could both hold unless the world filled
-our eyes without getting in.
-
-For one thing, open eyes can be poked, injured, even
-blinded. Unlike open jars, then, open eyes stay
-intact at the top, so to speak. just letting the world in.
-Being open, for eyes, seems to mean staying intact.
-For another thing, the world gets into our eyes, we might
-say, to fill what's inside rather than spoil it---again
-unlike a lidless jar, just letting the world in. But how
-could the world fill what has to stay intact, how does the
-world get in? And if it does get in, the world gets in, we
-might say, to fill what's inside, as if there were nothing
-already in our eyes to spoil---another difference between
-open eyes and open jars. But then how can the world fill our
-eyes so completely, if they also stay intact, unless the
-world could fill them without getting in? Which seems to
-mean filling them from within rather than without? Or even
-to mean not filling them at all, if the world is fully there
-already, at once, within our eyes at the moment they open,
-as a cause of openness rather than an effect?
+image for a more general predicament, where even our own
+ways of being open, upon closer look, prove to be ways of
+being closed that only seem open. Consider again how we
+seem to see through our eyes, to a whole world outside us,
+and therefore call them "open". But how are they open? If
+eyes were open the way jars are open, then there would be
+nothing at their top, so to speak, to poke, or injure, or
+even blind; and yet there might be something at their bottom
+to spoil or ruin, if left open too long. But eyes instead seem
+both intact and empty: intact enough, at least, to withstand
+the world to remain an organ of sight, yet also empty enough to yield to
+the world to a faculty of sight. stay intact enough,
+it seems, to withstand the world as an organ of sight; yet
+also stay empty enough to yield to the world as a faculty of sight.
+But this suggests that the world somehow fills our eyes,
+without getting in. Which seems to mean filling them from
+within rather than without. Or even to mean not filling them
+at all, as if the world were there already, in our eyes the
+moment they open, as a cause of openness rather than an
+effect.
 
 On this suggestion, then, we would not be able to see the
 world, but only suffer it, unless our eyes somehow contained
