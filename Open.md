@@ -186,10 +186,47 @@ reach---as if openness had no being but seeming.
 ## Awareness {#awareness}
 
 And the parabola, thus understood, can serve as a geometric
-image for a more general predicament. For what if our own
-ways of being open are really ways of being closed that
-merely look open, and give that look to everything we call
-"open"? Consider, in this light, our very awareness of the
+image for a more general predicament. For what if every way
+of being open were really a way of being closed that merely
+looked open? In light of this question, consider what
+I earlier called *states of being*: the open door of
+hospitality; the open heart of generosity; the open mind of
+enlightenment. Openness in these cases has the genuineness
+of a virtue, but the kind of virtue that can be corrupted.
+Recall the open door in Homer's *Odyssey*, that lets the
+suitors of Penelope fill the house of Odysseus in his
+absence, in the abuse of hospitality. Or the open eyes of
+Leontius in Plato's *Republic*, that let the spectacle of
+corpses fill his gaze, to his own contempt, in a similar
+abuse of sight.[^Republic] Both examples suggest there are
+cases of openness to be condemned, where something between
+inside and outside has broken. But what? And if it stays
+intact, in cases of openness to be praised, then why is this
+not boundary enough to close them? Close them enough, at
+least, to prevent the suitors or corpses in these cases from
+simply getting in, or more generally distinguish true
+openness from mere openness?
+
+<!-- Below should stick with "stay intact" wording. Move
+on to corruption.-->
+
+And if we can thus explain our own way of being open as
+a way of being closed, perhaps we can likewise explain
+every other way. Consider how we might then explain the
+corruption of openness. For if we ever lost the world inside
+us, on this account, we would presumably lose its appearance
+outside us, along with any way of being open to the world
+from within. And the only way left, from without, would
+involve getting in rather than letting in. Once Odysseus,
+for example, is no longer master of his door, we could say
+a world of hospitality is lost, along with any way for his
+door to open from the inside. So now, from the outside, the
+suitors get in. Or once Leontius is no longer master of
+his eyes, we could say a world of judgement is lost, along
+with any way for his eyes to open from the inside. So now,
+from the outside, the corpses get in.
+
+Consider, in this light, our very awareness of the
 world. And in particular, the way we again seem to see
 through our eyes, to a whole world outside us, and therefore
 call our eyes "open". But how, more exactly, are they open?
@@ -237,44 +274,6 @@ world, on this account, from having enclosed it.
 
 ---
 
-As a set of final examples, underneath the previous two,
-now consider what I earlier called *states of being*: the
-open door of hospitality; the open heart of generosity; the
-open mind of enlightenment. Openness in these cases has the
-genuineness of a virtue, but the kind of virtue that can
-be corrupted. Recall
-the open door in Homer's *Odyssey*, that lets the suitors
-of Penelope fill the house of Odysseus in his absence, in
-the abuse of hospitality. Or the open eyes of Leontius
-in Plato's *Republic*, that let the spectacle of corpses
-fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic] Both examples suggest there are cases of
-openness to be condemned, where something between inside
-and outside has broken. But what? And if it stays intact,
-in cases of openness to be praised, then why is this not
-boundary enough to close them? Close them
-enough, at least, to prevent the suitors or corpses in
-these cases from simply getting in, or more generally 
-distinguish true openness from mere openness?
-
-<!-- Below should stick with "stay intact" wording. Move
-on to corruption.-->
-
-And if we can thus explain our own way of being open as
-a way of being closed, perhaps we can likewise explain
-every other way. Consider how we might then explain the
-corruption of openness. For if we ever lost the world inside
-us, on this account, we would presumably lose its appearance
-outside us, along with any way of being open to the world
-from within. And the only way left, from without, would
-involve getting in rather than letting in. Once Odysseus,
-for example, is no longer master of his door, we could say
-a world of hospitality is lost, along with any way for his
-door to open from the inside. So now, from the outside, the
-suitors get in. Or once Leontius is no longer master of
-his eyes, we could say a world of judgement is lost, along
-with any way for his eyes to open from the inside. So now,
-from the outside, the corpses get in.
 
 What is more, the corpses and suitors get in to spoil what's
 inside. Which suggests that true openness, even in the
