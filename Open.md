@@ -86,12 +86,12 @@ that our times of solitude and solicitude have
 in common. 
 
 In this vein, too, the word "open" might have a home in any
-community that conceives itself as a community of learning,
+community that conceives itself as a community of learning;
 and believes, without the blush of contradiction, that
 learning best happens among others yet only happens in
 oneself. And if no one else can do your learning for you, it
 might take a word like "open" to explain why you don't find
-yourself alone here, but facing others at a table. 
+yourself alone here, but instead face others at a table. 
 To ask about the meaning of "open", then, to ask about the meaning
 of this. The meaning of us. Just as we can ask, as we look at
 the cover of the St. John's viewbook, why the word
@@ -121,9 +121,8 @@ The word "open", I suspect, is just such a name. Behind
 it, or beneath it, lies a problem, a paradox, to make us
 wonder how being open is even possible. But to wonder how is
 also unlikely, since we have the word "open" to prove its
-possibility. If I say "I can't get the jar
-open", I will look for a better grip on the lid, not the
-word.
+possibility. If I say "I can't get the jar open", I will
+look for a better grip on the lid, not the word.
 
 [Back to top](#top)
 
@@ -147,12 +146,11 @@ discontinuity, between inside and outside.
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, once the
-lid is removed? If we leave the jar open, the contents
-may spoil---as if for nature, even if not for us, the
-lidless jar has no inside, and can only gain one by being
-closed. But in what sense, then, can I
-truly open the jar, no matter how great my grip on
-the lid?
+lid is removed? If we leave the jar open, the contents may
+spoil---as if for nature, even if not for us, the lidless
+jar has no inside, and can only gain one by being closed.
+But in what sense, then, can I truly open the jar, no matter
+how great my grip on the lid?
 
 ## The Parabola {#parabola}
 
@@ -191,14 +189,20 @@ of being open were really a way of being closed that merely
 looked open? In light of this question, consider what
 I earlier called *states of being*: the open door of
 hospitality; the open heart of generosity; the open mind of
-enlightenment. Openness in these cases has the genuineness
-of a virtue, but the kind of virtue that can be corrupted.
+enlightenment. Openness in these cases seems to have the genuineness
+of a virtue. But it is the kind of virtue that can be corrupted,
+and corrupted in the direction of excess, making us wonder
+what distinguishes true openness from mere openness.
 Recall the open door in Homer's *Odyssey*, that lets the
 suitors of Penelope fill the house of Odysseus in his
 absence, in the abuse of hospitality. Or the open eyes of
 Leontius in Plato's *Republic*, that let the spectacle of
 corpses fill his gaze, to his own contempt, in a similar
-abuse of sight.[^Republic] Both examples suggest there are
+abuse of sight.[^Republic.] 
+
+(Revise from here.)
+
+Both examples suggest there are
 cases of openness to be condemned, where something between
 inside and outside has broken. But what? And if it stays
 intact, in cases of openness to be praised, then why is this
@@ -1001,7 +1005,7 @@ entry](https://www.merriam-webster.com/dictionary/open) for
 
 [^AristotleWonder.]: Put Metphysics reference here.
 
-[^Republic]: "Leontius, the son of Aglaion, was going up from the
+[^Republic.]: "Leontius, the son of Aglaion, was going up from the
 Piraeus along the outside of the North Wall when he saw some
 corpses lying at the executioners feet. He had an appetite
 to look at them but at the same time he was disgusted and
