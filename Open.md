@@ -205,24 +205,35 @@ are cases of openness to be condemned, where something
 between inside and outside has broken. But what could
 this be, if not a boundary that stays intact, in cases of
 openness to be praised? Yet if the boundary stays intact,
-then why are these cases of being open rather than cases
-of being closed? Or more exactly, cases of being closed
-that look open, and look open not merely but truly, in an
-appearance of openness to be praised rather than condemned.
+then why are these cases of being open rather than cases of
+being closed? Or more exactly, cases of being closed
+that look open, and even have that look not merely, but
+truly, in an appearance of openness to be praised.
 
-We can put this skeptical thought about being open a
-different way. For it seems plausible to suppose that the
-difference between true openness and mere openness is roughly
-like the difference between letting in and getting in. But
-how can we distinguish letting in from getting in, except in
-light of a power to keep certain things, like corpses and
-suitors, out? The power, that is, to be closed, on which any
-praiseworthy power to be open will depend? What is more,
-we could say that *within* this power to be closed, inside
-the very boundary that distinguishes and protects the inside
-from the outside, lies a power to define the outside.
+Or to ask this question from another direction, suppose
+the difference between true openness and mere openness is
+something like the difference between letting in and getting
+in. But how can we distinguish letting in from getting in,
+except in light of a power to keep certain things, like
+corpses and suitors, out? The power, that is, to be closed?
+And even if this is also a power to be open, the exercise
+of that power would seem to involve a decision, in each case,
+that encompasses what we are open to, and in that sense
+encloses it. Call it a boundary of recognition,
+that not only excludes what we keep out, but contains what we let
+in. 
 
-- Bring world talk up.
+<!--Revise from here.--> The scope of this boundary might
+even be compared to a world, which is lost in cases of
+corruption, along with any power to be open by letting in
+rather than getting in. Once Odysseus is no longer master of
+his door, we could say a world of hospitality is lost, along
+with any way for his door to open from the inside. So now,
+from the outside, the suitors can get in. Or once Leontius
+is no longer master of his eyes, we could say a world of
+judgement is lost, along with any way for his eyes to open
+from the inside. So now, from the outside, the corpses can
+get in.
 
 We can deepen this thought, albeit in the direction of
 further skepticism, if we turn to our ownmost way of being
@@ -277,15 +288,7 @@ corruption of openness. For if we ever lost the world inside
 us, on this account, we would presumably lose its appearance
 outside us, along with any way of being open to the world
 from within. And the only way left, from without, would
-involve getting in rather than letting in. Once Odysseus,
-for example, is no longer master of his door, we could say
-a world of hospitality is lost, along with any way for his
-door to open from the inside. So now, from the outside, the
-suitors get in. Or once Leontius is no longer master of
-his eyes, we could say a world of judgement is lost, along
-with any way for his eyes to open from the inside. So now,
-from the outside, the corpses get in.
-
+involve getting in rather than letting in. 
 
 ---
 
