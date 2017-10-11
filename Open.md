@@ -208,7 +208,7 @@ openness to be praised? Yet if the boundary stays intact,
 then why are these cases of being open rather than cases of
 being closed? Or more exactly, cases of being closed
 that look open, and even have that look not merely, but
-truly, in an appearance of openness to be praised.
+truly, in an appearance of openness to be praised?
 
 Or to ask this question from another direction, suppose
 the difference between true openness and mere openness is
@@ -216,24 +216,23 @@ something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 except in light of a power to keep certain things, like
 corpses and suitors, out? The power, that is, to be closed?
-And even if this is also a power to be open, the exercise
-of that power would seem to involve a decision, in each case,
-that encompasses what we are open to, and in that sense
-encloses it. Call it a boundary of recognition,
-that not only excludes what we keep out, but contains what we let
-in. 
-
-<!--Revise from here.--> The scope of this boundary might
-even be compared to a world, which is lost in cases of
-corruption, along with any power to be open by letting in
-rather than getting in. Once Odysseus is no longer master of
-his door, we could say a world of hospitality is lost, along
-with any way for his door to open from the inside. So now,
-from the outside, the suitors can get in. Or once Leontius
-is no longer master of his eyes, we could say a world of
-judgement is lost, along with any way for his eyes to open
-from the inside. So now, from the outside, the corpses can
-get in.
+And even if this is also a power to be open, the exercise of
+that power would seem to involve a decision that encompasses
+what we are open to, and in that sense encloses it. We
+could think of this as a boundary of recognition, that not
+only excludes what we keep out, but contains what we let
+in. The scope of this boundary might even be compared to a
+world, which is lost in cases of corruption. Once Odysseus
+is no longer master of his door, we could say a world of
+hospitality is lost. And with this goes any way for his door to open
+from the inside, and contain the outside in an act of
+recognition. The door now opens only from the outside, and
+exposes the inside to an act of trangression. And the
+suitors get in. Or once Leontius is no
+longer master of his eyes, we could say a world of judgement
+is lost, along with any way for his eyes to open from the
+inside. And this allows the corpeses to get in from the
+outside.
 
 We can deepen this thought, albeit in the direction of
 further skepticism, if we turn to our ownmost way of being
