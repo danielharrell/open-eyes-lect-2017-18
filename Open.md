@@ -149,7 +149,7 @@ But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, as soon as the
 lid is removed? If we leave the jar open, its contents may
-spoil---as if for nature, even if not for us, the lidless
+spoil---as if for nature, even if not for us, a lidless
 jar has no inside, and can only gain one by being closed.
 But in what sense, then, can I truly open the jar, no matter
 how great my grip on the lid?
@@ -172,21 +172,23 @@ that the parabola has an inside, distinct from, but open to,
 an outside? Why aren't both sides of the parabola outside
 it, since both lie outside the line of the parabola?
 
-To make the inside of the parabola definite, and press the
-analogy to the ellipse, we could take the parabola as an 
-infinite ellipse, formed of a line infinite in length, with
-ends that reach the edge of the geometric plane. But then
-our parabola will gain a true inside in just the way our
-jar possessed one: by being closed. For there will
-be no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. It
-is something we can see, even point to, but never
-reach---as if openness had no being but seeming.
+One way to answer this question is to make the inside of the
+parabola definite, and press the analogy to the ellipse, by
+taking the parabola as an infinite ellipse, with one focus
+infinitely far away. The parabola would then be formed of
+a line infinite in length, with ends that reach the edge
+of the geometric plane. But in that case, it seems, our
+parabola will gain a true inside in just the way our jar
+possessed one: by being closed. For there will be no way
+into the parabola, or out of it, through its open end, since
+this now lies infinitely far away. It is something we can
+see, even point to, but never reach---as if openness had no
+being but seeming.
 
 ## Awareness {#awareness}
 
 And the parabola, thus understood, can serve as a geometric
-image for a more general predicament. For what if every
+image for a more general problem, even predicament. For what if every
 way of being open were really a way of being closed that
 merely looked open? In light of this question, consider
 what I earlier called *states of being*: the open door of
@@ -224,15 +226,14 @@ only excludes what we keep out, but contains what we let
 in. The scope of this boundary might even be compared to a
 world, which is lost in cases of corruption. Once Odysseus
 is no longer master of his door, we could say a world of
-hospitality is lost. And with this goes any way for his door to open
-from the inside, and contain the outside in an act of
-recognition. The door now opens only from the outside, and
-exposes the inside to an act of trangression. And the
-suitors get in. Or once Leontius is no
-longer master of his eyes, we could say a world of judgement
-is lost, along with any way for his eyes to open from the
-inside. And this allows the corpeses to get in from the
-outside.
+hospitality is lost. And with this goes any way for his door
+to open from the inside, and contain the outside in an act
+of recognition. His door now only opens from the outside,
+and exposes the inside to an act of trangression. And this
+is how the suitors get in. Just as corpses get into the eyes
+of Leontius, once they, too, only open from the outside,
+when Leontius is no longer master of his eyes and a world of
+judgment is lost.
 
 We can deepen this thought, albeit in the direction of
 further skepticism, if we turn to our ownmost way of being
