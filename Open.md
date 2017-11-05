@@ -8,6 +8,7 @@
 1. [Part One](#one)  
     1. [The Jar](#jar)  
     1. [The Parabola](#parabola)
+    1. [States of Being](#being)
     1. [Awareness](#awareness)
 <!-- Renumber according to Pandoc -->
 1. [Part Two: Paradox Explored](#two)
@@ -185,7 +186,7 @@ this now lies infinitely far away. It is something we can
 see, even point to, but never reach---as if openness had no
 being but seeming.
 
-## Awareness {#awareness}
+## States of Being {#being} 
 
 And the parabola, thus understood, can serve as a geometric
 image for a more general problem, even predicament. For what if every
@@ -218,8 +219,8 @@ something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 except in light of a power to keep certain things, like
 corpses and suitors, out? The power, that is, to be closed?
-And even if this is also a power to be open, the exercise of
-that power would seem to involve a decision that encompasses
+And even if this is also a power to be open, the exercise
+of it would seem to involve a decision that encompasses
 what we are open to, and in that sense encloses it. We
 could think of this as a boundary of recognition, that not
 only excludes what we keep out, but contains what we let
@@ -229,14 +230,23 @@ is no longer master of his door, we could say a world of
 hospitality is lost. And with this goes any way for his door
 to open from the inside, and contain the outside in an act
 of recognition. His door now only opens from the outside,
-and exposes the inside to an act of trangression. And this
-is how the suitors get in. Just as corpses get into the eyes
-of Leontius, once they, too, only open from the outside,
-when Leontius is no longer master of his eyes and a world of
-judgment is lost.
+exposing the inside to an act of trangression. And this,
+then, is how the suitors get through---from the outside
+in. And also how the corpses get through, into the eyes of
+Leontius, once they, too, only open from the outside, when
+Leontius is no longer master of his eyes, and a world of
+judgment is lost. But on this account, then, to open our
+eyes, our door, even our heart, involves a form of agency,
+a letting-in, that encloses what we are open to, in a act
+of recognition, as if being open were the result, and thus
+the look, of being closed. Or to put this implication more
+skeptically: as if being open were a contradiction in terms
+and thus impossible, in its having no being beyond seeming.
 
-We can deepen this thought, albeit in the direction of
-further skepticism, if we turn to our ownmost way of being
+## Awareness {#awareness}
+
+We can deepen this account, albeit in the direction of
+further skepticism about being open, if we turn to our ownmost way of being
 open in awareness. ---Such as the way, again, that we seem
 to see through our eyes, as if they were open, to a whole
 world outside us. But *are* they open? For eyes could not
