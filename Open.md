@@ -117,7 +117,7 @@ such a thing is possible. Once we learn how, we can give
 what we encounter a name, like "marionette", or "solstice",
 or "incommensurable." But names like this, once they become
 words we inherit rather than originate, can just as well
-discourage understanding as display it, and identify what we
+discourage understanding as display it, and invoke what we
 don't yet know as if we do.
 
 The word "open", I suspect, is just such a name. Behind
@@ -189,7 +189,7 @@ being but seeming.
 ## States of Being {#being} 
 
 And the parabola, thus understood, can serve as a geometric
-image for a more general problem, even predicament. For what if every
+image for a more general predicament. For what if every
 way of being open were really a way of being closed that
 merely looked open? In light of this question, consider
 what I earlier called *states of being*: the open door of
@@ -203,7 +203,7 @@ lets the suitors of Penelope fill the house of Odysseus in
 his absence, in the abuse of hospitality. Or the open eyes
 of Leontius in Plato's *Republic*, that let the spectacle
 of corpses fill his gaze, to his own contempt, in a similar
-abuse of sight.[^Republic.] Both examples suggest that there
+abuse of sight.[^Republic.] Both examples suggest there
 are cases of openness to be condemned, where something
 between inside and outside has broken. But what could
 this be, if not a boundary that stays intact, in cases of
@@ -219,53 +219,76 @@ something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 except in light of a power to keep certain things, like
 corpses and suitors, out? The power, that is, to be closed?
-And even if this is also a power to be open, the exercise
-of it would seem to involve a decision that encompasses
-what we are open to, and in that sense encloses it. We
-could think of this as a boundary of recognition, that not
+And even if this is also a power to be open, the exercise of
+it would seem to involve a choice that encompasses what we
+are open to, and in that sense encloses it. We could think
+of this enclosure as a boundary of recognition, that not
 only excludes what we keep out, but contains what we let
 in. The scope of this boundary might even be compared to a
 world, which is lost in cases of corruption. Once Odysseus
 is no longer master of his door, we could say a world of
-hospitality is lost. And with this goes any way for his door
-to open from the inside, and contain the outside in an act
-of recognition. His door now only opens from the outside,
-exposing the inside to an act of trangression. And this,
-then, is how the suitors get through---from the outside
-in. And also how the corpses get through, into the eyes of
-Leontius, once they, too, only open from the outside, when
-Leontius is no longer master of his eyes, and a world of
-judgment is lost. But on this account, then, to open our
-eyes, our door, even our heart, involves a form of agency,
-a letting-in, that encloses what we are open to, in a act
-of recognition, as if being open were the result, and thus
-the look, of being closed. Or to put this implication more
-skeptically: as if being open were a contradiction in terms
-and thus impossible, in its having no being beyond seeming.
+hospitality is lost. And because of this loss, we could say
+his door no longer opens from the inside, to contain the
+outside in an act of recognition. It now only opens from the
+outside, exposing the inside to an act of transgression.
+And this, then, is how the suitors get through---from the
+outside in. And also how the corpses get through, into
+the eyes of Leontius, once they, too, only open from the
+outside, when he is no longer master of his eyes, and
+a world of judgment is lost. 
+
+But on this account, then, to
+open our eyes, our door, even our heart, involves a form of
+agency, a letting-in, that encloses what we are open to, in
+a act of recognition, as if being open were again the result, and
+thus the look, of being closed. Or to put this implication
+more skeptically: as if being open were a contradiction in
+terms, in having no being beyond
+seeming.
 
 ## Awareness {#awareness}
 
-We can deepen this account, albeit in the direction of
-further skepticism about being open, if we turn to our ownmost way of being
-open in awareness. ---Such as the way, again, that we seem
-to see through our eyes, as if they were open, to a whole
-world outside us. But *are* they open? For eyes could not
-be open the way lidless jars are open, were, just letting
-the world in. For open eyes can be poked, injured, even
-blinded---as if their staying open meant staying intact.
-But if they stay intact, then how does the world get in?
-Again, it could not be how the world gets into open jars,
-so-called, to spoil what's inside. For the world gets
-into eyes, we might say, to fill what's inside. And the
-difference between spoiling and filling, in this case, is
-the difference between blindly suffering the world and truly
-seeing it. So let the world as seen fill our open eyes. But
-how can it fill them, if our eyes also stay intact, unless
-the world could fill them, somehow, without getting in?
-Which seems to mean filling them from within rather than
-without? Or even to mean not filling them at all, if the
-world were somehow already there, within our eyes at the
-moment they open, as a cause of sight rather than an effect?
+- Need to re-write this next part, with greater connection
+to previous part. 
+
+- Basic point: while the way open eyes need to be intact
+suggests a boundary, involving a letting in, there is
+another distinction, between spoiling and filling.
+
+- Way the account is radicalized: the world is not even
+"let into" our eyes, but is already there.
+
+We can press this account, and the skepticism it invites, if
+we focus on our own way of being open in awareness. Consider
+again the way that we seem to see
+through our eyes, as if they were open, to a whole world
+outside us. We say "*as if* they were open'' to acknowledge
+the sense in which they are *not* open, at least in the
+way a lidless jar is open. For open eyes can be poked, injured, even blinded---as if
+their staying open meant staying intact. (But this goes deeper.)
+
+- We call this figurative because eyes can be poked.
+- But this suggests they stay intact, a boundary like the
+one described above. Press on this.
+
+But *are* they open, even in a figurative
+sense? Eyes could not be open
+the way lidless jars are open, just letting the world in.
+For open eyes can be poked, injured, even blinded---as if
+their staying open meant staying intact. But if they stay
+intact, then how does the world get in? Again, it could not
+be how the world gets into open jars, so-called, to spoil
+what's inside. For the world gets into eyes, we might say,
+to fill what's inside. And the difference between spoiling
+and filling, in this case, is the difference between blindly
+suffering the world and truly seeing it. So let the world as
+seen fill our open eyes. But how can it fill them, if our
+eyes also stay intact, unless the world could fill them,
+somehow, without getting in? Which seems to mean filling
+them from within rather than without? Or even to mean not
+filling them at all, if the world were somehow already
+there, within our eyes at the moment they open, as a cause
+of sight rather than an effect?
 
 On this suggestion, then, we would not see the world, but
 only suffer it, unless our eyes somehow contained the world
