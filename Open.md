@@ -143,15 +143,15 @@ something opened without being broken. More abstractly put:
 we want the word "open" to mean that the barrier between
 the jar's inside and outside has been removed, without the
 difference between inside and outside being erased. Or still
-more abstractly: we want the word "open"
-to mean that there is continuity, yet at the same time
-discontinuity, between inside and outside.
+more abstractly: we want the word "open" to mean that there
+is continuity, yet at the same time discontinuity, between
+inside and outside.
 
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
-the jar's inside still inside, and not outside, as soon as the
-lid is removed? If we leave the jar open, its contents may
-spoil---as if for nature, even if not for us, a lidless
+the jar's inside still inside, and not outside, as soon as
+the lid is removed? If we leave the jar open, its contents
+may spoil---as if for nature, even if not for us, a lidless
 jar has no inside, and can only gain one by being closed.
 But in what sense, then, can I truly open the jar, no matter
 how great my grip on the lid?
@@ -159,20 +159,20 @@ how great my grip on the lid?
 ## The Parabola {#parabola}
 
 This is one way, then, to wonder how being open is possible.
-But not the only way. And other ways need no appeal to
-the risk of ruin if an inside is left open to the outside
-too long. For now consider a line from geometry: [the parabola]. We
-can distinguish the sides of this line, one convex
-and one concave, since the parabola is curved. But suppose
-we go further, and take the convex side to be "inside" the
+But not the only way. And other ways need no appeal to the
+risk of ruin if an inside is left open to the outside too
+long. For now consider a line from geometry: [the parabola].
+We can distinguish the sides of this line, one convex and
+one concave, since the parabola is curved. But suppose we
+go further, and take the convex side to be "inside" the
 parabola, and the concave side to be "outside". This would
 treat the curved line as a figure, analogous to the ellipse,
 only open rather than closed. We might even liken this
-figure to an lidless, empty jar. But
-what would justify this interpretation? Why think
-that the parabola has an inside, distinct from, but open to,
-an outside? Why aren't both sides of the parabola outside
-it, since both lie outside the line of the parabola?
+figure to an lidless, empty jar. But what would justify this
+interpretation? Why think that the parabola has an inside,
+distinct from, but open to, an outside? Why aren't both
+sides of the parabola outside it, since both lie outside the
+line of the parabola?
 
 One way to answer this question is to make the inside of the
 parabola definite, and complete the analogy to the ellipse.
@@ -186,9 +186,11 @@ no way into the parabola, or out of it, through its open
 end, since this now lies infinitely far away. Or to put the
 paradox in this case more precisely: once we make the line
 of the parabola infinite, to make the inside of the parabola
-definite, we will have *enclosed* the parabola in openness,
-and render this at once intelligible yet unreachable---as if
-openness had no being beyond seeming.
+definite, we will have *enclosed* the parabola in openness.
+And this enclosure will make the openness of the parabola
+at once intelligible yet impassable; something we can plainly
+see, yet never reach---as if openness had
+no being beyond seeming.
 
 ## States of Being {#being} 
 
@@ -198,24 +200,24 @@ way of being open were really a way of being closed that
 merely looked open? In light of this question, consider
 what I earlier called *states of being*: the open door of
 hospitality; the open heart of generosity; the open mind of
-enlightenment. Openness in these cases seems to have the
-genuineness of a virtue. But it is the kind of virtue that
-can be corrupted, and corrupted in the direction of excess,
+enlightenment. Openness in such cases has the genuineness
+of a virtue, but the kind of virtue that can
+be corrupted, and corrupted in the direction of excess,
 making us wonder what distinguishes true openness from mere
 openness. Recall the open door in Homer's *Odyssey*, that
 lets the suitors of Penelope fill the house of Odysseus in
 his absence, in the abuse of hospitality. Or the open eyes
 of Leontius in Plato's *Republic*, that let the spectacle
 of corpses fill his gaze, to his own contempt, in a similar
-abuse of sight.[^Republic.] Both examples suggest there
-are cases of openness to be condemned, where something
-between inside and outside has broken. But what could
-this be, if not a boundary that stays intact, in cases of
-openness to be praised? Yet if the boundary stays intact,
-then why are these cases of being open rather than cases of
-being closed? Or more exactly, cases of being closed
-that look open, and even have that look not merely, but
-truly, in an appearance of openness to be praised?
+abuse of sight.[^Republic.] Both examples suggest there are
+cases of openness to be condemned, where something between
+inside and outside has broken. But what could this be, if
+not a boundary that stays intact, in cases of openness to
+be praised? Yet if the boundary stays intact, then why are
+these cases of being open rather than cases of being closed?
+Or more exactly, cases of being closed that look open, and
+even have that look not merely, but truly, in an appearance
+of openness to be praised?
 
 We can ask this question from another direction. For suppose
 the difference between true openness and mere openness is
@@ -235,14 +237,18 @@ hospitality is lost, along with any way for his door to
 open from the inside, and contain the outside in an act
 of recognition. That is, his door now only opens from the
 outside, exposing the inside to an act of transgression.
-This is how the suitors get through---from the
-outside in. And also how the corpses get through, into
-the eyes of Leontius, once they, too, only open from the
-outside, when he is no longer master of his eyes, and a
-world of judgment is lost. To possess the world in
-this sense is to open from the inside it contain what we are open to in an act
-of recognition, o open from the inside, in an act of
-letting-in, that encloses 
+This is how the suitors get through---from the outside
+in. And also how the corpses get through, into the eyes
+of Leontius, once they, too, only open from the outside,
+when he is no longer master of his eyes, and a world of
+judgment is lost. To possess the world in this sense is to
+open from the inside it contain what we are open to in an
+act of recognition, o open from the inside, in an act of
+letting-in, that encloses
+
+- Look up Leontius and Odysseus to try to justify use of
+"world" in this context. Also look at Things task for
+lecture notes.
 
 But on this account, then, what it would
 mean to open from the inside would involve a form, that is, to , and more
