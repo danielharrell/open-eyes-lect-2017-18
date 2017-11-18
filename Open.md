@@ -37,20 +37,20 @@ Another reason is that the word is used, typically,
 without further explanation, as if its meaning were already
 understood. But if so, then how is it understood?
 
-And is there something here not understood, or better
-understood? The difference between a door and an open
-door may be like the difference between Socrates and
-Socrates sitting---something, according to Aristotle, that
-only a philosopher would care about.[^Socrates.] And the
-philosopher in all of us can wonder what it means
-to say "my door is always open", even if asking this of a
+And is there something here not understood? Or better
+understood? The difference between a door and an open door
+may be like the difference between Socrates and Socrates
+sitting. For only a philosopher, according to Aristotle,
+would care about this difference.[^Socrates.] But the
+philosopher in all of us, then, can wonder what it means
+to say "my door is always open"---even if asking this of a
 friend, who just said it to you, risks being rude, or dense.
 The way we use the word "open" without further thought may
 make it worth further thought.
 
 Still another reason for wonder comes from the way the
 word "open" is defined in dictionaries---largely through
-negation. To be open means not to be closed. Or blocked. Or
+negation. To be open means *not* to be closed. Or blocked. Or
 covered. Or fastened. Or sealed. Or buttoned. Or guarded.
 Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
@@ -67,35 +67,35 @@ Nor are these the only such states of being. Think of how we
 say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? To use the word for our eyes may be
-figurative, but it captures how we seem to see through our
+figurative; but it captures how we seem to see through our
 eyes, to a whole world outside us---as if our eyes *were*
 open, even transparent. To ask about the meaning of "open", then,
 is to ask about the meaning of wakefulness, watchfulness,
 awareness. And awareness is arguably not just one way of being,
-but our way of being: the one underneath all the others;
-the one that explains why we use the word "open" with such 
+but *our* way of being: the one underneath all the others;
+the one that may explain why we use the word "open" with such 
 scope, and as if it were already understood.
 
-Awareness might also explain our reliance on negation---if
-being open in this sense meant being *not* ourselves, so
-far as we were aware of anything else. But negation here
-especially risks half-comprehension; for underneath our
-awareness of anything else is an awareness we have of
-ourselves. <!-- Later connect this point, perhaps, to Adam
-and Eve and nakedness: the price of knowledge is the shame
-of nakedness.--> And this gives the word "open" a deeper
-sense of scope, as it encompasses self and other at once,
-and captures something that our times of solitude and
-solicitude have in common.
+Awareness might also explain why we define the word
+"open" through negation---if being open in awareness
+meant being *not* ourselves, so far as we were aware of
+anything else. But negation here seems especially to risk
+half-comprehension; for underneath our awareness of anything
+else is an awareness we have of ourselves. <!-- Later
+connect this point, perhaps, to Adam and Eve and nakedness:
+the price of knowledge is the shame of nakedness.--> And
+this gives the word "open" a deeper sense of positive scope, as it
+encompasses self and other at once, and captures something
+that our times of solitude and solicitude have in common.
 
 In this vein, too, the word "open" might have a home in any
-community that conceives itself as a community of learning;
+community that conceives itself as a community of learning,
 and believes, without the blush of contradiction, that
-learning best happens among others; yet only happens in
+learning best happens among others, yet only happens in
 oneself. And if no one else can do your learning for you, it
 might take a word like "open" to explain why you don't find
-yourself alone here, but instead face others at a table. 
-To ask about the meaning of "open", then, to ask about the meaning
+yourself alone here, but among others around a table, face-to-face. 
+To ask about the meaning of "open", then, is to ask about the meaning
 of this. The meaning of us. Just as we can ask, as we look at
 the cover of the St. John's viewbook, why the word
 "open" might be enough to introduce us.
@@ -122,10 +122,11 @@ don't yet know as if we do.
 
 The word "open", I suspect, is just such a name. Behind
 it, or beneath it, lies a problem, a paradox, to make us
-wonder how being open is even possible. But to wonder how is
-also unlikely, since we have the word "open" to prove its
-possibility. If I say "I can't get the jar open", I will
-look for a better grip on the lid, not the word.
+wonder how being open is even possible. But to wonder how
+is also unlikely, since we have the word "open" to prove
+its possibility. If I say "I can't get the jar open", for
+example, I will look for a better grip on the lid, not the
+word.
 
 [Back to top](#top)
 
@@ -133,7 +134,7 @@ look for a better grip on the lid, not the word.
 
 But even here, I can wonder about the word. For why get a
 better grip on the lid to open the jar? Suppose I decide not
-to bother with the lid, and throw the jar to the ground,
+to bother with the lid, and simply throw the jar to the ground,
 breaking it open. Why is this not simply another way of
 opening the jar? Why say instead that I *broke* the jar open?
 
@@ -157,34 +158,37 @@ how great my grip on the lid?
 
 ## The Parabola {#parabola}
 
-This is one way to wonder how being open is possible.
-But not the only way. And other ways need make no appeal to
+This is one way, then, to wonder how being open is possible.
+But not the only way. And other ways need no appeal to
 the risk of ruin if an inside is left open to the outside
-too long. Consider a line from geometry: [the parabola]. We
+too long. For now consider a line from geometry: [the parabola]. We
 can distinguish the sides of this line, one convex
 and one concave, since the parabola is curved. But suppose
 we go further, and take the convex side to be "inside" the
 parabola, and the concave side to be "outside". This would
 treat the curved line as a figure, analogous to the ellipse,
 only open rather than closed. We might even liken this
-figure to an lidless, empty jar, turned upside down. But
+figure to an lidless, empty jar. But
 what would justify this interpretation? Why think
 that the parabola has an inside, distinct from, but open to,
 an outside? Why aren't both sides of the parabola outside
 it, since both lie outside the line of the parabola?
 
 One way to answer this question is to make the inside of the
-parabola definite, and press the analogy to the ellipse, by
-taking the parabola as an infinite ellipse, with one focus
-infinitely far away. The parabola would then be formed of
-a line infinite in length, with ends that reach the edge
-of the geometric plane. But in that case, it seems, our
-parabola will gain a true inside in just the way our jar
-possessed one: by being closed. For there will be no way
-into the parabola, or out of it, through its open end, since
-this now lies infinitely far away. It is something we can
-see, even point to, but never reach---as if openness had no
-being but seeming.
+parabola definite, and complete the analogy to the ellipse.
+We would then take the parabola to be an infinite ellipse,
+with one focus infinitely far away. The parabolic line would
+then be infinite in length, with ends that reach the edge,
+as it were, of the geometric plane. But in that case, it
+seems, our parabola will gain a true inside in just the way
+our jar possessed one: by being closed. For there will be
+no way into the parabola, or out of it, through its open
+end, since this now lies infinitely far away. Or to put the
+paradox in this case more precisely: once we make the line
+of the parabola infinite, to make the inside of the parabola
+definite, we will have *enclosed* the parabola in openness,
+and render this at once intelligible yet unreachable---as if
+openness had no being beyond seeming.
 
 ## States of Being {#being} 
 
@@ -213,13 +217,13 @@ being closed? Or more exactly, cases of being closed
 that look open, and even have that look not merely, but
 truly, in an appearance of openness to be praised?
 
-Or to ask this question from another direction, suppose
+We can ask this question from another direction. For suppose
 the difference between true openness and mere openness is
 something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
-except in light of a power to keep certain things, like
-corpses and suitors, out? The power, that is, to be closed?
-And even if this is also a power to be open, the exercise of
+except in light of a power to keep certain things out, like
+corpses and suitors? The power, that is, to be closed? And
+even if this is also a power to be open, the exercise of
 it would seem to involve a choice that encompasses what we
 are open to, and in that sense encloses it. We could think
 of this enclosure as a boundary of recognition, that not
@@ -227,22 +231,30 @@ only excludes what we keep out, but contains what we let
 in. The scope of this boundary might even be compared to a
 world, which is lost in cases of corruption. Once Odysseus
 is no longer master of his door, we could say a world of
-hospitality is lost. And because of this loss, we could say
-his door no longer opens from the inside, to contain the
-outside in an act of recognition. It now only opens from the
+hospitality is lost, along with any way for his door to
+open from the inside, and contain the outside in an act
+of recognition. That is, his door now only opens from the
 outside, exposing the inside to an act of transgression.
-And this, then, is how the suitors get through---from the
+This is how the suitors get through---from the
 outside in. And also how the corpses get through, into
 the eyes of Leontius, once they, too, only open from the
-outside, when he is no longer master of his eyes, and
-a world of judgment is lost. 
+outside, when he is no longer master of his eyes, and a
+world of judgment is lost. To possess the world in
+this sense is to open from the inside it contain what we are open to in an act
+of recognition, o open from the inside, in an act of
+letting-in, that encloses 
+
+But on this account, then, what it would
+mean to open from the inside would involve a form, that is, to , and more
+generally (rewrite from here, bringing next paragraph up,
+then think about how to transition to next part on awareness).
 
 But on this account, then, to
 open our eyes, our door, even our heart, involves a form of
 agency, a letting-in, that encloses what we are open to, in
 a act of recognition, as if being open were again the result, and
 thus the look, of being closed. Or to put this implication
-more skeptically: as if being open were a contradiction in
+more skeptically: it is as if being open were a contradiction in
 terms, in having no being beyond
 seeming.
 
