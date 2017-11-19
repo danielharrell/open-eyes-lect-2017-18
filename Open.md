@@ -169,7 +169,7 @@ parabola, and the concave side to be "outside". This would
 treat the curved line as a figure, analogous to the ellipse,
 only open rather than closed. We might even liken this
 figure to an lidless, empty jar. But what would justify this
-interpretation? Why think that the parabola has an inside,
+interpretation? Why think that the parabola *has* an inside,
 distinct from, but open to, an outside? Why aren't both
 sides of the parabola outside it, since both lie outside the
 line of the parabola?
@@ -194,57 +194,66 @@ no being beyond seeming.
 
 ## States of Being {#being} 
 
-And the parabola, thus understood, can serve as a geometric
-image for a more general predicament. For what if every
-way of being open were really a way of being closed that
-merely looked open? In light of this question, consider
-what I earlier called *states of being*: the open door of
-hospitality; the open heart of generosity; the open mind of
-enlightenment. Openness in such cases has the genuineness
-of a virtue, but the kind of virtue that can
-be corrupted, and corrupted in the direction of excess,
-making us wonder what distinguishes true openness from mere
-openness. Recall the open door in Homer's *Odyssey*, that
-lets the suitors of Penelope fill the house of Odysseus in
-his absence, in the abuse of hospitality. Or the open eyes
-of Leontius in Plato's *Republic*, that let the spectacle
-of corpses fill his gaze, to his own contempt, in a similar
-abuse of sight.[^Republic.] Both examples suggest there are
-cases of openness to be condemned, where something between
-inside and outside has broken. But what could this be, if
-not a boundary that stays intact, in cases of openness to
-be praised? Yet if the boundary stays intact, then why are
-these cases of being open rather than cases of being closed?
-Or more exactly, cases of being closed that look open, and
-even have that look not merely, but truly, in an appearance
-of openness to be praised?
+This is another way, then, to wonder how being open is
+possible. And while it might seem contrived, in coming from
+mathematics, it suggests a more general way, and radical
+way, to wonder how being open is possible. For what if
+every way of being open were like the parabola? That is,
+what if every way of being open were really a way of being
+closed that merely looked open? In light of this question,
+consider what I earlier called *states of being*: the open
+door of hospitality; the open heart of generosity; the
+open mind of enlightenment. The openness in such cases has
+the genuineness of a virtue. But it is the kind of virtue
+that can be corrupted, and corrupted in the direction of
+excess, making us wonder what distinguishes *true* openness
+from *mere* openness. Recall the open door in Homer's
+*Odyssey*, that lets the suitors of Penelope fill the house
+of Odysseus in his absence, in the abuse of hospitality. Or
+the open eyes of Leontius in Plato's *Republic*, that let
+the spectacle of corpses fill his gaze, to his own contempt,
+in a similar abuse of sight.[^Republic.] Both examples
+suggest there are cases of openness to be condemned, where
+something between inside and outside has broken. But what
+could this be, if not a boundary that stays intact, in cases
+of openness to be praised? Yet if the boundary stays intact,
+then why are these cases of being open rather than cases of
+being closed? Or to put the question more precisely: why
+are these cases of *being* open, rather than cases of being
+closed that *look* open, and even have that look not merely,
+but truly, in an appearance of openness to be praised?
 
 We can ask this question from another direction. For suppose
 the difference between true openness and mere openness is
 something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
-except in light of a power to keep certain things out, like
+save in light of a power to keep certain things out, like
 corpses and suitors? The power, that is, to be closed? And
-even if this is also a power to be open, the exercise of
+even if this were also a power to be open, the exercise of
 it would seem to involve a choice that encompasses what we
-are open to, and in that sense encloses it. We could think
-of this enclosure as a boundary of recognition, that not
-only excludes what we keep out, but contains what we let
-in. The scope of this boundary might even be compared to a
-world, which is lost in cases of corruption. Once Odysseus
-is no longer master of his door, we could say a world of
-hospitality is lost, along with any way for his door to
-open from the inside, and contain the outside in an act
-of recognition. That is, his door now only opens from the
-outside, exposing the inside to an act of transgression.
-This is how the suitors get through---from the outside
-in. And also how the corpses get through, into the eyes
-of Leontius, once they, too, only open from the outside,
-when he is no longer master of his eyes, and a world of
-judgment is lost. To possess the world in this sense is to
-open from the inside it contain what we are open to in an
-act of recognition, o open from the inside, in an act of
-letting-in, that encloses
+are open to, and in that sense encloses it, just as the
+parabola was enclosed in openness. We could think of this
+enclosed openness in the human case as a boundary of
+recognition, that not only excludes what we keep out, but
+contains what we let in. <!--Perhaps leave "world" talk for
+subsequent part on awareness--> And the scope of this boundary
+might even be compared to a world, which is lost in cases of
+corruption. Once Odysseus is no longer master of his door,
+we could say a world of hospitality is lost, along with any
+way for his door to open from the inside and contain the
+outside in an act of recognition. In his absence, then, the
+door of Odysseus would only open from the outside and expose
+the inside to an act of transgression. Hence the suitors,
+and how they get through---from the outside in. And also how
+the corpses get through, into the eyes of Leontius, once
+they, too, only open from the outside, when he is no longer
+master of his eyes, and a world of judgment is lost. 
+
+To
+possess the world in this sense is to open from the inside
+it contain what we are open to in an act of recognition,
+o open from the inside, in an act of letting-in, that
+encloses
 
 - Look up Leontius and Odysseus to try to justify use of
 "world" in this context. Also look at Things task for
