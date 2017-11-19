@@ -235,20 +235,22 @@ are open to, and in that sense encloses it, just as the
 parabola was enclosed in openness. We could think of this
 enclosed openness in the human case as a boundary of
 recognition, that not only excludes what we keep out, but
-contains what we let in. <!--Perhaps leave "world" talk for
-subsequent part on awareness--> And the scope of this boundary
-might even be compared to a world, which is lost in cases of
-corruption. Once Odysseus is no longer master of his door,
-we could say a world of hospitality is lost, along with any
-way for his door to open from the inside and contain the
-outside in an act of recognition. In his absence, then, the
-door of Odysseus would only open from the outside and expose
-the inside to an act of transgression. Hence the suitors,
-and how they get through---from the outside in. And also how
-the corpses get through, into the eyes of Leontius, once
-they, too, only open from the outside, when he is no longer
-master of his eyes, and a world of judgment is lost. 
+contains what we let in. And this boundary is what breaks,
+or even vanishes, in cases of corruption, along with any way
+to open from the inside out, in an act of letting in. Once
+Odysseus is no longer master of his door, the door has lost
+the power, on this account, to open from the inside and
+contain the outside in recognition. It now only opens from
+the outside, and exposes the inside to transgression. Hence
+the suitors, and how they indeed *get into* the house of
+Odysseus. And also how the corpses indeed *get into* the
+eyes of Leontius, when he is no longer master of them, and
+can no longer open them from within. 
 
+Transition to awareness by saying that above account seems to
+leave openness in awareness untouched, as reflected in Leontius
+example. Be sure in world talk to bring back Leontius and
+Odysseus losing world.
 To
 possess the world in this sense is to open from the inside
 it contain what we are open to in an act of recognition,
