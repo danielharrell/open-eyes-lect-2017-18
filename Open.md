@@ -250,19 +250,26 @@ Odysseus. And also how the corpses *get into* the
 eyes of Leontius, when he is no longer master of them, and
 can no longer open them from within. 
 
-Yet even if this account could make sense of ways in which we ourselves,
-like the parabola, are enclosed in openness, it arguably leaves
-our deepest way of being open untouched. For this was the openness
-of awareness, and (revise from here with Leontius quote about eyes
-getting their fill). ---the openness of awareness--untouched. Transition to awareness by saying that above account seems to
-leave openness in awareness untouched, as reflected in Leontius
-example. Be sure in world talk to bring back Leontius and
-Odysseus losing world.
-To
-possess the world in this sense is to open from the inside
-it contain what we are open to in an act of recognition,
+But now suppose this account makes sense of ways that
+we ourselves, like the parabola, are enclosed in openness.
+Still, one might think it leaves our deepest way of being
+open untouched. For this was the openness of awareness. And
+we could say of Leontius, for example, that his own loss
+of mastery over his eyes comes with an acute awareness of
+this, as he angrily addresses his eyes with the words
+"There, ye wretches, take your fill of the fine spectacle." 
+<!--check on this translation--> Even if his eyes no longer
+open from within, they still open from without, in a kind
+of liberation from any boundary; and the awareness
+of this suggests that awareness, too, is in some sense
+boundless. And while the suitors may get through Odysseus's
+door, they will not survive Odysseus's awareness of it,
+or Penelope's. <!--Be sure in world talk to bring back
+Leontius and Odysseus losing world.--> To possess the world in
+this sense is to open from the inside it contain what we are
+open to in an act of recognition,
 o open from the inside, in an act of letting-in, that
-encloses
+  encloses
 
 - Look up Leontius and Odysseus to try to justify use of
 "world" in this context. Also look at Things task for
