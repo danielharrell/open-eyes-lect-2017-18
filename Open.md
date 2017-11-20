@@ -34,7 +34,7 @@ But why does the word have such scope? This is one reason
 for wonder.
 
 Another reason is that the word is used, typically,
-without further explanation, as if its meaning were already
+without further ado, as if its meaning were already
 understood. But if so, then how is it understood?
 
 And is there something here not understood? Or better
@@ -42,7 +42,8 @@ understood? The difference between a door and an open door
 may be like the difference between Socrates and Socrates
 sitting. For only a philosopher, according to Aristotle,
 would care about this difference.[^Socrates.] But the
-philosopher in all of us, then, can wonder what it means
+philosopher in all of us, then, can wonder about
+that difference, and what it means
 to say "my door is always open"---even if asking this of a
 friend, who just said it to you, risks being rude, or dense.
 The way we use the word "open" without further thought may
@@ -63,18 +64,20 @@ half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
 
-Nor are these the only such states of being. Think of how we
-say our eyes are open, to mean we are awake. But why say
+Nor are these the only such states of being. Think of how
+we say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? To use the word for our eyes may be
 figurative; but it captures how we seem to see through our
 eyes, to a whole world outside us---as if our eyes *were*
-open, even transparent. To ask about the meaning of "open", then,
-is to ask about the meaning of wakefulness, watchfulness,
-awareness. And awareness is arguably not just one way of being,
-but *our* way of being: the one underneath all the others;
-the one that may explain why we use the word "open" with such 
-scope, and as if it were already understood.
+open, even transparent. <!-- This reaching out should be
+used in a transition paragraph later.--> To ask about the
+meaning of "open", then, is to ask about the meaning of
+wakefulness, watchfulness, awareness. And awareness is
+arguably not just one way of being, but *our* way of being:
+the one underneath all the others; the one that may explain
+why we use the word "open" with such scope, and as if it
+were already understood.
 
 Awareness might also explain why we define the word
 "open" through negation---if being open in awareness
@@ -235,19 +238,23 @@ are open to, and in that sense encloses it, just as the
 parabola was enclosed in openness. We could think of this
 enclosed openness in the human case as a boundary of
 recognition, that not only excludes what we keep out, but
-contains what we let in. And this boundary is what breaks,
-or even vanishes, in cases of corruption, along with any way
-to open from the inside out, in an act of letting in. Once
-Odysseus is no longer master of his door, the door has lost
-the power, on this account, to open from the inside and
-contain the outside in recognition. It now only opens from
-the outside, and exposes the inside to transgression. Hence
+contains what we let in. It would allow us to open, in other
+words, from the inside out. And this boundary is what
+breaks, or even vanishes, in cases of corruption. Once
+Odysseus is no longer master of his door, on this account,
+the door has lost the power to open from the inside and
+contain the outside in an act of recognition. It now only opens from
+the outside, and exposes the inside to an act of transgression. Hence
 the suitors, and how they indeed *get into* the house of
-Odysseus. And also how the corpses indeed *get into* the
+Odysseus. And also how the corpses *get into* the
 eyes of Leontius, when he is no longer master of them, and
 can no longer open them from within. 
 
-Transition to awareness by saying that above account seems to
+Yet even if this account could make sense of ways in which we ourselves,
+like the parabola, are enclosed in openness, it arguably leaves
+our deepest way of being open untouched. For this was the openness
+of awareness, and (revise from here with Leontius quote about eyes
+getting their fill). ---the openness of awareness--untouched. Transition to awareness by saying that above account seems to
 leave openness in awareness untouched, as reflected in Leontius
 example. Be sure in world talk to bring back Leontius and
 Odysseus losing world.
