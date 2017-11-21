@@ -79,15 +79,18 @@ the one underneath all the others; the one that may explain
 why we use the word "open" with such scope, and as if it
 were already understood.
 
-Awareness might also explain why we define the word
-"open" through negation---if being open in awareness
-meant being *not* ourselves, so far as we were aware of
-anything else. But negation here seems especially to risk
-half-comprehension; for underneath our awareness of anything
-else is an awareness we have of ourselves. <!-- Later
-connect this point, perhaps, to Adam and Eve and nakedness:
-the price of knowledge is the shame of nakedness.--> And
-this gives the word "open" a deeper sense of positive scope, as it
+Awareness might also explain why we define the word "open"
+through negation---if being open in awareness meant being
+*not* ourselves, so far as we were aware of anything else.
+<!--Later come back to this idea involving negation, where
+we are transformed by awareness into a kind of invisibility.
+THis relates to way in which world is *other* to us--> But
+negation here seems especially to risk half-comprehension;
+for underneath our awareness of anything else is an
+awareness we have of ourselves. <!-- Later connect this
+point, perhaps, to Adam and Eve and nakedness: the price of
+knowledge is the shame of nakedness.--> And this gives the
+word "open" a deeper sense of positive scope, as it
 encompasses self and other at once, and captures something
 that our times of solitude and solicitude have in common.
 
@@ -105,6 +108,7 @@ the cover of the St. John's viewbook, why the word
 
 [Back to top](#top)
 
+
 # Part One {#one}
 
 But while the word thus gives us much to wonder about,
@@ -121,7 +125,11 @@ what we encounter a name, like "marionette", or "solstice",
 or "incommensurable." But names like this, once they become
 words we inherit rather than originate, can just as well
 discourage understanding as display it, and invoke what we
-don't yet know as if we do.
+don't yet know as if we do. <!--Later return to this: Aristotle
+says we end in opposite state from wonder, which suggests
+a kind of negation of world in which wonder began, or an
+understanding of world that leaves no place for wonder; just
+like Aristotle's account of nous.-->
 
 The word "open", I suspect, is just such a name. Behind
 it, or beneath it, lies a problem, a paradox, to make us
@@ -193,21 +201,23 @@ definite, we will have *enclosed* the parabola in openness.
 And this enclosure will make the openness of the parabola
 at once intelligible yet impassable; something we can plainly
 see, yet never reach---as if openness had
-no being beyond seeming.
+no being beyond seeming. <!--Later shift this image to infinite
+circle whose center is everywhere and circumference nowhere,
+when talking about totality, or world.-->
 
 ## States of Being {#being} 
 
 This is another way, then, to wonder how being open is
-possible. And while it might seem contrived, in coming from
-mathematics, it suggests a more general way, and radical
+possible. It might seem contrived, in coming from
+mathematics. But it suggests a more general way, and radical
 way, to wonder how being open is possible. For what if
 every way of being open were like the parabola? That is,
 what if every way of being open were really a way of being
 closed that merely looked open? In light of this question,
 consider what I earlier called *states of being*: the open
 door of hospitality; the open heart of generosity; the
-open mind of enlightenment. The openness in such cases has
-the genuineness of a virtue. But it is the kind of virtue
+open mind of enlightenment. Openness here has
+the genuineness of a virtue. ---But the kind of virtue
 that can be corrupted, and corrupted in the direction of
 excess, making us wonder what distinguishes *true* openness
 from *mere* openness. Recall the open door in Homer's
@@ -221,8 +231,7 @@ something between inside and outside has broken. But what
 could this be, if not a boundary that stays intact, in cases
 of openness to be praised? Yet if the boundary stays intact,
 then why are these cases of being open rather than cases of
-being closed? Or to put the question more precisely: why
-are these cases of *being* open, rather than cases of being
+being closed? Or rather: cases of being
 closed that *look* open, and even have that look not merely,
 but truly, in an appearance of openness to be praised?
 
@@ -230,44 +239,50 @@ We can ask this question from another direction. For suppose
 the difference between true openness and mere openness is
 something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
-save in light of a power to keep certain things out, like
+save in light of a power to keep certain things *out*, like
 corpses and suitors? The power, that is, to be closed? And
 even if this were also a power to be open, the exercise of
 it would seem to involve a choice that encompasses what we
 are open to, and in that sense encloses it, just as the
-parabola was enclosed in openness. We could think of this
-enclosed openness in the human case as a boundary of
-recognition, that not only excludes what we keep out, but
-contains what we let in. It would allow us to open, in other
-words, from the inside out. And this boundary is what
-breaks, or even vanishes, in cases of corruption. Once
-Odysseus is no longer master of his door, on this account,
-the door has lost the power to open from the inside and
-contain the outside in an act of recognition. It now only opens from
-the outside, and exposes the inside to an act of transgression. Hence
-the suitors, and how they indeed *get into* the house of
-Odysseus. And also how the corpses *get into* the
-eyes of Leontius, when he is no longer master of them, and
-can no longer open them from within. 
+parabola was enclosed in openness. This enclosed openness in
+the human case might be thought a boundary of recognition,
+that not only excludes what we keep out, but contains what
+we let in. It would allow us to open---whether our doors
+or hearts or minds---from the inside out. This boundary
+would also be what breaks, or even vanishes, in cases of
+corruption. Once Odysseus is no longer master of his door,
+on this account, the door can no longer open from
+the inside and contain the outside in an act of recognition.
+It now only opens from the outside, and exposes the inside
+to an act of transgression. Hence the suitors, and how
+they indeed *get into* the house of Odysseus. And also how
+the corpses *get into* the eyes of Leontius, when he is no
+longer master of them, and can no longer open them from
+within.
 
-But now suppose this account makes sense of ways that
-we ourselves, like the parabola, are enclosed in openness.
+## Awareness {#awareness}
+
+But suppose this account makes sense of ways that we
+ourselves, like the parabola, are enclosed in openness.
 Still, one might think it leaves our deepest way of being
 open untouched. For this was the openness of awareness. And
-we could say of Leontius, for example, that his own loss
-of mastery over his eyes comes with an acute awareness of
-this, as he angrily addresses his eyes with the words
-"There, ye wretches, take your fill of the fine spectacle." 
-<!--check on this translation--> Even if his eyes no longer
-open from within, they still open from without, in a kind
-of liberation from any boundary; and the awareness
-of this suggests that awareness, too, is in some sense
-boundless. And while the suitors may get through Odysseus's
-door, they will not survive Odysseus's awareness of it,
-or Penelope's. <!--Be sure in world talk to bring back
-Leontius and Odysseus losing world.--> To possess the world in
-this sense is to open from the inside it contain what we are
-open to in an act of recognition,
+we could say of Leontius, for example, that his own loss of
+mastery over his eyes comes with an acute awareness of this,
+as he angrily addresses his eyes: "There, ye
+wretches, take your fill of the fine spectacle." <!--check
+on this translation--> Even if his eyes no longer open from
+within, they still open from without, and do so as if liberated
+from any bounds. And his awareness of this suggests that
+awareness, too, is boundless in some sense. And while the
+suitors may get through Odysseus's door, they will not
+survive Odysseus's awareness of it, or Penelope's. <!--Be
+sure in world talk to bring back Leontius and Odysseus
+losing world. Also use world as totality to argue for
+boundary. Nothing outside a totality.--> 
+
+(Revise from here.) To possess the
+world in this sense is to open from the inside it contain
+what we are open to in an act of recognition,
 o open from the inside, in an act of letting-in, that
   encloses
 
@@ -289,7 +304,6 @@ more skeptically: it is as if being open were a contradiction in
 terms, in having no being beyond
 seeming.
 
-## Awareness {#awareness}
 
 - Need to re-write this next part, with greater connection
 to previous part. 
