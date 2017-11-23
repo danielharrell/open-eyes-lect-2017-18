@@ -30,7 +30,7 @@ to the profound.
     - "Open your heart."
     - "My eyes were finally opened."
 
-Why does the word have such scope? This is one reason
+But why does the word have such scope? This is one reason
 for wonder.
 
 Another reason is that we use the word, typically,
@@ -42,26 +42,25 @@ understood? The difference between a door and an open door
 may be like the difference between Socrates and Socrates
 sitting. For only a philosopher, according to Aristotle,
 would care about this difference.[^Socrates.] But the
-philosopher in all of us, then, can wonder about
-that difference, and what it means
-to say "my door is always open"---even if asking this of a
-friend, who just said it to you, risks being rude, or dense.
-The way we use the word "open" without further thought may
-make it worth further thought.
+philosopher in all of us, then, can wonder about that
+difference. We can wonder what it means to say "my door is
+always open"---even if asking this of a friend, who just
+said it to you, risks being rude, or dense. The way we use
+the word "open" without further thought may make it worth
+further thought.
 
 Still another reason for wonder comes from the way we
-define the
-word "open" in dictionaries---largely through
-negation. To be open means *not* to be closed. Or blocked. Or
-covered. Or fastened. Or sealed. Or buttoned. Or guarded.
+define the word "open" in dictionaries---largely through
+negation. To be open means *not* to be closed. Or blocked.
+Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
 Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
-when we talk of eyes being opened? Or hearts? Or minds? Or
-again the proverbial door, always open to a friend? Here,
-it seems, we use the word "open" for a positive condition,
-a state of being, which any negative definition at best
-half-comprehends. And to ask about the meaning of
+when we talk of eyes being opened? Or hearts? Or minds?
+Or again the proverbial door, always open to a friend?
+Here, it seems, we use the word "open" for a positive
+condition, a state of being, which any negative definition
+at best half-comprehends. To ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
 
@@ -69,7 +68,7 @@ Nor are these the only such states of being. Think of how
 we say our eyes are open, to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? To use the word for our eyes may be
-figurative; but it captures how we seem to see *through* our
+figurative. But it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes *were*
 open, even transparent. <!-- This reaching out should be
 used in a transition paragraph later.--> To ask about the
@@ -77,17 +76,18 @@ meaning of "open", then, is to ask about the meaning of
 wakefulness, watchfulness, awareness. And awareness is
 arguably not just one way of being, but *our* way of being:
 the one underneath all the others; the one that may explain
-*why* we use the word "open" with such scope, and as if it
+why we use the word with such scope, and as if it
 were already understood.
 
-Awareness might also explain why we define the word "open"
-through negation---if being open in awareness meant being
-*not* ourselves, so far as we were aware of anything else.
+Awareness might also explain our reliance on
+negation to define the word. For in one sense,
+a negative sense, being open in awareness means being
+*not* ourselves, insofar as we are aware of anything else.
 <!--Later come back to this idea involving negation, where
 we are transformed by awareness into a kind of invisibility.
 THis relates to way in which world is *other* to us--> But
-negation here seems especially to risk half-comprehension;
-for underneath our awareness of anything else is an
+negation here seems especially half-comprehending.
+For underneath our awareness of anything else is an
 awareness we have of ourselves. <!-- Later connect this
 point, perhaps, to Adam and Eve and nakedness: the price of
 knowledge is the shame of nakedness.--> And this gives the
@@ -96,16 +96,21 @@ encompasses self and other at once, and captures something
 that our times of solitude and solicitude have in common.
 
 In this vein, too, the word "open" might have a home in any
-community that conceives itself as a community of learning,
+community that conceives itself as a community of learning;
 and believes, without the blush of contradiction, that
 learning best happens among others, yet only happens in
-oneself. And if no one else can do your learning for you, it
-might take a word like "open" to explain why you don't find
-yourself alone here, but among others around a table, face-to-face. 
-To ask about the meaning of "open", then, is to ask about the meaning
-of this. The meaning of us. Just as we can ask, as we look at
-the cover of the St. John's viewbook, why the word
-"open" might be enough to introduce us.
+oneself. And if no one else can do your learning for you,
+it might take a word like "open" to explain why you don't
+find yourself alone at this college, but among others around
+a table, face-to-face. To ask about the meaning of "open",
+then, is to ask about the meaning of this. The meaning of
+us. Just as we can ask, as we look at the cover of the St.
+John's viewbook, why the word "open" might be enough to
+introduce us. <!--Later refer back to this last sentence,
+in trying to rehabilite positive question after arguing
+againts its possibility. Something like: does this
+impossibility mean that we are guilty of false advertising
+on the cover of the St. John's viewbook?-->
 
 [Back to top](#top)
 
@@ -121,7 +126,9 @@ the first time, wooden figures come to life; or the sun
 reverse course one day in the sky; or the diagonal of a
 square escape measure by any part of its side, no matter how
 small.[^AristotleWonder.] The wonder, in each case, is how
-such a thing is possible. Once we learn how, we can give
+such a thing is possible. <!--Later point out that this
+isn't really possible, on a certain philosophical 
+explanation--> Once we learn how, we can give
 what we encounter a name, like "marionette", or "solstice",
 or "incommensurable." But names like this, once they become
 words we inherit rather than originate, can just as well
@@ -141,28 +148,28 @@ yet common life continues to embrace openness. Could use
 the Bergson quote here. Then quote from other others to
 show the ambivalence of philosophy.-->
 
-The word "open", I suspect, is just such a name. Behind
-it, or beneath it, lies a problem, a paradox, to make us
-wonder how being open is even possible. <!--Later, in
-transition, point out that we started perhaps in the
-attempt to explain how openness is possible, only to argue
-that it isn't possible, or that its an appearance rather
-than a reality. This is what philosophical reflection
-does. (Don't forget Bergson here.) --> But to wonder how
-is also unlikely, since we have the word "open" to prove
-its possibility. If I say "I can't get the jar open", for
-example, I will look for a better grip on the lid, not the
-word.
+The word "open", I suspect, is just such a name. Behind it,
+or beneath it, lies a problem, a paradox, to make us wonder
+how being open is even possible. <!--Later, in transition,
+point out that we started perhaps in the attempt to explain
+how openness is possible, only to argue that it isn't
+possible, or that its an appearance rather than a reality.
+This is what philosophical reflection does. (Don't forget
+Bergson here.) --> But to wonder how is also unlikely,
+since we have the word "open" to prove its possibility.
 
 [Back to top](#top)
 
 ## The Jar {#jar}
 
-But even here, I can wonder about the word. For why get a
-better grip on the lid to open the jar? Suppose I decide not
-to bother with the lid, and simply throw the jar to the ground,
+For example, if I say "I can't get the jar open", I will
+look for a better grip on the lid, not the word. But even
+here, I can wonder about the word. For why get a better
+grip on the lid to open the jar? Suppose I decide not to
+bother with the lid, and simply throw the jar to the ground,
 breaking it open. Why is this not simply another way of
-opening the jar? Why say instead that I *broke* the jar open?
+opening the jar? Why say instead that I *broke* the jar
+open?
 
 We say this, it seems, in wanting the jar to remain a jar:
 something opened without being broken. More abstractly put:
@@ -176,7 +183,7 @@ inside and outside.
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, as soon as
-the lid is removed? If we leave the jar open, its contents
+the lid is removed? And if we leave the jar open, its contents
 may spoil---as if for nature, even if not for us, a lidless
 jar has no inside, and can only gain one by being closed.
 But in what sense, then, can I truly open the jar, no matter
@@ -184,9 +191,9 @@ how great my grip on the lid?
 
 ## The Parabola {#parabola}
 
-This is one way, then, to wonder how being open is possible.
-But not the only way. And other ways need no appeal to the
-risk of ruin if an inside is left open to the outside too
+This is one way to wonder how being open is possible.
+But not the only way. And other ways need make no appeal to nature,
+or ruin, if an inside is left open to the outside too
 long. For now consider a line from geometry: [the parabola].
 We can distinguish the sides of this line, one convex and
 one concave, since the parabola is curved. But suppose we
@@ -200,60 +207,61 @@ distinct from, but open to, an outside? Why aren't both
 sides of the parabola outside it, since both lie outside the
 line of the parabola?
 
-One way to answer this question is to make the inside of the
-parabola definite, and complete the analogy to the ellipse.
-We would then take the parabola to be an infinite ellipse,
-with one focus infinitely far away. The parabolic line would
-then be infinite in length, with ends that reach the edge,
-as it were, of the geometric plane. But in that case, it
-seems, our parabola will gain a true inside in just the way
-our jar possessed one: by being closed. For there will be
-no way into the parabola, or out of it, through its open
-end, since this now lies infinitely far away. Or to put the
-paradox in this case more precisely: once we make the line
-of the parabola infinite, to make the inside of the parabola
-definite, we will have *enclosed* the parabola in openness.
-And this enclosure will make the openness of the parabola
-at once intelligible yet impassable; something we can plainly
-see, yet never reach---as if openness had
-no being beyond seeming. <!--Later shift this image to infinite
-circle whose center is everywhere and circumference nowhere,
-when talking about totality, or world.-->
+To answer this question in defense of the interpretation, we
+can make the inside of the parabola definite, and complete
+the analogy to the ellipse. We would then take the parabola
+to be an infinite ellipse, with one focus infinitely far
+away. The parabolic line would then be infinite in length,
+with ends that reach the edge, as it were, of the geometric
+plane. But in that case, it seems, our parabola will gain
+a true inside in just the way our jar possessed one: by
+being closed. For there will be no way into the parabola,
+or out of it, through its open end, since this now lies
+infinitely far away. Or to put the paradox in this case more
+sharply: once we make the line of the parabola infinite,
+to make the inside of the parabola definite, we will have
+*enclosed* the parabola in openness. And this enclosure will
+make the openness of the parabola at once intelligible yet
+impassable. The way it remains open will be something we can
+plainly see, even point to; yet never reach---as if openness
+had no being but seeming. <!--Later shift this image to
+infinite circle whose center is everywhere and circumference
+nowhere, when talking about totality, or world.-->
 
 ## States of Being {#being} 
 
-This is another way, then, to wonder how being open is
+This, then, is another way to wonder how being open is
 possible. <!--Note later that we wonder this by giving
-arguments for its impossibility; and philosophy rests here,
-in impossibility. In mere appearance, then go back to
-examples from Aristotle, then Bergson.--> It might seem
-contrived, in coming from mathematics. But it suggests
-a more general way, and radical way, to wonder how being
-open is possible. For what if every way of being open were
-like the parabola? That is, what if every way of being open
-were really a way of being closed that merely looked open?
-<!--Later, go back to Aristotle examples to show this same
-claim to mere appearance: marionettes merely look alive; the
-sun merely looks as if it reverses course; the side of
-a square looks divisible enough to measure the diagonol, but
-needs to straddle the even and odd to do so. A philosophical
-account in Dedekind to make this too an appearance.--> In
-light of this question, consider what I earlier called
-*states of being*: the open door of hospitality; the open
-heart of generosity; the open mind of enlightenment.
-Openness here has the genuineness of a virtue. But it is the
-kind of virtue that can be corrupted, and corrupted in the
-direction of excess, making us wonder what distinguishes
-*true* openness from *mere* openness. Recall the open door
-in Homer's *Odyssey*, that lets the suitors of Penelope fill
-the house of Odysseus in his absence, in the abuse of
-hospitality. Or the open eyes of Leontius in Plato's
-*Republic*, that let the spectacle of corpses fill his gaze,
-to his own contempt, in a similar abuse of
+arguments for its impossibility; and philosophy rests
+here, in impossibility. In mere appearance, then go back
+to examples from Aristotle, then Bergson.--> It might seem
+contrived, in coming from mathematics. But it suggests a
+more general way, and radical way, to wonder how being
+open is possible. For what if every way of being open
+were like the parabola? That is, what if every way of
+being open were really a way of being closed that merely
+looked open? <!--Later, go back to Aristotle examples
+to show this same claim to mere appearance: marionettes
+merely look alive; the sun merely looks as if it reverses
+course; the side of a square looks divisible enough to
+measure the diagonol, but needs to straddle the even and
+odd to do so. A philosophical account in Dedekind to make
+this too an appearance.--> In light of this question,
+consider what I earlier called *states of being*: the
+open door of hospitality; the open heart of generosity;
+the open mind of enlightenment. Openness here has the
+genuineness of a virtue. But virtue can be corrupted, and
+in this case corrupted in excess, making us wonder what
+distinguishes *true* openness from *mere* openness. Recall
+the open door in Homer's *Odyssey*, that lets the suitors
+of Penelope fill the house of Odysseus in his absence, in
+the abuse of hospitality. Or the open eyes of Leontius
+in Plato's *Republic*, that let the spectacle of corpses
+fill his gaze, to his own contempt, in a similar abuse of
 sight.[^Republic.] Both examples suggest there are cases of
-openness to be condemned, where something between inside and
-outside has broken. But what could this be, if not
-a boundary that stays intact, in cases of openness to be
+openness to be condemned, where something between inside
+and outside has broken. But what could this be, if not a
+boundary that stays intact, in cases of openness to be
 praised? Yet if the boundary stays intact, then why are
 these cases of being open rather than cases of being closed?
 Or rather: cases of being closed that *look* open, and even
@@ -266,66 +274,72 @@ something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 save in light of a power to keep certain things *out*, like
 corpses and suitors? The power, that is, to be closed? And
-even if this were also a power to be open, the exercise of
+even if this were also the power to be open, the exercise of
 it would seem to involve a choice that encompasses what we
 are open to, and in that sense encloses it, just as the
-parabola was enclosed in openness. This enclosed openness in
-the human case might be thought a boundary of recognition,
-that not only excludes what we keep out, but contains what
-we let in. It would allow us to open---our doors, hearts,
-eyes, minds---from the inside out. This boundary would also
-be what breaks in cases of corruption, and open us, like a
-broken jar, from the outside in. Once Odysseus is no longer
-master of his door, on this account, the door no longer
-opens from the inside, to contain the outside in an act of
-recognition. It now only opens from the outside, and exposes
-the inside to an act of transgression. Hence the suitors,
-and how they indeed *get into* the house of Odysseus. Or the
-corpses, and how they, too, *get into* the eyes of Leontius,
-once he is no longer master of them, and can no longer open
-them from within.
+parabola was enclosed in openness. This enclosure in the
+human case might be thought a boundary of recognition, that
+not only excludes what we keep out, but contains what we let
+in. This boundary would also be what breaks in cases of
+corruption, laying us open, like a broken jar, to whatever
+lies outside. Once Odysseus is no longer master of his door,
+on this account, the door no longer opens from the inside,
+to contain the outside in an act of recognition. It now only
+opens from the outside, and exposes the inside to an act of
+transgression. Hence the suitors, and how they indeed *get
+into* the house of Odysseus. Or the corpses, and how they
+too *get into* the eyes of Leontius, once he loses his
+mastery of them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
 But even if this account made partial sense of true
-openness, there are some reasons to think it fails to make
-complete sense of this. For one thing, if the masterless
-eyes of Leontius are at all comparable to broken jars,
-then how can they take their fill---one might say to the
-brim---of the corpses? As jars, his eyes seem to be
-perfectly whole in this act, and this wholeness 
-seems matched by his awareness of this, as he damns
-his eyes even as he his eyes, and his
-damnation of them, And what to make of his damnation
-
-ways that we
-ourselves, like the parabola, are enclosed in openness.
-Still, one might think it leaves our deepest way of being
-open untouched. For this was the openness of awareness. And
-we could say of Leontius, for example, that his own loss of
-mastery over his eyes comes with an acute awareness of this,
-as he angrily tells them: "There, ye wretches, take your
-fill of the fine spectacle." <!--check on this
-translation--> Even if the eyes of Leontius no longer open
-from within, they still open from without, and fill to the
-brim as if liberated from any bounds. And even if we call
-this mere openness, Leontius's own damnation of it makes
-it true, in the very awareness behind this damnation that
-must be as boundless as his eyes. e has that must therefore
-be as boundless as his eyes his awareness of
-this suggests that awareness, too, must be boundless in
-some sense, and therefore open in this sensetherefore truly open in some sense. . And
+openness, there is reason to doubt it could make any more,
+or be but misleading if further pressed. For one thing, if
+the masterless eyes of Leontius are at all comparable to
+broken jars, then how can they take their fill---one might
+say to the brim---of the spectacle? As jars, his eyes seem
+perfectly intact; and as full, perfectly whole. And we
+could say this perfection of outer sight is matched, even
+surpassed, by inner sight. For Leontius is able to damn his
+eyes, despite his loss of command over them. Let this loss
+still suggest a liberation of his eyes from any bounds.
+Nonetheless, the result is not blindness, but sight; and
+not unconsciousness of the fact, but recognition of it.
+The result, in other words, suggests that true openness is
+boundless. ---As boundless, at least, as mere openness.
+And the case of Odysseus points to this more dramatically. For
 while the suitors may get through Odysseus's door, they will
-not survive Odysseus's awareness of it, or Penelope's, in
-a similar suggestion that true openness is real.  And the
-spectacle of slaughter Homer allows us to see, inside
-his house, is another bit of evidence that awareness
-is lawless, boundless. And
-this suggests that awareness works The boundary broken Loss
-of mastery comes not with loss of sight. <!--Be sure in
-world talk to bring back Leontius and Odysseus losing world.
-Also use world as totality to argue for boundary. Nothing
-outside a totality.--> 
+not survive his awareness of it, or Penelope's. And the
+slaughter that results, within the house and visible to the
+reader, suggests more emphatically that true openness, in
+the end, is not within any bounds, but beyond all bounds.
+(Perhaps put sentence here about how this is even the case
+more prosaically, with the way our eyes are transparent.)
+
+Yet if true openness *is* beyond all bounds, then what makes
+it definite enough to be something rather than nothing,
+much less the kind of something with an inside, *open* to
+the outside? Or again, what makes being open possible,
+if this is not a way of being closed---that is, a way of being
+definite---that gives being open enough boundary to
+be something rather than nothing, and the kind of something
+with an inside, open to the outside?
+
+(Begin here with eyes of Leontius and more
+generally.) 
+
+. that our own way of
+being open in awareness can be as lawless as the suitors,
+and is therefore as boundless, , in a similar suggestion
+that true openness is real. And the spectacle of slaughter
+Homer allows us to see, inside his house, is another bit
+of evidence that awareness is lawless, boundless. And this
+suggests that awareness works The boundary broken Loss of
+mastery comes not with loss of sight. <!--Be sure in world
+talk to bring back Leontius and Odysseus losing world. Also
+use world as totality to argue for boundary. Nothing outside
+a totality.-->
 
 - Case for opposite conclusion: awareness can contain
 this boundlessness, as if we were enclosed in openness
