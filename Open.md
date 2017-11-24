@@ -339,50 +339,35 @@ to the outside?
 In light of this question, we might return to our partial
 sense, and try to complete it in the same direction,
 supposing there must be something bounded even in the eyes
-of Leontius, taking their fill of the spectacle. And 
-evidence of the boundary is easy enough to find, especially
-if we press the comparison to unbroken jars. again, like
-unbroken jars, his eyes seem to be perfectly intact; like - Go back to eyes of Leontius.
-- Intact at bottom, along sides, but also at top.
-- Point out that they are intact, which already indicates
-  a boundary. 
-- Also, cannot be lidless in being eyes. (Can be poked,
-  injured, etc.)
-- This suggests that they fill from within rather than
-  without.
-- Also explains distinction between seeing the world and
-  suffering it.
-- Move on to "world" talk more generally.
-    - World as totality, nothing outside totality.
-    - Don't forget to use world talk for Odysseus and
-      Leontius if you can.
-    - Case for opposite conclusion: awareness can contain
-      this boundlessness, as if we were enclosed in openness
-      not merely as an infinite parabola, but as an infinite
-      circle.
-- Make comparison to infinite circle, to replace infinite
-  ellipse.
-- Point out that circle closes boundary, even while being
-  nowhere.
+of Leontius. And indeed, we compared them just now to
+unbroken jars, as the spectacle of corpses filled them to
+the brim. We could say his eyes are bounded, then, at least
+along their bottom and sides, so to speak. The question is
+about their top. For if it is here that eyes are filled, it
+is here that eyes are boundless, like a lidless jar. Yet
+open eyes are not like lidless jars. They can be poked,
+injured, even blinded---as if their staying open meant
+staying intact, even at the top. But if they stay intact,
+even at the top, then how do they get filled? ---Unless,
+that is, they somehow get filled from within rather than
+without. And there is another reason to think they must be
+filled from within, in yet another difference between 
 
-But *are* they open, even in a figurative
-sense? Eyes could not be open
-the way lidless jars are open, just letting the world in.
-For open eyes can be poked, injured, even blinded---as if
-their staying open meant staying intact. But if they stay
-intact, then how does the world get in? Again, it could not
-be how the world gets into open jars, so-called, to spoil
-what's inside. For the world gets into eyes, we might say,
-to fill what's inside. And the difference between spoiling
-and filling, in this case, is the difference between blindly
-suffering the world and truly seeing it. So let the world as
-seen fill our open eyes. But how can it fill them, if our
-eyes also stay intact, unless the world could fill them,
-somehow, without getting in? Which seems to mean filling
-them from within rather than without? Or even to mean not
-filling them at all, if the world were somehow already
-there, within our eyes at the moment they open, as a cause
-of sight rather than an effect?
+is plausible is in another difference between open
+eyes and open jars. For the way the world gets into an
+open jar, as we observed. does the
+world get in? Again, it could not be how the world gets into
+open jars, so-called, to spoil what's inside. For the world
+gets into eyes, we might say, to fill what's inside. And the
+difference between spoiling and filling, in this case, is
+the difference between blindly suffering the world and truly
+seeing it. So let the world as seen fill our open eyes. But
+how can it fill them, if our eyes also stay intact, unless
+the world could fill them, somehow, without getting in?
+Which seems to mean filling them from within rather than
+without? Or even to mean not filling them at all, if the
+world were somehow already there, within our eyes at the
+moment they open, as a cause of sight rather than an effect?
 
 On this suggestion, then, we would not see the world, but
 only suffer it, unless our eyes somehow contained the world
@@ -408,6 +393,28 @@ a horizon for everything else that might appear outside us.
 Or we could say that we contain the world inside us, to
 locate all of it outside us. And we would then be open to the
 world, on this account, from having enclosed it.
+
+
+- This suggests that they fill from within rather than
+  without.
+- Also explains distinction between seeing the world and
+  suffering it.
+- Move on to "world" talk more generally.
+    - World as totality, nothing outside totality.
+    - Don't forget to use world talk for Odysseus and
+      Leontius if you can.
+    - Case for opposite conclusion: awareness can contain
+      this boundlessness, as if we were enclosed in openness
+      not merely as an infinite parabola, but as an infinite
+      circle.
+- Make comparison to infinite circle, to replace infinite
+  ellipse.
+- Point out that circle closes boundary, even while being
+  nowhere.
+
+But *are* they open, even in a figurative
+sense? Eyes could not be open
+the way lidless jars are open, just letting the world in.
 And if we can thus explain our own way of being open as
 a way of being closed, perhaps we can likewise explain
 every other way. Consider how we might then explain the
