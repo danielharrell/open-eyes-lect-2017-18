@@ -302,74 +302,68 @@ say to the brim---of the spectacle? As jars, his eyes seem
 perfectly intact; and as full, perfectly whole. And we
 could say this perfection of outer sight is matched, even
 surpassed, by inner sight. For Leontius is able to damn his
-eyes, despite his loss of command over them. Let this loss
-still suggest a liberation of his eyes from any bounds.
-Nonetheless, the result is not blindness, but sight; and
-not unconsciousness of the fact, but recognition of it.
-The result, in other words, suggests that true openness is
-boundless. ---As boundless, at least, as mere openness.
-And the case of Odysseus points to this more dramatically. For
-while the suitors may get through Odysseus's door, they will
-not survive his awareness of it, or Penelope's. And the
-slaughter that results, within the house and visible to the
-reader, suggests more emphatically that true openness, in
-the end, is not within any bounds, but beyond all bounds.
-(Perhaps put sentence here about how this is even the case
-more prosaically, with the way our eyes are transparent.)
+eyes, despite his loss of command over them. <!--Perhaps
+put quote here--> Let this loss still suggest a liberation
+of his eyes from any bounds. Nonetheless, the result is
+not blindness, but sight; and not unconsciousness of the
+fact, but recognition of it. The result, in other words,
+suggests that true openness is boundless. ---As boundless,
+at least, as mere openness. 
 
-Yet if true openness *is* beyond all bounds, then what makes
-it definite enough to be something rather than nothing,
-much less the kind of something with an inside, *open* to
-the outside? Or again, what makes being open possible,
-if this is not a way of being closed---that is, a way of being
-definite---that gives being open enough boundary to
-be something rather than nothing, and the kind of something
-with an inside, open to the outside?
+And the case of Odysseus gives more dramatic indication of
+this. For while the suitors may get through Odysseus's door,
+they will not survive his awareness of it, or Penelope's.
+And the slaughter that results, within the house and visible
+even to us, thanks to Homer, suggests more emphatically that
+even true openness, in the end, is not within any bounds,
+but beyond all bounds. This boundlessness is even implied in
+our everyday speech: for again, we can say our eyes are open
+merely to mean we are awake. And this captures how we seem
+to see *through* our eyes to a whole world outside us---as
+if our eyes were transparent rather than opaque, provided
+a medium for sight rather than a boundary, and *carried* us
+to what we see rather than containing it. 
 
-(Begin here with eyes of Leontius and more
-generally.) 
+Yet if we now press the account in this opposite direction,
+against all bounds, we risk replacing our partial sense with
+nonsense. For suppose true openness *were* boundless. What
+then makes it definite enough to be something rather than
+nothing? ---Much less the kind of something with an inside,
+*open* to the outside? Or again, what makes being open
+possible, if this is not a way of being closed---that is,
+a way of being definite---that can give being open enough
+definition in turn, enough boundary, to be something rather
+than nothing, and the kind of something with an inside, open
+to the outside?
 
-. that our own way of
-being open in awareness can be as lawless as the suitors,
-and is therefore as boundless, , in a similar suggestion
-that true openness is real. And the spectacle of slaughter
-Homer allows us to see, inside his house, is another bit
-of evidence that awareness is lawless, boundless. And this
-suggests that awareness works The boundary broken Loss of
-mastery comes not with loss of sight. <!--Be sure in world
-talk to bring back Leontius and Odysseus losing world. Also
-use world as totality to argue for boundary. Nothing outside
-a totality.-->
-
-- Case for opposite conclusion: awareness can contain
-this boundlessness, as if we were enclosed in openness
-not merely as an infinite parabola, but as an infinite
-circle.
-
-- Then move on to world vocabulary.
-
-- Need to re-write this next part, with greater connection
-to previous part. 
-
-- Basic point: while the way open eyes need to be intact
-suggests a boundary, involving a letting in, there is
-another distinction, between spoiling and filling.
-
-- Way the account is radicalized: the world is not even
-"let into" our eyes, but is already there.
-
-We can press this account, and the skepticism it invites, if
-we focus on our own way of being open in awareness. Consider
-again the way that we seem to see
-through our eyes, as if they were open, to a whole world
-outside us. We say "*as if* they were open'' to acknowledge
-the sense in which they are *not* open, at least in the
-way a lidless jar is open. For open eyes can be poked, injured, even blinded---as if
-their staying open meant staying intact. (But this goes deeper.)
-
-- We call this figurative because eyes can be poked.
-- But this suggests they stay intact, a boundary like the
-one described above. Press on this.
+In light of this question, we might return to our partial
+sense, and try to complete it in the same direction,
+supposing there must be something bounded even in the eyes
+of Leontius, taking their fill of the spectacle. And 
+evidence of the boundary is easy enough to find, especially
+if we press the comparison to unbroken jars. again, like
+unbroken jars, his eyes seem to be perfectly intact; like - Go back to eyes of Leontius.
+- Intact at bottom, along sides, but also at top.
+- Point out that they are intact, which already indicates
+  a boundary. 
+- Also, cannot be lidless in being eyes. (Can be poked,
+  injured, etc.)
+- This suggests that they fill from within rather than
+  without.
+- Also explains distinction between seeing the world and
+  suffering it.
+- Move on to "world" talk more generally.
+    - World as totality, nothing outside totality.
+    - Don't forget to use world talk for Odysseus and
+      Leontius if you can.
+    - Case for opposite conclusion: awareness can contain
+      this boundlessness, as if we were enclosed in openness
+      not merely as an infinite parabola, but as an infinite
+      circle.
+- Make comparison to infinite circle, to replace infinite
+  ellipse.
+- Point out that circle closes boundary, even while being
+  nowhere.
 
 But *are* they open, even in a figurative
 sense? Eyes could not be open
