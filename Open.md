@@ -150,7 +150,7 @@ show the ambivalence of philosophy.-->
 
 The word "open", I suspect, is just such a name. Behind it,
 or beneath it, lies a problem, a paradox, to make us wonder
-how being open is even possible. <!--Later, in transition,
+how being open is possible. <!--Later, in transition,
 point out that we started perhaps in the attempt to explain
 how openness is possible, only to argue that it isn't
 possible, or that its an appearance rather than a reality.
@@ -310,15 +310,15 @@ fact, but recognition of it. The result, in other words,
 suggests that true openness is boundless. ---As boundless,
 at least, as mere openness. 
 
-And the case of Odysseus gives more dramatic indication of
-this. For while the suitors may get through Odysseus's door,
+And the case of Odysseus is more dramatic in this vein. 
+For while the suitors may get through Odysseus's door,
 they will not survive his awareness of it, or Penelope's.
 And the slaughter that results, within the house and visible
 even to us, thanks to Homer, suggests more emphatically that
 even true openness, in the end, is not within any bounds,
 but beyond all bounds. This boundlessness is even implied in
-our everyday speech: for again, we can say our eyes are open
-merely to mean we are awake. And this captures how we seem
+our everyday speech: for again, we say our eyes are open
+to mean we are awake. And this captures how we seem
 to see *through* our eyes to a whole world outside us---as
 if our eyes were transparent rather than opaque, provided
 a medium for sight rather than a boundary, and *carried* us
@@ -332,43 +332,58 @@ nothing? ---Much less the kind of something with an inside,
 *open* to the outside? Or again, what makes being open
 possible, if this is not a way of being closed---that is,
 a way of being definite---that can give being open enough
-definition in turn, enough boundary, to be something rather
+definition in turn, to be something rather
 than nothing, and the kind of something with an inside, open
 to the outside?
 
-In light of this question, we might return to our partial
-sense, and try to complete it in the same direction, by
-thinking there must be something bounded, even in the
-eyes of Leontius. And indeed, we compared them before to
-unbroken jars, as the spectacle of corpses filled them to
-the brim. We could say his eyes are bounded, then, at least
-along their bottom and sides, so to speak. The question is
-about their top. For if it is here that eyes are filled, it
-is here that eyes are boundless, like a lidless jar. Yet
-open eyes are not like lidless jars. They can be poked,
-injured, even blinded---as if their staying open meant
-staying intact, even at the top. But if they stay intact,
-then how are they filled? How does anything outside, like
-corpses, get inside? <!--Perhaps flag this next sentence
-more, as pursuing the account in the same direction.--> It
-is here that we can press our earlier account: for perhaps
-the answer to these questions is that nothing outside gets
-inside, if eyes are filled not from without, but rather from
-within. And they would therefore enclose what they see.
-<!--Perhaps put infinite circle suggestion here--> 
+To answer this question, we might return to our partial
+sense, where true openness was bounded, and try to complete
+it in the same direction, where mere openness
+proves just as bounded. There must be something, then, that
+confines even the eyes of Leontius. And indeed, we compared
+them before to unbroken jars, as the spectacle of corpses
+filled them to the brim. We could say his eyes are bounded,
+then, at least along their bottom and sides, so to speak.
+But what about their top? For if it is here that
+eyes are filled, then it is here that eyes are boundless, like a
+lidless jar. Yet open eyes are not like lidless jars. They
+can be poked, injured, even blinded---as if their staying
+open meant staying intact, even at the top. But if they
+stay intact, then how are they filled? How does anything
+outside, like a corpse, get inside? It is here that our
+earlier account might still provide an answer: for perhaps nothing
+outside gets inside, if eyes are filled not from without,
+but from within. And they would therefore enclose what they
+see, whatever it might be. <!--Perhaps put infinite circle
+suggestion here-->
 
 This answer is made more plausible by another difference
-between open eyes and open jars. For as we earlier observed,
+between open eyes and open jars. For as we noted before,
 if jars are left open, their contents are left exposed,
 and risk being ruined. The outside, we might say, can only
-get inside the jar to fill it, by invading it, and finally
-conquering it. If eyes were open this way, then the outside
-would be something we suffer rather than see. But instead
-we see. And this suggests that eyes are open to the outside
-only insofar as they can contain the outside, in an act of
-comprehension. That is, they are open only insofar as they
-can fill---even to the brim---from within.
+get inside a jar to fill it, by invading it, and finally
+conquering it. If eyes were open this way, then the
+outside would be something we suffer rather than see. But
+instead we see. And this suggests that eyes are open to the
+outside only insofar as it is something they can
+contain rather than surrender to, in an act of comprehension
+rather than submission. Or again, eyes are open only insofar
+as they can fill---perhaps always to the brim---from within.
 
+To press this suggestion, we can revisit another inference
+from before, that even in their everyday use, our open eyes are
+boundless, as we seem to see *through* them to a whole world
+outside us. But what do we mean---what could we mean---by
+"whole world" in this context? What we seem to mean is a
+totality, even though we strictly see only so far, for
+so long, as if what we saw were always merely an extent, or at
+best, an expanse. So in what sense do we ever see a totality?
+How else, save again by an act of comprehension that 
+contains what we see? 
+
+(Revise from here.) , This question, too, suggests that our every act of
+perception is an act of comprehension, Or at least see comprehensively enough to use the word
+"world" intelligibly for what we see rather than nonsensically? 
 
 The
 world is somehow already there, within our eyes at the
@@ -468,6 +483,10 @@ the entire world out.
 
 <!-- Note: later I could use "inside-out" to explore
 self-transcendence rather than self-containment".-->
+
+- Move back to Aristotle account to show how this account
+matches it, then to Bergson quote. But then show problem
+in relation to everyday life.
 
 ---
 
