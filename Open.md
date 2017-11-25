@@ -337,9 +337,9 @@ than nothing, and the kind of something with an inside, open
 to the outside?
 
 In light of this question, we might return to our partial
-sense, and try to complete it in the same direction,
-supposing there must be something bounded even in the eyes
-of Leontius. And indeed, we compared them just now to
+sense, and try to complete it in the same direction, by
+thinking there must be something bounded, even in the
+eyes of Leontius. And indeed, we compared them before to
 unbroken jars, as the spectacle of corpses filled them to
 the brim. We could say his eyes are bounded, then, at least
 along their bottom and sides, so to speak. The question is
@@ -348,25 +348,30 @@ is here that eyes are boundless, like a lidless jar. Yet
 open eyes are not like lidless jars. They can be poked,
 injured, even blinded---as if their staying open meant
 staying intact, even at the top. But if they stay intact,
-even at the top, then how do they get filled? ---Unless,
-that is, they somehow get filled from within rather than
-without. And there is another reason to think they must be
-filled from within, in yet another difference between 
+then how are they filled? How does anything outside, like
+corpses, get inside? <!--Perhaps flag this next sentence
+more, as pursuing the account in the same direction.--> It
+is here that we can press our earlier account: for perhaps
+the answer to these questions is that nothing outside gets
+inside, if eyes are filled not from without, but rather from
+within. And they would therefore enclose what they see.
+<!--Perhaps put infinite circle suggestion here--> 
 
-is plausible is in another difference between open
-eyes and open jars. For the way the world gets into an
-open jar, as we observed. does the
-world get in? Again, it could not be how the world gets into
-open jars, so-called, to spoil what's inside. For the world
-gets into eyes, we might say, to fill what's inside. And the
-difference between spoiling and filling, in this case, is
-the difference between blindly suffering the world and truly
-seeing it. So let the world as seen fill our open eyes. But
-how can it fill them, if our eyes also stay intact, unless
-the world could fill them, somehow, without getting in?
-Which seems to mean filling them from within rather than
-without? Or even to mean not filling them at all, if the
-world were somehow already there, within our eyes at the
+This answer is made more plausible by another difference
+between open eyes and open jars. For as we earlier observed,
+if jars are left open, their contents are left exposed,
+and risk being ruined. The outside, we might say, can only
+get inside the jar to fill it, by invading it, and finally
+conquering it. If eyes were open this way, then the outside
+would be something we suffer rather than see. But instead
+we see. And this suggests that eyes are open to the outside
+only insofar as they can contain the outside, in an act of
+comprehension. That is, they are open only insofar as they
+can fill---even to the brim---from within.
+
+
+The
+world is somehow already there, within our eyes at the
 moment they open, as a cause of sight rather than an effect?
 
 On this suggestion, then, we would not see the world, but
