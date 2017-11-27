@@ -316,9 +316,9 @@ dramatically. For while the suitors may get through his
 door, they will not survive his awareness of it, or
 Penelope's. And the slaughter that results, within the
 house and visible even to us, thanks to Homer, suggests all
-the more that true openness, in the end, is not within any
+the more that true openness is not within any
 bounds, but beyond all bounds. This boundlessness is even
-implied in everyday speech: for again, when we say our eyes
+implied in everyday speech. For again, when we say our eyes
 are open to mean we are awake, this captures how we seem
 to see *through* our eyes to a whole world outside us. We
 call our eyes *open*, that is, as if they were transparent
@@ -326,7 +326,7 @@ rather than opaque, provided a medium for sight rather than
 a boundary, and *carried* us to what we see rather than
 containing it.
 
-Yet if we now press the account in this opposite direction,
+(Revise from here.) Yet if we now press the account in this opposite direction,
 against all bounds, we risk replacing our partial sense with
 nonsense. For suppose true openness *were* boundless. What
 then makes it definite enough to be something rather than
