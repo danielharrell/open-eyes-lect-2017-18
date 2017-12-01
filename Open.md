@@ -293,22 +293,39 @@ mastery over them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
-On this account, then, only mere openness could be
-boundless; true openness is bounded---or closed. But we can
-also press the account, to conclude that even mere openness
-is bounded. Let us grant, for example, that the eyes of
-Leontius are not truly open, but merely open, in having lost
-their master to the spectacle of corpses. Still, this means
-his eyes are now left to take their fill---one might say
-to the brim---of the sight. They are less like broken jars
-than like perfect jars, jars that stay intact, no matter
-what they contain or how full they get. And this perfection of
-outer sight seems matched, even surpassed, by inner sight.
-For Leontius is able to damn his eyes, despite his loss of
-command over them. <!--Perhaps put quote here--> Let this
-loss still imply a liberation of his eyes from any bounds.
-Nonetheless, the result is not blindness, but sight; and
-not unconsciousness of the fact, but recognition of it.
+(Original paragraph.) But even if this account made partial
+sense of true openness, there is reason to doubt it could
+make any more, or be but misleading if further pressed. For
+one thing, if the masterless eyes of Leontius are at all
+comparable to broken jars, then how can they take their
+fill---one might say to the brim---of the spectacle? As
+jars, his eyes seem perfectly intact; and as full, perfectly
+whole. And we could say this perfection of outer sight is
+matched, even surpassed, by inner sight. For Leontius is
+able to damn his eyes, despite his loss of command over
+them. Let this loss still suggest a liberation of his eyes
+from any bounds. Nonetheless, the result is not blindness,
+but sight; and not unconsciousness of the fact, but
+recognition of it. The result, in other words, suggests that
+true openness is boundless. ---As boundless, at least, as
+mere openness.
+
+(Revised paragraph.) On this account, then, only mere
+openness can be boundless; true openness is always bounded,
+or closed. But how, in that case, can the account make sense
+of our deepest state of being: the open eyes of awareness?
+For even if the eyes of Leontius are comparable to broken
+jars, in being masterless, and therefore boundless, they
+still take their fill---one might say to the brim---of the
+spectacle. As vehicles of sight, his eyes are more like
+unbroken jars, and even perfect jars: jars that stay intact,
+no matter what they contain, or how full they get. And this
+perfection of outer sight seems matched, even surpassed, by
+inner sight. For Leontius is able to damn his eyes, despite
+his loss of command over them. <!--Perhaps put quote here-->
+Let this loss still imply a liberation of his eyes from any
+bounds. Nonetheless, the result is not blindness, but sight;
+and not unconsciousness of the fact, but recognition of it.
 The result, in other words, suggests that true openness is
 boundless. ---As boundless, at least, as mere openness.
 
