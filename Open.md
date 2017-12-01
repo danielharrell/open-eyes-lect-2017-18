@@ -283,43 +283,34 @@ not only excludes what we keep out, but contains what we let
 in. This boundary would also be what breaks in cases of
 corruption, laying us open, like a broken jar, to whatever
 lies outside. Once Odysseus is no longer master of his door,
-on this account, the door no longer opens from the inside,
-to contain the outside in an act of recognition. It now only
+we could say that it no longer opens from the inside, to
+contain the outside in an act of recognition. The door now only
 opens from the outside, and exposes the inside to an act of
 transgression. Hence the suitors, and how they indeed *get
 into* the house of Odysseus. Or the corpses, and how they,
 too, *get into* the eyes of Leontius, once he loses his
-mastery of them, and can no longer open them from within.
+mastery over them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
-On this account, then, only mere openness is boundless; true
-openness is bounded, or closed. Yet perhaps even 
-mere openness is bounded, 
-
-- Put this next bit later, as a transition from mere
-openness. 
-if we now return to our deepest way
-of being: the open eyes of awareness. 
-
-For consider how the eyes of Leontius, while they lose
-a boundary in one sense, by losing their master, seem
-to gain a boundary in another sense, by now being comparable
-to intact jars. even if the
-eyes of Leontius are comparable to broken jars, in being
-masterless, they still take their fill---one might say to
-the brim---of the spectacle. As vehicles of sight, his eyes
-seem not merely like unbroken jars, but jars that stay
-unbroken, no matter what they contain or how full they get.
-And this perfection of outer sight seems matched, even
-surpassed, by inner sight. For Leontius is able to damn his
-eyes, despite his loss of command over them. <!--Perhaps put
-quote here--> Let this loss still imply a liberation of his
-eyes from any bounds. Nonetheless, the result is not
-blindness, but sight; and not unconsciousness of the fact,
-but recognition of it. The result, in other words, suggests
-that true openness is boundless. ---As boundless, at least,
-as mere openness.
+On this account, then, only mere openness could be
+boundless; true openness is bounded---or closed. But we can
+also press the account, to conclude that even mere openness
+is bounded. Let us grant, for example, that the eyes of
+Leontius are not truly open, but merely open, in having lost
+their master to the spectacle of corpses. Still, this means
+his eyes are now left to take their fill---one might say
+to the brim---of the sight. They are less like broken jars
+than like perfect jars, jars that stay intact, no matter
+what they contain or how full they get. And this perfection of
+outer sight seems matched, even surpassed, by inner sight.
+For Leontius is able to damn his eyes, despite his loss of
+command over them. <!--Perhaps put quote here--> Let this
+loss still imply a liberation of his eyes from any bounds.
+Nonetheless, the result is not blindness, but sight; and
+not unconsciousness of the fact, but recognition of it.
+The result, in other words, suggests that true openness is
+boundless. ---As boundless, at least, as mere openness.
 
 The case of Odysseus suggests the same more
 dramatically. For while the suitors may get through his
