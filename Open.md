@@ -58,25 +58,25 @@ constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
 when we talk of eyes being opened? Or hearts? Or minds?
 Or again the proverbial door, always open to a friend?
-Here, it seems, we use the word for a positive
+Here, it seems, we use the word "open" for a positive
 condition, a state of being, which any negative definition
-half-comprehends at best. To ask about the meaning of
+at best half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
 generosity, enlightenment, love.
 
 Nor are these the only such states of being. Think of how we
-say our eyes are open, to mean we are awake. But why say
+say our eyes are open, merely to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? To use the word for our eyes may be
-figurative, but it captures how we seem to see *through* our
+figurative; but it captures how we seem to see *through* our
 eyes, to a whole world outside us---as if our eyes *were*
 open, even transparent. <!-- This reaching out should be
 used in a transition paragraph later.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
 wakefulness, watchfulness, awareness. And awareness,
 perhaps, is not just one way of being, but *our* way of
-being: the one underneath all the others; the one that may
-explain *why* we use the word with such scope, and as if it
+being: the one underneath all the others; the one that 
+explains *why* we use the word with such scope, and as if it
 were already understood.
 
 Awareness might also explain our reliance on
@@ -91,12 +91,12 @@ For beneath our awareness of anything else is an
 awareness we have of ourselves. <!-- Later connect this
 point, perhaps, to Adam and Eve and nakedness: the price of
 knowledge is the shame of nakedness.--> And this gives the
-word "open" a deeper sense of scope, positive scope, as it
+word "open" a deeper sense of positive scope, as it
 encompasses self and other at once, and captures something
 that our times of solitude and solicitude have in common.
 
 In this vein, too, the word "open" might have a home in any
-community that conceives itself as a community of learning;
+community that conceives itself as a community of learning,
 and believes, without the blush of contradiction, that
 learning best happens among others, yet only happens in
 oneself. And if no one else can do your learning for you,
@@ -117,7 +117,7 @@ on the cover of the St. John's viewbook?-->
 
 # Part One {#one}
 
-The word thus gives us much to wonder about. But
+In all these ways, the word thus gives us much to wonder about. But
 there is another sense, I want to suggest, in which the
 word gives us just one thing to wonder about. And this is
 by analogy, borrowing from Aristotle again, to the one
@@ -162,7 +162,7 @@ since we have the word "open" to prove its possibility.
 
 ## The Jar {#jar}
 
-For example, if I say "I can't get the jar open", I will
+If I say "I can't get the jar open", for example, I will
 look for a better grip on the lid, not the word. But even
 here, I can wonder about the word. For why get a better
 grip on the lid to open the jar? Suppose I decide not to
@@ -283,7 +283,7 @@ not only excludes what we keep out, but contains what we let
 in. This boundary would also be what breaks in cases of
 corruption, laying us open, like a broken jar, to whatever
 lies outside. Once Odysseus is no longer master of his door,
-we could say that it no longer opens from the inside, to
+we could say it no longer opens from the inside, to
 contain the outside in an act of recognition. The door now only
 opens from the outside, and exposes the inside to an act of
 transgression. Hence the suitors, and how they indeed *get
@@ -293,42 +293,37 @@ mastery over them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
-(Original paragraph.) But even if this account made partial
-sense of true openness, there is reason to doubt it could
-make any more, or be but misleading if further pressed. For
-one thing, if the masterless eyes of Leontius are at all
-comparable to broken jars, then how can they take their
-fill---one might say to the brim---of the spectacle? As
-jars, his eyes seem perfectly intact; and as full, perfectly
-whole. And we could say this perfection of outer sight is
-matched, even surpassed, by inner sight. For Leontius is
-able to damn his eyes, despite his loss of command over
-them. Let this loss still suggest a liberation of his eyes
-from any bounds. Nonetheless, the result is not blindness,
-but sight; and not unconsciousness of the fact, but
-recognition of it. The result, in other words, suggests that
-true openness is boundless. ---As boundless, at least, as
-mere openness.
+On this account, then, only mere openness can be boundless,
+as a corruption of true openness, which by contrast is
+always bounded, or closed. But we also can press this
+account, in light of our deepest state of being, on my
+earlier suggestion: the open eyes of awareness. And from
+that standpoint, it can again start to seem as if even mere
+openness must be bounded, to look boundless. For consider
+the eyes of Leontius more closely. On the one hand, his
+loss of mastery over them exposes him, like a broken jar,
+to whatever lies outside. Yet on the other hand, this same
+loss of mastery allows his eyes, like an unbroken jar,
+to take their fill---one might say to the brim---of the
+spectacle. His masterless eyes might even be compared to
+a perfect jar: a jar that stays intact, no matter what
+it contains, or how full it gets. And this perfection of
+outer sight seems matched, even surpassed, by inner sight.
+For Leontius is able to damn his eyes, despite his loss of
+command over them. <!--Perhaps put quote here--> In this
+loss his eyes may be liberated from him, and in that sense
+have become unbounded; but the result is not blindness, but sight; and
+not unconsciousness of the fact, but recognition of it. Nor
+could the result be any less, it seems, if the openness of
+eyes is to have any meaning at all, even a corrupted
+one. They cannot be filled unless one can see what
+fills them. But this suggests that
+mere openness can only be as boundless as true openness lets
+it be, even in the context of liberation; lest it escape the
+bounds of awareness that make it an example---even if a bad
+example---of openness.
 
-(Revised paragraph.) On this account, then, only mere
-openness can be boundless; true openness is always bounded,
-or closed. But how, in that case, can the account make sense
-of our deepest state of being: the open eyes of awareness?
-For even if the eyes of Leontius are comparable to broken
-jars, in being masterless, and therefore boundless, they
-still take their fill---one might say to the brim---of the
-spectacle. As vehicles of sight, his eyes are more like
-unbroken jars, and even perfect jars: jars that stay intact,
-no matter what they contain, or how full they get. And this
-perfection of outer sight seems matched, even surpassed, by
-inner sight. For Leontius is able to damn his eyes, despite
-his loss of command over them. <!--Perhaps put quote here-->
-Let this loss still imply a liberation of his eyes from any
-bounds. Nonetheless, the result is not blindness, but sight;
-and not unconsciousness of the fact, but recognition of it.
-The result, in other words, suggests that true openness is
-boundless. ---As boundless, at least, as mere openness.
-
+Locked door in case of Odysseus.
 The case of Odysseus suggests the same more
 dramatically. For while the suitors may get through his
 door, they will not survive his awareness of it, or
