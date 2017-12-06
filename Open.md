@@ -292,31 +292,32 @@ mastery of them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
-On this account, then, only mere openness can be boundless;
-true openness is always bounded, or closed. And we can
-deepen this account, to argue that even mere openness must
+On this account, then, only mere openness can be boundless.
+True openness is always bounded, or closed. And we can
+deepen the account, to argue that even mere openness must
 be bounded, to gain any semblance of boundlessness. For now
 consider our deepest state of being, on my earlier
 suggestion: the open eyes of awareness. For example: the
-open eyes of Leontius. On the one hand, his loss of them
-again exposes him, like a broken jar, to whatever lies
+open eyes of Leontius. On the one hand, his loss of command
+over them exposes him, like a broken jar, to whatever lies
 outside. Yet on the other hand, this same loss allows his
 eyes, like an unbroken jar, to take their fill---one might
-say to the brim---of the spectacle. His masterless eyes
+say to the brim---of the spectacle. His liberated eyes
 might even be compared to a perfect jar: one that stays
 intact, no matter what it contains, or how full it gets. 
 
 And this perfection of outer sight seems matched, even
 surpassed, by inner sight. For Leontius is able to damn his
-eyes, despite his loss of command over them. <!--Perhaps put
-quote here--> In this loss his eyes may be freed of him, and
-in that sense have become unbounded; but the result is not
-blindness, but sight; and not unconsciousness of the fact,
-but recognition of it. Nor could the result be any less, it
-seems, if the openness of eyes is to have any meaning, even
-a corrupted one. To stare is still to see. And this implies
-that mere openness can only be as boundless as true openness
-lets it be, lest it escape not merely the bounds of better
+eyes, despite his loss of command over them. "There, ye
+wretches, take your fill of the fine spectacle!"<!--Perhaps
+change quote here to one that uses word "damn"--> His eyes
+may be freed of him, and in that sense have become
+unbounded; yet the result is not blindness, but sight; and
+not unconsciousness of the fact, but recognition of it. To
+stare is still to see, and in this case to see with an acute
+sense of the boundary breached in seeing. This suggests that
+mere openness can only be as boundless as true openness lets
+it be, lest it escape not merely the bounds of better
 judgment, but even the bounds of sheer awareness, and become
 an example of nothingness rather than openness.
 
@@ -330,10 +331,9 @@ boundless as true openness lets it be, in proof that the
 truth of openness lies in boundedness, even when the look of
 openness is boundless. 
 
-even
-when liberated from hospitality. all
-the more that true openness is not within any
-bounds, but beyond all bounds. This boundlessness is even
+We can also see this if we return to our more everyday expressions of awareness. (Revise from here.)
+
+This boundlessness is even
 implied in everyday speech. For again, when we say our eyes
 are open to mean we are awake, this captures how we seem
 to see *through* our eyes to a whole world outside us. We
