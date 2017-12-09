@@ -25,6 +25,7 @@ to the profound:
     - "When does the store open?"
     - "The window is open."
     - "He's an open book." 
+    - "She greeted them with open arms."
     - "My door is always open."
     - "Keep an open mind."
     - "Open your heart."
@@ -117,30 +118,30 @@ on the cover of the St. John's viewbook?-->
 
 # Part One {#one}
 
-In all these ways, the word thus gives us much to wonder about. But
-there is another sense, I want to suggest, in which the
-word gives us just one thing to wonder about. And this is
-by analogy, borrowing from Aristotle again, to the one
-thing we can wonder about when we encounter, as if for
+In all these ways, the word thus gives us much to wonder
+about. But there is another sense, I want to suggest, in
+which the word gives us just one thing to wonder about. And
+this is by analogy, borrowing from Aristotle again, to the
+one thing we can wonder about when we encounter, as if for
 the first time, wooden figures come to life; or the sun
-reverse course one day in the sky; or the diagonal of a
-square escape measure by any part of its side, no matter how
-small.[^AristotleWonder.] The wonder, in each case, is how
-such a thing is possible. <!--Later point out that this
-isn't really possible, on a certain philosophical 
-explanation--> Once we learn how, we can give
-what we encounter a name, like "marionette", or "solstice",
-or "incommensurable." But names like this, once they become
-words we inherit rather than originate, can just as well
-discourage understanding as display it, and invoke what we
-don't yet know as if we do. <!--Later return to this: Aristotle
-says we end in opposite state from wonder, which suggests
-a kind of negation of world in which wonder began, or an
-understanding of world that leaves no place for wonder; just
-like Aristotle's account of nous. Another way to describe
-this: how the cause of wonder ends up being located in
-the realm of appearance, to be dispelled by an account of
-the reality. Then can move on to Phaedo.-->
+reverse course one day in the sky; or the diagonal of
+a square escape measure by any part of its side, no matter
+how small.[^AristotleWonder.] The wonder, in each case, is
+how such a thing is possible. <!--Later point out that this
+isn't really possible, on a certain philosophical
+explanation--> Once we learn how, we can give what we
+encounter a name, like "marionette", or "solstice", or
+"incommensurable." But names like this can be words we
+inherit rather than originate. And then they can discourage
+understanding just as much as display it, as we use the name
+for what we don't yet know as if we do. <!--Later return to
+this: Aristotle says we end in opposite state from wonder,
+which suggests a kind of negation of world in which wonder
+began, or an understanding of world that leaves no place for
+wonder; just like Aristotle's account of nous. Another way
+to describe this: how the cause of wonder ends up being
+located in the realm of appearance, to be dispelled by an
+account of the reality. Then can move on to Phaedo.-->
 
 <!--Another thought: In moving from an appearance of openness
 to its denial in reality, we are thinking philosophically,
@@ -222,8 +223,8 @@ sharply: once we make the line of the parabola infinite,
 to make the inside of the parabola definite, we will have
 *enclosed* the parabola in openness. And this enclosure will
 make the openness of the parabola at once intelligible yet
-impassable. The way it remains open will be something we can
-plainly see, even point to; yet never reach---as if openness
+impassable. The way it stays open on one side will be something we can
+plainly see, even point to, yet never reach---as if openness
 had no being but seeming. <!--Later shift this image to
 infinite circle whose center is everywhere and circumference
 nowhere, when talking about totality, or world.-->
@@ -275,7 +276,7 @@ in. But how can we distinguish letting in from getting in,
 save in light of a power to keep certain things *out*, like
 corpses and suitors? The power, that is, to be closed? And
 even if this were also the power to be open, the exercise of
-it would seem to involve a choice that encompasses what we
+it would seem to involve a choice, in each case, that encompasses what we
 are open to, and in that sense encloses it, just as the
 parabola was enclosed in openness. This enclosure in the
 human case might be thought a boundary of recognition, that
@@ -284,42 +285,44 @@ in. This boundary would also be what breaks in cases of
 corruption, laying us open, like a broken jar, to whatever
 lies outside. Once Odysseus is no longer master of his door,
 we could say it no longer opens from the inside, to
-contain the outside in an act of recognition. The door now only
+contain the outside in an act of recognition. His door now only
 opens from the outside, and exposes the inside to an act of
 transgression. Hence the suitors, and how they indeed get into the house of Odysseus. Or the corpses, and how *they*
 get into the eyes of Leontius, once he loses his
-mastery of them, and can no longer open them from within.
+command over them, and can no longer open them, so we 
+might say, from within.
 
 ## Awareness {#awareness}
 
 On this account, then, only mere openness can be boundless.
 True openness is always bounded, or closed. And we can
-deepen the account, to argue that even mere openness must
+deepen the account, to conclude that even mere openness must
 be bounded, to gain any semblance of boundlessness. For now
 consider our deepest state of being, on my earlier
-suggestion: the open eyes of awareness. For example: the
-open eyes of Leontius. On the one hand, his loss of command
-over them exposes him, like a broken jar, to whatever lies
-outside. Yet on the other hand, this same loss allows his
-eyes, like an unbroken jar, to take their fill---one might
-say to the brim---of the spectacle. His liberated eyes
-might even be compared to a perfect jar: one that stays
-intact, no matter what it contains, or how full it gets. 
+suggestion: the open eyes of awareness. This gives us
+a different way to think about the open eyes of Leontius.
+For while his loss of command over them exposes him, like
+a broken jar, to whatever lies outside, this same loss
+allows his eyes, like an unbroken jar, to take their
+fill---one might say to the brim---of the spectacle. His
+liberated eyes might even be compared to a perfect jar: one
+that stays intact, no matter what it contains, or how full
+it gets.
 
 And this perfection of outer sight seems matched, even
-surpassed, by inner sight. For Leontius is able to damn his
-eyes, despite his loss of command over them. "There, ye
-wretches, take your fill of the fine spectacle!"<!--Perhaps
-change quote here to one that uses word "damn"--> His eyes
-may be freed of him, and in that sense have become
-unbounded; yet the result is not blindness, but sight; and
-not unconsciousness of the fact, but recognition of it. To
-stare is still to see, and in this case to see with an acute
-sense of the boundary breached in seeing. This suggests that
-mere openness can only be as boundless as true openness lets
-it be, lest it escape not merely the bounds of better
-judgment, but even the bounds of sheer awareness, and become
-an example of nothingness rather than openness.
+surpassed, by inner sight. For Leontius is able to damn
+his eyes, despite his loss of command over them. "Look for
+yourselves," so he tells them, "you evil wretches, take your
+fill of the beautiful sight." His eyes remain his despite
+their liberation from him, as their becoming unbounded leads
+not to blindness, but sight; and not unconsciousness of the
+fact, but recognition of it. To stare is still to see, and
+in this case to see with an acute sense of the boundary
+breached in seeing. This suggests that mere openness can
+only be as boundless as true openness lets it be, lest it
+escape not merely the bounds of better judgment, but even
+the bounds of sheer awareness, and become an example of
+nothingness rather than openness.
 
 The case of Odysseus suggests the same more dramatically.
 For while the suitors may get through his door, they will
