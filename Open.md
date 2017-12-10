@@ -310,42 +310,44 @@ that stays intact, no matter what it contains, or how full
 it gets.
 
 And this perfection of outer sight seems matched, even
-surpassed, by inner sight. For Leontius is able to damn
-his eyes, despite his loss of command over them. "Look for
-yourselves," so he tells them, "you evil wretches, take your
-fill of the beautiful sight." His eyes remain his despite
-their liberation from him, as their becoming unbounded leads
-not to blindness, but sight; and not unconsciousness of the
-fact, but recognition of it. To stare is still to see, and
-in this case to see with an acute sense of the boundary
-breached in seeing. This suggests that mere openness can
-only be as boundless as true openness lets it be, lest it
-escape not merely the bounds of better judgment, but even
-the bounds of sheer awareness, and become an example of
-nothingness rather than openness.
+surpassed, by inner sight. For Leontius is able to damn his
+eyes, in the imperative mood, despite his loss of command
+over them. "Look for yourselves, you evil wretches, take
+your fill of the beautiful sight." His eyes remain his
+despite their liberation from him, as their becoming
+unbounded leads not to blindness, but sight; and not
+unconsciousness of the fact, but recognition of it. To stare
+is still to see, and in this case to see with an acute sense
+of the boundary breached in seeing. This suggests that mere
+openness can only be as boundless as true openness finally lets it
+be, lest it escape not merely the bounds of better judgment,
+but even the bounds of sheer awareness, and become an
+example of nothingness rather than openness.
 
 The case of Odysseus suggests the same more dramatically.
 For while the suitors may get through his door, they will
-not survive his awareness of it, or Penelope's. The door may
-only open from the outside; but it can still be locked from
+not survive his awareness of it, or Penelope's. Let the door 
+only open from the outside; it can still be locked from
 the inside, to help accomplish and contain the slaughter.
-Again, then, it seems as if mere openness is only as
+And again it seems as if mere openness is only as
 boundless as true openness lets it be, in proof that the
 truth of openness lies in boundedness, even when the look of
 openness is boundless. 
 
-We can also see this if we return to our more everyday expressions of awareness. (Revise from here.)
-
-This boundlessness is even
-implied in everyday speech. For again, when we say our eyes
-are open to mean we are awake, this captures how we seem
-to see *through* our eyes to a whole world outside us. We
+We can also see this if we return to our more everyday
+expressions of awareness. On the surface, they express
+something boundless about it. We say our eyes are open
+to mean we are awake, and this captures how we seem to
+see *through* our eyes to a whole world outside us. We
 call our eyes *open*, that is, as if they were transparent
 rather than opaque, provided a medium for sight rather than
 a boundary, and *carried* us to what we see rather than
 containing it.
 
-(Revise from here.) Yet if we now press the account in this opposite direction,
+Yet there is again something figurative in this, and perhaps
+even false. (Revise from here.)
+
+Yet if we now press the account in this opposite direction,
 against all bounds, we risk replacing our partial sense with
 nonsense. For suppose true openness *were* boundless. What
 then makes it definite enough to be something rather than
