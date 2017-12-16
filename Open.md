@@ -299,61 +299,60 @@ True openness is always bounded, or closed. But we can
 deepen the account, to conclude that even mere openness must
 be bounded, to gain any semblance of boundlessness. For now
 consider our deepest state of being, on my earlier
-suggestion: the open eyes of awareness. This gives us
-a different way to think about the open eyes of Leontius.
-For while his loss of mastery over them exposes him, like
-a broken jar, to whatever lies outside, this same loss
-allows his eyes, like an unbroken jar, to take their
-fill---one might say to the brim---of the spectacle. His
-liberated eyes might even be compared to a perfect jar: one
-that stays intact, no matter what it contains, or how full
-it gets.
+suggestion: the open eyes of awareness. This allows us to
+reconsider the open eyes of Leontius. For while his loss of
+mastery over them exposes him, like a broken jar, to
+whatever lies outside, this same loss allows his eyes, like
+an unbroken jar, to take their fill---one might say to the
+brim---of the spectacle. His liberated eyes might even be
+compared to a perfect jar: one that stays intact, no matter
+what it contains, or how full it gets.
 
 And this perfection of outer sight seems matched, even
 surpassed, by inner sight. For Leontius is able to damn his
-eyes, in the imperative mood, despite his loss of command.
-"Look for yourselves, you evil wretches, take your fill of
-the beautiful sight." His eyes remain his despite their
-liberation from him, as their becoming unbounded leads not
-to blindness, but to sight; and not unconsciousness of the
-fact, but recognition of it. To stare is still to see, and
-in this case to see with an acute sense of the boundary
-breached in seeing. This suggests that mere openness can
-only be as boundless as true openness finally lets it be,
-lest it escape not merely the bounds of better judgment, but
-even the bounds of sheer awareness, and become an example of
-nothingness rather than openness.
+eyes, and in the imperative mood, despite his loss of
+command. "Look for yourselves," he exclaims, "you evil
+wretches, take your fill of the beautiful sight." His eyes
+remain his, we could say, despite their liberation from him, as their
+becoming unbounded leads not to blindness, but sight, and 
+recognition of this rather than unconsciousness of it. To
+stare is still to see, and in this case to see with an acute
+sense of the boundary breached in seeing. This suggests that
+mere openness can only be as boundless as true openness
+finally lets it be, lest it escape not merely the bounds of
+better judgment, but even the bounds of sheer awareness, and
+become an example of nothingness rather than openness.
 
-The case of Odysseus suggests the same more dramatically.
-For while the suitors may get through his door, they will
-not survive his awareness of it, or Penelope's. Let his door 
-now only open from the outside; it can still be locked from
-the inside, to help accomplish and contain the slaughter.
-And again it seems as if mere openness is only as
-boundless as true openness finally lets it be, in proof that the
+The same conclusion might be drawn from the more dramatic
+example of Odysseus. For while the suitors may get through
+his door, they will not survive his awareness of it, or
+Penelope's. Even if his door only opens from the outside,
+it can still be locked from the inside, to help accomplish
+and contain the slaughter. Mere openness again seems only
+as boundless as true openness lets it be, in proof that the
 truth of openness lies in boundedness, even when the look of
-openness is boundless. 
+openness is boundless.
 
-We can also infer this from our more everyday expressions of
+We might infer the same from our everyday expressions of
 awareness. For recall how we say our eyes are open, merely
-to mean we are awake. This again captures how we seem to see
-*through* our eyes to a whole world outside us---as if they
-were transparent rather than opaque, provided a medium for
-sight rather than a boundary, and *carried* us to what we
-see rather than containing it. We call our eyes open, in
-short, as if they were boundless. But this is also again
-figurative, and perhaps even false. Our eyes cannot be open
-just like our eyelids, or even like lidless jars, the eyes
-of Leontius notwithstanding. For open eyes are not like
-lidless jars. They can be poked, injured, even blinded---as
-if their staying open meant staying intact, even at the top.
-But if they stay intact, then how are they filled? How does
-anything outside, like a corpse, get inside? It is here that
-our earlier account might still provide an answer: for
-perhaps nothing outside gets inside, if eyes are filled not
-from without, but from within. And they would therefore
-enclose what they see, whatever it might be. <!--Perhaps put
-infinite circle suggestion here-->
+to mean we are awake. This again captures how we seem to
+see *through* our eyes to a whole world outside us---as
+if they were transparent rather than opaque, provided a
+medium for sight rather than a boundary, and *carried* us
+to what we see rather than containing it. We call our eyes
+open, in short, as if they were boundless. But this is also
+again figurative, and perhaps even false. Our eyes cannot
+be open just like our eyelids, or even like lidless jars,
+the eyes of Leontius notwithstanding. For open eyes can be
+poked, injured, even blinded---as if their staying open
+meant staying intact, even at the top. But if they stay
+intact, then how are they filled? How does anything outside,
+like a corpse, get inside? It is here that our earlier
+account might still provide an answer: for perhaps nothing
+outside gets inside, if eyes are filled not from without,
+but from within. And they would therefore enclose what they
+see, whatever it might be. <!--Perhaps put infinite circle
+suggestion here-->
 
 This answer is made more plausible by another difference
 between open eyes and open jars. For as we noted before,
