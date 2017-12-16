@@ -334,53 +334,60 @@ truth of openness lies in boundedness, even when the look of
 openness is boundless.
 
 We might infer the same from our everyday expressions of
-awareness. For recall how we say our eyes are open, merely
-to mean we are awake. This again captures how we seem to
-see *through* our eyes to a whole world outside us---as
-if they were transparent rather than opaque, provided a
-medium for sight rather than a boundary, and *carried* us
-to what we see rather than containing it. We call our eyes
-open, in short, as if they were boundless. But this is also
-again figurative, and perhaps even false. Our eyes cannot
-be open just like our eyelids, or even like lidless jars,
-the eyes of Leontius notwithstanding. For open eyes can be
-poked, injured, even blinded---as if their staying open
-meant staying intact, even at the top. But if they stay
-intact, then how are they filled? How does anything outside,
-like a corpse, get inside? It is here that our earlier
-account might still provide an answer: for perhaps nothing
-outside gets inside, if eyes are filled not from without,
-but from within. And they would therefore enclose what they
-see, whatever it might be. <!--Perhaps put infinite circle
-suggestion here-->
+awareness. For recall how we say our eyes are open, to
+mean we are awake. This again captures how we seem to see
+*through* our eyes to a whole world outside us---as if our
+eyes were transparent rather than opaque, provided a medium
+for sight rather than a boundary, and *carried* us to what
+we see rather than containing it. We call our eyes open, in
+short, as if they were boundless. But this is also again to
+speak figuratively. And the distance between the figurative
+and the literal in this case might well be the distance
+between the boundless and the bounded. Our eyes cannot be
+open, after all, just like our eyelids, or even like lidless
+jars---the eyes of Leontius notwithstanding. For open eyes
+can be poked, injured, even blinded---as if their staying
+open meant staying intact, even at the top, so to speak.
+Yet if they *are* intact even at the top, then how are they
+filled? How does anything outside---much less the whole
+world---get inside? Or perhaps nothing outside gets inside:
+if eyes are filled not from without, but from within, as the
+only way they could be filled while staying intact. Our
+open eyes 
+would then enclose what they see, whatever it might be. And
+we would again find ourselves enclosed in openness,
+only now in the kind of openness---awareness---most our own.
 
-This answer is made more plausible by another difference
+This speculation becomes all the more plausible if we
+notice another difference
 between open eyes and open jars. For as we noted before,
 if jars are left open, their contents are left exposed,
 and risk being ruined. The outside, we might say, can only
-get inside a jar to fill it, by invading it, and finally
-conquering it. If eyes were open this way, then the
+get inside a jar to fill it by invading it, and finally
+conquering it. If our eyes were open this way, then the
 outside would be something we suffer rather than see. But
 instead we see. And this suggests that eyes are open to the
 outside only insofar as it is something they can
 contain rather than surrender to, in an act of comprehension
-rather than submission. Or again, eyes are open only insofar
+rather than submission. Or again: eyes are open only insofar
 as they can fill---perhaps always to the brim---from within.
 
-To press this suggestion, we can revisit another inference
-from before, that even in their everyday use, our open eyes are
-boundless, as we seem to see *through* them to a whole world
-outside us. But what do we mean---what could we mean---by
-"whole world" in this context? What we seem to mean is a
-totality, even though we strictly see only so far, for
-so long, as if what we saw were always merely an extent, or at
-best, an expanse. So in what sense do we ever see a totality?
-How else, save again by an act of comprehension that 
-contains what we see? 
-
-(Revise from here.) , This question, too, suggests that our every act of
-perception is an act of comprehension, Or at least see comprehensively enough to use the word
-"world" intelligibly for what we see rather than nonsensically? 
+To make this suggestion still more plausible, we can
+revisit another inference from before: that even in their
+everyday use, our open eyes are boundless, as we seem to
+see *through* them to a whole world outside us. But what
+do we mean---what could we mean---by "a whole world" in
+this context? What we seem to mean is a totality, even
+though we strictly see only so far, for so long, as if
+what we saw were never a totality, but always an extent,
+or at best, an expanse. So in what sense do we ever see
+the whole? Or perhaps we never see the whole. That is,
+perhaps we only ever see a part of the world. But then how
+do we come to know the rest of the world, to identify what
+we see as merely a part? How else, save again by an act
+of comprehension---beyond sight, below sight, even within
+sight---that contains what we see, and allows us
+to use the word "world" for what we see intelligibly.
 
 The
 world is somehow already there, within our eyes at the
