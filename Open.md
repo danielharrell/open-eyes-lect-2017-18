@@ -328,115 +328,113 @@ lets it be, lest it escape not merely the bounds of better
 judgment, but even the bounds of sheer awareness, and become
 an example of nothingness rather than openness.
 
-In this same vein, we can also reconsider the open door of Odysseus.
-For while the suitors may get through it, they will
-not survive his awareness of it, or Penelope's. Even if
-his door only opens from the outside, it can still be
-locked from the inside, to help accomplish and contain the
-slaughter. Mere openness again seems only as boundless
-as true openness lets it be, implying that the truth of
+In this same vein, we can reconsider, next, the open door of
+Odysseus. For while the suitors may get through it, they
+will not survive his awareness of it, or Penelope's. Even if
+his door only opens from the outside, it can still be locked
+from the inside, to help accomplish and contain the
+slaughter. Mere openness again seems only as boundless as
+true openness lets it be, implying that the truth of
 openness lies in boundedness, even when the look of openness
-is boundless. <!--Can use look of boundless later in infinite
-circle-->
+is boundless. <!--Can use look of boundless later in
+infinite circle-->
 
-We can strengthen this implication by returning to our
-everyday expressions of awareness. Recall how we say our
-eyes are open to mean we are awake. This again captures how
-we seem to see *through* our eyes to a whole world outside
-us---as if they were transparent. Or boundless. <!--older
-formulation: as if they provided a medium for sight rather
-than a boundary, and *carried* us to what we see rather than
-containing it. We call our eyes open, in short, as if they
-were boundless.--> <!--Later make more point of how our eyes
-carry us to what we see rather than containing it.--> But
-this is also to speak figuratively. And the distance,
-in this case, between the figurative and the literal might
-well be the distance between the boundless and the bounded.
-Our eyes cannot be open, after all, just like our eyelids,
-or even like a lidless jar---the eyes of Leontius
-notwithstanding. For open eyes can be poked, injured, even
-blinded---as if their staying open meant staying intact,
-even at the top, so to speak. Yet if they *are* intact even
-at the top, then how are they filled? How does anything
-outside---much less the whole world---get inside? 
+To see this same implication from a different direction,
+recall how we say our eyes are open, merely to mean we are
+awake. This again captures how we seem to see *through* our
+eyes to a whole world outside us---as if they were
+transparent. Or boundless. <!--older formulation: as if they
+provided a medium for sight rather than a boundary, and
+*carried* us to what we see rather than containing it. We
+call our eyes open, in short, as if they were boundless.-->
+<!--Later make more point of how our eyes carry us to what
+we see rather than containing it.--> But this is also again to
+speak figuratively. And the distance between the figurative
+and the literal, in this case, might well be the distance
+between the boundless and the bounded. Our eyes cannot be
+open, after all, just like our eyelids, or even like
+a lidless jar---the eyes of Leontius notwithstanding. For
+open eyes can be poked, injured, even blinded---as if their
+staying open meant staying intact, even at the top, so to
+speak. Yet if open eyes *are* intact even at the top, then
+how are they filled? How does anything outside---much less
+the whole world---get inside? Or perhaps nothing outside
+gets inside: if open eyes are filled not from without but
+from within. For this might be the only way they could be
+filled while staying intact.
 
-(Revise from here.) Or perhaps
-nothing outside gets inside: if open eyes are filled not
-from without but from within. For this might be the only way
-they could be filled while staying intact. <!--Our eyes
-would then enclose what they see, whatever it might be.-->
-This seems not just possible, but plausible, if we notice
-This speculation becomes more plausible if we notice another
-difference between open eyes and open jars. For as we noted
-before, if jars are left open, their contents are left
-exposed, and risk being ruined. The outside, we might say,
-can only get inside a jar to fill it by invading it, and
-finally conquering it. If our eyes were open this way, then
-the outside would be something we suffer rather than see.
-But instead we see. And this suggests that eyes are open to
-the outside only insofar as it is something they can contain
+<!--Our eyes would then enclose
+what they see, whatever it might be.--> And it becomes
+a more plausible way in light of another difference
+between open eyes and open jars. For as we noted before, if
+jars are left open, their contents are left exposed, and
+risk being ruined. The outside, we might say, can only get
+inside a jar to fill it by invading it, and finally
+conquering it. If our eyes were open this way, then perhaps the
+outside would be something we suffer rather than see. But
+instead we see. And this suggests that eyes are open to the
+outside only insofar as it is something they can contain
 rather than surrender to, in an act of comprehension rather
 than submission. Or again: eyes are open only insofar as
 they can fill---perhaps always to the brim---from within.
 
-But even to say they fill from within might be
-figurative---if what filled them, so to speak, were in truth
-already there, within our eyes, at the moment they open, as
-a cause of sight rather than an effect. (Perhaps next sentence
-should begin with pressing previous speculation.) To make this
-speculation plausible, we can revisit another inference from
-before: that the way our eyes seem open is the way we seem
-to see *through* them to a whole world outside us. But what
-do we mean---what could we mean---by "a whole world" in this
-context? What we seem to mean is a totality, even though we
-strictly see only so far, for so long, as if what we saw
-were never total, but only partial. But suppose it is
-partial. That is, suppose we only ever see a part of the
-world. Then how do we come to know the rest of the world, to
-identify what we see as merely a part? How else, save again
-by an act of comprehension---(perhaps move this, spelling it
-out afterwards; need to formulate advance beyond act of
-comprehension in previous paragraph). beyond sight, below
-sight, even within sight---that encompasses what we see, and
+To make this suggestion still more plausible,
+consider another inference from before: that the way our
+eyes seem open is the way we seem to see *through* them to
+a whole world outside us. But what do we mean---what could
+we mean---by "a whole world" in this context? What we seem
+to mean is a totality, even though we strictly see only so
+far, for so long, as if what we saw were never total, but
+only partial. Yet suppose it is partial. That is, suppose we
+only ever see a part of the world. Then how do we come to
+know the rest of the world, to identify what we see as
+merely a part? How else, save again by an act of
+comprehension that encompasses what we see, and
 allows us to use the word "world" for what we see
-intelligibly.
+intelligibly. 
 
-(Here put discussion
-of world from below. Then have a paragraph summarizing
-conclusion, suggesting infinite circle in place of infinite
-ellipse.)
+Intelligibly, and also perhaps paradoxically on any other
+account. For we give the name "world" not just to one
+thing we see outside us, or one thing after another, but
+to everything at once, along with anything unseen that
+might lie outside us. The whole world, in this way, seems
+to provide a frame for any part of it we see, as if it
+were a postulate for sight rather than a discovery, and in
+that sense stood behind our eyes rather than in front of
+them. And perhaps we should say we see through our eyes
+not *to* the world, but *through* the world, to everything
+*in* the world. The world would then be a place, or even a
+perspective, rather than an object. Or if an object, then
+the sort of object that our eyes could contain, as we
+see through them, to give what lies outside them context
+rather than content.
 
-And to do this from within makes the open eyes of awareness
-like a closed jar, or completed parabola. , along with
-awareness more generally, On this suggestion, then, we would not see the world, but
+Leftovers in this section: And there are further signs that the
+world we see outside us is really inside us, in a relation
+to us that is given rather than gained. 
+
+But under any such description, the
+world would again be inside us to appear outside us, as
+a horizon for everything else that might appear outside us.
+Or we could say that we contain the world inside us, to
+locate all of it outside us. And we would then be open to the
+world, on this account, from having enclosed it.
+
+On this suggestion, then, we would not see the orld, but
 only suffer it, unless our eyes somehow contained the world
 they were open to, so to speak; like a closed jar, or
 completed parabola. And we would again find
 ourselves enclosed in openness, only now in the kind of
 openness---awareness---most our own.
 
-
-(Put this next suggestion above.) And there are further signs that the
-world we see outside us is really inside us, in a relation
-to us that is given rather than gained. We give the name
-"world", after all, not just to one thing we see outside us,
-or one thing after another, but to everything at once, along
-with anything unseen that might lie outside us. The whole
-world, in this way, seems to provide a frame for any part of
-it we see, as if it were a postulate for sight rather than
-a discovery, and in that sense stood behind our eyes rather
-than in front of them. And perhaps we should say we see
-through our eyes not *to* the world, but *through* the
-world, to everything *in* the world. The world would then be
-a place, or even a perspective, rather than an object. Or at
-least the sort of object that our eyes could contain, as we
-see through them, to give what lies outside them context
-rather than content. But under any such description, the
-world would again be inside us to appear outside us, as
-a horizon for everything else that might appear outside us.
-Or we could say that we contain the world inside us, to
-locate all of it outside us. And we would then be open to the
-world, on this account, from having enclosed it.
+Earlier first sentence
+to begin this paragraph: But even to say they fill from
+within might be figurative---if what filled them, so to
+speak, were in truth already there, within our eyes, at the
+moment they open, as a cause of sight rather than an
+effect. And to do this from within makes the open eyes of awareness
+like a closed jar, or completed parabola. , along with
+awareness more generally, 
 
 
 - This suggests that they fill from within rather than
