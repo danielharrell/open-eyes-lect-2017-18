@@ -318,19 +318,18 @@ perhaps even mere openness must be bounded, to gain any
 semblance of boundlessness. For now consider our deepest
 state of being, on my earlier suggestion: the open eyes of
 awareness. Here, too, openness has the genuineness of
-a virtue. But this is now in the older sense of a natural
-power, which we could say stands beneath any cultivated
-excellence, and is therefore inclusive of any corruption.
-This scope is made dramatic in the case of Odysseus and his
-door. For while the suitors may get through it in his
-absence, they will not survive his discovery of it. His door
-may now only open from the outside, but it can still be
-locked from the inside, to help accomplish and contain the
+a virtue, but in the older sense of a natural power, beneath
+any cultivated excellence, and inclusive of any corruption
+that comes to light. This scope is made dramatic in the case
+of Odysseus and his door. For while the suitors may get
+through it in his absence, they will not survive his
+discovery of it. And a door that only opens from the outside
+can still be locked from the inside, to contain the
 slaughter. Mere openness in this case seems only as
-boundless as true openness lets it be---once we count what
-might well be the truest form of openness in awareness,
-which can bound, or bring to light, even transgressions
-against it. 
+boundless as true openness lets it be---once we count as
+true a form of recognition that can encompass even acts of
+transgression, and see them, if not punish them, for what
+they are. 
 
 Similarly, the open eyes of awareness allow us to take a
 closer look at the open eyes of Leontius. For while his loss
@@ -729,6 +728,17 @@ image.
 this to Bergson.)
 
 #### Leftovers from outline
+
+- Earlier formulation not working out. ---once we count as
+true not simply what can be betrayed in being open, but also
+what can be trusted, as every betrayal must be seen for what
+it is to be what it is. , but also what can be trusted, in
+being open. Betrayals of openness must be seen for what they
+are to be what they are, For we could say that every
+betrayal of openness must be seen for what it is to beFor
+every betrayal of openness leaves a kind of mark there,
+where it must be seen for what it is to be what it is, and
+in that sense depends on the openness it has betrayed.
 
 - To see this same implication from a different direction,
 recall how we say our eyes are open, merely to mean we are
