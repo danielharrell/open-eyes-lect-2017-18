@@ -236,38 +236,41 @@ nowhere, when talking about totality, or world.-->
 
 This, then, is another way to wonder how being open is
 possible. <!--Note later that we wonder this by giving
-arguments for its impossibility; and philosophy rests
-here, in impossibility. In mere appearance, then go back
-to examples from Aristotle, then Bergson.--> And while it might seem
-contrived, in coming from mathematics, it suggests a
-more general way---and radical way---to wonder how being
-open is possible. For what if every way of being open
-were like the parabola? That is, what if every way of
-being open were really a way of being closed that merely
-looked open? <!--Note, will want to come back to this 
-formulation as a way of anchoring this section of the
-lecture.--> <!--Later, go back to Aristotle examples
-to show this same claim to mere appearance: marionettes
-merely look alive; the sun merely looks as if it reverses
-course; the side of a square looks divisible enough to
-measure the diagonol, but needs to straddle the even and
-odd to do so. A philosophical account in Dedekind to make
-this too an appearance.--> In light of this question,
-consider what I earlier called *states of being*: the
-open door of hospitality; the open heart of generosity;
-the open mind of enlightenment. Openness here has the
-genuineness of a virtue. But virtue can be corrupted, and
-in this case corrupted in excess, making us wonder what
-distinguishes *true* openness from *mere* openness. Recall
-the open door in Homer's *Odyssey*, that lets the suitors
-of Penelope fill the house of Odysseus in his absence, in
-the abuse of hospitality. Or the open eyes of Leontius
-in Plato's *Republic*, that let the spectacle of corpses
-fill his gaze, to his own contempt, in a similar abuse of
-sight.[^Republic.] Both examples suggest there are cases of
-openness to be condemned, where something between inside
-and outside has broken. But what could this be, if not a
-boundary that stays intact, in cases of openness to be
+arguments for its impossibility; and philosophy rests here,
+in impossibility. In mere appearance, then go back to
+examples from Aristotle, then Bergson.--> And while it might
+seem contrived, in coming from mathematics, it suggests
+a more general way---and radical way---to wonder how being
+open is possible. For what if every way of being open were
+like the parabola? That is, what if every way of being open
+were really a way of being closed that merely looked open?
+<!--Note, will want to come back to this formulation as
+a way of anchoring this section of the lecture.--> <!--Raise
+question at beginning of next section: Does the account in
+last part (part two) increase wonder, or dispell wonder?
+This is related to question about whether we should regard
+"openness" as real or not. --><!--Later, go back to
+Aristotle examples to show this same claim to mere
+appearance: marionettes merely look alive; the sun merely
+looks as if it reverses course; the side of a square looks
+divisible enough to measure the diagonol, but needs to
+straddle the even and odd to do so. A philosophical account
+in Dedekind to make this too an appearance.--> In light of
+this question, consider what I earlier called *states of
+being*: the open door of hospitality; the open heart of
+generosity; the open mind of enlightenment. Openness here
+has the genuineness of a virtue. But virtue can be
+corrupted, and in this case corrupted in excess, making us
+wonder what distinguishes *true* openness from *mere*
+openness. Recall the open door in Homer's *Odyssey*, that
+lets the suitors of Penelope fill the house of Odysseus in
+his absence, in the abuse of hospitality. Or the open eyes
+of Leontius in Plato's *Republic*, that let the spectacle of
+corpses fill his gaze, to his own contempt, in a similar
+abuse of sight.[^Republic.] Both examples suggest there are
+cases of openness to be condemned, where something between
+inside and outside has broken. But what could this be, if
+not a boundary that stays intact, in cases of openness to be
 praised? Yet if the boundary stays intact, then why are
 these cases of being open rather than cases of being closed?
 Or rather: cases of being closed that *look* open, and even
@@ -299,84 +302,96 @@ mastery of them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
+- Perhaps find synonyms for "awareness" in this section.
+
+- Use Odysseus example first, then move onto to Leontius
+for more extended treatment.
+
+	- His eyes like perfect jars
+	- But not open at top, so filled from within
+	- But perhaps not even filled.
+	- Shift from infinite ellipse to infinite circle.
+
 On this account, then, only mere openness could be
 boundless. True openness is always bounded, or closed. But
 perhaps even mere openness must be bounded, to gain any
 semblance of boundlessness. For now consider our deepest
 state of being, on my earlier suggestion: the open eyes of
-awareness. This allows us to reconsider, first, the open eyes of
-Leontius. For while his loss of mastery over them exposes
-him, like a broken jar, to whatever lies outside, this same
-loss allows his eyes, like an unbroken jar, to take their
-fill---one might say to the brim---of the spectacle. His
-liberated eyes might even be compared to a perfect jar: one
-that stays intact, no matter what it contains, or how full
-it gets. 
+awareness. Here, too, openness has the genuineness of
+a virtue. But this is now in the older sense of a natural
+power, which we could say stands beneath any cultivated
+excellence, and is therefore inclusive of any corruption.
+This scope is made dramatic in the case of Odysseus and his
+door. For while the suitors may get through it in his
+absence, they will not survive his discovery of it. His door
+may now only open from the outside, but it can still be
+locked from the inside, to help accomplish and contain the
+slaughter. Mere openness in this case seems only as
+boundless as true openness lets it be---once we count what
+might well be the truest form of openness in awareness,
+which can bound, or bring to light, even transgressions
+against it. 
 
-And this perfection of outer sight seems matched,
-even surpassed, by inner sight. For Leontius is able to
-denounce his eyes, despite his loss of command. "Look for
-yourselves," he exclaims, "you evil wretches, take your fill
-of the beautiful sight." His eyes remain his, we could say,
-despite their liberation from him. For their becoming
-unbounded results not in blindness, but sight; and not
-unconsciousness of the fact, but recognition of it. To stare
-is still to see, and in this case to see with an acute sense
-of the boundary breached in seeing. Yet this suggests that mere
-openness can only be as boundless as true openness finally
-lets it be, lest it escape not merely the bounds of better
-judgment, but even the bounds of sheer awareness, and become
-an example of nothingness rather than openness.
+Similarly, the open eyes of awareness allow us to take a
+closer look at the open eyes of Leontius. For while his loss
+of mastery over them may expose him, like a broken jar, to
+whatever lies outside, this same loss allows his eyes, like
+an unbroken jar, to take their fill---one might say to the
+brim---of the spectacle. His boundless eyes might even be
+compared to a perfect jar: one that stays intact, no matter
+what it contains, or how full it gets. And this perfection
+of outer sight seems matched, even surpassed, by inner
+sight. For Leontius is able to denounce his eyes, despite
+his loss of command. "Look for yourselves," he exclaims,
+"you evil wretches, take your fill of the beautiful sight."
+His eyes remain his, evidently, despite their liberation
+from him. For their becoming unbounded results not in
+blindness, but sight; and not unconsciousness of the fact,
+but recognition of it. To stare is still to see, and in this
+case to see with an acute sense of the boundary breached
+in seeing. This is another case, then, where mere openness
+seems only as boundless as true openness lets it be, lest it
+escape not merely the bounds of better judgment, but even
+the bounds of sheer awareness, and become an example of
+nothingness rather than openness.
 
-In this same vein, we can reconsider, next, the open door of
-Odysseus. For while the suitors may get through it, they
-will not survive his awareness of it, or Penelope's. Even if
-his door only opens from the outside, it can still be locked
-from the inside, to help accomplish and contain the
-slaughter. Mere openness again seems only as boundless as
-true openness lets it be, implying that the truth of
-openness lies in boundedness, even when the look of openness
-is boundless. <!--Can use look of boundless later in
-infinite circle-->
+And if we turn from the open eyes of Leontius to our own, we
+can see how the truth of openness might lie in boundedness,
+even when its look is boundless. <!--Can use look of
+boundless later in infinite circle--> For open eyes, in at
+least two respects, seem even more intact than open jars, no
+matter how perfect. For one thing, open eyes can be poked,
+injured, even blinded---as if their staying open meant
+staying whole, which means staying intact, not just along
+the bottom and sides, so to speak, but even at the top. Yet
+if open eyes *are* intact, even at the top, then how are
+they filled? How does anything outside get inside? But this
+question points to the second way open eyes seem even more
+intact than open jars. For suppose the outside got inside
+our eyes the way it gets inside a jar. (Move analogy clause
+to front of next sentence, and perhaps try to work in word
+"exposure" later. Maybe also need to clarify sense of
+conquering, invading, inside remaining inside.) (Already
+full sentence somewhere here?) The outside might
+then be something we suffer rather than see, by analogy to
+the way a jar's inside, if left open too long, risks being
+spoiled by the outside, as we noted before. 
+But instead we see. And this suggests that eyes
+are open to the outside as only insofar as it is something
+they can contain rather than surrender to, in an act of
+comprehension rather than submission. Or again: eyes are
+open only insofar as they can fill---perhaps always to the
+brim---from within.
 
-To see this same implication from a different direction,
-recall how we say our eyes are open, merely to mean we are
-awake. This again captures how we seem to see *through* our
-eyes to a whole world outside us---as if they were
-transparent. Or boundless. <!--older formulation: as if they
-provided a medium for sight rather than a boundary, and
-*carried* us to what we see rather than containing it. We
-call our eyes open, in short, as if they were boundless.-->
-<!--Later make more point of how our eyes carry us to what
-we see rather than containing it.--> But this is also again to
-speak figuratively. And the distance between the figurative
-and the literal, in this case, might well be the distance
-between the boundless and the bounded. Our eyes cannot be
-open, after all, just like our eyelids, or even like
-a lidless jar---the eyes of Leontius notwithstanding. For
-open eyes can be poked, injured, even blinded---as if their
-staying open meant staying intact, even at the top, so to
-speak. Yet if open eyes *are* intact even at the top, then
-how are they filled? How does anything outside---much less
-the whole world---get inside? Or perhaps nothing outside
-gets inside: if open eyes are filled not from without but
-from within. For this might be the only way they could be
-filled while staying intact.
+- Or perhaps nothing outside gets inside:
+if open eyes are filled not from without but from within.
+For this might be the only way they could be filled while
+staying intact.
 
 <!--Our eyes would then enclose
 what they see, whatever it might be.--> And it becomes
 a more plausible way in light of another difference
-between open eyes and open jars. For as we noted before, if
-jars are left open, their contents are left exposed, and
-risk being ruined. The outside, we might say, can only get
-inside a jar to fill it by invading it, and finally
-conquering it. If our eyes were open this way, then perhaps the
-outside would be something we suffer rather than see. But
-instead we see. And this suggests that eyes are open to the
-outside only insofar as it is something they can contain
-rather than surrender to, in an act of comprehension rather
-than submission. Or again: eyes are open only insofar as
-they can fill---perhaps always to the brim---from within.
+between open eyes and open jars. 
 
 To make this suggestion still more plausible,
 consider another inference from before: that the way our
@@ -393,8 +408,9 @@ comprehension that encompasses what we see, and
 allows us to use the word "world" for what we see
 intelligibly. 
 
-Intelligibly, and also perhaps paradoxically on any other
-account. For we give the name "world" not just to one
+(Revise from here.) Intelligibly, and also paradoxically on any 
+account that leaves our outside our
+awareness rather than within it. For we give the name "world" not just to one
 thing we see outside us, or one thing after another, but
 to everything at once, along with anything unseen that
 might lie outside us. The whole world, in this way, seems
@@ -713,6 +729,23 @@ image.
 this to Bergson.)
 
 #### Leftovers from outline
+
+- To see this same implication from a different direction,
+recall how we say our eyes are open, merely to mean we are
+awake. This again captures how we seem to see *through* our
+eyes to a whole world outside us---as if they were
+transparent. Or boundless. As if they
+provided a medium for sight rather than a boundary, and
+*carried* us to what we see rather than containing it. We
+call our eyes open, in short, as if they were boundless.
+
+- Later make more point of how our eyes carry us to what
+we see rather than containing it. But this is also again to
+speak figuratively. And the distance between the figurative
+and the literal, in this case, might well be the distance
+between the boundless and the bounded. Our eyes cannot be
+open, after all, just like our eyelids, or even like
+a lidless jar---the eyes of Leontius notwithstanding.
 
 - To answer this question, we might return to our partial
 sense, where true openness was bounded, and try to complete
