@@ -324,7 +324,8 @@ that comes to light. This scope is made dramatic in the case
 of Odysseus and his door. For while the suitors may get
 through it in his absence, they will not survive his
 discovery of it. And a door that only opens from the outside
-can still be locked from the inside, to contain the
+can still be locked from the inside, to help accomplish
+and contain the
 slaughter. Mere openness in this case seems only as
 boundless as true openness lets it be---once we count as
 true a form of recognition that can encompass even acts of
@@ -351,12 +352,51 @@ case to see with an acute sense of the boundary breached
 in seeing. This is another case, then, where mere openness
 seems only as boundless as true openness lets it be, lest it
 escape not merely the bounds of better judgment, but even
-the bounds of sheer awareness, and become an example of
+those of simple cognizance, and become an example of
 nothingness rather than openness.
 
 And if we turn from the open eyes of Leontius to our own, we
-can see how the truth of openness might lie in boundedness,
-even when its look is boundless. <!--Can use look of
+can better see how the truth of openness might lie in
+boundedness, even when its look is boundless. This boundless
+look is again why we call *our eyes* open rather than our
+eyelids: it captures how we seem to see *through* our eyes,
+to a whole world outside us---as if they were transparent.
+That is, they were boundless. But this is also again to
+speak figuratively, since eyes could not be open like
+eyelids, or even like lidless jars---the eyes of Leontius
+notwithstanding.  For one thing, open eyes can be poked,
+injured, even blinded---as if staying open meant staying
+intact, even at the top, as it were. There is no
+straightforward sense, then, in which the outside can get
+inside open eyes the way it gets inside open jars. But this
+contrast points to another: for if the outside *could* get
+directly inside open eyes, we might say it would *fill*
+rather than *spoil* what's inside, (revise) it, what's
+inside, the outside gets inside jars, as we noted before, to
+spoil what's inside; open eyes can be filled. 
+
+And a closer look at these ways suggest that the whole
+world in truth lies inside us; and that what we seem to see
+through our eyes is in fact contained by our eyes, as
+an assertion of the bounded, as if
+they were really opaque, in a kind
+of opacity underneath transparency, as if they
+were bounded to look boundless. is even contained
+by our eyes, and can only be a
+world insofar as it is contained by our eyes why this is also to speak and think
+of our eyes figuratively, in which this is
+to speak of eyes figuratively rather than literally open eyes in this sense is also
+again figurative. And the ways it e
+suggest that the whole world rather lies inside us, and
+is even contained by our eyes, as if they were bounded. to speak
+figuratively to speak figuratively
+about our eyes we also called this figurative, and
+there are reasons to think
+the whole world is rather inside us.) , We noted earlier how
+we can say our eyes are open, merely to mean we are awake,
+that the way our
+eyes seem open is the way we seem to see *through* them to
+a whole world outside us. <!--Can use look of
 boundless later in infinite circle--> For open eyes, in at
 least two respects, seem even more intact than open jars, no
 matter how perfect. For one thing, open eyes can be poked,
