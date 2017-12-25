@@ -134,7 +134,7 @@ how such a thing is possible. <!--Later point out that this
 isn't really possible, on a certain philosophical
 explanation--> Once we learn how, we can give what we
 encounter a name, like "marionette", or "solstice", or
-"incommensurable." But names like this can be words we
+"incommensurable." But such names can become words that we
 inherit rather than originate. And then they can discourage
 understanding just as much as display it, as we use the name
 for what we don't yet know as if we do. <!--Later return to
@@ -244,6 +244,7 @@ a more general way---and radical way---to wonder how being
 open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
+What if we ourselves were enclosed in openness?
 <!--Note, will want to come back to this formulation as
 a way of anchoring this section of the lecture.--> <!--Raise
 question at beginning of next section: Does the account in
@@ -283,19 +284,21 @@ something like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 save in light of a power to keep certain things *out*, like
 corpses and suitors? The power, that is, to be closed? And
-even if this were also the power to be open, the exercise of
-it would seem to involve a choice, that
-encompasses what we are open to, and in that sense encloses
-it, just as the parabola was enclosed in openness. This
-enclosure in the human case might be thought a boundary of
-recognition, that not only excludes what we keep out, but
-contains what we let in. This boundary would also be what
-breaks in cases of corruption, laying us open, like a broken
-jar, to whatever lies outside. Once Odysseus is no longer
-master of his door, we could say it no longer opens from the
-inside, to contain the outside in an act of recognition. His
-door now only opens from the outside, and exposes the inside
-to an act of transgression. Hence the suitors, and how they
+even if this were also the power to be open, the exercise
+of it would seem to involve a choice that encompasses what
+we are open to, and in that sense encloses it, just as the
+parabola was enclosed in openness. This enclosure in the
+human case might be thought a boundary of recognition, that
+not only excludes what we keep out, but contains what we
+let in. This boundary would also be what breaks in cases of
+corruption, laying us open, like a broken jar, to whatever
+lies outside. Or we might say there is a kind of hinge in
+being open that only works one way once it breaks. When
+Odysseus is no longer master of his door, for example,
+we could say that it no longer opens from the inside, to
+contain the outside in an act of recognition. His door now
+only opens from the outside, and exposes the inside to
+an act of transgression. Hence the suitors, and how they
 indeed get into the house of Odysseus. Or the corpses, and
 how *they* get into the eyes of Leontius, once he loses his
 mastery of them, and can no longer open them from within.
@@ -317,22 +320,21 @@ boundless. True openness is always bounded, or closed. But
 perhaps even mere openness must be bounded, to gain any
 semblance of boundlessness. For now consider our deepest
 state of being, on my earlier suggestion: the open eyes of
-awareness. Here, too, openness has the genuineness of
-a virtue, but in the older sense of a natural power, beneath
+awareness. Here, too, openness has the genuineness of a
+virtue, but in the older sense of a natural power, beneath
 any cultivated excellence, and inclusive of any corruption
-that comes to light. This scope is made dramatic in the case
-of Odysseus and his door. For while the suitors may get
-through it in his absence, they will not survive his
+that comes to light. This scope is made dramatic in the
+case of Odysseus and his door. For while the suitors may
+get through it in his absence, they will not survive his
 discovery of it. And a door that only opens from the outside
-can still be locked from the inside, to help accomplish
-and contain the
-slaughter. Mere openness in this case seems only as
-boundless as true openness lets it be---once we count as
+can still be locked from the inside, to help accomplish and
+contain the slaughter. Mere openness in this case seems only
+as boundless as true openness lets it be---once we count as
 true a form of recognition that can encompass even acts of
 transgression, and see them, if not punish them, for what
-they are. 
+they are.
 
-Similarly, the open eyes of awareness allow us to take a
+The open eyes of awareness likewise let us take a
 closer look at the open eyes of Leontius. For while his loss
 of mastery over them may expose him, like a broken jar, to
 whatever lies outside, this same loss allows his eyes, like
@@ -344,7 +346,7 @@ of outer sight seems matched, even surpassed, by inner
 sight. For Leontius is able to denounce his eyes, despite
 his loss of command. "Look for yourselves," he exclaims,
 "you evil wretches, take your fill of the beautiful sight."
-His eyes remain his, evidently, despite their liberation
+His eyes remain his, despite their liberation
 from him. For their becoming unbounded results not in
 blindness, but sight; and not unconsciousness of the fact,
 but recognition of it. To stare is still to see, and in this
@@ -359,65 +361,97 @@ And if we turn from the open eyes of Leontius to our own, we
 can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
 look is again why we call *our eyes* open rather than our
-eyelids: it captures how we seem to see *through* our eyes,
-to a whole world outside us---as if they were transparent.
-That is, they were boundless. But this is also again to
-speak figuratively, since eyes could not be open like
-eyelids, or even like lidless jars---the eyes of Leontius
-notwithstanding.  For one thing, open eyes can be poked,
-injured, even blinded---as if staying open meant staying
-intact, even at the top, as it were. There is no
-straightforward sense, then, in which the outside can get
-inside open eyes the way it gets inside open jars. But this
-contrast points to another: for if the outside *could* get
-directly inside open eyes, we might say it would *fill*
-rather than *spoil* what's inside, (revise) it, what's
-inside, the outside gets inside jars, as we noted before, to
-spoil what's inside; open eyes can be filled. 
+eyelids: for we seem to see *through* our eyes---as if they
+were transparent---to a whole world outside us. But this is
+also again to speak figuratively; for eyes could not be open
+like eyelids, or even like lidless jars---the eyes of
+Leontius notwithstanding. After all, open eyes can be poked,
+injured, even blinded. Staying open for eyes seems to mean
+staying intact---or bounded---all the way around. And if eyes
+were open like jars nonetheless, then why would we *see*
+outside us rather than suffer it in blindness, by analogy to
+the way, as we noted before, that a open jar's inside risks
+being spoiled by the outside rather than sustained? In this
+respect, the outside is something that our power of sight
+protects us from, and suggests that eyes, unlike jars, are
+open only insofar as they can contain the outside rather
+than yield to it, in an act of comprehension rather than
+submission. <!--Or in terms borrowed from Leontius: eyes are
+open only insofar as they can fill---perhaps always to the
+brim---from within rather than without.-->
 
-And a closer look at these ways suggest that the whole
-world in truth lies inside us; and that what we seem to see
-through our eyes is in fact contained by our eyes, as
-an assertion of the bounded, as if
-they were really opaque, in a kind
-of opacity underneath transparency, as if they
-were bounded to look boundless. is even contained
-by our eyes, and can only be a
-world insofar as it is contained by our eyes why this is also to speak and think
-of our eyes figuratively, in which this is
-to speak of eyes figuratively rather than literally open eyes in this sense is also
-again figurative. And the ways it e
-suggest that the whole world rather lies inside us, and
-is even contained by our eyes, as if they were bounded. to speak
-figuratively to speak figuratively
-about our eyes we also called this figurative, and
-there are reasons to think
-the whole world is rather inside us.) , We noted earlier how
-we can say our eyes are open, merely to mean we are awake,
-that the way our
-eyes seem open is the way we seem to see *through* them to
-a whole world outside us. <!--Can use look of
-boundless later in infinite circle--> For open eyes, in at
-least two respects, seem even more intact than open jars, no
-matter how perfect. For one thing, open eyes can be poked,
-injured, even blinded---as if their staying open meant
-staying whole, which means staying intact, not just along
-the bottom and sides, so to speak, but even at the top. Yet
-if open eyes *are* intact, even at the top, then how are
-they filled? How does anything outside get inside? But this
-question points to the second way open eyes seem even more
-intact than open jars. For suppose the outside got inside
-our eyes the way it gets inside a jar. (Move analogy clause
-to front of next sentence, and perhaps try to work in word
-"exposure" later. Maybe also need to clarify sense of
-conquering, invading, inside remaining inside.) (Already
-full sentence somewhere here?) The outside might
-then be something we suffer rather than see, by analogy to
-the way a jar's inside, if left open too long, risks being
-spoiled by the outside, as we noted before. 
-But instead we see. And this suggests that eyes
-are open to the outside as only insofar as it is something
-they can contain rather than surrender to, in an act of
+This act of comprehension, moreover, seems total
+rather than partial. For not only do we see outside us; we
+see a whole world outside us---as if our eyes encompassed the
+rest of it with the part that might fill a jar. Or as if the
+way our eyes stayed bounded, all the way around, made it
+possible to enclose the world, all the way around. (Maybe
+the last sentence could be elaborated, by stuff on way
+we use "world".) For even
+if we took what we see of the world to be partial rather
+than total, it is the partiality of *a perspective* on the
+totality, whose boundary forms a horizon, infinitely far
+away, where every parallel finally converges to a point. 
+
+And to this infinite circumference for sight, the openness of a
+jar bears less resemblance than the ellipse we used before
+to complete the parabola, and offer it as a geometric image
+for being enclosed in openness. (Revise from here. Re-read
+later stuff and try to incorporate.)
+
+insofar as the are open to the outside
+only insofar as they can contain it we see, . we would
+suffer rather than see,
+
+ere is no straightforward sense, then, in which the
+outside can get inside open eyes the way it gets inside open
+jars. But this contrast points to another: for if the
+outside *could* get directly inside open eyes, we might say
+it would *fill* rather than *spoil* what's inside, (revise)
+it, what's inside, the outside gets inside jars, as we noted
+before, to spoil what's inside; open eyes can be filled. 
+
+And a closer look at these ways suggest that the whole world
+in truth lies inside us; and that what we seem to see
+through our eyes is in fact contained by our eyes, as an
+assertion of the bounded, as if they were really opaque, in
+a kind of opacity underneath transparency, as if they were
+bounded to look boundless. is even contained by our eyes,
+and can only be a world insofar as it is contained by our
+eyes why this is also to speak and think of our eyes
+figuratively, in which this is to speak of eyes figuratively
+rather than literally open eyes in this sense is also again
+figurative. And the ways it e suggest that the whole world
+rather lies inside us, and is even contained by our eyes, as
+if they were bounded. to speak figuratively to speak
+figuratively about our eyes we also called this figurative,
+and there are reasons to think the whole world is rather
+inside us.) , 
+
+We noted earlier how we can say our eyes are
+open, merely to mean we are awake, that the way our eyes
+seem open is the way we seem to see *through* them to
+a whole world outside us. <!--Can use look of boundless
+later in infinite circle--> For open eyes, in at least two
+respects, seem even more intact than open jars, no matter
+how perfect. For one thing, open eyes can be poked, injured,
+even blinded---as if their staying open meant staying whole,
+which means staying intact, not just along the bottom and
+sides, so to speak, but even at the top. Yet if open eyes
+*are* intact, even at the top, then how are they filled? How
+does anything outside get inside? But this question points
+to the second way open eyes seem even more intact than open
+jars. For suppose the outside got inside our eyes the way it
+gets inside a jar. (Move analogy clause to front of next
+sentence, and perhaps try to work in word "exposure" later.
+Maybe also need to clarify sense of conquering, invading,
+inside remaining inside.) (Already full sentence somewhere
+here?) The outside might then be something we suffer rather
+than see, by analogy to the way a jar's inside, if left open
+too long, risks being spoiled by the outside, as we noted
+before. But instead we see. And this suggests that eyes are
+open to the outside as only insofar as it is something they
+can contain rather than surrender to, in an act of
 comprehension rather than submission. Or again: eyes are
 open only insofar as they can fill---perhaps always to the
 brim---from within.
