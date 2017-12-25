@@ -357,28 +357,33 @@ escape not merely the bounds of better judgment, but even
 those of simple cognizance, and become an example of
 nothingness rather than openness.
 
-And if we turn from the open eyes of Leontius to our own, we
-can better see how the truth of openness might lie in
+And if we turn from the open eyes of Leontius to our own,
+we can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
 look is again why we call *our eyes* open rather than our
 eyelids: for we seem to see *through* our eyes---as if they
-were transparent---to a whole world outside us. But this is
-also again to speak figuratively; for eyes could not be open
-like eyelids, or even like lidless jars---the eyes of
-Leontius notwithstanding. After all, open eyes can be poked,
-injured, even blinded. Staying open for eyes seems to mean
-staying intact---or bounded---all the way around. And if eyes
-were open like jars nonetheless, then why would we *see*
-outside us rather than suffer it in blindness, by analogy to
-the way, as we noted before, that a open jar's inside risks
+were transparent---to a whole world outside us. But this
+is also again to speak figuratively; for eyes could not be
+open like eyelids, or even like lidless jars---the eyes of
+Leontius notwithstanding. Open eyes can be poked, injured,
+even blinded. Staying open for eyes seems to mean staying
+intact---or bounded---all the way around. And if eyes were
+open like jars nonetheless, then why would we *see* outside
+us rather than suffer it in blindness, by analogy to the
+way, as we noted before, that a open jar's inside risks
 being spoiled by the outside rather than sustained? In this
 respect, the outside is something that our power of sight
-protects us from, and suggests that eyes, unlike jars, are
-open only insofar as they can contain the outside rather
-than yield to it, in an act of comprehension rather than
-submission. <!--Or in terms borrowed from Leontius: eyes are
-open only insofar as they can fill---perhaps always to the
-brim---from within rather than without.-->
+protects us from, just as our organs of sight are protected
+from it by staying altogether intact, and therefore distinct. 
+The organs and power of sight together thus suggest 
+that eyes, unlike jars, are open only insofar as
+they can contain the outside rather than yield to it, in an
+act of comprehension rather than submission. 
+<!--Or in terms borrowed from Leontius: eyes are open only
+insofar as they can fill---perhaps always to the brim---from
+within rather than without.-->
+
+- Bring up world stuff. Integrate into next paragraph.
 
 This act of comprehension, moreover, seems total
 rather than partial. For not only do we see outside us; we
