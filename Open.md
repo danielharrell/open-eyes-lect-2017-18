@@ -305,16 +305,6 @@ mastery of them, and can no longer open them from within.
 
 ## Awareness {#awareness}
 
-- Perhaps find synonyms for "awareness" in this section.
-
-- Use Odysseus example first, then move onto to Leontius
-for more extended treatment.
-
-	- His eyes like perfect jars
-	- But not open at top, so filled from within
-	- But perhaps not even filled.
-	- Shift from infinite ellipse to infinite circle.
-
 On this account, then, only mere openness could be
 boundless. True openness is always bounded, or closed. But
 perhaps even mere openness must be bounded, to gain any
@@ -357,84 +347,76 @@ escape not merely the bounds of better judgment, but even
 those of simple cognizance, and become an example of
 nothingness rather than openness.
 
-And if we turn from the open eyes of Leontius to our own, we
-can better see how the truth of openness might lie in
+And if we turn from the open eyes of Leontius to our own,
+we can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
 look is again why we call *our eyes* open rather than our
-eyelids: for we seem to see *through* our eyes---as if they
-were transparent---to a whole world outside us. But this is
-also again to speak figuratively; for eyes could not be open
-like eyelids, or even like lidless jars---the eyes of
-Leontius notwithstanding. Open eyes can be poked, injured,
-even blinded. Staying open for eyes seems to mean staying
-intact---or bounded---all the way around. And if eyes were
-open like jars nonetheless, then why would we *see* outside
-us rather than suffer it in blindness, by analogy to the
-way, as we noted before, that a open jar's inside risks
-being spoiled by the outside rather than sustained? In this
-respect, the outside is something that our power of sight
-protects us from, just as our organs of sight protect us by
-staying intact. The organs and power of sight together thus
-suggest that eyes, unlike jars, are open only insofar as
-they can contain the outside rather than yield to it, in an
-act of comprehension rather than submission. <!--Or in terms
+eyelids, as we seem to see through them to a whole world
+outside us. But this is also again to speak figuratively.
+For eyes could not be open like eyelids, or even like
+lidless jars---the eyes of Leontius notwithstanding. Open
+eyes can be poked, injured, even blinded. Staying open for
+eyes seems to mean staying intact, or bounded, all the
+way around. And if eyes were open like jars nonetheless,
+then why would we *see* outside us rather than suffer it
+in blindness, by analogy to the way, as we noted before,
+that a open jar's inside risks being spoiled by the outside
+rather than sustained? In this respect, the outside is
+something that our power of sight protects us from, just
+as our organs of sight protect us by staying intact. But
+how, then, are eyes open to the outside at all? Only, perhaps,
+if they can contain it rather than yield to it, in an act
+of comprehension rather than submission. Only, that is,
+if they bound what they see, can they be open to what
+they see. <!--Or in terms
 borrowed from Leontius: eyes are open only insofar as they
 can fill---perhaps always to the brim---from within rather
 than without.-->
 
-We can note here, too, that we not only *see* outside us; we
-see *a whole world* outside us---as if our eyes contained
-the rest of it with the part that might fill a jar. But how
-can something as small as our eyes contain something as
-large as the world, unless containment in this case were a
-matter of definition rather than size, and allowed the world
-to be encompassed before it has to be crossed. In just this
-way, it seems, we see without having to move to what we see.
-And while in one sense we only see so far, in another sense,
-or perhaps in several, we see as far as can be, and in the
-seeming embrace of what we see. To call this "a world" at
-all is one sign of the embrace. But another
-lies in the peculiar way we thus identify what we see. For
-we give the name "world" not just to one thing we see, or
-one thing after another, but to everything at once, along
-with anything yet to be seen. The whole world, in this
-way, seems to provide *a frame*, or again a brace, for any part of it we see,
-again s if it were a postulate for sight rather than a discovery,
-and in that sense, at least, stood behind our eyes rather
-than in front of them. And perhaps we should say we see
-through our eyes not *to* the world, but *through* the
-world, to everything *in* the world. The world would then be
-a place, or even a perspective, rather than an object. Or
-if an object, then the sort of object that our eyes could
-contain, as we see through them, to give what lies outside
-them context rather than content.
+To deepen this suggestion, we can note how we not only *see*
+outside us; we see *a whole world* outside us---as if our
+eyes contained the rest of it with the part that might fill
+a jar. But how can something as small as our eyes contain
+something as large as the world, unless containment in this
+case were a matter of definition rather than size, and
+allowed the world to be encompassed before it has to be
+crossed? In just this way, it seems, we see without having
+to move to what we see. And while it may seem we only see so
+far, there is reason to think we really see as far as can
+be, in the embrace of all there is to see. For what sense,
+otherwise, would it make to call what we see *the world*? We
+already have enough names, it seems, for what there is to
+see: one noun, learned or invented, for each thing in turn.
+So why hold an extra one in reserve for everything at once?
+And how can this extra noun, "world", indeed *name*
+everything at once? 
 
+Only, perhaps, if the world in this sense were not
+itself a thing, but instead *a
+frame*---or again an embrace---of everything we see,
+serving as a postulate for sight rather than a discovery,
+standing behind our eyes rather than in
+front of them. And perhaps we would speak with more
+exactness to say we see through
+our eyes not *to* the world, but *through* the world, to
+everything *in* the world. For the world, in this sense,
+would not be an object for sight but rather its medium, to
+give what we see outside us a context rather than content.
+And the way our eyes, small as they are, might then contain
+this totality, is like the way that our perspective on the
+world through sight, bounded as it is, can then contain an
+infinity. For the boundary in this case is a horizon, and
+every point on this horizon is one where parallels finally
+meet.
 
-or we mean to locate what we see 
-
-For in this sense our sight only stops at
-the horizon, where every parallel converges to a point,
-infinitely far from where we stand. Even if what we see is
-partial rather than total, it is the partiality is bounded
-not by has always before it an infinitely distant horizon,
-where every parallel finally converges to a point. And if
-, proving the distance infinite, and the persuch less
-through it, To see without having to move, ; an object of
-vision, then, before a medium of motion. . That is, made the
-world to describe endured. . But this is what it means, it
-seems, to see:
-
-And even
-if we took what we see of the world to be partial rather
-than total, it is the partiality of *a perspective* on the
-totality, whose boundary forms a horizon, infinitely far
-away, where every parallel finally converges to a point. 
-
-And to this infinite circumference for sight, the openness of a
-jar bears less resemblance than the ellipse we used before
-to complete the parabola, and offer it as a geometric image
-for being enclosed in openness. (Revise from here. Re-read
-later stuff and try to incorporate.)
+And to this infinite circumference for sight, the openness
+of a jar bears less resemblance than the ellipse we invoked
+before, to complete the parabola that we proposed as a
+geometric image for being enclosed in openness. Or perhaps
+an infinite circle would better depict this predicament,
+with a circumference nowhere to be found, because 
+of a center everywhere to be found.  (Revise
+from here. Re-read later stuff and try to incorporate.)
 
 - For again the way our
 eyes seem open is the way we seem to see *through* them to
