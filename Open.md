@@ -307,10 +307,10 @@ from the outside can still be locked from the inside, to
 help accomplish and contain the slaughter. Mere openness in
 this case seems only as boundless as true openness lets it
 be---once we count as true a form of recognition that can
-encompass even acts of transgression, and see them, if not
+countenance even acts of transgression, and see them, if not
 punish them, for what they are.
 
-The open eyes of awareness likewise let us take a
+The open eyes of awareness likewise allow us a
 closer look at the open eyes of Leontius. For while his loss
 of mastery over them may expose him, like a broken jar, to
 whatever lies outside, this same loss allows his eyes, like
@@ -336,8 +336,8 @@ nothingness rather than openness.
 And if we turn from the open eyes of Leontius to our own, we
 can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
-look is again why we call *our eyes* open rather than our
-eyelids, as we seem to see *through* them---with no
+look is why we call *our eyes* open rather than our
+eyelids, as again we seem to see *through* our eyes---with no
 boundary stopping us---to a whole world
 outside us. But this is also again to speak figuratively.
 For eyes could not be open like eyelids, or even like
@@ -348,8 +348,8 @@ Staying open for eyes seems to mean staying intact, or
 bounded, all the way around. And if eyes were open like jars
 nonetheless, then why would we *see* outside us rather than
 suffer it in blindness? For as we noted before, an open
-jar's inside risks being spoiled by the outside rather than
-sustained. By analogy, we might expect the outside to
+jar's inside risks being spoiled by the outside. 
+And we might have expected the outside to
 pose a similar threat to eyes that stay open. Yet in this respect, the
 outside is something that our power of sight protects us
 from, just as our organs of sight protect us by staying
@@ -364,10 +364,11 @@ borrowed from Leontius: eyes are open only insofar as they
 can fill---perhaps always to the brim---from within rather
 than without.-->
 
-To deepen this suggestion, we can note that we not only see
-outside us rather than suffer it in blindness; we see
-a whole world outside us in seeing any part. For we see it
-*as* a part, and therefore somehow in light of the whole. It
+To deepen this suggestion, we can note that the outside is
+not simply something we see rather than suffer; it is
+something we somehow see the whole of, in seeing any part.
+For we see this *as* a part, and therefore somehow in light
+of the whole. And hence the word "world" for what we see. It
 is as if our eyes contained the rest of the world with the
 part that might fill a jar. But how can something as small
 as our eyes contain something as large as the world? Only,
@@ -375,53 +376,58 @@ perhaps, if containment in this case were a matter of
 definition rather than size, and allowed the world to be
 encompassed before it has to be crossed. And in just this
 way, it seems, we see without having to move to what we see.
-And while in one respect we only see so far, in another we
-see as far as can be, in the embrace of all there is to see.
-For what sense, otherwise, would it make to call what we see
-*the world*? We already have enough names, it seems, for
-what there is to see: one noun, learned or invented, for
-each thing in turn. So why hold an extra one in reserve for
-everything at once? And how can this extra noun, "world",
-indeed *name* everything at once? Only, perhaps, if the
-world in this sense were not itself anything, but instead *a
-frame*---or again an embrace---of everything, serving in
-this way as a postulate for sight rather than a discovery,
-as if the world stood behind our eyes rather than in
-front of them. 
+And again, while in one respect we only see so far, in
+another we see as far as can be, in the embrace of all there
+is to see. For what sense, otherwise, would it make to call
+what we see *the world*? We have enough names without this
+one, or so it seems, for what there is to see: one noun,
+learned or invented, for each thing in turn. So why hold an
+extra one in reserve for everything at once? And how can
+this extra noun, "world", indeed *name* everything at once?
+Only, perhaps, if the world in this sense were not, in
+itself, anything, but instead *a frame*---or again an
+embrace---of everything, serving this way as a postulate
+for sight rather than a discovery, and as if the world stood
+behind our eyes rather than in front of them. 
 
-In this vein we might even say we see through our eyes not
-*to* the world, but *through* the world, to everything *in*
-the world. For the world, in this sense, would not be an
-object for sight but rather its medium, to give what we see
-outside us context rather than content. And the way our
-eyes, small as they are, might then contain this totality,
-is like the way our perspective on the world through sight,
-bounded as it is, can then contain an infinity. For the
-boundary here is sight's horizon, and every point on
-this horizon is one where parallels finally meet. If the
-world can likewise be thought the horizon for
-awareness, then it is not just a place we inhabit, but one
-we encompass. In one respect the world is what contains us;
-but in another, on this account, the world is what is
-contained by us.
+And in that case perhaps we should say we see through our
+eyes not *to* the world, but *through* the world, to
+everything *in* the world. For the world in this sense would
+a medium for sight rather than an object, to give the object
+context rather than content. And the way our eyes, small as
+they are, can then contain this totality, is like the way
+our perspective on the world through sight, bounded as it
+is, can then contain an infinity. For the boundary here is
+sight's horizon, and every point on this horizon is one
+where parallels finally meet. So if *this* horizon is large
+enough to bring infinity to a close, then perhaps the
+horizon for awareness is large enough to bring totality to
+a close. If so, then in one respect, the world would still
+be what contains us---though this the respect in which we are
+closed, the world would be what contains us. But in
+another respect, the respect in which we are *we* need
+not be open, are
+closed, the world would be what contains us. But in another
+respect, the respect in which we are open, the world would
+be what is contained by us.
 
 And in this latter respect, to this infinite circumference
-of awareness, the openness of a jar bears less resemblance
-than the ellipse we invoked before, to complete
-the parabola, and render it a geometric image for being
-enclosed in openness. Or perhaps an infinite circle would
-better depict this predicament, with a circumference nowhere
-to be found, in the appearance of boundlessness, because of
-a center everywhere to be found, in the reality of
-boundedness. This center, which we might call
-transcendental, would locate the world's relation to us
-as this is given rather than gained; and therefore already there,
-within our eyes, at the moment they open, as a cause of
-sight rather than an effect. And our very awareness of the
-world would show how being open at bottom means being
-closed at the top, like a lidded jar; a completed parabola;
-or simply a circle, beyond which there is nothing to
-be open to. 
+possessed by the open eyes of awareness, the openness of
+a jar bears less resemblance than the ellipse we invoked
+before, to complete the parabola, and render it a geometric
+image for being enclosed in openness. Or perhaps an infinite
+circle would better depict this predicament, with
+a circumference nowhere to be found, in the appearance of
+boundlessness, because of a center everywhere to be found,
+in the reality of boundedness. This center, which we might
+call transcendental, would ever locate the world's relation to us
+as this is given rather than gained, and therefore already
+there, within our eyes, at the moment they open, as a cause
+of sight rather than an effect. And our very awareness of
+the world would show how being open at bottom means being
+closed at top, like a lidded jar, or a completed parabola, 
+or simply a circle, with a circumference so definite that
+beyond it lies nothing, and nothing, then, to be open to. 
 
 # Part Three {#three}
 
