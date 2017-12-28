@@ -381,8 +381,8 @@ something as large as the world, unless containment in this
 case were a matter of definition rather than size, and
 allowed the world to be encompassed before it has to be
 crossed? In just this way, it seems, we see without having
-to move to what we see. And while it may seem we only see so
-far, there is reason to think we really see as far as can
+to move to what we see. And while in one respect we only see so
+far, in another we see as far as can
 be, in the embrace of all there is to see. For what sense,
 otherwise, would it make to call what we see *the world*? We
 already have enough names, it seems, for what there is to
@@ -391,47 +391,35 @@ So why hold an extra one in reserve for everything at once?
 And how can this extra noun, "world", indeed *name*
 everything at once? 
 
-Only, perhaps, if the world in this sense were not
-itself a thing, but instead *a
-frame*---or again an embrace---of everything we see,
-serving as a postulate for sight rather than a discovery,
-standing behind our eyes rather than in
-front of them. And perhaps we would speak with more
-exactness to say we see through
+Only, perhaps, if the world in this sense were not itself
+a thing, but instead *a frame*---or again an embrace---of
+everything we see, serving as a postulate for sight rather
+than a discovery, standing behind our eyes rather than in
+front of them. In this vein we might even say we see through
 our eyes not *to* the world, but *through* the world, to
 everything *in* the world. For the world, in this sense,
 would not be an object for sight but rather its medium, to
 give what we see outside us a context rather than content.
 And the way our eyes, small as they are, might then contain
-this totality, is like the way that our perspective on the
+this totality, is like the way our perspective on the
 world through sight, bounded as it is, can then contain an
 infinity. For the boundary in this case is a horizon, and
 every point on this horizon is one where parallels finally
-meet.
+meet. If the world can similarly be conceived, as
+the horizon of awareness, then it is not just a place we
+inhabit, but encompass. So while in one respect 
+the world is what contains us, there is another respect 
+in which the world is what is contained by us.
 
-And to this infinite circumference for sight, the openness
-of a jar bears less resemblance than the ellipse we invoked
-before, to complete the parabola that we proposed as a
-geometric image for being enclosed in openness. Or perhaps
-an infinite circle would better depict this predicament,
-with a circumference nowhere to be found, because 
-of a center everywhere to be found.  (Revise
-from here. Re-read later stuff and try to incorporate.)
-
-- For again the way our
-eyes seem open is the way we seem to see *through* them to
-a whole world outside us. But what do we mean---what could
-we mean---by "a whole world" in this context? What we seem
-to mean is a totality, even though we strictly see only so
-far, for so long, as if what we saw were never total, but
-only partial. Yet suppose it is partial. That is, suppose we
-only ever see a part of the world. Then how do we come to
-know the rest of the world, to identify what we see as
-merely a part? How else, save again by an act of
-comprehension that encompasses what we see, and
-allows us to use the word "world" for what we see
-intelligibly. 
-
+And in this latter respect, to this infinite circumference
+of awareness, the openness of a jar bears less resemblance
+than the ellipse we invoked before, to complete the
+parabola, and render it a geometric image for being enclosed
+in openness. Or perhaps an infinite circle would better
+depict this predicament, with a circumference
+nowhere to be found, in the appearance of boundlessness,
+but only because of a center everywhere to be found, in the
+reality of boundedness. But with either image
 
 Intelligibly, and also paradoxically on any 
 account that leaves our outside our
@@ -727,6 +715,20 @@ image.
 this to Bergson.)
 
 #### Leftovers from outline
+
+- For again the way our
+eyes seem open is the way we seem to see *through* them to
+a whole world outside us. But what do we mean---what could
+we mean---by "a whole world" in this context? What we seem
+to mean is a totality, even though we strictly see only so
+far, for so long, as if what we saw were never total, but
+only partial. Yet suppose it is partial. That is, suppose we
+only ever see a part of the world. Then how do we come to
+know the rest of the world, to identify what we see as
+merely a part? How else, save again by an act of
+comprehension that encompasses what we see, and
+allows us to use the word "world" for what we see
+intelligibly. 
 
 - Earlier formulation not working out. ---once we count as
 true not simply what can be betrayed in being open, but also
