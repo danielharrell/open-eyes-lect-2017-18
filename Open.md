@@ -35,7 +35,6 @@ for wonder.
 Another reason is that we use the word, typically,
 without further ado, as if its meaning were already
 understood. But if so, then how is it understood?
-
 And is there something here not understood? Or better
 understood? The difference between a door and an open door
 may be like the difference between Socrates and Socrates
@@ -45,7 +44,7 @@ philosopher in all of us, then, can wonder about that
 difference. We can wonder what it means to say "my door is
 always open"---even if asking this of a friend, who just
 said it to you, risks being rude, or dense. The way we use
-the word "open" without further thought may make it worth
+the word "open" without further thought makes it worth
 further thought.
 
 Still another reason for wonder comes from the way we
@@ -57,7 +56,7 @@ constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
 when we talk of eyes being opened? Or hearts? Or minds?
 Or again the proverbial door, always open to a friend?
-Here, it seems, we use the word "open" for a positive
+Here we use the word "open" for a positive
 condition, a state of being, which any negative definition
 at best half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
@@ -72,8 +71,8 @@ eyes, to a whole world outside us---as if our eyes *were*
 open, even transparent. <!-- This reaching out should be
 used in a transition paragraph later.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
-wakefulness, watchfulness, awareness. And awareness,
-perhaps, is not just one way of being, but *our* way of
+wakefulness, watchfulness, awareness. And awareness is arguably
+not just one way of being, but *our* way of
 being: the one underneath all the others; the one that 
 explains *why* we use the word with such scope, and as if it
 were already understood.
@@ -118,7 +117,7 @@ on the cover of the St. John's viewbook?-->
 # Part Two {#two}
 
 In all these ways, the word "open" thus gives us much to wonder
-about. But there is another sense, I want to suggest, in
+about. But there is another way, I want to suggest, in
 which the word gives us just one thing to wonder about. And
 this is by analogy, borrowing from Aristotle again, to the
 one thing we can wonder about when we encounter, as if for
@@ -131,7 +130,7 @@ isn't really possible, on a certain philosophical
 explanation--> Once we learn how, we can give what we
 encounter a name, like "marionette", or "solstice", or
 "incommensurable." But such names can become words that we
-inherit rather than originate. And then they can discourage
+inherit rather than originate. And they can then discourage
 understanding just as much as display it, as we use the name
 for what we don't yet know as if we do. <!--Later return to
 this: Aristotle says we end in opposite state from wonder,
@@ -188,7 +187,7 @@ how great my grip on the lid?
 This is one way to wonder how being open is possible.
 But not the only way. And other ways need make no appeal to nature,
 or ruin, if an inside is left open to the outside too
-long. For now consider a line from geometry: [the parabola].
+long. For now consider a line from geometry: the parabola.
 We can distinguish the sides of this line, one convex and
 one concave, since the parabola is curved. But suppose we
 go further, and take the convex side to be "inside" the
@@ -218,9 +217,7 @@ to make the inside of the parabola definite, we will have
 make the openness of the parabola at once intelligible yet
 impassable. The way it stays open on one side will be something we can
 plainly see, even point to, yet never reach---as if openness
-had no being but seeming. <!--Later shift this image to
-infinite circle whose center is everywhere and circumference
-nowhere, when talking about totality, or world.-->
+had no being but seeming.
 
 This, then, is another way to wonder how being open is
 possible. <!--Note later that we wonder this by giving
@@ -268,14 +265,15 @@ openness to be praised?
 
 We can ask this question from another direction. For suppose
 the difference between true openness and mere openness were
-something like the difference between letting in and getting
+like the difference between letting in and getting
 in. But how can we distinguish letting in from getting in,
 save in light of a power to keep certain things *out*, like
 corpses and suitors? The power, that is, to be closed? And
 even if this is also the power to be open, the exercise of
 it would seem to involve a choice that encompasses what we
 are open to, and in that sense encloses it, just as the
-parabola was enclosed in openness. This enclosure in the
+parabola was enclosed in openness. <!--Use this formulation
+later--> This enclosure in the
 human case might be thought a boundary of recognition, that
 not only excludes what we keep out, but contains what we let
 in. This boundary would also be what breaks in cases of
@@ -297,7 +295,7 @@ perhaps even mere openness must be bounded, to gain any
 semblance of boundlessness. For now consider our deepest
 state of being, on my earlier suggestion: the open eyes of
 awareness. Here, too, openness has the genuineness of a
-virtue, but in the older sense of a natural power, beneath
+virtue, but in the sense of a natural power, beneath
 any cultivated excellence, and inclusive of any corruption
 that comes to light. This scope is made dramatic in the case
 of Odysseus. For while his absence allows the suitors to
@@ -333,36 +331,33 @@ escape not merely the bounds of better judgment, but even
 those of simple cognizance, and become an example of
 nothingness rather than openness.
 
-And if we turn from the open eyes of Leontius to our own, we
-can better see how the truth of openness might lie in
+And if we turn from the open eyes of Leontius to our own,
+we can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
-look is why we call *our eyes* open rather than our
-eyelids, as again we seem to see *through* our eyes---with no
-boundary stopping us---to a whole world
-outside us. But this is also again to speak figuratively.
-For eyes could not be open like eyelids, or even like
-lidless jars---the eyes of Leontius notwithstanding. That
-is, eyes could not be boundless on the side they open. For
-on that side they can be poked, injured, even blinded.
-Staying open for eyes seems to mean staying intact, or
-bounded, all the way around. And if eyes were open like jars
-nonetheless, then why would we *see* outside us rather than
-suffer it in blindness? For as we noted before, an open
-jar's inside risks being spoiled by the outside. 
-And we might have expected the outside to
-pose a similar threat to eyes that stay open. Yet in this respect, the
-outside is something that our power of sight protects us
-from, just as our organs of sight protect us by staying
-intact. But how, in that case, are eyes open to the outside
-at all? Only, perhaps, if they can contain it rather than
-yield to it, in an act of comprehension rather than
-submission. Only, that is, if our eyes enclose what they see,
-can they be open to what they see. And we would again find
-ourselves enclosed in openness, only now in the kind of
-openness---awareness---most our own. <!--Or in terms
-borrowed from Leontius: eyes are open only insofar as they
-can fill---perhaps always to the brim---from within rather
-than without.-->
+look is why we again call *our eyes* open rather than our
+eyelids, as we seem to see through our eyes---with no
+boundary stopping us---to a whole world outside us. But
+this is also again to speak figuratively. For eyes could
+not be open like eyelids, or even like lidless jars---the
+eyes of Leontius notwithstanding. That is, eyes could not
+be boundless on the side they open. For on that side they
+can be poked, injured, even blinded. Staying open for
+eyes seems to mean staying intact, or bounded, all the
+way around. And if eyes were open like jars nonetheless,
+then why would we *see* outside us rather than suffer it
+in blindness? For as we noted before, an open jar's inside
+risks being spoiled by the outside. Why should the outside
+not pose a similar threat to eyes that stay open? Yet in
+this respect, the outside is something that our power of
+sight protects us from, just as our organs of sight protect
+us by staying intact. But how, in that case, are eyes open
+to the outside at all? Only, perhaps, if they can contain it
+rather than yield to it, in an act of comprehension rather
+than submission. Only, that is, if our eyes enclose what
+they see, can they be open to what they see. And we would
+again find ourselves enclosed in openness; no different
+from the parabola even in the kind of openness---awareness---most
+our own.
 
 To deepen this suggestion, we can note that the outside is
 not simply something we see rather than suffer; it is
@@ -382,7 +377,7 @@ sense, otherwise, would it make to call what we see *the
 world*? We have enough names without this one for what there
 is to see: one noun, learned or invented, for each thing in
 turn. So why hold an extra noun in reserve, for everything
-at once? And how can this noun, "world", indeed *name*
+at once? And how can this noun, "world", *name*
 everything at once? Only, perhaps, if the world in this
 sense were not, in itself, anything, but instead *a
 frame*---or again an embrace---of everything, serving this
@@ -390,7 +385,15 @@ way as a postulate for sight rather than a discovery, and as
 if the world stood behind our eyes rather than in front of
 them. 
 
-And in that case perhaps we should say we see through our
+(Revise from here.) Bring first part of next paragraph
+to previous paragraph, since it continues thought. Then
+start next paragraph with something like: "We can look
+at this another way, which gives a final justification
+of the parabola's being enclosed in openness."
+Also could eliminate first part of containing totality, 
+introduce it later in next paragraph.
+
+In that case perhaps we should say we see through our
 eyes not *to* the world, but *through* the world, to
 everything *in* the world. For the world in this sense would
 be a medium for sight rather than an object, to give any
