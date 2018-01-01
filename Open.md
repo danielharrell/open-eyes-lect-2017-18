@@ -316,76 +316,80 @@ lies outside, this same loss allows his eyes, like an
 unbroken jar, to take their fill---one might say to the
 brim---of the spectacle. His boundless eyes might even be
 compared to a perfect jar: one that stays intact, no matter
-what it contains, or how full it gets; and with nothing for a lid
-to protect, given this indifference to its contents. 
-This perfection of outer sight also seems matched,
-even surpassed, by inner sight. For Leontius is able to
-denounce his eyes, despite his loss of command. "Look for
-yourselves," he exclaims, "you evil wretches, take your fill
-of the beautiful sight." His eyes remain his, despite their
-liberation from him. For their becoming unbounded results
-not in blindness, but sight; and not unconsciousness of the
-fact, but recognition of it. To stare is still to see, and
-in this case to see with an acute sense of the boundary
-breached in seeing. This is another case, then, where mere
-openness seems only as boundless as true openness lets it
-be, lest it escape not merely the bounds of better judgment,
-but even those of simple cognizance, and become an example
-of nothingness rather than openness.
+what it contains, or how full it gets; and with nothing for
+a lid to protect, given its indifference to its contents.
+This perfection of outer sight also seems matched by inner
+sight. For Leontius is able to denounce his eyes, despite
+his loss of command. "Look for yourselves," he exclaims,
+"you evil wretches, take your fill of the beautiful sight."
+His eyes remain his, despite their liberation from him.
+For their becoming unbounded results not in blindness, but
+sight; and not unconsciousness of the fact, but recognition
+of it. To stare is still to see, and in this case to see
+with an acute sense of the boundary breached in seeing.
+This is another case, then, where mere openness seems only
+as boundless as true openness lets it be, lest it escape
+not merely the bounds of better judgment, but even those of
+simple cognizance, rendering it an example of nothingness
+rather than openness.
 
-And if we turn from the open eyes of Leontius to our own,
-we can better see how the truth of openness might lie in
+And if we turn from the open eyes of Leontius to our own, we
+can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
 look is why we again call *our eyes* open rather than our
 eyelids, as we seem to see through our eyes---with no
-boundary stopping us---to a whole world outside us. But
-this is also again to speak figuratively. For eyes could
-not be open like eyelids, or even like lidless jars---the
-eyes of Leontius notwithstanding. That is, eyes could not
-be boundless on the side they open. For on that side they
-can be poked, injured, even blinded. Staying open for
-eyes seems to mean staying intact, or bounded, all the
-way around. And if eyes were open like jars nonetheless,
-then why would we *see* outside us rather than suffer it
-in blindness? For as we noted before, an open jar's inside
+boundary stopping us---to a whole world outside us. But this
+is also again to speak figuratively. For eyes could not be
+open like eyelids, or even like lidless jars---the eyes of
+Leontius notwithstanding. That is, eyes could not be
+boundless on the side we are wont to say they open. For on
+that side they can be poked, injured, even blinded. Staying
+open for eyes seems to mean staying intact, or bounded, all
+the way around. And if eyes were open like jars nonetheless,
+then why would we *see* outside us rather than suffer it in
+blindness? For as we noted before, an open jar's inside
 risks being spoiled by the outside. Why should the outside
-not pose a similar threat to eyes that stay open? Yet in
-this respect, the outside is something that our power of
+not then pose a similar threat to eyes that stay open? Yet
+in this respect, the outside is something that our power of
 sight protects us from, just as our organs of sight protect
-us by staying intact. But how, in that case, are eyes open
-to the outside at all? Only, perhaps, if they can contain it
-rather than yield to it, in an act of comprehension rather
-than submission. Only, that is, if our eyes enclose what
-they see, can they be open to what they see. And we would
-again find ourselves enclosed in openness; no different
-from the parabola even in the kind of openness---awareness---most
-our own.
+us by staying intact. But how, in that case, can eyes be
+open to the outside at all, even speaking figuratively?
+Only, perhaps, if they can contain it rather than yield to
+it, in an act of comprehension rather than submission. That
+is, only if our eyes enclose what they see, can they be open
+to what they see. And we would again find ourselves enclosed
+in openness; no different from the parabola even in the kind
+of openness---awareness---most our own.
 
-To deepen this suggestion, we can note that the outside is
-not simply something we see rather than suffer; it is
-something we somehow see the whole of, in seeing any part.
-For we see this *as* a part, and therefore somehow in light
-of the whole. Hence the word "world" for what we see, and as
-if our eyes contained the rest of it with the part that
-might fill a jar. But how can something as small as our eyes
-contain something as large as the world? Only, perhaps, if
-containment in this case were a matter of definition rather
-than size, and allowed the world to be encompassed before it
-has to be crossed. And in just this way, it seems, we see
-without having to move to what we see. And again, while in
-one respect we only see so far, in another we see as far as
-can be, in the embrace of all there is to see. For what
-sense, otherwise, would it make to call what we see *the
-world*? We have enough names without this one for what there
-is to see: one noun, learned or invented, for each thing in
-turn. So why hold an extra noun in reserve, for everything
-at once? And how can this noun, "world", *name*
-everything at once? Only, perhaps, if the world in this
-sense were not, in itself, anything, but instead *a
-frame*---or again an embrace---of everything, serving this
-way as a postulate for sight rather than a discovery, and as
-if the world stood behind our eyes rather than in front of
-them. 
+But we can press this thought still further in defense of
+our being enclosed in openness, and towards an even more
+bounded geometric image of our predicament than the
+parabola. For consider again how, through open eyes, we seem
+to see a whole world outside us. Yet if this only makes
+sense at all insofar as our eyes contain what they see, then how
+can something so small contain something so large? Or to put
+it more radically: how can a mere part of the world contain
+the entire world? Only, perhaps, if containment in this case
+were a matter of definition rather than size, and allowed
+the world to be encompassed before it has to be crossed. And
+in just this way, it seems, we see without having to move to
+what we see. We might even say that what
+it means to see is for the world to contain at one place or
+part, other places or parts. And indeed perhaps every other
+place or part. For while in one respect we only see so far,
+in another it seems we see as far as can be, in the embrace
+of all there is to see. For what sense, otherwise, would it
+make to call what we see *the world*? We have enough names
+without this one for what there is to see: one noun, learned
+or invented, for each thing in turn. So why hold an extra
+one in reserve for everything at once? And how can this
+noun, "world", *name* everything at once? Only, perhaps, if
+the world in this sense were not, in itself, anything, but
+instead *a frame*---or again an embrace---of everything; the
+very circumference of what our eyes, across any distance,
+can encompass. , and serving this way as a postulate for sight
+rather than a discovery, and as if the world stood behind
+our eyes rather than in front of them. 
 
 (Revise from here.) Bring first part of next paragraph
 to previous paragraph, since it continues thought. Then
