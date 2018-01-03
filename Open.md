@@ -366,30 +366,45 @@ our being enclosed in openness, and towards an even more
 bounded geometric image of our predicament than the
 parabola. For consider again how, through open eyes, we seem
 to see a whole world outside us. Yet if this only makes
-sense at all insofar as our eyes contain what they see, then how
-can something so small contain something so large? Or to put
-it more radically: how can a mere part of the world contain
-the entire world? Only, perhaps, if containment in this case
-were a matter of definition rather than size, and allowed
-the world to be encompassed before it has to be crossed. And
-in just this way, it seems, we see without having to move to
-what we see. We might even say that what
-it means to see is for the world to contain at one place or
-part, other places or parts. And indeed perhaps every other
-place or part. For while in one respect we only see so far,
-in another it seems we see as far as can be, in the embrace
-of all there is to see. For what sense, otherwise, would it
-make to call what we see *the world*? We have enough names
-without this one for what there is to see: one noun, learned
-or invented, for each thing in turn. So why hold an extra
-one in reserve for everything at once? And how can this
-noun, "world", *name* everything at once? Only, perhaps, if
-the world in this sense were not, in itself, anything, but
-instead *a frame*---or again an embrace---of everything; the
-very circumference of what our eyes, across any distance,
-can encompass. , and serving this way as a postulate for sight
-rather than a discovery, and as if the world stood behind
-our eyes rather than in front of them. 
+sense at all insofar as our eyes contain what they see, then
+how can something so small contain something so large? Or to
+put it more radically: how can a mere part of the world
+contain the entire world? Only, perhaps, if containment in
+this case were a matter of definition rather than size, and
+allowed the world to be encompassed before it has to be
+crossed. And in just this way, it seems, we see without
+having to move to what we see. We might even say that what
+it means to see is for the world to contain, at one place or
+part, other places or parts. And perhaps to contain every
+other place or part. For while in one respect we only see so
+far, in another it seems we see as far as can be, in the
+embrace of all there is to see. We only see as far as the
+horizon, for example; yet every point on this horizon is one
+where parallels finally meet, as if seeing that far
+comprehended an infinity. Just as we seem to comprehend a totality,
+in calling this a mere
+perspective on the world.  Just as we comprehend a totality,
+even if we call this a mere perspective on the world. And
+the way our eyes, small as they are, could then contain this
+totality, is like the way our perspective on the world
+through sight, bounded as it is, can then contain an
+infinity.  For the boundary here is the horizon of sight,
+and every point on this horizon is one where parallels
+finally meet. So if *this* horizon is large enough to bring
+infinity to a close, then perhaps the horizon of awareness
+is large enough to bring totality to a close. For what
+sense, otherwise, would it make to call what we see *the
+world*? We have enough names without this one for what there
+is to see: one noun, learned or invented, for each thing in
+turn. So why hold an extra one in reserve for everything at
+once? And how can this noun, "world", *name* everything at
+once? Only, perhaps, if the world in this sense were not, in
+itself, anything, but instead *a frame*---or again an
+embrace---of everything; the very circumference, in other
+words, of what our open eyes, across any distance,
+encompass. The world in this sense would serve as
+a postulate for sight rather than a discovery, and as if the
+world stood behind our eyes rather than in front of them. 
 
 (Revise from here.) Bring first part of next paragraph
 to previous paragraph, since it continues thought. Then
@@ -403,15 +418,7 @@ In that case perhaps we should say we see through our
 eyes not *to* the world, but *through* the world, to
 everything *in* the world. For the world in this sense would
 be a medium for sight rather than an object, to give any
-object context rather than content. And the way our eyes,
-small as they are, could then contain this totality, is like
-the way our perspective on the world through sight, bounded
-as it is, can then contain an infinity. For the boundary
-here is the horizon of sight, and every point on this
-horizon is one where parallels finally meet. So if *this*
-horizon is large enough to bring infinity to a close, then
-perhaps the horizon of awareness is large enough to bring
-totality to a close. The world could still be what contains
+object context rather than content. The world could still be what contains
 us, but only insofar as we were embodied, or
 closed. Insofar as we were aware, or open, the world instead
 would be what is contained by us. 
