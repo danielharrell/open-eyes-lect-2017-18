@@ -289,8 +289,8 @@ from within.
 On this account, then, only mere openness could be
 boundless. True openness is always bounded, or closed. Yet
 even this much allowance for boundless openness might have
-to be revoked, if mere openness is not really open, but
-broken. And there is another reason to think that even mere
+to be revoked, if mere openness were not really open, but
+broken. And there is more reason to think that even mere
 openness must be bounded, to gain any semblance of
 boundlessness. For now consider our deepest state of being,
 on my earlier suggestion: the open eyes of awareness. Here,
@@ -336,7 +336,7 @@ rather than openness.
 And if we turn from the open eyes of Leontius to our own, we
 can better see how the truth of openness might lie in
 boundedness, even when its look is boundless. This boundless
-look is why we again call *our eyes* open rather than our
+look is why again we call *our eyes* open rather than our
 eyelids, as we seem to see through our eyes---with no
 boundary stopping us---to a whole world outside us. But this
 is also again to speak figuratively. For eyes could not be
@@ -348,7 +348,7 @@ to mean staying intact, or bounded, all the way around. And
 if eyes were open like jars nonetheless, then why would we
 *see* outside us rather than suffer it in blindness? For as
 we noted before, an open jar's inside risks being spoiled by
-the outside. Why should the outside not then pose a similar
+the outside. Why should the outside not pose a similar
 threat to eyes that stay open? Yet in this respect, the
 outside is something that our power of sight protects us
 from, just as our organs of sight protect us by staying
@@ -358,13 +358,13 @@ can contain it rather than yield to it, in an act of
 comprehension rather than submission. That is, perhaps only
 if our eyes enclose what they see, can they be open to what
 they see. If so, then we would again find ourselves enclosed
-in openness; and no different from the parabola, even in the
-kind of openness---awareness---most our own.
+in openness, and no different from the parabola even in
+the kind of openness most our own.
 
 But we can clarify this thought, and towards an even more
 bounded geometric image of our predicament. For not only do
 we seem to see outside us through open eyes; we seem to see
-*a whole world* outside us. Yet if this is merely the
+*a whole world* outside us. But if this is merely the
 unbounded look of what is truly bounded, then how? That is,
 how could something as small as our eyes *contain* something
 as large as the world? Or more radically: how can a mere
@@ -372,7 +372,12 @@ part of the world *contain* the entire world? Only, perhaps,
 if containment in this case were a matter of definition
 rather than size, and allowed the world to be encompassed
 before it has to be crossed. But in just this way, it seems,
-we see without having to move to what we see; and can
+we see without having to move to what we see. 
+And we might even say that what it *means* to see is for
+the world to contain, at one place or part, other places
+or parts. 
+
+. ; and can
 call what we see "the world", no matter how partial or
 provisional our point of view. It is as if the world does
 contain, at one place or part, its other places or parts . It is as if
