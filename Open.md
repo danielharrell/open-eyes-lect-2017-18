@@ -358,28 +358,32 @@ can contain it rather than yield to it, in an act of
 comprehension rather than submission. That is, perhaps only
 if our eyes enclose what they see, can they be open to what
 they see. If so, then we would again find ourselves enclosed
-in openness; no different from the parabola, even in the
+in openness; and no different from the parabola, even in the
 kind of openness---awareness---most our own.
 
 But we can clarify this thought, and towards an even more
-bounded geometric image of our predicament. For not only
-do we seem to see outside us through open eyes; we seem
-to see *a whole world* outside us. Yet if this is merely
-the unbounded look of what is truly bounded, then how?
-That is, how could something as small as our eyes contain
-something as large as the world? Or more radically: 
-how can a mere part of the world contain the
-entire world? Only, perhaps, if containment in this case
-were a matter of definition rather than size, and allowed
-the world to be encompassed before it has to be crossed. Yet 
-in just this way, it seems, we see without having to move
-to what we see; and as if the world could indeed contain, at
-one place or part, other places or parts. Or as if
-we were always at a kind of center for sight, and what
-we see on a kind of circumference, which in its entirety
-is what we *mean* by "a whole world outside us".
-(Move on to perspective from here, then underline that
-language here is of a circle.)
+bounded geometric image of our predicament. For not only do
+we seem to see outside us through open eyes; we seem to see
+*a whole world* outside us. Yet if this is merely the
+unbounded look of what is truly bounded, then how? That is,
+how could something as small as our eyes *contain* something
+as large as the world? Or more radically: how can a mere
+part of the world *contain* the entire world? Only, perhaps,
+if containment in this case were a matter of definition
+rather than size, and allowed the world to be encompassed
+before it has to be crossed. But in just this way, it seems,
+we see without having to move to what we see; and can
+call what we see "the world", no matter how partial or
+provisional our point of view. It is as if the world does
+contain, at one place or part, its other places or parts . It is as if
+we were always at a kind of center for sight, and what we see
+on a kind of circumference, which in its entirety is what
+we *mean* by "a whole world outside us". And in this
+way at least, it seems as if the world
+could contain, at one place or part, its other places
+or parts. (Move on to perspective from here, then underline
+that language here is of a circle. Also note that
+circumference looks straight if infinite)
 
 We could even say what it *is* to see is for the
 world to contain, at one place or part as center, its other
