@@ -262,29 +262,29 @@ openness to be praised?
 
 We can ask this question from another direction. For suppose
 the difference between true openness and mere openness were
-like the difference between letting in and getting
-in. But how can we distinguish letting in from getting in,
-save in light of a power to keep certain things *out*, like
-corpses and suitors? The power, that is, to be closed? And
-even if this is also the power to be open, the exercise of
-it would seem to involve a choice that encompasses what we
-are open to, and in that sense encloses it, just as the
-parabola was enclosed in openness. <!--Use this formulation
-later--> This enclosure in the
-human case might be thought a boundary of recognition, that
-not only excludes what we keep out, but contains what we let
-in. This boundary would also be what breaks in cases of
-corruption, laying us open, like a broken jar, to whatever
-lies outside. Or we might say there is a kind of hinge in
-being open that works, once it breaks, only one way: outside
-in. When Odysseus, then, is no longer master of his door, we
-could say it no longer opens from the inside, to contain the
-outside in an act of recognition. And since his door now
-only opens from the outside, it exposes the inside to an act
-of transgression. Hence the suitors, and how they indeed get
-into the house of Odysseus. Or the corpses, and how *they*
-get into the eyes of Leontius, once he loses his mastery of
-them, and can no longer open them from within.
+like the difference between letting in and getting in. But
+how can we distinguish letting in from getting in, save in
+light of a power to keep certain things *out*, like corpses
+and suitors? The power, that is, to be closed? And even if
+this is also the power to be open, the exercise of it would
+seem to involve a choice that encompasses what we are open
+to, and in that sense encloses it, just as the parabola was
+enclosed in openness. <!--Use this formulation later--> This
+enclosure in the human case might be thought a boundary of
+recognition, that not only excludes what we keep out, but
+contains what we let in. This boundary would also be what
+breaks in cases of corruption, laying us open, like a broken
+jar, to whatever lies outside. Or we might say there is a
+kind of hinge in being open that works, once it breaks,
+only one way: outside in. When Odysseus, then, is no longer
+master of his door, we could say it no longer opens from the
+inside, to contain the outside in an act of recognition. And
+since his door now only opens from the outside, it exposes
+the inside to an act of transgression. Hence the suitors,
+and how they indeed get into the house of Odysseus. Or the
+corpses, and how *they* get into the eyes of Leontius, once
+he loses his mastery of them, and can no longer open them
+from within.
 
 On this account, then, only mere openness could be
 boundless. True openness is always bounded, or closed. Yet
@@ -342,77 +342,100 @@ boundary stopping us---to a whole world outside us. But this
 is also again to speak figuratively. For eyes could not be
 open like eyelids, or even like lidless jars---the eyes of
 Leontius notwithstanding. That is, eyes could not be
-boundless on the side we are wont to say they open. For on
-that side they can be poked, injured, even blinded. Staying
-open for eyes seems to mean staying intact, or bounded, all
-the way around. And if eyes were open like jars nonetheless,
-then why would we *see* outside us rather than suffer it in
-blindness? For as we noted before, an open jar's inside
-risks being spoiled by the outside. Why should the outside
-not then pose a similar threat to eyes that stay open? Yet
-in this respect, the outside is something that our power of
-sight protects us from, just as our organs of sight protect
-us by staying intact. But how, in that case, can eyes be
-open to the outside at all, even speaking figuratively?
-Only, perhaps, if they can contain it rather than yield to
-it, in an act of comprehension rather than submission. That
-is, only if our eyes enclose what they see, can they be open
-to what they see. And we would again find ourselves enclosed
-in openness; no different from the parabola even in the kind
-of openness---awareness---most our own.
+boundless on the side they open. For on that side they can
+be poked, injured, even blinded. Staying open for eyes seems
+to mean staying intact, or bounded, all the way around. And
+if eyes were open like jars nonetheless, then why would we
+*see* outside us rather than suffer it in blindness? For as
+we noted before, an open jar's inside risks being spoiled by
+the outside. Why should the outside not then pose a similar
+threat to eyes that stay open? Yet in this respect, the
+outside is something that our power of sight protects us
+from, just as our organs of sight protect us by staying
+intact. But how, in that case, can eyes be open to the
+outside at all, even figuratively? Only, perhaps, if they
+can contain it rather than yield to it, in an act of
+comprehension rather than submission. That is, perhaps only
+if our eyes enclose what they see, can they be open to what
+they see. If so, then we would again find ourselves enclosed
+in openness; no different from the parabola, even in the
+kind of openness---awareness---most our own.
 
-But we can press this thought still further in defense of
-our being enclosed in openness, and towards an even more
-bounded geometric image of our predicament than the
-parabola. For consider again how, through open eyes, we seem
-to see a whole world outside us. Yet if this only makes
-sense at all insofar as our eyes contain what they see, then
-how can something so small contain something so large? Or to
-put it more radically: how can a mere part of the world
-contain the entire world? Only, perhaps, if containment in
-this case were a matter of definition rather than size, and
-allowed the world to be encompassed before it has to be
-crossed. And in just this way, it seems, we see without
-having to move to what we see. We might even say that what
-it means to see is for the world to contain, at one place or
-part, other places or parts. And perhaps to contain every
-other place or part. For while in one respect we only see so
-far, in another it seems we see as far as can be, in the
-embrace of all there is to see. We only see as far as the
-horizon, for example; yet every point on this horizon is one
-where parallels finally meet, as if seeing that far
-comprehended an infinity. Just as we seem to comprehend a totality,
-in calling this a mere
-perspective on the world.  Just as we comprehend a totality,
-even if we call this a mere perspective on the world. And
-the way our eyes, small as they are, could then contain this
-totality, is like the way our perspective on the world
-through sight, bounded as it is, can then contain an
-infinity.  For the boundary here is the horizon of sight,
-and every point on this horizon is one where parallels
-finally meet. So if *this* horizon is large enough to bring
-infinity to a close, then perhaps the horizon of awareness
-is large enough to bring totality to a close. For what
-sense, otherwise, would it make to call what we see *the
-world*? We have enough names without this one for what there
-is to see: one noun, learned or invented, for each thing in
-turn. So why hold an extra one in reserve for everything at
-once? And how can this noun, "world", *name* everything at
-once? Only, perhaps, if the world in this sense were not, in
-itself, anything, but instead *a frame*---or again an
-embrace---of everything; the very circumference, in other
-words, of what our open eyes, across any distance,
-encompass. The world in this sense would serve as
-a postulate for sight rather than a discovery, and as if the
-world stood behind our eyes rather than in front of them. 
+But we can clarify this thought, and towards an even more
+bounded geometric image of our predicament. For not only
+do we seem to see outside us through open eyes; we seem
+to see *a whole world* outside us. Yet if this is merely
+the unbounded look of what is truly bounded, then how?
+That is, how could something as small as our eyes contain
+something as large as the world? Or more radically: 
+how can a mere part of the world contain the
+entire world? Only, perhaps, if containment in this case
+were a matter of definition rather than size, and allowed
+the world to be encompassed before it has to be crossed. Yet 
+in just this way, it seems, we see without having to move
+to what we see; and as if the world could indeed contain, at
+one place or part, other places or parts. Or as if
+we were always at a kind of center for sight, and what
+we see on a kind of circumference, which in its entirety
+is what we *mean* by "a whole world outside us".
+(Move on to perspective from here, then underline that
+language here is of a circle.)
 
-(Revise from here.) Bring first part of next paragraph
-to previous paragraph, since it continues thought. Then
-start next paragraph with something like: "We can look
-at this another way, which gives a final justification
-of the parabola's being enclosed in openness."
-Also could eliminate first part of containing totality, 
-introduce it later in next paragraph.
+We could even say what it *is* to see is for the
+world to contain, at one place or part as center, its other
+places or parts at a circumference. . Yet if the places or
+parts are to remain distinct, then the one place or part The
+one place or part could be thought a kind of center, and
+the other places or parts And comprehension is one way to
+characterize the achievement of sight. We see, after all,
+without having to move to what we see, as if sight spared us
+any distance to cross, by allowing us instead to encompass
+it, putting us at a kind of center, and what we see on a
+kind of circumference. of a circumference and what we see
+at a kind of circumference. (Then expand on circumference.)
+in a kind of circumference. having to cross any distance,
+since it allowed us instead to encompass. werecrossed, by
+sight, but rather encompassed. as if sight allowed us to
+encompass distance rather than spared us having to cross
+what it allowed us todistance were encompassed, not crossed
+se without having to be crossed. And we might even say that
+what it *means* to see is for the world to contain, at one
+place or part, other places or parts. the power of sight
+were a power to encompass
+
+And perhaps *every* other place or part. For while
+in one respect we see only so far, in another it seems we
+see as far as can be, in the embrace of all there is to see.
+We could say we see only as far as the horizon; yet every
+point on this horizon is one where parallels finally meet,
+as if seeing that far comprehended an infinity. And insofar
+as we give the name "world" to what we see, seeing that far
+seems to comprehend a totality. And it provides a kind of
+frame---or again an embrace---Our point of view upon
+the world may be partial, hasven if our view of
+the world is always partial, it it
+certainly seems to comprehend a totality: the totality
+that we call "the world", even if our view of the world 
+is always partial. Since this is the partiality of
+a perspective, or point of view, we could say that it possesses
+not simply a center, but a circumference; and the
+circumference insofar
+as we can call this circumference (Revise.) and on which our open eyes afford
+us some perspective on, for even if
+our open eyes afford us a mere perspective on the world, even if
+this distance is finite, affording us a mere perspective
+on the world, how could we call this the world unless
+our seeing that far we saw it looks as if seeing that far still
+comprehends a totality: the world that we see through
+this perspective. being of the world: the world of our perspective.  And perhaps
+the only way we could see that far at any finite distance
+is if the world in this sense were not, in itself,
+anything; but instead *a frame*---or again an embrace---of
+everything: the very circumference, in other words, of what
+our open eyes encompass, across any distance near or far.
+The world in this sense would serve as a postulate for sight
+rather than a discovery, and as if the world stood behind
+our eyes rather than in front of them. 
 
 In that case perhaps we should say we see through our
 eyes not *to* the world, but *through* the world, to
