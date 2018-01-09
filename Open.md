@@ -67,8 +67,7 @@ say our eyes are open, merely to mean we are awake. But why say
 this of our eyes, and not our eyelids, which we might call
 "open" more literally? To use the word for our eyes may be
 figurative; but it captures how we seem to see *through* our
-eyes, to a whole world outside us---as if our eyes *were*
-open, even transparent. <!-- This reaching out should be
+eyes, to a whole world outside us. <!-- This reaching out should be
 used in a transition paragraph later.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
 wakefulness, watchfulness, awareness. And awareness is arguably
@@ -118,33 +117,33 @@ on the cover of the St. John's viewbook?-->
 
 In all these ways, the word "open" gives us much to wonder
 about. But there is another way, I want to suggest, in
-which the word gives us just one thing to wonder about. And
-this is by analogy, borrowing from Aristotle again, to the
-one thing we can wonder about when we encounter, as if for
-the first time, wooden figures come to life; or the sun
-reverse course one day in the sky; or the diagonal of
+which the word gives us just one thing to wonder about.
+And this is by analogy, borrowing from Aristotle again, to
+the one thing we can wonder about when we encounter, as if
+for the first time, wooden figures come to life; or the
+sun reverse course one day in the sky; or the diagonal of
 a square escape measure by any part of its side, no matter
-how small.[^AristotleWonder.] The wonder, in each case, is
-how such a thing is possible. <!--Later point out that this
-isn't really possible, on a certain philosophical
+how small.[^AristotleWonder.] The wonder, in each case,
+is how such a thing is possible. <!--Later point out that
+this isn't really possible, on a certain philosophical
 explanation--> Once we learn how, we can give what we
 encounter a name, like "marionette", or "solstice", or
-"incommensurable." But such names can become words that we
-inherit rather than originate, and discourage
-understanding just as much as display it, as we use the name
-for what we don't yet know as if we do. <!--Later return to
-this: Aristotle says we end in opposite state from wonder,
-which suggests a kind of negation of world in which wonder
-began, or an understanding of world that leaves no place for
-wonder; just like Aristotle's account of nous. Another way
-to describe this: how the cause of wonder ends up being
-located in the realm of appearance, to be dispelled by an
-account of the reality. Then can move on to Phaedo.-->
-<!--Another thought: In moving from an appearance of
-openness to its denial in reality, we are thinking
-philosophically, yet common life continues to embrace
-openness. Could use the Bergson quote here. Then quote from
-other others to show the ambivalence of philosophy.--> 
+"incommensurable." But these can become words we inherit
+rather than originate, and discourage understanding just as
+much as display it, as we use the name for what we don't
+yet know as if we do. <!--Later return to this: Aristotle
+says we end in opposite state from wonder, which suggests
+a kind of negation of world in which wonder began, or an
+understanding of world that leaves no place for wonder; just
+like Aristotle's account of nous. Another way to describe
+this: how the cause of wonder ends up being located in the
+realm of appearance, to be dispelled by an account of the
+reality. Then can move on to Phaedo.--> <!--Another thought:
+In moving from an appearance of openness to its denial in
+reality, we are thinking philosophically, yet common life
+continues to embrace openness. Could use the Bergson quote
+here. Then quote from other others to show the ambivalence
+of philosophy.-->
 
 The word "open", I suspect, is just such a name. Behind it,
 or beneath it, lies a problem, a paradox, to make us wonder
@@ -274,40 +273,40 @@ enclosure in the human case might be thought a boundary of
 recognition, that not only excludes what we keep out, but
 contains what we let in. This boundary would also be what
 breaks in cases of corruption, laying us open, like a broken
-jar, to whatever lies outside. Or we might say there is a
+jar, to whatever lies outside. 
+
+Or to use a different image, we might say that there is a
 kind of hinge in being open that works, once it breaks,
 only one way: outside in. When Odysseus, then, is no longer
-master of his door, we could say it no longer opens from the
-inside, to contain the outside in an act of recognition. And
-since his door now only opens from the outside, it exposes
+master of his door, it no longer opens from the
+inside, to contain the outside in an act of recognition. It
+only opens from the outside, and exposes
 the inside to an act of transgression. Hence the suitors,
 and how they indeed get into the house of Odysseus. Or the
 corpses, and how *they* get into the eyes of Leontius, once
 he loses his mastery of them, and can no longer open them
 from within.
 
-On this account, then, only mere openness could be
-boundless. True openness is always bounded, or closed. Yet
-even this much allowance for boundless openness might have
-to be revoked, if mere openness were not really open, but
-broken. And there is more reason to think that even mere
-openness must be bounded, to gain any semblance of
-boundlessness. For now consider our deepest state of being,
-on my earlier suggestion: the open eyes of awareness. Here,
-too, openness has the genuineness of a virtue. But this is
-now in the sense of a natural power, beneath any cultivated
-excellence, and inclusive of any corruption that comes to
-light. The way that true openness in this deepest sense can
-incorporate corruption is made dramatic in the case of
-Odysseus. For while his absence allows the suitors to get
-into his house, his discovery of this will prevent them from
-getting out. And a door that only opens from the outside can
-still be locked from the inside, to help accomplish and
-contain the slaughter. Mere openness in this case seems only
-as boundless as true openness lets it be---once we count as
-true a form of recognition that can countenance even acts of
-transgression, and see them, if not punish them, for what
-they are.
+On this account, in any case, only mere openness could be
+boundless, and by analogy to something broken, not open.
+True openness is always bounded, or closed. But we can
+deepen this account, to suggest that even mere openness must
+be bounded, to gain any semblance of boundlessness. For now
+consider our ownmost state of being, on my earlier
+suggestion: the open eyes of awareness. Here, too, openness
+has the genuineness of a virtue. But this is now in the
+sense of a natural power, beneath any cultivated excellence,
+and inclusive of any corruption that comes to light. This
+inclusiveness is made dramatic in the case of Odysseus. For
+while his absence allows the suitors to get into his house,
+his discovery of this will prevent them from getting out.
+And a door that only opens from the outside can still be
+locked from the inside, to help accomplish and contain the
+slaughter. Mere openness in this case seems only as
+boundless as true openness finally lets it be---once we
+count as true a form of recognition that can countenance
+even acts of transgression, and see them, if not punish
+them, for what they are.
 
 The open eyes of awareness likewise allow us a closer look
 at the open eyes of Leontius. For while his loss of mastery
@@ -330,7 +329,7 @@ with an acute sense of the boundary breached in seeing.
 This is another case, then, where mere openness seems only
 as boundless as true openness lets it be, lest it escape
 not merely the bounds of better judgment, but even those of
-simple cognizance, rendering it an example of nothingness
+simple cognizance, rendering it an example of blankness
 rather than openness.
 
 And if we turn from the open eyes of Leontius to our own, we
@@ -345,10 +344,10 @@ Leontius notwithstanding. That is, eyes could not be
 boundless on the side they open. For on that side they can
 be poked, injured, even blinded. Staying open for eyes seems
 to mean staying intact, or bounded, all the way around. And
-if eyes were open like jars nonetheless, then why would we
+if eyes were open like jars nonetheless, then why should we
 *see* outside us rather than suffer it in blindness? For as
 we noted before, an open jar's inside risks being spoiled by
-the outside. Why should the outside not pose a similar
+the outside. So why should the outside not pose a similar
 threat to eyes that stay open? Yet in this respect, the
 outside is something that our power of sight protects us
 from, just as our organs of sight protect us by staying
@@ -362,7 +361,7 @@ in openness, and no different from the parabola even in
 the kind of openness most our own.
 
 But we can clarify this thought, and towards an even more
-bounded geometric image of our predicament. For not only do
+bounded geometric image of this predicament. For not only do
 we seem to see outside us through open eyes; we seem to see
 *a whole world* outside us. But if this is merely the
 unbounded look of what is truly bounded, then how? That is,
