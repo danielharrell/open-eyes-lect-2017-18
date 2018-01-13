@@ -43,8 +43,8 @@ would care about this difference.[^Socrates.] But the
 philosopher in all of us, then, can wonder about that
 difference. We can wonder what it means to say "my door is
 always open"---even if asking this of a friend, who just
-said it to you, risks being rude, or dense. The way we use
-the word "open" without further thought makes it worth
+said it to you, risks being rude. Or dense. The way we use
+the word "open" without further thought may make it worth
 further thought.
 
 Still another reason for wonder comes from the way we
@@ -70,8 +70,8 @@ figurative; but it captures how we seem to see *through* our
 eyes, to a whole world outside us. <!-- This reaching out should be
 used in a transition paragraph later.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
-wakefulness, watchfulness, awareness. And awareness is arguably
-not just one way of being, but *our* way of
+wakefulness, watchfulness, awareness. It is to ask about a
+way of being that may well be *our* way of
 being: the one underneath all the others; the one that 
 explains *why* we use the word with such scope, and as if it
 were already understood.
@@ -153,8 +153,8 @@ openness is possible, only to argue that it isn't possible,
 or that its an appearance rather than a reality. This is
 what philosophical reflection does. (Don't forget Bergson
 here.) --> But to wonder how is also unlikely, since we have
-the word "open" to prove its possibility. If I say "I can't
-get the jar open", for example, I will look for a better
+the word "open" to prove its possibility. If, for example,
+I say "I can't get the jar open", I will look for a better
 grip on the lid, not the word. But even here, I can wonder
 about the word. For why get a better grip on the lid to open
 the jar? Suppose I decide not to bother with the lid, and
@@ -174,10 +174,10 @@ inside and outside.
 But here, then, is the paradox. For how can there be
 continuity and discontinuity at once? In this case, how is
 the jar's inside still inside, and not outside, as soon as
-the lid is removed? And if we leave the jar open, its contents
+the lid is removed? If we leave the jar open, its contents
 may spoil---as if for nature, even if not for us, a lidless
 jar has no inside, and can only gain one by being closed.
-But in what sense, then, can I truly open the jar, no matter
+In what sense, then, can I truly open the jar, no matter
 how great my grip on the lid?
 
 This is one way to wonder how being open is possible.
@@ -186,8 +186,8 @@ or ruin, if an inside is left open to the outside too
 long. Consider a line from geometry: the parabola.
 We can distinguish the sides of this line, one convex and
 one concave, since the parabola is curved. But suppose we
-go further, and take the convex side to be "inside" the
-parabola, and the concave side to be "outside". This would
+go further, and take the convex side to be inside the
+parabola, and the concave side to be outside. This would
 treat the curved line as a figure, analogous to the ellipse,
 only open rather than closed. We might even liken this
 figure to an lidless, empty jar. But what would justify this
@@ -202,18 +202,18 @@ the analogy to the ellipse. We would then take the parabola
 to be an infinite ellipse, with one focus infinitely far
 away. The parabolic line would then be infinite in length,
 with ends that reach the edge, as it were, of the geometric
-plane. But in that case, it seems, our parabola will gain
-a true inside in just the way our jar possessed one: by
-being closed. For there will be no way into the parabola,
-or out of it, through its open end, since this now lies
-infinitely far away. Or to put the paradox in this case more
-sharply: once we make the line of the parabola infinite,
-to make the inside of the parabola definite, we will have
-*enclosed* the parabola in openness. And this enclosure will
-make the openness of the parabola at once intelligible yet
-impassable. The way it stays open on one side will be something we can
-plainly see, even point to, yet never reach---as if openness
-had no being but seeming.
+plane. But in that case, it seems, our parabola will gain a
+true inside in just the way our jar possessed one: by being
+closed. For there will be no way into the parabola, or out
+of it, through its open end, since this now lies infinitely
+far away. Or to put the paradox in this case more sharply:
+once we make the line of the parabola infinite, to make the
+inside of the parabola definite, we will have *enclosed* the
+parabola in openness. And this enclosure will make the
+openness of the parabola at once intelligible yet
+impassable. The way this figure stays open on one side will
+be something we can plainly see, even point to, yet never
+reach---as if openness had no being but seeming.
 
 This, then, is another way to wonder how being open is
 possible. <!--Note later that we wonder this by giving
@@ -226,8 +226,12 @@ open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
-<!--Note, will want to come back to this formulation as
-a way of anchoring this section of the lecture.--> <!--Raise
+
+- Shorten what follows this, add example of Dorothea and
+her open heart.
+
+<!--Note, will want to come back to this formulation as a
+way of anchoring this section of the lecture.--> <!--Raise
 question at beginning of next section: Does the account in
 last part (part two) increase wonder, or dispell wonder?
 This is related to question about whether we should regard
@@ -241,23 +245,26 @@ in Dedekind to make this too an appearance.--> In light of
 this question, consider what I earlier called *states of
 being*: the open door of hospitality; the open heart of
 generosity; the open mind of enlightenment. Openness here
-has the genuineness of a virtue. But virtue can be
-corrupted, and in this case corrupted in excess, making us
-wonder what distinguishes *true* openness from *mere*
-openness. Recall the open door in Homer's *Odyssey*, that
-lets the suitors of Penelope fill the house of Odysseus in
-his absence, in the abuse of hospitality. Or the open eyes
-of Leontius in Plato's *Republic*, that let the spectacle of
-corpses fill his gaze, to his own contempt, in a similar
-abuse of sight.[^Republic.] Both examples suggest there are
-cases of openness to be condemned, where something between
-inside and outside has broken. But what could this be, if
-not a boundary that stays intact, in cases of openness to be
-praised? Yet if the boundary stays intact, then why are
-these cases of being open rather than cases of being closed?
-Or rather: cases of being closed that *look* open, and even
-have that look not merely, but truly, in an appearance of
-openness to be praised?
+has the genuineness of a virtue. But virtue, of course, is
+not a given. (Perhaps put recognition up here.) It requires
+cultivation, and runs the risk of corruption. And there are
+examples, in the books we read, of openness gone wrong, to
+make us wonder how it stays right, or true. Recall the open
+door in Homer's *Odyssey*, that lets the suitors of Penelope
+fill the house of Odysseus in his absence, in the abuse of
+hospitality. Or the open eyes of Leontius in Plato's
+*Republic*, that let the spectacle of corpses fill his gaze,
+to his own contempt, in a similar abuse of
+sight.[^Republic.] Or the open heart of Dorothea in Eliot's
+*Middlemarch*, that let the scribblings of Both examples
+suggest there are cases of openness to be condemned, where
+something between inside and outside has broken. But what
+could this be, if not a boundary that stays intact, in cases
+of openness to be praised? Yet if the boundary stays intact,
+then why are these cases of being open rather than cases of
+being closed? Or rather: cases of being closed that *look*
+open, and even have that look not merely, but truly, in an
+appearance of openness to be praised?
 
 We can ask this question from another direction. For suppose
 the difference between true openness and mere openness were
