@@ -60,7 +60,7 @@ Here we use the word "open" for a positive
 condition, a state of being, which any negative definition
 at best half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
-generosity, enlightenment, love.
+generosity, compassion, understanding, love.
 
 Nor are these the only such states of being. Think of how we
 say our eyes are open, merely to mean we are awake. But why say
@@ -227,6 +227,44 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
+- Make direct point: being enclosed in openness is one
+way to characterize what it means to be not merely
+aware, but *self*-aware, which imposes a boundary on openness
+as impassible as the parabola. 
+
+- Perhaps put Schopenhauer quote and Wolff quote here.
+
+Schopenhauer's most famous work, *The World as Will and
+Representation*, begins in a similar vein of
+closedness:
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
+
+On this account, our open eyes are not transparent but
+opaque; and the world we see through them is not outside but
+inside, having a relation to us that is given rather than
+gained. 
+
+Wolff quote here:
+
+- Talk of lack of self-mastery, but also of more general
+drift of books, involving self-mastery. Innocence of
+Freshman books, fall of Junior books. (Education in
+being closed.)
+
+- Perhaps use genesis story.
+
+- Make point about recognition.
+
 - Shorten what follows this, add example of Dorothea and
 her open heart.
 
@@ -243,10 +281,18 @@ divisible enough to measure the diagonol, but needs to
 straddle the even and odd to do so. A philosophical account
 in Dedekind to make this too an appearance.--> In light of
 this question, consider what I earlier called *states of
-being*: the open door of hospitality; the open heart of
-generosity; the open mind of enlightenment. Openness here
-has the genuineness of a virtue. But virtue, of course, is
-not a given. (Perhaps put recognition up here.) It requires
+being*, and what it means, truly means, for your door to
+be open. Or your heart. Or your mind. Or your eyes. : the open door of hospitality; the open heart of
+compassion; the open mind of understanding. 
+
+- Point to make: openness in these cases requires
+self-mastery, recognition.
+
+- Examples to use: Odysseus, Leontius, Dorothea Brooke.
+
+
+Openness here
+has the genuineness of a virtue. But virtue requires
 cultivation, and runs the risk of corruption. And there are
 examples, in the books we read, of openness gone wrong, to
 make us wonder how it stays right, or true. Recall the open
