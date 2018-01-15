@@ -227,10 +227,41 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-- Make direct point: being enclosed in openness is one
-way to characterize what it means to be not merely
-aware, but *self*-aware, which imposes a boundary on openness
-as impassible as the parabola. 
+In light of this question, consider again why we call our
+eyes open. This captures how we seem to see *through* them,
+to a whole world outside us. But again, this is to speak
+figuratively, and perhaps even falsely. For if our eyes were
+truly so open, to the point of transparency, then how could
+we make reference to them at all, in calling them open?
+They may be transparent as a medium of awareness, but as a
+matter of self-awareness, it would seem as if our eyes have
+to be opaque. Or to put this prospect more generally: if we
+are not merely aware, but *self*-aware, then perhaps we
+are indeed *enclosed* in openness, with no escape
+from the self, no matter how much outside the self we seem
+to see.  
+
+a boundary on openness as impassible is bounded by the self we also see,  circumscribed by a 
+boundary as impassible as the parabola. we are indeed enclosed
+in openness, if our self-awareness makes them opaque,
+then perhaps the world we seem to see outside us really lie
+inside us? . , . transparent, how could we make reference
+open, to the point of ransparenti, at the same time our open
+eyes make us aware of the world, For example, we call our
+eyes open, as I put this earlier, insofar as we seem to see
+through them, to a whole world outside us. it might only
+be in a first sense, and again a figurative sense, while
+we might call our eyes open, again, insofar as we seem to
+see through them, to a whole world outside usIn light of
+this question, consider my earlier description of the open
+eyes of awareness. - Make direct point: being enclosed in
+openness is one way to characterize what it means to be not
+merely aware, but *self*-aware, which imposes a boundary on
+openness as impassible as the parabola.
+
+- Perhaps borrow from earlier formulation.
+
+- Where to put self-mastery? 
 
 - Perhaps put Schopenhauer quote and Wolff quote here.
 
@@ -261,7 +292,9 @@ drift of books, involving self-mastery. Innocence of
 Freshman books, fall of Junior books. (Education in
 being closed.)
 
-- Perhaps use genesis story.
+- Perhaps use genesis story. Example of how the advent of
+self-awareness involves a fall, where what one sees as
+other than oneself, exposes oneself to others.
 
 - Make point about recognition.
 
