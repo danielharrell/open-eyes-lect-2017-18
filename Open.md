@@ -118,6 +118,9 @@ on the cover of the St. John's viewbook?-->
 In all these ways, the word "open" gives us much to wonder
 about. But there is another way, I want to suggest, in
 which the word gives us just one thing to wonder about.
+<!--Later shift: the word gives us the only thing to wonder
+about. For wonder depends on being open, and is perhaps
+the deepest mark of its possibility.-->
 And this is by analogy, borrowing from Aristotle again, to
 the one thing we can wonder about when we encounter, as if
 for the first time, wooden figures come to life; or the
@@ -227,19 +230,279 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-In light of this question, consider again why we call our
-eyes open. This captures how we seem to see *through* them,
-to a whole world outside us. But again, this is to speak
-figuratively, and perhaps even falsely. For if our eyes were
-truly so open, to the point of transparency, then how could
-we make reference to them at all, in calling them open?
-They may be transparent as a medium of awareness, but as a
-matter of self-awareness, it would seem as if our eyes have
-to be opaque. Or to put this prospect more generally: if we
-are not merely aware, but *self*-aware, then perhaps we
-are indeed *enclosed* in openness, with no escape
-from the self, no matter how much outside the self we seem
-to see.  
+- First stab at paragraph after above (but see below for
+  other idesa): In light of this question, consider again
+  why we call our eyes open. This captures how we seem to
+  see *through* them, to a whole world outside us. But
+  again, this is to speak figuratively, and perhaps even
+  falsely. For if our eyes were truly so open, to the point
+  of transparency, then how could we make reference to them
+  at all, in calling them open? They may be transparent as
+  a medium of awareness, but as a matter of self-awareness,
+  it would seem as if our eyes have to be opaque. Or to put
+  this prospect more generally: if we are not merely aware,
+  but *self*-aware, then perhaps we are indeed *enclosed* in
+  openness, with no escape from the self, no matter how much
+  outside the self we seem to see, or yearn to be.  
+
+- More abstract formulation of our being open and how
+we are enclosed: link continuity to for-us relation,
+discontinuity to in-itself relation. 
+
+- Stabs at formulation of above abstract formulation:
+
+    - Any openness to world, to the outside in this sense,
+      puts us in a relation to it: it becomes something for
+      us. But how can something for us ever be something in
+      itself? 
+
+    - We seem to see things as they are, in themselves; yet
+      to see them puts them in relation to us: so how can we
+      ever see them as they are in themselves? We are open
+      to them, so one might say, insofar as they are not us,
+      but in having a relation to us, we enclose them. 
+
+    - Where we asked why the inside is not on the outside in
+      the case of the jar, we could ask why the outside is
+      not on the inside in the case of eyes? 
+
+ 
+
+- Enclosed in openness: what it means to have a self,
+that cannot be transcended altogether. 
+
+- Our selfhood encloses us in openness.
+
+    - This allows what we seem to be open to, the world, to
+    be put into doubt.
+
+    - This explains why what lies outside us---"the
+      world"---can be put into doubt. Why we can think we
+      can never reach something in itself, but only
+      something for us. Why we can think we know nothing,
+      and also why it seems we can doubt everything.
+
+    - Also why what it means to transcend egoism is in
+    terms of selfhood.
+
+- Example of self-transcendence, but in terms of self-hood:
+
+    - Lesser novelist than Eliot: awakening of Dorothea
+      would be that she married a lesser man than she
+      thought. A man who fell short of Pascal, or Milton, or
+      Locke. But the real awakening is in her realizing she
+      married another self, which any ideals of greatness
+      risk obscuring rather than revealing. 
+
+    - Love thy neighbor as oneself.
+
+---
+
+- Problem with enclosed openness: 
+
+    - The outside not really outside, for self, but inside.
+
+    - Plato & myth: intimations of what is out there to be
+      known. What is in the heavens. (Homer and Plato alike,
+      unlike Tolstoy.) We have lost this.
+
+    - Freedom in liberal education? (Use of transparent cage
+    quote) 
+    
+    - Reversal of end goal: move from wisdom in Olympian
+       point of view to self-preoccupation
+
+Whether we start with thought, as in Descartes, or start
+in perception, in Hume, we get no farther than that
+relatedness.
+
+Hume: Hume on sympathy; (2.1.11) example of the origin of impressions being explicable, since they are conversions from ideas. Their origin
+is transparent, not mysterious. (Find quotes.)
+
+My own grief may come from unknown causes, ultimately; but the
+grief I feel through sympathy is comparatively transparent, on
+Hume's account.
+
+Hume: impressions of sensation arise from unknown
+causes. (Treatise: 1.1.2)
+
+Start with account of awareness, then use Kant to move to
+transcendence in morality, but this too involves the self.
+Kant objects conforming to subjects, turned into appearances,
+leaving room for ethics (freedom) rather than causality in
+thing in itself.
+
+Eliot: Look up Rosamond's awakening, and frame Dorothea
+not as realizing she was married to a lesser man than
+she thought, but rather as realizing she had married
+a real man, an subject rather than object of admiration,
+a fellow self.
+
+Lesson: transcending the self is in terms of the self.
+
+Homer and Tolstoy compared
+Andre looks up at sky; Homer penetrates the sky.
+Euclid and Lobachevski: the doubt about the fifth postulate,
+the lack of figural coherence.
+Issues in quantum mechanics.
+
+Rosamond from Middlemarch (p.779):
+> What another nature felt in opposition to her own was
+being burnt and bitten into her consciousness.
+> (797) Rosamond, taken hold of by an emotion stronger than
+her own---hurried along in a new movement which gave all things
+some new, awful, undefined aspect---could find no words,
+but involuntarily she put her lips to Dorothea's forehead
+which was very her, and then for a minute the two women
+clasped each other as if they had been in a shipwreck.
+
+Homer: noon-day sun? Allanbrook.
+"In his poem the sun is always high noon, and the angle of
+its light is a right angle."
+Allanbrook (SJC Review)
+> What is seen is named specifically as what it is when it reveals itself to sight. It is not that a vase is two- handled, it's a two-handled vase; it is not that a cauldron is unfired, it is an unfired cauldron; it is not that a chest is made of cedar, it is a cedar chest. Even more clearly we never see a sword, we see a bronze sword; we never see red, we see a red fire. Direct perception is always correct, it cannot lie.
+Tolstoy and Homer both writers of presentness, actuality.
+Quote on Tolstoy about this? Quote for Homer about this?
+
+Isaac Babel: "If the world could write, it would write
+like Tolstoy". 
+
+Homer seeing as it is linked to Bergson's point about
+perception being pictorial.
+Common life experience of openness. Philosophical arguments
+against it make it less doubtful than astonishing.
+
+What does fifth postulate do for Euclid, in terms of
+completing figure. Also look at Eva Brann's bit on 
+non-Euclidean geometry.
+
+Plato: intimations of what goes unknown reaches beyond the
+stars. Socratic ignorance goes hand in hand with a form
+of enchantment. Now an education in disenchantment. 
+
+Perhaps look for Schopenhauer quote on Will. Or just
+summarize: selfhood establishes the "beyond": in this case
+in will; in Kant's case in morality. Also mention problems
+in next section: for common life, for modern philosophy,
+for philosophy. 
+
+Hume quote (Treatise, 1.2.6):
+
+> A like reasoning will account for the idea of *external
+existence*. We may observe, that 'tis universally allow'd by
+philosophers, and is besides pretty obvious of itself, that
+nothing is ever really present with the mind but its
+perceptions or impressions and ideas, and that external
+objects become known to us only by those perceptions they
+occasion. To hate, to love, to think, to feel, to see; all
+this is nothing but to perceive.
+
+> Now since nothing is ever present to the mind but
+perceptions, and since all ideas are deriv'd from something
+antecedently present to the mind; it follows, that 'tis
+impossible for us so much as to conceive or form an idea of
+any thing specifically different from ideas and impressions.
+Let us fix our attention out of ourselves as much as
+possible: Let us chace our imagination to the heavens, or to
+the utmost limits of the universe; we never really advance
+a step beyond ourselves, nor can conceive any kind of
+existence, but those perceptions, which have appear'd in
+that narrow compass. This is the universe of the
+imagination, nor have we any idea but what is there
+produc'd.
+
+Hobbes quote from *Leviathan* Chapter 1. Distinguishes
+his account of sense from Aristotle:
+
+> Yet still the object is one thing, the image or fancy is
+another. So that Sense in all cases, is nothing els but
+original fancy, caused (as I have said) by the pressure,
+that is, by the motion, of externall things upon our
+Eyes, Eares, and other organs thereunto ordained.
+
+Socrates: Know nothing. Descartes: Doubt everything.
+
+Descartes? Speaks only in his own name. Shuts himself off
+to meditate. The self provides the horizon for everything
+else, for existence outside oneself. Explain the world
+not as it is, but as it might be. I think therefore I am;
+thinking leads to existence. Doubting at start.
+
+Middlemarch quotes?
+
+Quotes to refer back to regarding Causabon:
+page 84, 85
+
+Page 194-195: Causabon had not actively created any illusions
+about himself.
+
+Page 200: She was as blind to his inward troubles as
+he was to hers. Page 211: She had awakened to his center
+of self. Combine with 278-280.
+
+Book III. Chapter 29 (280)
+
+Page 419: No speck so troublesome as the self.
+425: Had not occurred to Causabon to see Dorothea like himself.
+> “For my part I am very sorry for him. It is an uneasy lot
+at best, to be what we call highly taught and yet not to
+enjoy: to be present at this great spectacle of life and
+never to be liberated from a small hungry shivering
+self—never to be fully possessed by the glory we behold,
+never to have our consciousness rapturously transformed into
+the vividness of a thought, the ardor of a passion, the
+energy of an action, but always to be scholarly and
+uninspired, ambitious and timid, scrupulous and
+dim-sighted.” 
+
+Book II. Old and Young. Chapter 20.
+
+> If we had a keen vision and feeling of all ordinary human
+life, it would be like hearing the grass grow and the
+squirrel's heart beat, and we should die of that roar which
+lies on the other side of silence. As it is, the quickest of
+us walk about well wadded with stupidity.
+
+On Egoism (Book III. Chapter 27. Waiting for Death.)
+
+> An eminent philosopher among my friends, who can dignify
+even your ugly furniture by lifting it into the serene light
+of science, has shown me this pregnant little fact. Your
+pier-glass or extensive surface of polished steel made to be
+rubbed by a housemaid, will be minutely and multitudinously
+scratched in all directions; but place now against it
+a lighted candle as a centre of illumination, and lo! the
+scratches will seem to arrange themselves in a fine series
+of concentric circles round that little sun. It is
+demonstrable that the scratches are going everywhere
+impartially and it is only your candle which produces the
+flattering illusion of a concentric arrangement, its light
+falling with an exclusive optical selection. These things
+are a parable. The scratches are events, and the candle is
+the egoism of any person now absent-- of Miss Vincy, for
+example. Rosamond had a Providence of her own who had kindly
+made her more charming than other girls, and who seemed to
+have arranged Fred's illness and Mr. Wrench's mistake in
+order to bring her and Lydgate within effective proximity. 
+
+Bergson quote (from *Matter and Memory*, p. 10, Zone books): 
+
+>It would greatly astonish a man unaware of the speculations
+of philosophy if we told him that the object before him,
+which he sees and touches, exists only in his mind and for
+his mind or even, more generally, exists only for mind, as
+Berkeley held. Such a man would always maintain that the
+object exists independently of the consciousness which
+perceives it. But, on the other hand, we should astonish him
+quite as much by telling him that the object is entirely
+different from that which is perceived in it, that it has
+neither the color ascribed to it by the eye nor the
+resistance found in it by the hand. The color, the resistance, are, for him, in the object: they are not states of
+our mind; they are part and parcel of an existence really
+independent of our own. For common sense, then, the object
+exists in itself, and, on the other hand, the object is, in
+itself, pictorial, as we perceive it: image it is, but
+a self-existing image. 
 
 a boundary on openness as impassible is bounded by the self we also see,  circumscribed by a 
 boundary as impassible as the parabola. we are indeed enclosed
@@ -284,6 +547,17 @@ On this account, our open eyes are not transparent but
 opaque; and the world we see through them is not outside but
 inside, having a relation to us that is given rather than
 gained. 
+
+Later Schopenhauer quote about will:
+> "We ask whether this world is nothing more than representation.
+In that case it would inevitably pass by us like an empty dream."
+"If, therefore, the material world is to be something
+more than our mere representation, we must say that,
+besides being the representation, and hence in itself and
+of its inmost nature, it is what we find immediately in
+ourselves as will." 
+
+Read from second volume of WWR.
 
 Wolff quote here:
 
