@@ -230,20 +230,39 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-- First stab at paragraph after above (but see below for
-  other idesa): In light of this question, consider again
-  why we call our eyes open. This captures how we seem to
-  see *through* them, to a whole world outside us. But
-  again, this is to speak figuratively, and perhaps even
-  falsely. For if our eyes were truly so open, to the point
-  of transparency, then how could we make reference to them
-  at all, in calling them open? They may be transparent as
-  a medium of awareness, but as a matter of self-awareness,
-  it would seem as if our eyes have to be opaque. Or to put
-  this prospect more generally: if we are not merely aware,
-  but *self*-aware, then perhaps we are indeed *enclosed* in
-  openness, with no escape from the self, no matter how much
-  outside the self we seem to see, or yearn to be.  
+Indeed, what if our very selfhood enclosed us in openness?
+For selfhood, it seems, underlines the paradox in openness
+more generally. Insofar as it involves awareness of anything
+else, I am *not* myself; but insofar as it involves
+self-awareness, I *am* myself. Yet how can I be both at
+once?  How can I be at the same time inside myself yet
+outside myself? Awareness seems to
+require a continuity between inside and outside in this
+sense; and self-awareness a discontinuity: but how again can
+there be both? Or to sharpen the paradox in these terms: you
+may say you see me at the podium right now, but this makes
+a two into one inexplicably: for insofar as you are *not* me
+or the podium, there is discontinuity; yet insofar as you
+*see* them, there is continuity. 
+
+There is still another way to put the paradox that suggests
+a resolution: (put paradox now in terms of in-itself and
+for-us) And the readiest way to
+resolve this paradox is to suppose that 
+
+ (Perhaps
+include more specific paradox, along lines of jar. Then
+move on to how we are "closed" like the jar, and give 
+examples. The other becomes immanent, and can only
+transcend us not as other, but self. (Middlemarch here.)
+
+Paradoxes: how can we be *not* ourselves *and* ourselves at once?
+
+Or, in terms like the jar, how can we be outside ourselves,
+yet inside ourselves, at once? 
+
+Put discontinuity and continuity here. Then move on to
+"solutions". 
 
 - More abstract formulation of our being open and how
 we are enclosed: link continuity to for-us relation,
@@ -266,12 +285,85 @@ discontinuity to in-itself relation.
       the case of the jar, we could ask why the outside is
       not on the inside in the case of eyes? 
 
- 
 
+    - Example of seen object: podium. We say "I see the
+    podium". In this formulation, I am not the podium,
+    and in that sense there is discontinuity, or separateness,
+    independence. Yet I *see* the podium, and in that sense
+    there is continuity, or relatedness, dependence.
+    
+    - Another formulation: insofar as I am aware of the
+    podium, I am in a sense invisible to myself; but
+    insofar as I am aware of myself, I am visible to myself.
+    Yet how can I be visible and invisible at once? 
+
+    - Solution: our relation to the podium encloses our our
+      separateness from it, and openness to it. (This is
+      true in both Kant and Hegel.) 
+
+
+
+This is one way, a plausible way, to say what it means
+to have a self: to think of the blessing, but also the burden, 
+of having a self.
+
+
+- To be aware makes us open, but to be self-aware
+encloses us in that openness.
+
+- Being enclosed makes possible philosophical thoughts
+that we remember, and literary experiences too. How
+could we claim to know we know nothing, or to doubt
+everything, without being enclosed in the self?
+
+- Refer back to self-awareness, and perhaps to eyes being
+open.
+
+- Opacity of eye: we see everything *in* space and time.
+Things are universally, and necessarily, seen *in* space
+and time. But there is nothing that can have these
+properties insofar as we are affected by them. The
+encounter on this level is particular, and contingent.
+
+- Try to connect podium example to space and time
+immediately above.
+
+in Kantian terms: the sense in which
+we see everything *in* space, is a sign of how we contain
+what we see. For space to be something *in which* things
+are
+
+- Basic point: we are in a domain of immanence when it
+comes to knowledge, and transcendence only in morality.
+
+
+---
+
+- First stab at paragraph after above (but see below for
+  other idesa): In light of this question, consider again
+  why we call our eyes open. This captures how we seem to
+  see *through* them, to a whole world outside us. But
+  again, this is to speak figuratively, and perhaps even
+  falsely. For if our eyes were truly so open, to the point
+  of transparency, then how could we make reference to them
+  at all, in calling them open? They may be transparent as
+  a medium of awareness, but as a matter of self-awareness,
+  it would seem as if our eyes have to be opaque. Or to put
+  this prospect more generally: if we are not merely aware,
+  but *self*-aware, then perhaps we are indeed *enclosed* in
+  openness, with no escape from the self, no matter how much
+  outside the self we seem to see, or yearn to be.  
+
+ 
 - Enclosed in openness: what it means to have a self,
 that cannot be transcended altogether. 
 
 - Our selfhood encloses us in openness.
+
+    - General thought, via Kant: Necessity and universality,
+      or knowledge, depends on immanence, not transcendence.
+      And so far as there is transcendence, it is not of the
+      self, but towards the self. 
 
     - This allows what we seem to be open to, the world, to
     be put into doubt.
@@ -285,6 +377,10 @@ that cannot be transcended altogether.
     - Also why what it means to transcend egoism is in
     terms of selfhood.
 
+    - Whether we start with thought, as in Descartes, or
+      start in perception, in Hume, we get no farther than
+      that relatedness.
+
 - Example of self-transcendence, but in terms of self-hood:
 
     - Lesser novelist than Eliot: awakening of Dorothea
@@ -296,25 +392,8 @@ that cannot be transcended altogether.
 
     - Love thy neighbor as oneself.
 
----
-
-- Problem with enclosed openness: 
-
-    - The outside not really outside, for self, but inside.
-
-    - Plato & myth: intimations of what is out there to be
-      known. What is in the heavens. (Homer and Plato alike,
-      unlike Tolstoy.) We have lost this.
-
-    - Freedom in liberal education? (Use of transparent cage
-    quote) 
-    
-    - Reversal of end goal: move from wisdom in Olympian
-       point of view to self-preoccupation
-
-Whether we start with thought, as in Descartes, or start
-in perception, in Hume, we get no farther than that
-relatedness.
+Hume: we know other selves, through sympathy, even if we don't know external
+world.
 
 Hume: Hume on sympathy; (2.1.11) example of the origin of impressions being explicable, since they are conversions from ideas. Their origin
 is transparent, not mysterious. (Find quotes.)
@@ -340,10 +419,129 @@ a fellow self.
 
 Lesson: transcending the self is in terms of the self.
 
+
+---
+
+Some quotes: 
+
+Look at Hegel introduction for something to include
+in lecture. - Thought about Hegel: we come to know, as
+a moment in time. This is a way of transcending the self
+on behalf of the self. We overcome distinction between
+for-us and in-itself from within, rather than from
+without.
+
+Page 50 of Pluhar Critique: Kant speaking of Plato and
+    wings, had no notion of not going anywhere for lack of
+    a footbrace. Note that here, Kant replaces a metaphor
+    of winged motion (exploring a great outdoors) with
+    a metaphor of a resting place.
+    
+> When the light dove parts the air in free flight and
+feels the air's resistance, it might come to think that
+it would do much better still in space devoid of air. In
+the same way *Plato* left the world of sense because it
+set such narrow limits to our understanding; on the wings
+of the ideas, he ventured beyond that world and into the
+empty space of pure understanding. He did not notice that
+with all his efforts he made no headway. He failed to make
+headway because he had no resting point against which---as
+a foothold, as it were---he might brace himself and apply
+his forces in order to set the understanding in motion.
+
+Kant Pluhar p. 94:
+> The things that we intuit are not in themselves as we
+intuit them as being. Nor do their relations in themselves
+have the character that they appear to us as having. And
+if we annul ourselves as subject, or even annul only the
+subjective character of the senses generally, then this
+entire character of objects and all their relations in
+space and time---indeed, even space and time
+themselves---would vanish; being appearances, they cannot
+exist in themselves, but can exist only in us. What may be
+the case regarding objects in themselves and apart from all
+this receptivity of our sensibility remains to us entirely
+unknown. All we know is the way in which we perceive them.
+
+Kant thought: Kant: the all-encompassing marks of our
+experience—necessity; universality—are the marks of things
+as they stand for us, under subjective conditions of their
+possibility. The horizon of this encompassment, in other
+words, is the self. 
+---
+- What seems correct about account of enclosed openness:
+Explains an appearance as false. Self-knowledge, makes
+being enclosed in openness sound goo.
+
+* Problem with enclosed openness: 
+
+* The outside not really outside, for self, but inside.
+
+    - Plato & myth: intimations of what is out there to be
+  known. What is in the heavens. (Homer and Plato alike,
+      unlike Tolstoy.) We have lost this.
+
+    - epic poetry vs novel, fantasy, science fiction; the
+    other-worldly as genre.
+
+    - Tragedy: puts necessity and universality in a
+    transcendent domain: fate.
+
+    - Freedom in liberal education? (Use of transparent cage
+    quote) 
+    
+    - Reversal of end goal: move from wisdom in Olympian
+       point of view to self-preoccupation
+
+    - Problems with science:
+
+	- Science has lock on Discovery and knowledge by
+	  going out and exploring the world. Philosophy
+	  armchair and naval gazing by comparison. 
+
+	- Philosophy has lost the great outdoors and science
+	  has co-opted this, even though it proceeds through
+	  a vexing of nature and a trial. (Kant and Bacon).
+	  Experiment vs adventure.
+
+		- Kant quote: "Thus reason must indeed approach nature in
+		order to be instructed by it; yet it must do
+		so not in the capacity of a pupil who lets the
+		teacher tell him whatever the teacher wants, but
+		in the capacity of an appointed judge who compels
+		the witnesses to answer the questions that he
+		puts to them." (Pluhar p. 19)
+
+		Point of above quote: reason must study nature according
+		to its own plan, compel nature to answer its own questions.
+	
+Bacon quote? Nature and human power synonymous: I.III (New Organon; also
+look at I.II, about "The unassisted hand and the understanding left to itself possess but little power."  "Knowledge and human power are synonymous." 
+
+From Bacon Great Instauration: "the nature of things betrays itself more readily under the vexations of art than in its natural freedom." (From
+section Arguments of Several Parts at beginning)
+
+Perhaps use paradoxes in quantum inquiry here, how instruments
+get in way of understanding. Giving answers he wants, rather than
+the right answers. Technology same problem.
+
+
 Homer and Tolstoy compared
 Andre looks up at sky; Homer penetrates the sky.
 Euclid and Lobachevski: the doubt about the fifth postulate,
-the lack of figural coherence.
+the lack of figural coherence. Look up Brann discussion of
+non-Euclidean geometry. Euclid sees as far as can be (like
+Homer through the sky) in the fifth postulate, to know
+that even the slightest inclination of one line to
+another will oblige them to meet. Lobachevski, in his 
+doubt about the fifth postulate, doesn't see as far.
+
+Lobachevski: > "In the uncertainty whether the perpendicular
+AE is the only line which does not meet DC, we will assume
+it may be possible that there are still other lines, for
+example AG, which do not cut DC, how far soever they may be
+prolonged" 
+
 Issues in quantum mechanics.
 
 Rosamond from Middlemarch (p.779):
@@ -484,6 +682,16 @@ example. Rosamond had a Providence of her own who had kindly
 made her more charming than other girls, and who seemed to
 have arranged Fred's illness and Mr. Wrench's mistake in
 order to bring her and Lydgate within effective proximity. 
+
+Note: Bergson quote below captures sense in which open
+eyes are crucial: not simply, *can* we see the world as it is? but
+*do* we see it as it is? Are our eyes really open?
+
+Also: if we do see things as they are, then what room, or place,
+is there left for wonder? (Perhaps use Aristotle's question about
+being remaining a question as a way forward; a question that
+remains a question; an experience of wonder that never quite goes
+away, or that enchants the world rather than disenchanting it.)
 
 Bergson quote (from *Matter and Memory*, p. 10, Zone books): 
 
