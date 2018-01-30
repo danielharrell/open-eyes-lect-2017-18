@@ -231,23 +231,88 @@ were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
 Indeed, what if our very selfhood enclosed us in openness?
-For selfhood, it seems, underlines the paradox in openness
-more generally. Insofar as it involves awareness of anything
-else, I am *not* myself; but insofar as it involves
-self-awareness, I *am* myself. Yet how can I be both at
-once?  How can I be at the same time inside myself yet
-outside myself? Awareness seems to
-require a continuity between inside and outside in this
-sense; and self-awareness a discontinuity: but how again can
-there be both? Or to sharpen the paradox in these terms: you
-may say you see me at the podium right now, but this makes
-a two into one inexplicably: for insofar as you are *not* me
-or the podium, there is discontinuity; yet insofar as you
-*see* them, there is continuity. 
+For the self, it seems, reflects and even sharpens the
+paradox in openness more generally.  Insofar as I am
+self-aware, for example, it seems I *am* myself; yet insofar
+as I am aware of anything else, it seems I am *not* myself.
+But how can I be both at once?  Or suppose we put the power
+of awareness in spatial terms. We then might say that
+awareness locates me inside myself, yet leads me outside
+myself, as if I could be both inside and outside at once. Or
+at least as if between inside and outside, there again could
+be continuity and discontinuity at once. But if the paradox
+in this can make us puzzled how a jar could be open, or
+a parabola, then why be any less puzzled how we can be open?
+And if resolving this paradox means closing the jar or
+parabola, then why not do the same for the self, and suppose
+that it encloses us in openness?  Why not suppose, for
+example, that the self can only lead us outside ourselves,
+and does, by locating us inside that outside, as if there
+were no outside for self save one that the self can
+encompass, and somehow make its own?  
+
+Suppose you see me at the podium: you have gone outside yourself,
+but insofar as this is your perspective, you have made it your
+own. Or suppose you use this perspective as a reason to think
+you know nothing, or doubt everything. This is still self-knowledge,
+or self-certainty. Negation of everything leaves the self intact.
+Affirmation of everything builds upon the self. Make a kind of
+science out of seeming: in Kant and Hegel. You may claim
+you see things as they are, but it is only as they seem, and you
+can doubt this, or claim not to know it, or build an entire edifice
+on seeming (a la Kant). doubt that
+you see things as they are, or to claim, with Socrates, that you
+know nothing. Suppose you marry a man (use this rhetoric to get to
+other texts and transcendence of self.) Suppose you are woken from
+your dogmatic slumbers.
+
+Hegel mocks idea of sneaking up on things in themselves from
+behind. He mentions, but only to mock. Only way to absolute is
+through the self, not around the solf.
+
+Philosophy "great outdoors" entangled in science: Meillassoux's
+arche-fossil a sign of this.
+
+Reasons to suppose my lecture is done, with part two.
+that is,
+by locating us inside a self that can encompass that outside,
+and make it in some sense one's own.   inside
+a swithin
+a selfgiving us no
+way to escape it even when we seem to transcend it. our very
+selfhood does enclose us in openness, that what I fI could
+only be led outside myself and remain a self if the self
+econceive it in terms that enclose us in openness.
+, consider it the way that we, too, are enclosed in
+openness?
+
+doubt that
+a jar could be open. puzzled how a jar could be open. So why
+should we be any less puzzled how we can be open? just like
+a jar truly open. ? . But how can I be inside myself and
+outside myself at once? Or again: can lead me outside
+myself, while still locating me inside me me inside myself
+while leading me outside myself, ? ;How can I be at the same
+time inside myself yet outside myself?  as if between inside
+and outside there again could be continuity and
+discontinuity at once. But how? Or to make the paradox
+specific: you may say you see me at the podium right now, as
+if there were a line---call it the line of sight---that at
+the same time connects us yet separates us, joining us along
+its length, yet parting us across its length. But what kind
+of line is that? 
 
 There is still another way to put the paradox that suggests
 a resolution: (put paradox now in terms of in-itself and
-for-us) And the readiest way to
+for-us) Then move on to the intelligibility of radical
+thoughts about the world.
+
+(More thoughts to integrate:
+Necessity in tragedy is fate: a mark of the gods and
+self-transcendence; by the time we reach Kant a mark
+of immanence. Also: to look for enchantment in a
+science fiction or fantasy novel involves a fragmented
+world rather than integrated whole.) And the readiest way to
 resolve this paradox is to suppose that 
 
  (Perhaps
