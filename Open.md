@@ -234,12 +234,12 @@ Or to put this last question in more plausible terms: what
 if our very selfhood enclosed us in openness? For the self
 poses its own paradox of openness, and perhaps its own
 resolution, in closedness. Consider the power of awareness,
-which again might be the openness most our own, comprehending
-self and other at once. But how? Insofar as I am aware of
-anything else, it seems I am *not* myself; and yet I *am*
-myself, insofar as this awareness of anything else is mine,
-and known as mine through self-awareness. But how can
-awareness make me be myself and not myself at once? 
+which again might be the openness most our own,
+comprehending self and other at once. But how? Insofar as
+I am aware of anything else, it seems I am *not* myself; and
+yet I *am* myself, insofar as this awareness of anything
+else is mine, and known as mine through self-awareness. But
+how can awareness make me be myself and not myself at once?
 We can also put this paradox in the spatial terms we used
 for the jar and the parabola. For insofar as I am aware of
 anything else, it seems I am carried outside myself; yet
@@ -247,14 +247,13 @@ insofar as this awareness is mine, I am kept inside myself.
 But how can awareness put me inside and outside at once? Or
 carry me from one to the other, as if the two were
 continuous, yet keep me in one rather than the other, as if
-the two were discontinuous? If I am open to the outside, how
-does my inside stay inside? How can I be carried outside
-myself, without losing myself? The only way, perhaps, is if
-being outside myself still means being inside myself, in
-something like the way a jar is closed, or a parabola
-completed. That is, perhaps only if the self encloses what
-lies outside it, can the self be open to what lies outside
-it.
+the two were discontinuous? How can I be carried outside
+myself, without losing myself? Or kept inside myself,
+without closing myself? The only way, perhaps, is if the
+self can make the outside inside, in something like the way
+a jar is closed, or a parabola completed. That is,
+perhaps only if the self encloses what lies outside it, can
+the self be open to what lies outside it.
 
 Now 
 , again as if our very selfhood enclosed us in
