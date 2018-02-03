@@ -230,41 +230,99 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-Indeed, what if our very selfhood enclosed us in openness?
-For the self, it seems, reflects the paradox in openness
-more generally.  We can use the openness of awareness as an
-example. For again, in one sense, it seems, I am *not*
-myself, insofar as I am aware of anything else. But beneath
-this is an awareness I have of myself; and in this sense
-I *am* myself. But how could I be myself and not myself at
-once? Or to put the paradox in more specific and spatial
-terms, we could say that my awareness of you, the audience,
-carries me outside myself; yet it also keeps me inside
-myself, since this awareness of you is mine, not yours. But
-how could I be inside and outside at once? Or carried from
-one to the other as if the two were continuous; yet kept in
-one rather than the other as if the two were discontinuous?
-And since this awareness of you *is* mine, in something
-we are wont to call a point of view, it can look as
-if the way I am carried outside myself is still 
-contained inside myself, as if there were no outside
-for self save one that the self can encompass, and
+Or to put this last question in more plausible terms: what
+if our very selfhood enclosed us in openness? For the self
+poses its own paradox of openness, and perhaps its own
+resolution, in closedness. Consider the power of awareness,
+which again might be the openness most our own, comprehending
+self and other at once. But how? Insofar as I am aware of
+anything else, it seems I am *not* myself; and yet I *am*
+myself, insofar as this awareness of anything else is mine,
+and known as mine through self-awareness. But how can
+awareness make me be myself and not myself at once? 
+We can also put this paradox in the spatial terms we used
+for the jar and the parabola. For insofar as I am aware of
+anything else, it seems I am carried outside myself; yet
+insofar as this awareness is mine, I am kept inside myself.
+But how can awareness put me inside and outside at once? Or
+carry me from one to the other, as if the two were
+continuous, yet keep me in one rather than the other, as if
+the two were discontinuous? If I am open to the outside, how
+does my inside stay inside? How can I be carried outside
+myself, without losing myself? The only way, perhaps, is if
+being outside myself still means being inside myself, in
+something like the way a jar is closed, or a parabola
+completed. That is, perhaps only if the self encloses what
+lies outside it, can the self be open to what lies outside
+it.
+
+Now 
+, again as if our very selfhood enclosed us in
+openness. . or enclose what it is open
+to, can it its domain
+of openness, s openness, my inside encompasses
+my outside, hat it is open to, likethe self is still inside the
+self, insofar as the self encompasses this outside like the
+parabola. 
+
+Then shift to how being open means being closed, self-transcendence self-immanence.  
+The easiest way out of this paradox, it seems, is by
+making the outside a kind of inside. For my awareness of
+you, after all, *is* mine, and it contains you in something
+we are wont to call a point of view. So it can look as if
+the way I am carried outside myself, so to speak, is really
+still contained inside myself, and as if there were no
+outside for self but one that the self can encompass, and
 somehow make its own. Or again, as if our very selfhood
 enclosed us in openness.
 
-We may, of course, try to transcend the self in this sense,
-as if we could see beyond our point of view. But how would
-any success in this not simply replace one point of view
-with another, even if larger, or deeper? How does one even
-begin to look beyond *any* point of view, if looking at all
-means taking one? Or perhaps we might think we see beyond
-our point of view, just in noticing that it *is* a point of
-view; and that we see beyond any point of view once we
-recognize there is no escaping one. But it is hard to see
+Our selfhood can seem so enclosing, in fact, as to explain
+self-transcendence rather than exclude it. In a simple sense,
+for example, it seems I can transcend my point of view simply by
+changing my place---from podium to audience, say. But this
+is to replace one point of view with another; and without
+the other, it is hard to see how the one could be transcended
+rather than lost. I can also transcend my point
+of view without strictly changing my place, if, say, a
+book I am reading changes my mind, or enlarges it, or
+deepens it. But we would then likely say the same of
+my point of view: the book has changed it, or enlarged
+it, or deepened it; but in any case done something
+*to* it rather than erasing it, or allowing me
+to escape it. 
+
+I might also transcend my point of view in a more
+philosophical mood: for example, by noticing that my point
+of view *is* a point of view. But again, is is hard to see
+how I could notice this without a point of view, in this
+case upon my point of view, where again I transcend the one
+*by means of* the other. In a more radical such mood,
+I might conclude that my very dependence upon a point of
+view renders everything within it
+suspect, confronting me with the prospect that all my
+beliefs are mere opinions, and my every perception and
+thought but a dream. (This is transcendence in that it
+carries me past anything, but into the self.) the result
+only underlines illusions, all my thoughts without any
+foundation in perception or thought thator all my
+perceptions illusions, or all my thoughts deceptive.  and
+all my perceptions and thoughts mere illusions. : a mere
+thing for me, rather than anything in itself.  
+
+But it is hard to see
 how this would transcend the self rather than embrace it, in
 something like the way Socratic ignorance leads to
 self-knowledge, or Cartesian doubt to self-certainty. 
 
+
+Descartes: self-transcendence from finite to infinite,
+but god of intelligibility rather than revelation.
+
+any success in this not simply replace one point of view
+with another, even if larger, or deeper? How does one even
+begin to look beyond *any* point of view, if looking at all
+means taking one? Or perhaps we might think we see beyond
+our point of view, 
 Or perhaps we could follow Kant, and ask what makes a point
 of view possible, building a kind of science on the way
 things seem, from any point of view. But this is to make
@@ -275,13 +333,13 @@ view from which we can ask, and answer, what makes any point
 of view possible? This meta-question might well give us hope
 we could build a second kind of science on the first, where
 the way things seem, from any point of view, becomes the way
-they seem from one point of view, and in this oneness the
+they seem from one point of view, and in this oneness prove the
 only point of view from which the way things seem is the way
 things are. Once we follow Kant, in other words, we might
 follow Hegel in turn. But even if Hegel can carry us to how
 things are, it will only be through how they seem, from
-a point of view proved absolute. There will then be no
-escape from a point of view, even in this science of the
+a point of view proved absolute. There will be no
+escape from a point of view even in this science of the
 absolute, making Hegel's own name for it, a phenomenology of
 spirit, as much a confession of modesty as a declaration of
 ambition. Knowing we know everything would differ only in
@@ -295,7 +353,9 @@ Hume, then Eliot) in respect to other selves.
 Things in themselves vs things for us, how things are vs how
 they seem, difference between things being seen, and things
 being done, between being affected by the world, and being active
-in the world.  What is to be done? 
+in the world.  What is to be done? (Bulstrode most dramatic
+example?) No reconciliation of selves between Dorothea and Causabon,
+and he asserts his egoism from beyond the grave.)
 ; . Even if
 he proves that we can know everything rather than 
 nothing, There will
