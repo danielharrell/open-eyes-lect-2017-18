@@ -233,15 +233,15 @@ What if we ourselves were enclosed in openness?
 Or to put this last question in more plausible terms: what
 if our very selfhood enclosed us in openness? For the self
 poses its own paradox of openness, and perhaps its own
-resolution, in closedness. Consider the power of awareness,
+resolution in closedness. Consider the power of awareness,
 which again might be the openness most our own,
 comprehending self and other at once. But how? Insofar as
-I am aware of anything else, it seems I am *not* myself; and
-yet I *am* myself, insofar as this awareness of anything
-else is mine, and known as mine through self-awareness. But
-how can awareness make me be myself and not myself at once?
-We can also put this paradox in the spatial terms we used
-for the jar and the parabola. For insofar as I am aware of
+I am aware of anything else, it seems I am *not* myself; yet
+I *am* myself, insofar as this awareness of anything else is
+mine, and known as mine through self-awareness. But how can
+awareness make me be myself and not myself at once? We can
+also put this paradox in the spatial terms that we used for
+the jar and parabola. For insofar as I am aware of
 anything else, it seems I am carried outside myself; yet
 insofar as this awareness is mine, I am kept inside myself.
 But how can awareness put me inside and outside at once? Or
@@ -251,16 +251,61 @@ the two were discontinuous? How can I be carried outside
 myself, without losing myself? Or kept inside myself,
 without closing myself? The only way, perhaps, is if the
 self can make the outside inside, in something like the way
-a jar is closed, or a parabola completed. That is,
-perhaps only if the self encloses what lies outside it, can
-the self be open to what lies outside it.
+a jar is closed, or a parabola completed. That is, perhaps
+only if the self encloses what lies outside it, can the self
+be open to what lies outside it.
 
-Now 
-, again as if our very selfhood enclosed us in
-openness. . or enclose what it is open
-to, can it its domain
-of openness, s openness, my inside encompasses
-my outside, hat it is open to, likethe self is still inside the
+This suggestion about our selfhood may sound abstract. But
+we have an everyday expression that seems to confirm the
+suggestion, when we speak of having *a point of view*. Here
+at the podium, for example, my awareness gives me a point of
+view on you in the audience. And this seems to explain why
+I can be aware of you without becoming you, or at least find
+myself sitting in the audience alongside you. For in truth
+I remain just where I am, and what I am, at the point of my
+point of view. And my awareness of you, or of anything else,
+strictly does nothing to either my place or my identity. Of
+course, the very idea of a point of view comes with
+a paradox of its own: for how can a view belong to a point?
+That is, how can a whole with many parts belong to that
+which has no part? But if we were pressed this way, on the
+coherence of a point of view, my guess is that we would
+think of a geometric figure by analogy, even more enclosed
+than the parabola. For what if we likened the point to
+a center, and the view to its circumference? 
+
+(Use
+inside/outside language). My awareness of you from the
+podium would accordingly keep me at a center, I would then
+gethe point were like a center, with a view and the view
+like its circumference? , and without a view belong to
+a point, a point contain a view, or that which has no parts
+contain a whole with many parts hanges my place and identity
+not a jot. is strictly neither moving nor transforming,.
+neither moves me nor transforms me. our awareness of
+anything else is neither to become it or reach it, To
+identify my awareness of anything else with a point of view
+upon it denies me any movement or transformation of the self
+For there is no movement or transformation of me in my
+awareness of anything else, if this awareness gives me
+a point of view: nce we identify awareness with a point of
+view, we effectively To associate my awareness with a point
+of view is in effect to admit that carried outside myself by
+being literally sent into the audience insofar as this
+awareness at all carries me outside myself. why this
+awareness can carry me outside myself without sending me
+into the audience. My awareness The answer, it would seem,
+is that my awareness of youme into the audience in carrying
+me outside myself. even if it carries me outside myself,
+keeps me at the podium rather than sending me into the
+audience. ithis allows me to grant my awareness of you,
+while denying ending me instantly how it allows us to grant
+my awareness of you while denying that upon you in the
+audience. Andfor the way it may enclose us in openness. If
+For example, Now , again as if our very selfhood enclosed us
+in openness. . or enclose what it is open to, can it its
+domain of openness, s openness, my inside encompasses my
+outside, hat it is open to, likethe self is still inside the
 self, insofar as the self encompasses this outside like the
 parabola. 
 
