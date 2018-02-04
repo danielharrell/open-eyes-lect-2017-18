@@ -250,75 +250,104 @@ continuous, yet keep me in one rather than the other, as if
 the two were discontinuous? How can I be carried outside
 myself, without losing myself? Or kept inside myself,
 without closing myself? The only way, perhaps, is if the
-self can make the outside inside, in something like the way
+self can draw the outside inside, in something like the way
 a jar is closed, or a parabola completed. That is, perhaps
 only if the self encloses what lies outside it, can the self
 be open to what lies outside it.
 
 This suggestion about our selfhood may sound abstract. But
-we have an everyday expression that seems to confirm the
+we have an everyday expression to support the
 suggestion, when we speak of having *a point of view*. Here
 at the podium, for example, my awareness gives me a point of
 view on you in the audience. And this seems to explain why
 I can be aware of you without becoming you, or at least find
-myself sitting in the audience alongside you. For in truth
+myself sitting with you in the audience. For it seems 
 I remain just where I am, and what I am, at the point of my
 point of view. And my awareness of you, or of anything else,
-strictly does nothing to either my place or my identity. Of
+changes nothing in either my place or my identity. Of
 course, the very idea of a point of view comes with
 a paradox of its own: for how can a view belong to a point?
 That is, how can a whole with many parts belong to that
 which has no part? But if we were pressed this way, on the
-coherence of a point of view, my guess is that we would
-think of a geometric figure by analogy, even more enclosed
-than the parabola. For what if we likened the point to
-a center, and the view to its circumference? 
+coherence of a point of view, we might think of a geometric
+figure by analogy, even more enclosed than the parabola. For
+what if a point of view were like the center of
+a circumference? In that case, my awareness of you would not
+mean that I became you, or reached you, but instead that
+I encompassed you. And in that sense, it seems, I would
+*contain* you in my point of view, as if my openness to you
+depended on enclosing you; and as if we were both, more generally,
+enclosed in openness, much like a parabola, and perhaps even
+more like a circle. 
 
-(Use
-inside/outside language). My awareness of you from the
-podium would accordingly keep me at a center, I would then
-gethe point were like a center, with a view and the view
-like its circumference? , and without a view belong to
-a point, a point contain a view, or that which has no parts
-contain a whole with many parts hanges my place and identity
-not a jot. is strictly neither moving nor transforming,.
-neither moves me nor transforms me. our awareness of
-anything else is neither to become it or reach it, To
-identify my awareness of anything else with a point of view
-upon it denies me any movement or transformation of the self
-For there is no movement or transformation of me in my
-awareness of anything else, if this awareness gives me
-a point of view: nce we identify awareness with a point of
-view, we effectively To associate my awareness with a point
-of view is in effect to admit that carried outside myself by
-being literally sent into the audience insofar as this
-awareness at all carries me outside myself. why this
-awareness can carry me outside myself without sending me
-into the audience. My awareness The answer, it would seem,
-is that my awareness of youme into the audience in carrying
-me outside myself. even if it carries me outside myself,
-keeps me at the podium rather than sending me into the
-audience. ithis allows me to grant my awareness of you,
-while denying ending me instantly how it allows us to grant
-my awareness of you while denying that upon you in the
-audience. Andfor the way it may enclose us in openness. If
-For example, Now , again as if our very selfhood enclosed us
-in openness. . or enclose what it is open to, can it its
-domain of openness, s openness, my inside encompasses my
-outside, hat it is open to, likethe self is still inside the
-self, insofar as the self encompasses this outside like the
-parabola. 
+If anything, the force of this conception is lost in
+familiarity. But to make it less familiar, think again of
+those rarer moments in life, the best moments in life, the
+moments we might identify most with learning, growing, where
+something has moved you, changed you, renewed you. Think of
+moments, in other words, where we would most want to say
+that something, even everything, has changed in our place or
+identity. We might call them moments of otherness that most
+reveal our openness, and most require it. Still, we are more
+likely to suppose that such moments have done something *to*
+our point of view---moved it, changed it, enlarged it,
+deepened it---than to suppose they have more simply erased
+it, or denied it, or refuted the very idea of it. In other
+words, it is easy to suppose the self might be transformed,
+but hard to suppose the self might be transcended; and even
+harder to make sense of this difficulty if the self were
+truly open than if it were truly closed, and therefore
+incapable of transcendence, even in light of our deepest
+moments of otherness, and the openness that makes them
+possible.  
+
+We can find still more support for this conception, of
+a self enclosed and never to be transcended, in the barest
+philosophical reflection. For in this context, the barest
+such reflection might well be that our point of view *is*
+a point of view. And the recognition of this can lead us to
+question our point of view, or doubt it, or even want to
+escape it, all in light of the truth from *no* point of
+view, as if we might someday see things in themselves, as
+they are, without the horizon, or circumference, that
+contains them, and perhaps distorts them, in any point of
+view. Our sense of this may even make us doubt everything,
+or know nothing. 
+
+, and makes them allows them to be seen only in
+relation to us, or as they seem. , and therebys if being
+could be liberated from the horizon that makes it seeming,
+them things for us, anything in itself into something for
+us. , contained within a point of view. , or everything,
+things as they are into things as they seem, from any point
+of view. , or as they are, into thingsmove from how things
+actually are rather than how they merely seem nd the wish to
+see things as they areand that *any* point of view will
+precludes, as in turning how things are in themselves  or
+a conception of truth that preclude it.
+
+have supposed self-overcoming, but instead self-confirming,
+. suppose we notice, as  Nor is there any transcendence of
+self, on this conception, in what we might call the opposite
+direction: even if we notice that our point of view *is*
+a point of view. We also have the books 
+
+the comparative difficulty
+of this is . we are more likely to suppose
+that the self might be transformed than that the self
+could be transcended it
+possible to transform the self than to transcend the self;
+and this alone is a sign that . suppose
+that these are moments of self-transformation, than consider such moments e might have taken this to
+refute the very idea of a point of view; It is still easier
+to suppose that someth. suppose suppose that even in my
+rarer moments, when I might think something has moved me, or
+changed me, what has really moved or changed is my point of
+view.  Hard to see how openness isn't linked to a change in
+place or identity? But this is self-transformation, not
+self-transcendence. 
 
 Then shift to how being open means being closed, self-transcendence self-immanence.  
-The easiest way out of this paradox, it seems, is by
-making the outside a kind of inside. For my awareness of
-you, after all, *is* mine, and it contains you in something
-we are wont to call a point of view. So it can look as if
-the way I am carried outside myself, so to speak, is really
-still contained inside myself, and as if there were no
-outside for self but one that the self can encompass, and
-somehow make its own. Or again, as if our very selfhood
-enclosed us in openness.
 
 Our selfhood can seem so enclosing, in fact, as to explain
 self-transcendence rather than exclude it. In a simple sense,
