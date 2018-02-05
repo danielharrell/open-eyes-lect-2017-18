@@ -250,7 +250,7 @@ continuous, yet keep me in one rather than the other, as if
 the two were discontinuous? How can I be carried outside
 myself, without losing myself? Or kept inside myself,
 without closing myself? The only way, perhaps, is if the
-self can draw the outside inside, in something like the way
+self can bring the outside inside, in something like the way
 a jar is closed, or a parabola completed. That is, perhaps
 only if the self encloses what lies outside it, can the self
 be open to what lies outside it.
@@ -264,9 +264,9 @@ I can be aware of you without becoming you, or at least find
 myself sitting with you in the audience. For it seems 
 I remain just where I am, and what I am, at the point of my
 point of view. And my awareness of you, or of anything else,
-changes nothing in either my place or my identity. Of
-course, the very idea of a point of view comes with
-a paradox of its own: for how can a view belong to a point?
+changes nothing in either my place or my identity. The
+very idea of a point of view does come with a 
+paradox of its own: for how can a view belong to a point?
 That is, how can a whole with many parts belong to that
 which has no part? But if we were pressed this way, on the
 coherence of a point of view, we might think of a geometric
@@ -286,15 +286,15 @@ those rarer moments in life, the best moments in life, the
 moments we might identify most with learning, growing, where
 something has moved you, changed you, renewed you. Think of
 moments, in other words, where we would most want to say
-that something, even everything, has changed in our place or
-identity. We might call them moments of otherness that most
-reveal our openness. Still, we are more
-likely to suppose that such moments have done something *to*
-our point of view---moved it, changed it, enlarged it,
-deepened it---than to suppose they have more simply erased
-it, or denied it, or refuted the very idea of it. In other
-words, it is easy to suppose the self might be transformed,
-but hard to suppose the self might be transcended. And even
+that something has changed in our place or identity, even
+everything. We might call them moments of otherness that
+most reveal our openness. Still, we are more likely to
+suppose that such moments have done something *to* our point
+of view---moved it, changed it, enlarged it, deepened
+it---than to suppose they have more simply erased it, or
+denied it, or refuted the very idea of it. In other words,
+it is easy to suppose the self might be transformed, but
+hard to suppose the self might be transcended. And even
 harder to make sense of this difficulty if the self were
 truly open than if it were truly closed, and therefore
 incapable of transcendence, even in light of our deepest
@@ -308,50 +308,19 @@ such reflection might be that our point of view *is* a point
 of view. And the recognition of this can lead us to question
 our point of view, or doubt it, or even want to escape it,
 as if we might someday see things from *no* point of view;
-see them, that is, as they truly are, as they are in
-themselves, as they are *outside* any point of view, no
-matter how encompassing. 
+see them, that is, as they truly are; as they are in
+themselves; as they are *outside* any point of view, no
+matter how encompassing. But how could we see at all without
+a point of view? Or make any advance beyond it, without
+going through it, to an end that still lies inside, not
+outside, the self? It seems we can reach self-knowledge
+through Socratic ignorance; or self-certainty through
+Cartesian doubt; a self that is transcendental, through
+Kantian critique; or a self that is absolute, through
+Hegelian dialectic. But what could it mean to
+reach beyond the self, no matter how absolute? 
 
-Our sense of this may even make us doubt everything,
-or know nothing. 
-
-have supposed self-overcoming, but instead self-confirming,
-. suppose we notice, as  Nor is there any transcendence of
-self, on this conception, in what we might call the opposite
-direction: even if we notice that our point of view *is*
-a point of view. We also have the books 
-
-the comparative difficulty
-of this is . we are more likely to suppose
-that the self might be transformed than that the self
-could be transcended it
-possible to transform the self than to transcend the self;
-and this alone is a sign that . suppose
-that these are moments of self-transformation, than consider such moments e might have taken this to
-refute the very idea of a point of view; It is still easier
-to suppose that someth. suppose suppose that even in my
-rarer moments, when I might think something has moved me, or
-changed me, what has really moved or changed is my point of
-view.  Hard to see how openness isn't linked to a change in
-place or identity? But this is self-transformation, not
-self-transcendence. 
-
-Then shift to how being open means being closed, self-transcendence self-immanence.  
-
-Our selfhood can seem so enclosing, in fact, as to explain
-self-transcendence rather than exclude it. In a simple sense,
-for example, it seems I can transcend my point of view simply by
-changing my place---from podium to audience, say. But this
-is to replace one point of view with another; and without
-the other, it is hard to see how the one could be transcended
-rather than lost. I can also transcend my point
-of view without strictly changing my place, if, say, a
-book I am reading changes my mind, or enlarges it, or
-deepens it. But we would then likely say the same of
-my point of view: the book has changed it, or enlarged
-it, or deepened it; but in any case done something
-*to* it rather than erasing it, or allowing me
-to escape it. 
+(Turn to sympathy, ethics, other selves, Middlemarch.) 
 
 I might also transcend my point of view in a more
 philosophical mood: for example, by noticing that my point
