@@ -255,16 +255,16 @@ a jar is closed, or a parabola completed. That is, perhaps
 only if the self encloses what lies outside it, can the self
 be open to what lies outside it.
 
-This suggestion about our selfhood may sound abstract. But
-we have an everyday expression to support the
+This suggestion about our selfhood may sound abstruse. But
+we have an everyday expression to clarify the
 suggestion, when we speak of having *a point of view*. Here
 at the podium, for example, my awareness gives me a point of
 view on you in the audience. And this seems to explain why
 I can be aware of you without becoming you, or at least find
-myself sitting with you in the audience. For it seems 
+myself sitting beside you in the audience. For it seems 
 I remain just where I am, and what I am, at the point of my
 point of view. And my awareness of you, or of anything else,
-changes nothing in either my place or my identity. The
+strictly changes nothing in either my place or my identity. The
 very idea of a point of view does come with a 
 paradox of its own: for how can a view belong to a point?
 That is, how can a whole with many parts belong to that
@@ -283,7 +283,7 @@ more like a circle.
 If anything, the force of this conception is lost in
 familiarity. But to make it less familiar, think again of
 those moments in life, moments we might identify with
-learning or growing, where we would want to say that
+learning, or growing, where we would want to say that
 something *has* changed in our place or identity. We might
 think of them as moments of otherness that most reveal our
 openness. Still, we are more likely to suppose that such
@@ -299,35 +299,34 @@ light of our deepest moments of otherness, and the openness
 that makes them possible.  
 
 We can find still more support for this conception, of
-a self enclosed and never to be transcended, in the barest
-philosophical reflection. For in this context, the barest
+a self enclosed and never to be transcended, in the merest
+philosophical reflection. For in this context, the merest
 such reflection might be that our point of view *is* a point
 of view. And if we recognize this, it is easy to question
-our point of view, or doubt it, or even want to escape it,
+our point of view, or doubt it, or even want to overcome it,
 as if we might someday see things from *no* point of view;
 see them, that is, as they truly are; as they are in
 themselves; as they are *outside* any point of view, no
 matter how encompassing. But how could we see at all without
-a point of view? Or make any advance beyond it, without
-going through it, to an end that still lies inside, not
-outside, the self? It seems we can reach self-knowledge
-through Socratic ignorance; or self-certainty through
-Cartesian doubt; a self that is transcendental, through
-Kantian critique; or a self that is absolute, through
-Hegelian dialectic. But what could it mean to
-reach beyond the self, especially if the self proves
-absolute? 
+a point of view? Or somehow see through it, to a kind of end
+beyond it, unless the end in sight were still inside, not outside,
+the self that sees? It seems we can reach self-knowledge through
+Socratic ignorance; or self-certainty through Cartesian
+doubt; a self that is transcendental, through Kantian
+critique; or a self that is absolute, through Hegelian
+dialectic. But what could it mean to reach beyond the self,
+in any such respect, and especially if the self proves absolute? 
 
-Nor do we need Hegel's tortured prose to prove the self
+Nor do we need Hegel's tangled prose to prove the self
 absolute. Consider the demonstration, of sorts, in Eliot's
 *Middlemarch*. For it is hard to surpass her depiction of
 self-containment, or what Eliot calls egoism, that we
-readers know as Rosamond Vincy. And it is equally hard to
+readers know as Rosamond Vincy. It is equally hard to
 surpass Eliot's description of the ego's transcendence in
 this case, once Dorothea Brooke enters Rosamond's life, and
 becomes an object of her concern. But the image Eliot
-chooses for this transcendence, tellingly, is of two selves
-clutched together in a shipwreck, as if their selfhood made
+chooses for this transcendence, tellingly, is of a shipwrecked
+embrace between two selves, as if their selfhood made
 them the only beings in the world: 
 
 > (797) Rosamond, taken hold of by an emotion stronger than
@@ -340,15 +339,77 @@ clasped each other as if they had been in a shipwreck.
 Nor is this a singular case in the novel. For Dorothea
 herself is subject to an egoism all her own, as she marries
 a man she first compares, on the barest look, to the likes
-of Locke, or Milton, or Pascal. In the hands of a lesser
-novelist, Dorothea's transcendence of this egoism might have
-been made a matter of her learning she had married a lesser
+of Locke, Milton, Pascal. In the hands of a lesser
+writer, Dorothea's transcendence of ego might have
+been made a matter of learning she had married a lesser
 man. But in the hands of Eliot, what Dorothea has to learn
-involves the giving-up of any comparisons to other men, so
-she can discover, to her surprise, that she had married
-another self. (Quote?) 
+involves the giving-up of any comparisons, to discover
+she had married another self:
 
-, mere
+> We are all of us born in moral stupidity, taking the world
+as an udder to feed our supreme selves: Dorothea had early
+begun to emerge from that stupidity, but yet it had been
+easier to her to imagine how she would devote herself to Mr.
+Casaubon, and become wise and strong in his strength and
+wisdom, than to conceive with that distinctness which is no
+longer reflection but feeling---an idea wrought back to the
+directness of sense, like the solidity of objects--that he
+had an equivalent centre of self, whence the lights and
+shadows must always fall with a certain difference.
+
+And later in the novel, we learn just how pitiable this
+center of self is, in a passage from narrator to reader
+where Eliot challenges us, if not to love Causabon, at least
+to acknowledge him, which means coming to know him as self
+rather than other:  
+
+> “For my part I am very sorry for him. It is an uneasy lot
+at best, to be what we call highly taught and yet not to
+enjoy: to be present at this great spectacle of life and
+never to be liberated from a small hungry shivering
+self—never to be fully possessed by the glory we behold,
+never to have our consciousness rapturously transformed into
+the vividness of a thought, the ardor of a passion, the
+energy of an action, but always to be scholarly and
+uninspired, ambitious and timid, scrupulous and
+dim-sighted.
+
+But I quote this passage for an ambiguity about it. If
+we read it as I just did---an account, in effect,
+of selfhood---then we can take it as  to support the argument
+against openness that I have given so far; or more exactly,
+the argument on behalf of an openness that depends on
+closedness. On
+the one hand, we can read it as I just did: an argument,
+in effect, for a passage
+that helps us understand the selfhood in another, and
+therefore further proof that the
+self is absolute, that we enclosed This passage can be read in two ways: points in two way:
+towards self-enclosedness, and towards self-transcendence.
+self-consummation. 
+
+If we read it in light of our geometric image, reduced to
+a point. , which on this account is what being
+open is, as anything other is made to otherness is, in  see
+the selfhood Eliot points to two forms of openness. In one
+we are enclosed, but in the other open, possessed by
+what we see rather than possessing it. transformed into
+what we feel. So are
+we enclosed in openness? Is being open just a way of being
+closed that merely looks open? Or is being open possible?
+And if so, how?
+
+# Part Three {#three}
+
+in him, him as a fellow
+self, , like Dorothea,
+as a fellow self,l understand him with 
+openness, which perhaps means understanding the self; that is, to embrace h. , to be
+open to Causabon, : "a small hungry shivering self" :
+425: Had not occurred to Causabon to see Dorothea like himself.
+
+Eliot expresses her own pity for
+Causabon, , mere
 matter of learningFor in Rosamond Vincy, Eliot gives givesWe
 might briefly consider the way that George Eliot a kind of
 self-immanence even in depictions of self-transcendence. It
