@@ -282,30 +282,27 @@ more like a circle.
 
 If anything, the force of this conception is lost in
 familiarity. But to make it less familiar, think again of
-those rarer moments in life, the best moments in life, the
-moments we might identify most with learning, growing, where
-something has moved you, changed you, renewed you. Think of
-moments, in other words, where we would most want to say
-that something has changed in our place or identity, even
-everything. We might call them moments of otherness that
-most reveal our openness. Still, we are more likely to
-suppose that such moments have done something *to* our point
-of view---moved it, changed it, enlarged it, deepened
-it---than to suppose they have more simply erased it, or
-denied it, or refuted the very idea of it. In other words,
-it is easy to suppose the self might be transformed, but
-hard to suppose the self might be transcended. And even
-harder to make sense of this difficulty if the self were
-truly open than if it were truly closed, and therefore
-incapable of transcendence, even in light of our deepest
-moments of otherness, and the openness that makes them
-possible.  
+those moments in life, moments we might identify with
+learning or growing, where we would want to say that
+something *has* changed in our place or identity. We might
+think of them as moments of otherness that most reveal our
+openness. Still, we are more likely to suppose that such
+moments have done something *to* our point of view---moved
+it, altered it, enlarged it, deepened it---than to suppose
+they have more simply erased it, or denied it, or refuted
+the very idea of it. In other words, it is easy to suppose
+the self might be transformed, but hard to suppose the self
+might be transcended. And even harder to make sense of this
+difficulty if the self were truly open than if it were truly
+closed, and therefore incapable of transcendence, even in
+light of our deepest moments of otherness, and the openness
+that makes them possible.  
 
 We can find still more support for this conception, of
 a self enclosed and never to be transcended, in the barest
 philosophical reflection. For in this context, the barest
 such reflection might be that our point of view *is* a point
-of view. And the recognition of this can lead us to question
+of view. And if we recognize this, it is easy to question
 our point of view, or doubt it, or even want to escape it,
 as if we might someday see things from *no* point of view;
 see them, that is, as they truly are; as they are in
@@ -318,66 +315,47 @@ through Socratic ignorance; or self-certainty through
 Cartesian doubt; a self that is transcendental, through
 Kantian critique; or a self that is absolute, through
 Hegelian dialectic. But what could it mean to
-reach beyond the self, no matter how absolute? 
+reach beyond the self, especially if the self proves
+absolute? 
 
-(Turn to sympathy, ethics, other selves, Middlemarch.) 
+Nor do we need Hegel's tortured prose to prove the self
+absolute. Consider the demonstration, of sorts, in Eliot's
+*Middlemarch*. For it is hard to surpass her depiction of
+self-containment, or what Eliot calls egoism, that we
+readers know as Rosamond Vincy. And it is equally hard to
+surpass Eliot's description of the ego's transcendence in
+this case, once Dorothea Brooke enters Rosamond's life, and
+becomes an object of her concern. But the image Eliot
+chooses for this transcendence, tellingly, is of two selves
+clutched together in a shipwreck, as if their selfhood made
+them the only beings in the world: 
 
-I might also transcend my point of view in a more
-philosophical mood: for example, by noticing that my point
-of view *is* a point of view. But again, is is hard to see
-how I could notice this without a point of view, in this
-case upon my point of view, where again I transcend the one
-*by means of* the other. In a more radical such mood,
-I might conclude that my very dependence upon a point of
-view renders everything within it
-suspect, confronting me with the prospect that all my
-beliefs are mere opinions, and my every perception and
-thought but a dream. (This is transcendence in that it
-carries me past anything, but into the self.) the result
-only underlines illusions, all my thoughts without any
-foundation in perception or thought thator all my
-perceptions illusions, or all my thoughts deceptive.  and
-all my perceptions and thoughts mere illusions. : a mere
-thing for me, rather than anything in itself.  
+> (797) Rosamond, taken hold of by an emotion stronger than
+her own---hurried along in a new movement which gave all things
+some new, awful, undefined aspect---could find no words,
+but involuntarily she put her lips to Dorothea's forehead
+which was very near her, and then for a minute the two women
+clasped each other as if they had been in a shipwreck.
 
-But it is hard to see
-how this would transcend the self rather than embrace it, in
-something like the way Socratic ignorance leads to
-self-knowledge, or Cartesian doubt to self-certainty. 
+Nor is this a singular case in the novel. For Dorothea
+herself is subject to an egoism all her own, as she marries
+a man she first compares, on the barest look, to the likes
+of Locke, or Milton, or Pascal. In the hands of a lesser
+novelist, Dorothea's transcendence of this egoism might have
+been made a matter of her learning she had married a lesser
+man. But in the hands of Eliot, what Dorothea has to learn
+involves the giving-up of any comparisons to other men, so
+she can discover, to her surprise, that she had married
+another self. (Quote?) 
 
+, mere
+matter of learningFor in Rosamond Vincy, Eliot gives givesWe
+might briefly consider the way that George Eliot a kind of
+self-immanence even in depictions of self-transcendence. It
+is hard to surpass the imageOne such depiction, for me at
+any rate, is Rosamond Vincy in Eliot's *Middlemarch*, 
 
-Descartes: self-transcendence from finite to infinite,
-but god of intelligibility rather than revelation.
-
-any success in this not simply replace one point of view
-with another, even if larger, or deeper? How does one even
-begin to look beyond *any* point of view, if looking at all
-means taking one? Or perhaps we might think we see beyond
-our point of view, 
-Or perhaps we could follow Kant, and ask what makes a point
-of view possible, building a kind of science on the way
-things seem, from any point of view. But this is to make
-a science of the self. And suppose we turn Kant around, and
-ask what makes this science possible. That is, what makes
-not just *any* point of view possible, but the one point of
-view from which we can ask, and answer, what makes any point
-of view possible? This meta-question might well give us hope
-we could build a second kind of science on the first, where
-the way things seem, from any point of view, becomes the way
-they seem from one point of view, and in this oneness prove the
-only point of view from which the way things seem is the way
-things are. Once we follow Kant, in other words, we might
-follow Hegel in turn. But even if Hegel can carry us to how
-things are, it will only be through how they seem, from
-a point of view proved absolute. There will be no
-escape from a point of view even in this science of the
-absolute, making Hegel's own name for it, a phenomenology of
-spirit, as much a confession of modesty as a declaration of
-ambition. Knowing we know everything would differ only in
-degree, not in kind, from knowing we know nothing. The one
-would be as much an expression of self-knowledge as the
-other, where the self is again embraced rather than
-transcended.
+Th(Turn to sympathy, ethics, other selves, Middlemarch.) 
 
 Now move to another way to transcend self (Kant, Hegel, maybe
 Hume, then Eliot) in respect to other selves.
@@ -822,12 +800,6 @@ Issues in quantum mechanics.
 Rosamond from Middlemarch (p.779):
 > What another nature felt in opposition to her own was
 being burnt and bitten into her consciousness.
-> (797) Rosamond, taken hold of by an emotion stronger than
-her own---hurried along in a new movement which gave all things
-some new, awful, undefined aspect---could find no words,
-but involuntarily she put her lips to Dorothea's forehead
-which was very her, and then for a minute the two women
-clasped each other as if they had been in a shipwreck.
 
 Homer: noon-day sun? Allanbrook.
 "In his poem the sun is always high noon, and the angle of
