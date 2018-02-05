@@ -288,13 +288,13 @@ something has moved you, changed you, renewed you. Think of
 moments, in other words, where we would most want to say
 that something, even everything, has changed in our place or
 identity. We might call them moments of otherness that most
-reveal our openness, and most require it. Still, we are more
+reveal our openness. Still, we are more
 likely to suppose that such moments have done something *to*
 our point of view---moved it, changed it, enlarged it,
 deepened it---than to suppose they have more simply erased
 it, or denied it, or refuted the very idea of it. In other
 words, it is easy to suppose the self might be transformed,
-but hard to suppose the self might be transcended; and even
+but hard to suppose the self might be transcended. And even
 harder to make sense of this difficulty if the self were
 truly open than if it were truly closed, and therefore
 incapable of transcendence, even in light of our deepest
@@ -304,27 +304,16 @@ possible.
 We can find still more support for this conception, of
 a self enclosed and never to be transcended, in the barest
 philosophical reflection. For in this context, the barest
-such reflection might well be that our point of view *is*
-a point of view. And the recognition of this can lead us to
-question our point of view, or doubt it, or even want to
-escape it, all in light of the truth from *no* point of
-view, as if we might someday see things in themselves, as
-they are, without the horizon, or circumference, that
-contains them, and perhaps distorts them, in any point of
-view. Our sense of this may even make us doubt everything,
-or know nothing. 
+such reflection might be that our point of view *is* a point
+of view. And the recognition of this can lead us to question
+our point of view, or doubt it, or even want to escape it,
+as if we might someday see things from *no* point of view;
+see them, that is, as they truly are, as they are in
+themselves, as they are *outside* any point of view, no
+matter how encompassing. 
 
-, and makes them allows them to be seen only in
-relation to us, or as they seem. , and therebys if being
-could be liberated from the horizon that makes it seeming,
-them things for us, anything in itself into something for
-us. , contained within a point of view. , or everything,
-things as they are into things as they seem, from any point
-of view. , or as they are, into thingsmove from how things
-actually are rather than how they merely seem nd the wish to
-see things as they areand that *any* point of view will
-precludes, as in turning how things are in themselves  or
-a conception of truth that preclude it.
+Our sense of this may even make us doubt everything,
+or know nothing. 
 
 have supposed self-overcoming, but instead self-confirming,
 . suppose we notice, as  Nor is there any transcendence of
