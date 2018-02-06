@@ -60,7 +60,7 @@ Here we use the word "open" for a positive
 condition, a state of being, which any negative definition
 at best half-comprehends. And to ask about the meaning of
 "open", then, is to ask about the meaning of hospitality,
-generosity, compassion, understanding, love.
+generosity, compassion, love.
 
 Nor are these the only such states of being. Think of how we
 say our eyes are open, merely to mean we are awake. But why say
@@ -89,7 +89,7 @@ awareness we have of ourselves. <!-- Later connect this
 point, perhaps, to Adam and Eve and nakedness: the price of
 knowledge is the shame of nakedness.--> And this gives the
 word "open" a deeper sense of positive scope, as it
-encompasses self and other at once, and captures something
+comprehends self and other at once, and captures something
 that our times of solitude and solicitude have in common.
 
 In this vein, too, the word "open" might have a home in any
@@ -224,98 +224,115 @@ arguments for its impossibility; and philosophy rests here,
 in impossibility. In mere appearance, then go back to
 examples from Aristotle, then Bergson.--> And while it might
 seem contrived, in coming from mathematics, it suggests
-a more general way---and radical way---to wonder how being
+a more general way, and radical way, to wonder how being
 open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-Or to put this last question in more plausible terms: what
+We can put this last question in more plausible terms. What
 if our very selfhood enclosed us in openness? For the self
 poses its own paradox of openness, and perhaps its own
 resolution in closedness. Consider the power of awareness,
 which again might be the openness most our own,
-comprehending self and other at once. But how? Insofar as
-I am aware of anything else, it seems I am *not* myself; yet
-I *am* myself, insofar as this awareness of anything else is
+comprehending self and other at once. But how? How can I be
+self and other at once? In spatial terms, we might say that
+I am carried outside myself, in my awareness of anything
+else; yet also kept inside myself, since this awareness is
 mine, and known as mine through self-awareness. But how can
-awareness make me be myself and not myself at once? We can
-also put this paradox in the spatial terms that we used for
-the jar and parabola. For insofar as I am aware of
-anything else, it seems I am carried outside myself; yet
-insofar as this awareness is mine, I am kept inside myself.
-But how can awareness put me inside and outside at once? Or
-carry me from one to the other, as if the two were
-continuous, yet keep me in one rather than the other, as if
-the two were discontinuous? How can I be carried outside
-myself, without losing myself? Or kept inside myself,
-without closing myself? The only way, perhaps, is if the
-self can bring the outside inside, in something like the way
-a jar is closed, or a parabola completed. That is, perhaps
-only if the self encloses what lies outside it, can the self
-be open to what lies outside it.
+awareness put me inside and outside at once? Or carry me
+from one to the other, as if the two were continuous, yet
+keep me in one rather than the other, as if the two were
+discontinuous? How can I be carried outside myself without
+losing myself, making openness impossible? Or kept inside
+myself without closing myself, again making openness
+impossible? The only way, perhaps, is if the self can bring
+the outside inside, in something like the way a jar
+is closed, or a parabola completed. That is,
+perhaps only if the self encloses what lies outside it, can
+the self be open to what lies outside it.
 
-This suggestion about our selfhood may sound abstruse. But
-we have an everyday expression to clarify the
-suggestion, when we speak of having *a point of view*. Here
-at the podium, for example, my awareness gives me a point of
-view on you in the audience. And this seems to explain why
-I can be aware of you without becoming you, or at least find
-myself sitting beside you in the audience. For it seems 
-I remain just where I am, and what I am, at the point of my
-point of view. And my awareness of you, or of anything else,
-strictly changes nothing in either my place or my identity. The
-very idea of a point of view does come with a 
-paradox of its own: for how can a view belong to a point?
-That is, how can a whole with many parts belong to that
-which has no part? But if we were pressed this way, on the
-coherence of a point of view, we might think of a geometric
-figure by analogy, even more enclosed than the parabola. For
-what if a point of view were like the center of
-a circumference? In that case, my awareness of you would not
-mean that I became you, or reached you, but instead that
-I encompassed you. And in that sense, it seems, I would
-*contain* you in my point of view, as if my openness to you
-depended on enclosing you; and as if we were both, more generally,
-enclosed in openness, much like a parabola, and perhaps even
-more like a circle. 
+This suggestion about our selfhood may sound abstruse, or at
+least abstract. But we have an everyday expression to
+clarify the suggestion, and make it more concrete, when we
+speak of having *a point of view*. Here at the podium, for
+example, my awareness gives me a point of view on you in the
+audience. And this explains why I can be aware of you
+without becoming you, or at least find myself sitting beside
+you in the audience. For it seems I remain just where I am,
+and what I am, at the point of my point of view. And my
+awareness of you, or of anything else, strictly changes
+nothing in either my place or my identity. We might admit
+that the very idea of a point of view comes with a paradox
+of its own: for how can a view belong to a point? That is,
+how can a whole with many parts belong to that which has no
+part? But if we were pressed this way, on the coherence of
+a point of view, we might think of a geometric figure by
+analogy, even more enclosed than the parabola. For what if
+a point of view were like the center of a circumference? In
+that case, my awareness of you would not mean that I became
+you, or reached you, but instead that I encompassed you. And
+in that sense, it seems, I would *contain* you in my point
+of view, as if my openness to you were a matter of enclosing you;
+and as if we were both, more generally, enclosed in
+openness, much like a parabola, and perhaps even more like
+a circle. 
 
-If anything, the force of this conception is lost in
-familiarity. But to make it less familiar, think again of
-those moments in life, moments we might identify with
-learning, or growing, where we would want to say that
-something *has* changed in our place or identity. We might
-think of them as moments of otherness that most reveal our
-openness. Still, we are more likely to suppose that such
-moments have done something *to* our point of view---moved
-it, altered it, enlarged it, deepened it---than to suppose
-they have more simply erased it, or denied it, or refuted
-the very idea of it. In other words, it is easy to suppose
-the self might be transformed, but hard to suppose the self
-might be transcended. And even harder to make sense of this
-difficulty if the self were truly open than if it were truly
-closed, and therefore incapable of transcendence, even in
-light of our deepest moments of otherness, and the openness
-that makes them possible.  
+If anything, the force of this idea is lost in familiarity.
+But to make it less familiar, think again of those deeper
+moments of speech, where we speak of openness---whether of
+mind, or arms, or heart---as if it were a state of being.
+And these deeper moments of speech reflect rarer moments in
+life where we might want to say that something *has* changed
+in our place or identity. We could think of them as moments
+of otherness that most reveal our openness. Still, it seems
+easier to suppose that such moments have done something *to*
+our point of view---moved it, altered it, enlarged it,
+deepened it---than to suppose they have more simply erased
+it, or denied it, or refuted the very idea of it. In other
+words, it seems easier to suppose that the self might be
+transformed, than to suppose it could ever be transcended.
+And less easy still to make sense of this difficulty, the
+difficulty of thinking that the self might even once, much
+less at every moment, be effaced in openness, unless the
+self somehow stayed intact, or closed, in openness, and even
+in light of the deepest moments of otherness that openness
+makes possible.
 
-We can find still more support for this conception, of
-a self enclosed and never to be transcended, in the merest
-philosophical reflection. For in this context, the merest
-such reflection might be that our point of view *is* a point
-of view. And if we recognize this, it is easy to question
-our point of view, or doubt it, or even want to overcome it,
-as if we might someday see things from *no* point of view;
-see them, that is, as they truly are; as they are in
-themselves; as they are *outside* any point of view, no
-matter how encompassing. But how could we see at all without
-a point of view? Or somehow see through it, to a kind of end
-beyond it, unless the end in sight were still inside, not outside,
-the self that sees? It seems we can reach self-knowledge through
+We can find still more support for this idea, of a self that
+encloses us in openness, and can therefore never be
+transcended, in the merest philosophical reflection. For in
+this context, the merest such reflection might be that our
+point of view *is* a point of view. And if we recognize
+this, it is easy to question our point of view, or doubt it,
+or even want to overcome it, as if we might someday see
+things from *no* point of view; see them, that is, as they
+truly are, as they are in themselves, as they are *outside*
+any point of view, no matter how encompassing. But the
+backdrop of such a reflection, or yearning, would seem to be
+the recognition that we can never escape a point of view.
+For without it, how could we see at all?  Or ever see beyond
+it, if seeing requires it? And a large part of deeper
+philosophical reflection might well be reduced to this
+recognition. For what more, really, is contained in the
+self-knowledge of Socratic ignorance? Or the self-certainty
+of Cartesian doubt? The transcendental self of Kantian
+critique? Or the absolute self of Hegelian dialectic? All
+these teachings can seem little more than the embrace of
+a self that can never be transcended.
+
+if we are carried beyond our merest
+philosophical reflection about this, it can seem we
+are led at best from a recognition of the self to a
+reconciliation with it. Through Socratic ignorance, we can
+reach self-knowledge; or through Cartesian doubt, self-certainty.
+We can reach self-knowledge through
 Socratic ignorance; or self-certainty through Cartesian
 doubt; a self that is transcendental, through Kantian
 critique; or a self that is absolute, through Hegelian
 dialectic. But what could it mean to reach beyond the self,
-in any such respect, and especially if the self proves absolute? 
+in any such respect, and especially if the self proves
+absolute? 
 
 Nor do we need Hegel's tangled prose to prove the self
 absolute. Consider the demonstration, of sorts, in Eliot's
