@@ -319,15 +319,12 @@ in any such respect, and especially if the self proves absolute?
 
 Nor do we need Hegel's tangled prose to prove the self
 absolute. Consider the demonstration, of sorts, in Eliot's
-*Middlemarch*. For it is hard to surpass her depiction of
-self-containment, or what Eliot calls egoism, that we
-readers know as Rosamond Vincy. It is equally hard to
-surpass Eliot's description of the ego's transcendence in
-this case, once Dorothea Brooke enters Rosamond's life, and
-becomes an object of her concern. But the image Eliot
-chooses for this transcendence, tellingly, is of a shipwrecked
-embrace between two selves, as if their selfhood made
-them the only beings in the world: 
+*Middlemarch*, as we follow Rosamond Vincy through a life of
+self-regard, or what Eliot calls egoism, to a moment of
+self-release, where the ego is transcended, but in the
+shipwrecked embrace of another self, as if there were
+nothing but another self outside the self, making
+transcendence, in turn, a movement from self to self.   
 
 > (797) Rosamond, taken hold of by an emotion stronger than
 her own---hurried along in a new movement which gave all things
@@ -336,15 +333,15 @@ but involuntarily she put her lips to Dorothea's forehead
 which was very near her, and then for a minute the two women
 clasped each other as if they had been in a shipwreck.
 
-Nor is this a singular case in the novel. For Dorothea
-herself is subject to an egoism all her own, as she marries
-a man she first compares, on the barest look, to the likes
-of Locke, Milton, Pascal. In the hands of a lesser
-writer, Dorothea's transcendence of ego might have
-been made a matter of learning she had married a lesser
-man. But in the hands of Eliot, what Dorothea has to learn
-involves the giving-up of any comparisons, to discover
-she had married another self:
+Nor is this the only depiction in the novel of how egoism is
+transcended in a recognition of selfhood. Dorothea herself
+is subject to egoism, as she marries a man she first
+compares, on the barest look, to the likes---such as she
+imagines them---of Locke, or Milton, or Pascal. A lesser writer
+might have made Dorothea's transcendence of ego a matter of
+learning she had married a lesser man. But in the hands of
+Eliot, what Dorothea has to learn involves the giving-up of
+any comparisons, to discover she had married another self:
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
@@ -359,9 +356,13 @@ shadows must always fall with a certain difference.
 
 And later in the novel, we learn just how pitiable this
 center of self is, in a passage from narrator to reader
-where Eliot challenges us, if not to love Causabon, at least
-to acknowledge him, which means coming to know him as self
-rather than other:  
+where Eliot now challenges us, if not to love Causabon, at
+least to acknowledge him, which means coming to know him as
+self rather than other; (perhaps put below) and perhaps to
+confirm that being open to Causabon, or to anyone, or
+anything, means making it one's own, bringing it within the
+compass of the self, and showing that our selfhood indeed
+encloses us in openness: 
 
 > “For my part I am very sorry for him. It is an uneasy lot
 at best, to be what we call highly taught and yet not to
