@@ -54,7 +54,7 @@ Or covered. Or fastened. Or sealed. Or buttoned. Or guarded.
 Or protected. Or folded. Or clenched. Or concealed. Or
 constipated.[^Dictionary] This may be definition enough for
 everyday use. But what about those deeper moments of speech,
-when we talk of eyes being opened? Or hearts? Or minds?
+when we talk of eyes being opened? Or arms? Or minds? Or hearts?
 Or again the proverbial door, always open to a friend?
 Here we use the word "open" for a positive
 condition, a state of being, which any negative definition
@@ -253,7 +253,7 @@ perhaps only if the self encloses what lies outside it, can
 the self be open to what lies outside it.
 
 This suggestion about our selfhood may sound abstruse, or at
-least abstract. But we have an everyday expression to
+least abstract. But we have a commonplace expression to
 clarify the suggestion, and make it more concrete, when we
 speak of having *a point of view*. Here at the podium, for
 example, my awareness gives me a point of view on you in the
@@ -281,67 +281,49 @@ a circle.
 If anything, the force of this idea is lost in familiarity.
 But to make it less familiar, think again of those deeper
 moments of speech, where we speak of openness---whether of
-mind, or arms, or heart---as if it were a state of being.
-And these deeper moments of speech reflect rarer moments in
-life where we might want to say that something *has* changed
-in our place or identity. We could think of them as moments
-of otherness that most reveal our openness. Still, it seems
-easier to suppose that such moments have done something *to*
-our point of view---moved it, altered it, enlarged it,
-deepened it---than to suppose they have more simply erased
-it, or denied it, or refuted the very idea of it. In other
-words, it seems easier to suppose that the self might be
-transformed, than to suppose it could ever be transcended.
-And less easy still to make sense of this difficulty, the
-difficulty of thinking that the self might even once, much
-less at every moment, be effaced in openness, unless the
-self somehow stayed intact, or closed, in openness, and even
-in light of the deepest moments of otherness that openness
-makes possible.
+eyes, or arms, or mind, or heart--as if it were a state of
+being. We can think in turn of rarer moments in life that
+justify such speech, where we might want to say that
+something *can* change, or *has* changed, in our place or
+identity. We could think of these as moments of otherness
+that most reveal our openness. Still, it seems easier to
+suppose that such moments have done something *to* our point
+of view---moved it, altered it, enlarged it, deepened
+it---than to suppose they have more simply erased it, or
+denied it, or refuted the very idea of it. In other words,
+it is easier to suppose that the self might be
+transformed, than to suppose that the self could ever be
+transcended. But why should this be easier, unless the self
+stayed intact enough, or closed enough, to make the
+otherness in openness seem a property of self rather than
+a negation of self? 
 
-We can find still more support for this idea, of a self that
-encloses us in openness, and can therefore never be
-transcended, in the merest philosophical reflection. For in
-this context, the merest such reflection might be that our
-point of view *is* a point of view. And if we recognize
-this, it is easy to question our point of view, or doubt it,
-or even want to overcome it, as if we might someday see
-things from *no* point of view; see them, that is, as they
-truly are, as they are in themselves, as they are *outside*
-any point of view, no matter how encompassing. But the
-backdrop of such a reflection, or yearning, would seem to be
-the recognition that we can never escape a point of view.
-For without it, how could we see at all?  Or ever see beyond
-it, if seeing requires it? And a large part of deeper
-philosophical reflection might well be reduced to this
-recognition. For what more, really, is contained in the
+We can find still more support for this idea in the merest
+philosophical reflection. For in this context, the merest
+such reflection might be that our point of view *is* a point
+of view. And if we recognize this, it becomes possible to
+question our point of view, or doubt it, or even want to
+overcome it, as if we might someday see things from *no*
+point of view. See them, that is, as they truly are; as they
+are in themselves; as they are *outside* any point of view,
+no matter how encompassing. But the backdrop of this
+reflection would seem to be the recognition that a point
+of view is precisely what we can never escape. For how could
+we see at all, without a point of view?  Or ever see beyond
+it, if seeing any distance requires it? And a large part of
+deeper philosophical reflection might well be reduced to
+this recognition. For what more, really, is contained in the
 self-knowledge of Socratic ignorance? Or the self-certainty
 of Cartesian doubt? The transcendental self of Kantian
-critique? Or the absolute self of Hegelian dialectic? All
-these teachings can seem little more than the embrace of
-a self that can never be transcended.
+critique? Or the absolute self of Hegelian dialectic? It can
+start to seem as if there is nothing at the end of
+philosophical reflection but a self to embrace, since it can
+never be transcended. 
 
-if we are carried beyond our merest
-philosophical reflection about this, it can seem we
-are led at best from a recognition of the self to a
-reconciliation with it. Through Socratic ignorance, we can
-reach self-knowledge; or through Cartesian doubt, self-certainty.
-We can reach self-knowledge through
-Socratic ignorance; or self-certainty through Cartesian
-doubt; a self that is transcendental, through Kantian
-critique; or a self that is absolute, through Hegelian
-dialectic. But what could it mean to reach beyond the self,
-in any such respect, and especially if the self proves
-absolute? 
-
-Nor do we need Hegel's tangled prose to prove the self
-absolute. Consider the demonstration, of sorts, in Eliot's
-*Middlemarch*, as we follow Rosamond Vincy through a life of
-self-regard, or what Eliot calls egoism, to a moment of
-self-release, where the ego is transcended, but in the
-shipwrecked embrace of another self, as if there were
-nothing but another self outside the self, making
-transcendence, in turn, a movement from self to self.   
+Nor do we need the arguments of philosophy to reach this
+conclusion. And other ways of reaching it can even allow for
+the semblance of self-transcendence. Consider this passage,
+from perhaps the greatest novel in English:
 
 > (797) Rosamond, taken hold of by an emotion stronger than
 her own---hurried along in a new movement which gave all things
@@ -350,15 +332,20 @@ but involuntarily she put her lips to Dorothea's forehead
 which was very near her, and then for a minute the two women
 clasped each other as if they had been in a shipwreck.
 
-Nor is this the only depiction in the novel of how egoism is
-transcended in a recognition of selfhood. Dorothea herself
-is subject to egoism, as she marries a man she first
-compares, on the barest look, to the likes---such as she
-imagines them---of Locke, or Milton, or Pascal. A lesser writer
-might have made Dorothea's transcendence of ego a matter of
-learning she had married a lesser man. But in the hands of
-Eliot, what Dorothea has to learn involves the giving-up of
-any comparisons, to discover she had married another self:
+Readers of *Middlemarch* may remember this moment. For Eliot
+leads us to it from a depiction, in the character of
+Rosamond Vincy, of a self that seems incapable of such
+a moment: the moment when a life of self-regard reaches
+a point of self-release. But this point of self-release, as
+Eliot describes it, is in the shipwrecked embrace of another
+self, as if there were nothing but self outside 
+self, making transcendence, in turn, a movement from
+self to self.   
+
+Nor is this the only such moment in the novel. The
+other self in the passage above, Dorothea Brooke, is lead
+to a similar point, in her unhappy first marriage to
+Edward Causabon. Here is how Eliot accounts for it:
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
@@ -370,6 +357,28 @@ longer reflection but feeling---an idea wrought back to the
 directness of sense, like the solidity of objects--that he
 had an equivalent centre of self, whence the lights and
 shadows must always fall with a certain difference.
+
+On this account, what Dorothea must learn is not that she
+married a lesser man, without the strength or wisdom to make
+her wise and strong in turn; but rather that she had married
+another self, which makes her a self in turn, no matter how
+selfless she yearns to be. Or to put the lesson another way:
+to transcend the self altogether is not simply impossible, but
+illusory, since a desire for this can blind one to the
+selfhood in others that makes for true self-transcendence in
+recognition, not renunciation. (End with bit about being
+enclosed in self.)
+
+In the hands of a lesser writer, Dorothea
+might have learned that she married a lesser man; but, about
+her husband might merely have been herself is subject to
+egoism, as she marries a man she first compares, on the
+barest look, to the likes---such as she imagines them---of
+Locke, or Milton, or Pascal. A lesser writer might have made
+Dorothea's transcendence of ego a matter of learning she had
+married a lesser man. But in the hands of Eliot, what
+Dorothea has to learn involves the giving-up of any
+comparisons, to discover she had married another self:
 
 And later in the novel, we learn just how pitiable this
 center of self is, in a passage from narrator to reader
