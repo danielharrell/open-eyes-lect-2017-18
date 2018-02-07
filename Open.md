@@ -369,7 +369,8 @@ recognition, not renunciation.
 
 Or to put the lesson one last way: to be open to another, or
 to anything other, means regarding it as *more* than other.
-But this seems to mean regarding it from a center in which the other
+But this seems to mean regarding it at a center
+from which the other
 is a self. A center, that is, from which otherness can be
 encompassed by the self. Or contained. Or enclosed. Which
 again would mean that being open, in the end, is a way of
@@ -383,23 +384,8 @@ without being closed? Open without qualification? Simply
 open? Truly open? If such a thing were possible, then
 how? 
 
-To begin to answer this question, I want to introduce one
-last passage from *Middlemarch*, which has more ambiguity than
-the other two. 
-has a
-sameness of its own. , in a movement
-from other back to self. fromenclosing it in the self, (End with bit about being
-enclosed in self.)
-
-And later in the novel, we learn just how pitiable this
-center of self is, in a passage from narrator to reader
-where Eliot now challenges us, if not to love Causabon, at
-least to acknowledge him, which means coming to know him as
-self rather than other; (perhaps put below) and perhaps to
-confirm that being open to Causabon, or to anyone, or
-anything, means making it one's own, bringing it within the
-compass of the self, and showing that our selfhood indeed
-encloses us in openness: 
+To think about this question, I want to introduce one
+last passage from *Middlemarch*: 
 
 > “For my part I am very sorry for him. It is an uneasy lot
 at best, to be what we call highly taught and yet not to
@@ -411,6 +397,59 @@ the vividness of a thought, the ardor of a passion, the
 energy of an action, but always to be scholarly and
 uninspired, ambitious and timid, scrupulous and
 dim-sighted.
+
+The subject of this passage, of course, is Dorothea's first
+husband. And Eliot addresses the reader directly, evidently
+to persuade us, if not to love Edward Causabon, at least to
+acknowledge him, and come to know him, then, as self rather
+than other, just as Dorothea must learn to do. And we might
+still consider this a form of self-transcendence, or
+openness, in this case from reader to character; as Eliot
+gives us a point of view on Causabon to make him pitiable
+rather than contemptible. Or again, a center from which he can be
+regarded as self rather than other.
+
+But the passage itself describes what seems a second form of
+self-transcendence, where the self *is* transcended. Or
+we might call it self-consummation. For enjoyment, on this
+account, is a liberation from the self in need. But what
+remains, in deliverance, is not the self fulfilled, or even
+a self at all; but only the fulfillment itself, as if the
+self in need were needless, once the need is filled. And 
+Eliot offers this exalted description of enjoyment not to
+make *it* look exceptional, but rather to make the man
+incapable of it look exceptional.   
+
+We are taught otherwise. 
+
+distinguish jo: Eliot is careful, it seems,
+to describe it is rather as if fulfillment
+the a self, but
+instead the not, it seems, to be delivered to the selfa satisfied self, or even a
+joyful self, but rather, and precisely, into what the selfFor what
+else to make of a liberation from self where we are possessed
+by what we behold, or where our consciousness isAnd this is one that moves not from self to self, but
+instead from self to  But this is not the only form of self-transcendence to provide us this point of view, Eliot has to
+describe whatk 
+In other words, this passage can be read as Eliot's attempt
+to open us to a character, as readers, enlarge the reader's horizon of self enough to make us *open*
+to ake us open to another by enlarging our horizon of self
+enough so aAnd we might still consider this a form of openness, self-transcendence,
+from self to self, Yet if we take this to support the meaning of self-transcendence
+we inferred from the previous passages o this extent, the meaning of self-transcendence implied in this
+passage is no different from in the previous ones. .  
+
+
+
+, And later in the novel, we learn just how pitiable this
+center of self is, in a passage from narrator to reader
+where Eliot now challenges us, if not to love Causabon, at
+least to acknowledge him, which means coming to know him as
+self rather than other; (perhaps put below) and perhaps to
+confirm that being open to Causabon, or to anyone, or
+anything, means making it one's own, bringing it within the
+compass of the self, and showing that our selfhood indeed
+encloses us in openness: 
 
 But I quote this passage for an ambiguity about it. If
 we read it as I just did---an account, in effect,
