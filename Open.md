@@ -338,9 +338,8 @@ Rosamond Vincy, of a self that seems incapable of such
 a moment: the moment when a life of self-regard reaches
 a point of self-release. But this point of self-release, as
 Eliot describes it, is in the shipwrecked embrace of another
-self, as if there were nothing but self outside 
-self, making transcendence, in turn, a movement from
-self to self.   
+self, as if there were nothing outside self but self, making
+transcendence, in turn, a movement from self to self.
 
 Nor is this the only such moment in the novel. The
 other self in the passage above, Dorothea Brooke, is lead
@@ -365,20 +364,28 @@ another self, which makes her a self in turn, no matter how
 selfless she yearns to be. Or to put the lesson another way:
 to transcend the self altogether is not simply impossible,
 but illusory, since a desire for this can blind one to the
-selfhood in others that makes for true self-transcendence in
-recognition, not renunciation. Or to put the lesson one last
-way: to be open to another, or to anything other, means
-regarding it as *more* than other, from a center in which
-the other is a self, and otherness can thus be encompassed,
-or contained, or enclosed, by the self. But again, this
-seems to mean that being open, in the end, is a way of
-being closed. So what it would it mean to be open
-without being closed? *Is* being open, truly open,
-simply open, possible at all? And
-if it is, then how?  
+selfhood in others that makes for true transcendence in
+recognition, not renunciation. 
+
+Or to put the lesson one last way: to be open to another, or
+to anything other, means regarding it as *more* than other.
+But this seems to mean regarding it from a center in which the other
+is a self. A center, that is, from which otherness can be
+encompassed by the self. Or contained. Or enclosed. Which
+again would mean that being open, in the end, is a way of
+being closed, despite the look otherwise. 
 
 # Part Three {#three}
 
+But if this is so, then the word "open" might make us wonder
+all the more. For what would it mean to be open
+without being closed? Open without qualification? Simply
+open? Truly open? If such a thing were possible, then
+how? 
+
+To begin to answer this question, I want to introduce one
+last passage from *Middlemarch*, which has more ambiguity than
+the other two. 
 has a
 sameness of its own. , in a movement
 from other back to self. fromenclosing it in the self, (End with bit about being
