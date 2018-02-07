@@ -360,25 +360,29 @@ shadows must always fall with a certain difference.
 
 On this account, what Dorothea must learn is not that she
 married a lesser man, without the strength or wisdom to make
-her wise and strong in turn; but rather that she had married
+her wise and strong in turn; but rather that she married
 another self, which makes her a self in turn, no matter how
 selfless she yearns to be. Or to put the lesson another way:
-to transcend the self altogether is not simply impossible, but
-illusory, since a desire for this can blind one to the
+to transcend the self altogether is not simply impossible,
+but illusory, since a desire for this can blind one to the
 selfhood in others that makes for true self-transcendence in
-recognition, not renunciation. (End with bit about being
-enclosed in self.)
+recognition, not renunciation. Or to put the lesson one last
+way: to be open to another, or to anything other, means
+regarding it as *more* than other, from a center in which
+the other is a self, and otherness can thus be encompassed,
+or contained, or enclosed, by the self. But again, this
+seems to mean that being open, in the end, is a way of
+being closed. So what it would it mean to be open
+without being closed? *Is* being open, truly open,
+simply open, possible at all? And
+if it is, then how?  
 
-In the hands of a lesser writer, Dorothea
-might have learned that she married a lesser man; but, about
-her husband might merely have been herself is subject to
-egoism, as she marries a man she first compares, on the
-barest look, to the likes---such as she imagines them---of
-Locke, or Milton, or Pascal. A lesser writer might have made
-Dorothea's transcendence of ego a matter of learning she had
-married a lesser man. But in the hands of Eliot, what
-Dorothea has to learn involves the giving-up of any
-comparisons, to discover she had married another self:
+# Part Three {#three}
+
+has a
+sameness of its own. , in a movement
+from other back to self. fromenclosing it in the self, (End with bit about being
+enclosed in self.)
 
 And later in the novel, we learn just how pitiable this
 center of self is, in a passage from narrator to reader
@@ -426,7 +430,6 @@ we enclosed in openness? Is being open just a way of being
 closed that merely looks open? Or is being open possible?
 And if so, how?
 
-# Part Three {#three}
 
 in him, him as a fellow
 self, , like Dorothea,
