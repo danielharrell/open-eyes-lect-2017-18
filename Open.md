@@ -369,20 +369,20 @@ recognition, not renunciation.
 
 Or to put the lesson one last way: to be open to another, or
 to anything other, means regarding it as *more* than other.
-But this seems to mean regarding it at a center
-from which the other
-is a self. A center, that is, from which otherness can be
-encompassed by the self. Or contained. Or enclosed. Which
-again would mean that being open, in the end, is a way of
-being closed, despite the look otherwise. 
+But this seems to mean regarding it from a point of
+view in which the other is a self. A center, in other
+words, from which otherness can be encompassed by the self. Or
+contained. Or enclosed. Which again would mean that being
+open, in the end, is a way of being closed, despite the look
+otherwise. 
 
 # Part Three {#three}
 
-But if this is so, then the word "open" might make us wonder
-all the more. For what would it mean to be open
-without being closed? Open without qualification? Simply
-open? Truly open? If such a thing were possible, then
-how? 
+But if this is so, if being open means being closed, then
+the word "open" might make us wonder all the more. For what
+would it mean to be open without being closed? Open without
+qualification? Simply open? Truly open? If such a thing were
+possible, then how? 
 
 To think about this question, I want to introduce one
 last passage from *Middlemarch*: 
@@ -398,27 +398,49 @@ energy of an action, but always to be scholarly and
 uninspired, ambitious and timid, scrupulous and
 dim-sighted.
 
-The subject of this passage, of course, is Dorothea's first
-husband. And Eliot addresses the reader directly, evidently
-to persuade us, if not to love Edward Causabon, at least to
-acknowledge him, and come to know him, then, as self rather
-than other, just as Dorothea must learn to do. And we might
-still consider this a form of self-transcendence, or
-openness, in this case from reader to character; as Eliot
-gives us a point of view on Causabon to make him pitiable
-rather than contemptible. Or again, a center from which he can be
-regarded as self rather than other.
+The subject of this passage, of course, is the center of
+self mentioned in the last passage: Dorothea's first
+husband. In describing him, Eliot addresses the reader
+directly, it seems, to persuade us, if not to love Edward
+Causabon, at least to acknowledge him, and come to know him,
+then, as self rather than other, just as Dorothea must learn
+to do. It is as if Eliot wants to *open* us to Causabon, to
+undergo a movement of transcendence from reader to
+character. For Eliot gives us a point of view on Causabon in
+this passage to make him pitiable rather than contemptible.
+Or again, she wants us to undergo a movement from self to
+self, by giving us a center from which another can be
+seen as self. 
 
-But the passage itself describes what seems a second form of
-self-transcendence, where the self *is* transcended. Or
-we might call it self-consummation. For enjoyment, on this
-account, is a liberation from the self in need. But what
-remains, in deliverance, is not the self fulfilled, or even
-a self at all; but only the fulfillment itself, as if the
-self in need were needless, once the need is filled. And 
-Eliot offers this exalted description of enjoyment not to
-make *it* look exceptional, but rather to make the man
-incapable of it look exceptional.   
+But the passage itself, in describing what it means to
+enjoy, points, it seems, to a different form, and even
+opposite form of self-transcendence; one where where the
+self *is* transcended, altogether, in what we might call
+self-consummation. Enjoyment, on this account, is
+a liberation from the self in need. But what remains, in
+deliverance, is not the self fulfilled, or even a self at
+all; but only the fulfillment itself. It is as if the self
+in need were needless, once the need is filled.
+
+And Eliot offers this exalted description of enjoyment not
+to make *it* look exceptional, but rather to make the man
+incapable of it look exceptional. Her description of the
+self-consummation in enjoyment is not meant to puzzle us,
+but to move us, in a kind of poetic recollection of its
+truth, towards pity for anyone who has never known it. Of
+course we might question it, but as readers of the novel we
+are more likely to accept it; and Eliot expects this
+acceptance. But how could either be possible, unless
+there were indeed something true in her description?
+Something true, in other words, about the self-effacement
+in enjoyment, that makes it a way of being open without
+being closed? 
+
+how could we accept it, nd how could such acceptance be
+possible, unless there was something true in our own
+experience of enjoyment One way to take the description
+seriously, of course, is to question it. But another way to
+take it seriously,  
 
 We are taught otherwise. 
 
