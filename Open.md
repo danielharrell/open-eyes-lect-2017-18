@@ -344,7 +344,7 @@ transcendence, in turn, a movement from self to self.
 Nor is this the only such moment in the novel. The
 other self in the passage above, Dorothea Brooke, is lead
 to a similar point, in her unhappy first marriage to
-Edward Causabon. Here is how Eliot accounts for it:
+Mr. Causabon. Here is how Eliot accounts for it:
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
@@ -370,8 +370,9 @@ recognition, not renunciation.
 Or to put the lesson one last way: to be open to another, or
 to anything other, means regarding it as *more* than other.
 But this seems to mean regarding it from a point of
-view in which the other is a self. A center, in other
-words, from which otherness can be encompassed by the self. Or
+view at which the other is a self, or at least like
+a self. That is, it means seeing what is other from a center 
+at which its otherness can be encompassed by the self. Or
 contained. Or enclosed. Which again would mean that being
 open, in the end, is a way of being closed, despite the look
 otherwise. 
@@ -381,11 +382,11 @@ otherwise.
 But if this is so, if being open means being closed, then
 the word "open" might make us wonder all the more. For what
 would it mean to be open without being closed? Open without
-qualification? Simply open? Truly open? If such a thing were
+qualification? Simply open? Truly open? Open? If such a thing were
 possible, then how? 
 
-To think about this question, I want to introduce one
-last passage from *Middlemarch*: 
+There is another passage in *Middlemarch*, I think, that
+suggests how:  
 
 > “For my part I am very sorry for him. It is an uneasy lot
 at best, to be what we call highly taught and yet not to
@@ -399,120 +400,69 @@ uninspired, ambitious and timid, scrupulous and
 dim-sighted.
 
 The subject of this passage, of course, is the center of
-self mentioned in the last passage: Dorothea's first
-husband. In describing him, Eliot addresses the reader
-directly, it seems, to persuade us, if not to love Edward
-Causabon, at least to acknowledge him, and come to know him,
-then, as self rather than other, just as Dorothea must learn
-to do. It is as if Eliot wants to *open* us to Causabon, to
-undergo a movement of transcendence from reader to
-character. For Eliot gives us a point of view on Causabon in
-this passage to make him pitiable rather than contemptible.
-Or again, she wants us to undergo a movement from self to
-self, by giving us a center from which another can be
-seen as self. 
+self in my last passage: Dorothea's first husband. And Eliot
+addresses the reader directly about him, I think, to
+persuade us, if not to love Edward Causabon, at least to
+acknowledge him, and come to know him, then, as self rather
+than other, just as Dorothea must learn to do. In this
+respect, it is as if Eliot wants to *open* us to Causabon,
+to undergo our own movement of transcendence, from reader to
+character. For she gives us a point of view on Causabon to
+make him pitiable rather than contemptible. That is, Eliot
+gives us a center from which another can be seen as self, as
+if to make us move from self to self, in the only form of
+self-transcendence possible, if again our selfhood encloses
+us in openness. 
 
-But the passage itself, in describing what it means to
-enjoy, points, it seems, to a different form, and even
-opposite form of self-transcendence; one where where the
-self *is* transcended, altogether, in what we might call
-self-consummation. Enjoyment, on this account, is
-a liberation from the self in need. But what remains, in
-deliverance, is not the self fulfilled, or even a self at
-all; but only the fulfillment itself. It is as if the self
-in need were needless, once the need is filled.
+But in another respect, the passage points in a different
+direction, even an opposite direction. For the description
+Eliot gives of joy sounds as if the self *is* transcended,
+altogether, in what we might call self-consummation. Joy, on
+this account, is a liberation from the self in need. But
+what remains, in deliverance, is not the self fulfilled, or
+even a self at all, but only the fulfillment itself, with
+nothing left to fill. The self is consumed in, or even
+distilled into, the vividness of a thought, the ardor of
+a passion, the energy of an action, the glory of a vision.
+And this, then, is perhaps what it would mean for the self
+to be open, simply and truly open, if it were possible.
 
-And Eliot offers this exalted description of enjoyment not
-to make *it* look exceptional, but rather to make the man
-incapable of it look exceptional. Her description of the
-self-consummation in enjoyment is not meant to puzzle us,
-but to move us, in a kind of poetic recollection of its
-truth, towards pity for anyone who has never known it. Of
-course we might question it, but as readers of the novel we
-are more likely to accept it; and Eliot expects this
-acceptance. But how could either be possible, unless
-there were indeed something true in her description?
-Something true, in other words, about the self-effacement
-in enjoyment, that makes it a way of being open without
-being closed? 
+But Eliot writes as if it were not just possible, but
+present, in any experience of joy. Her language for the
+self-transcendence in it may be exalted. But it is not meant
+to make joy look exceptional; it is rather meant to make the
+man without it look exceptional. Her description of joy is
+not meant to puzzle us, but to move us, in poetic
+recollection of its truth, towards pity for one who has
+never known it. Of course, we can question the description,
+or doubt it. But to read it as written, we must accept
+it. And Eliot writes it as if she assumes this acceptance.
+Which brings us to another paradox: for how can her
+description of the self be doubtful yet truthful?
+Questionable yet unquestionable? 
 
-how could we accept it, nd how could such acceptance be
-possible, unless there was something true in our own
-experience of enjoyment One way to take the description
-seriously, of course, is to question it. But another way to
-take it seriously,  
+To think now about this question, I turn to a second
+passage, not from the novel *Middlemarch*:  
 
-We are taught otherwise. 
+>It would greatly astonish a man unaware of the speculations
+of philosophy if we told him that the object before him,
+which he sees and touches, exists only in his mind and for
+his mind or even, more generally, exists only for mind, as
+Berkeley held. Such a man would always maintain that the
+object exists independently of the consciousness which
+perceives it. But, on the other hand, we should astonish him
+quite as much by telling him that the object is entirely
+different from that which is perceived in it, that it has
+neither the color ascribed to it by the eye nor the
+resistance found in it by the hand. The color, the
+resistance, are, for him, in the object: they are not states
+of our mind; they are part and parcel of an existence really
+independent of our own. For common sense, then, the object
+exists in itself, and, on the other hand, the object is, in
+itself, pictorial, as we perceive it: image it is, but
+a self-existing image. (from *Matter and Memory*, p. 10,
+Zone books): 
 
-distinguish jo: Eliot is careful, it seems,
-to describe it is rather as if fulfillment
-the a self, but
-instead the not, it seems, to be delivered to the selfa satisfied self, or even a
-joyful self, but rather, and precisely, into what the selfFor what
-else to make of a liberation from self where we are possessed
-by what we behold, or where our consciousness isAnd this is one that moves not from self to self, but
-instead from self to  But this is not the only form of self-transcendence to provide us this point of view, Eliot has to
-describe whatk 
-In other words, this passage can be read as Eliot's attempt
-to open us to a character, as readers, enlarge the reader's horizon of self enough to make us *open*
-to ake us open to another by enlarging our horizon of self
-enough so aAnd we might still consider this a form of openness, self-transcendence,
-from self to self, Yet if we take this to support the meaning of self-transcendence
-we inferred from the previous passages o this extent, the meaning of self-transcendence implied in this
-passage is no different from in the previous ones. .  
-
-
-
-, And later in the novel, we learn just how pitiable this
-center of self is, in a passage from narrator to reader
-where Eliot now challenges us, if not to love Causabon, at
-least to acknowledge him, which means coming to know him as
-self rather than other; (perhaps put below) and perhaps to
-confirm that being open to Causabon, or to anyone, or
-anything, means making it one's own, bringing it within the
-compass of the self, and showing that our selfhood indeed
-encloses us in openness: 
-
-But I quote this passage for an ambiguity about it. If
-we read it as I just did---an account, in effect,
-of selfhood---then we can take it as  to support the argument
-against openness that I have given so far; or more exactly,
-the argument on behalf of an openness that depends on
-closedness. On
-the one hand, we can read it as I just did: an argument,
-in effect, for a passage
-that helps us understand the selfhood in another, and
-therefore further proof that the
-self is absolute, that we enclosed This passage can be read in two ways: points in two way:
-towards self-enclosedness, and towards self-transcendence.
-self-consummation. 
-
-If we read it in light of our geometric image, reduced to
-a point. , which on this account is what being
-open is, as anything other is made to otherness is, in  see
-the selfhood Eliot points to two forms of openness. In one
-we are enclosed, but in the other open, possessed by
-what we see rather than possessing it. transformed into
-what we feel. So are
-we enclosed in openness? Is being open just a way of being
-closed that merely looks open? Or is being open possible?
-And if so, how?
-
-
-in him, him as a fellow
-self, , like Dorothea,
-as a fellow self,l understand him with 
-openness, which perhaps means understanding the self; that is, to embrace h. , to be
-open to Causabon, : "a small hungry shivering self" :
-425: Had not occurred to Causabon to see Dorothea like himself.
-
-Eliot expresses her own pity for
-Causabon, , mere
-matter of learningFor in Rosamond Vincy, Eliot gives givesWe
-might briefly consider the way that George Eliot a kind of
-self-immanence even in depictions of self-transcendence. It
-is hard to surpass the imageOne such depiction, for me at
-any rate, is Rosamond Vincy in Eliot's *Middlemarch*, 
 
 Th(Turn to sympathy, ethics, other selves, Middlemarch.) 
 
