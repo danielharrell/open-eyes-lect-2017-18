@@ -423,36 +423,33 @@ where what remains in deliverance, more puzzlingly, is not
 the self fulfilled, or even a self at all, but only the
 fulfillment itself, with nothing left to fill. 
 
-The puzzle in this, which again is the puzzle of a self
-transcended altogether, can make it easy to doubt Eliot's
-description of enjoyment. We might accuse it of falsely
-making what we feel into what we are, when there is no
-escape from what we are, even in the most ecstatic feeling
-of joy. Once the feeling is gone, we can presume, it will
-leave us with a self in need, as if our liberation in joy
-were just a dream. Yet Eliot writes her description not to
-make joy look exceptional, but to make the man who lacks it
-look exceptional.  And if we are to pity him, it seems
-we must take the self-transcendence in joy that Causabon has
-never known to be true rather than false. A matter of fact
-rather than a matter for doubt. But this confronts us with
-another paradox. For how can we take a matter as fact, if it
-is easy to doubt? That is, how can we read what Eliot writes
-about self-transcendence as she intends it, if it is
-possible to doubt what she writes as she intends it? We
-might think to resolve this paradox at once by answering
-that what Eliot writes about self-transcendence can be
-questioned outside the novel, even if it ought to go
-unquestioned inside the novel. But this answer only sharpens
-the paradox. For why is it only outside the novel,
-and outside ourselves as readers of the novel, that
-a description of being outside ourselves becomes questionable? 
+The puzzle in this, of a self transcended altogether, can
+make it easy to doubt Eliot's description of enjoyment. We
+might accuse it of falsely making what we feel into what we
+are, when there is no escape from what we are, even in the
+most ecstatic feeling of joy. Once the feeling is gone, we
+can presume, it will leave us with a self in need, as if our
+liberation in joy were just a dream. Yet Eliot writes her
+description not to make joy look exceptional, but to make
+the man who lacks it look exceptional. And if we are to pity
+him, it seems we must take the self-transcendence in joy
+that Causabon has never known to be true rather than false.
+A matter of fact rather than a matter for doubt. But this
+confronts us with another paradox. For how can we take
+a matter *as* fact, if it is easy to doubt? That is, how can
+we read what Eliot writes about self-transcendence as she
+intends it, if it is possible to doubt what she writes as
+she intends it? One answer is that what Eliot
+writes about self-transcendence can be questioned outside
+the novel, even if it ought to go unquestioned inside the
+novel. But this answer only sharpens the paradox. For why is
+it only outside the novel, and outside ourselves as readers
+of the novel, that a description of being outside ourselves
+becomes questionable? 
 
-Nor do we need a novel, much less one as great as
-*Middlemarch*, to pose this paradox, or indeed to deepen it.
-Consider the following description, elementary as it is, of
-what awareness is like from within, before we think of what
-it is, from without: 
+Nor do we need a novel to pose the paradox. Consider the
+following passage, from a book of philosophy by Henri
+Bergson:  
 
 >It would greatly astonish a man unaware of the speculations
 of philosophy if we told him that the object before him,
@@ -473,8 +470,29 @@ itself, pictorial, as we perceive it: image it is, but
 a self-existing image. (from *Matter and Memory*, p. 10,
 Zone books): 
 
+What Bergson attributes here to common sense, we can take to
+be what awareness is like from inside it. And from the
+inside, awareness is nothing but openness. The way things
+seem is the way things are, as if we saw them from *no*
+point of view, and were outside ourselves as a matter of
+course. And to suspect otherwise, to think we are never
+outside ourselves wholly, to suppose we always see things
+from a point of view, to doubt that the way things seem is
+the way things are, is what awareness is like from the
+outside, or what Bergson attributes here to the speculations
+of philosophy.  From the inside awareness is nothing but
+openness; but from the outside, awareness is enclosed in
+openness. And if our selfhood is what encloses it, then we
+can put the point again paradoxically. For from inside the self,
+it seems we have no self, and only from outside the self
+that we gain one.  
 
-Th(Turn to sympathy, ethics, other selves, Middlemarch.) 
+,
+- This is a description of awareness as openness.
+
+- Bergson: within awareness, how things seem is how
+they are, as if we saw things from no point of view. (Look
+at earlier passage to echo this.)
 
 Now move to another way to transcend self (Kant, Hegel, maybe
 Hume, then Eliot) in respect to other selves.
