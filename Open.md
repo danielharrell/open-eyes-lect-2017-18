@@ -369,24 +369,21 @@ recognition, not renunciation.
 
 Or to put the lesson one last way: to be open to another, or
 to anything other, means regarding it as *more* than other.
-But this seems to mean regarding it from a point of
-view at which the other is a self, or at least like
-a self. That is, it means seeing what is other from a center 
-at which its otherness can be encompassed by the self. Or
-contained. Or enclosed. Which again would mean that being
-open, in the end, is a way of being closed, despite the look
-otherwise. 
+But this seems to mean regarding it from a point of view at
+which the other is a self, or at least related
+to self. That is, it means seeing what is other from
+a center at which its otherness can be encompassed by the
+self. Or contained. Or enclosed. Which again would mean that
+being open, in the end, is a way of being closed, despite
+the look otherwise. More simply put: being open, truly
+and simply open, is impossible. 
 
 # Part Three {#three}
 
-But if this is so, if being open means being closed, then
-the word "open" might make us wonder all the more. For what
-would it mean to be open without being closed? Open without
-qualification? Simply open? Truly open? Open? If such a thing were
-possible, then how? 
-
-There is another passage in *Middlemarch*, I think, that
-suggests how:  
+But *is* it impossible? There is yet another passage in
+*Middlemarch*, I think, to help us raise this question
+anew, and renew our wonder at the word
+"open". 
 
 > “For my part I am very sorry for him. It is an uneasy lot
 at best, to be what we call highly taught and yet not to
@@ -400,32 +397,111 @@ uninspired, ambitious and timid, scrupulous and
 dim-sighted.
 
 The subject of this passage, of course, is the center of
-self in my last passage: Dorothea's first husband. And Eliot
-addresses the reader directly about him, I think, to
-persuade us, if not to love Edward Causabon, at least to
+self in the last passage: Dorothea's first
+husband. And Eliot addresses the reader directly, I think,
+to persuade us, if not to love Edward Causabon, at least to
 acknowledge him, and come to know him, then, as self rather
-than other, just as Dorothea must learn to do. In this
-respect, it is as if Eliot wants to *open* us to Causabon,
-to undergo our own movement of transcendence, from reader to
-character. For she gives us a point of view on Causabon to
-make him pitiable rather than contemptible. That is, Eliot
-gives us a center from which another can be seen as self, as
-if to make us move from self to self, in the only form of
+than other, just as Dorothea must learn to do. It as if
+Eliot wants to *open* us to Causabon, to undergo our own
+movement of transcendence, from reader to character, as she
+gives us a point of view on Causabon to make him pitiable
+rather than contemptible. That is, Eliot gives us a center
+from which another can be seen as self, and as if to move
+us from self to self, in the only form of
 self-transcendence possible, if again our selfhood encloses
 us in openness. 
 
-But in another respect, the passage points in a different
-direction, even an opposite direction. For the description
-Eliot gives of joy sounds as if the self *is* transcended,
-altogether, in what we might call self-consummation. Joy, on
-this account, is a liberation from the self in need. But
-what remains, in deliverance, is not the self fulfilled, or
-even a self at all, but only the fulfillment itself, with
-nothing left to fill. The self is consumed in, or even
-distilled into, the vividness of a thought, the ardor of
-a passion, the energy of an action, the glory of a vision.
-And this, then, is perhaps what it would mean for the self
-to be open, simply and truly open, if it were possible.
+But what is it, then, that makes Mr. Causabon pitiable? For
+Eliot writes as if he should be pitied for a self he can
+never escape, and as if there were no way to enjoy and still
+be enclosed. For what selfhood is left once we are
+possessed, fully, by the glory we behold? Or once our
+consciousness is transformed, rapturously, into the
+vividness of a thought? The ardor of a passion? The energy
+of an action? Eliot writes of enjoyment as if it were an
+experience not of satisfaction, but of consummation.
+A liberation from the self in need, intelligibly enough; but
+where what remains in deliverance, more puzzlingly, is not
+the self fulfilled, or even a self at all, but only the
+fulfillment itself, with nothing left to fill. 
+
+The puzzle in this, which again is the puzzle of a self
+transcended altogether, can make it easy to doubt Eliot's
+description of enjoyment. We might accuse it of falsely
+making what we feel into what we are, when there is no
+escape from what we are, even in the most ecstatic feeling
+of joy. Once the feeling is gone, we can presume, it will
+leave us with a self in need, as if our liberation in joy
+were just a dream. Yet Eliot writes her description not to
+make joy look exceptional, but to make the man who lacks it
+look exceptional.  And if we are to pity this man, it seems
+we must take the self-transcendence in joy that Causabon has
+never known to be true rather than false. A matter of fact
+rather than a matter for doubt. But this confronts us with
+another paradox. For how can we take a matter as fact, if it
+is easy to doubt? That is, how can we read what Eliot writes
+about self-transcendence as she intends it, if it is
+possible to doubt what she writes as she intends it? We
+might think to resolve this paradox at once by answering
+that what Eliot writes about self-transcendence can be
+questioned outside the novel, even if it ought to go
+unquestioned inside the novel. But this answer only sharpens
+the paradox. For why is it only outside the novel,
+and outside ourselves as readers of the novel, that
+a description of being outside ourselves becomes questionable? 
+
+. claim
+we can be carried outside ourselves how can a claim that we can
+be carried outside ourselves only look incredible . If we can
+question what she writes from outside the novel, how is it
+possible to accept what she writes from inside the novel.
+. as , no matter her intention. outside that intention. , 
+
+- Why is it outside, in this case the novel, that the self
+looks incapable being carried outside itself.
+
+illusory.  just an illusion. just a dream. the liberation once the joy
+is gone, will sooner or later return, we can presume,
+once the joy is gone, and no matter what we say, in
+a more poetic vein, Eliot says,
+in a more poetic vein, about . and even redoubling this falsehood in
+and begs any questions about what we are once what we feel,
+in enjoyment, has passed. The self in need, we can presume,
+will sooner or later return, whatever we might say, in
+a more poetic vein, about a liberation from it. as it seems
+to turn what we feel into what we are, (Move exceptional bit
+up here. To make the man incapable of it exceptional.) Then
+put something like: self-transcendence may be something to
+doubt from outside the novel; but inside the novel, it is
+something to accept. But it seems we must accept it, if we
+are to pity Mr Causabon as Eliot does; and Eliot writes it
+as if she assumes this acceptance. That is, from inside the
+novel, self-transcendence is a commonplace, which explains
+a character's plight there is no way to ask if uestion the
+self-transcendence o put it another way, the
+self-transcendence she describes can be questioned from
+outside the novel; but inside the novel,  liot's To put this
+another way, we might say that Eliot Eliot's description, in
+other words, can be questioned from outside the novel, but
+inside the novel , it seems we we doubt it, we are no longer
+readers of it.  But to doubt her . There is no way to escape
+the self in need for good. leaves it unclear, as it
+mistakes, even if deliberately, what we feel for what we
+are. confuses what we feel and what we are make what we feel
+into what we are. ; e or shehow could we be, not not merely
+feel, the vividness of a thought? us to a thought, or
+passion, or It is easy, of course, to doubt this
+description; for where do we locate a thought, or passion,
+or action, or vision, except in the self that on this
+account is absurdly consumed? But escape bit here, and: no
+way to enjoy and still be enclosed. the literal truth of her
+description. But if we are to pity Causabon, we must somehow
+accept it. Of course, we can ask whether self-consummation
+is possible. the self could ever be consumed, question
+whether the self Causabon is to be pitied, it seems, for
+a self he can never escape, and the way it makes him closed
+rather than open, if as if being enclosed in openness were
+a contradiction in terms.  
 
 But Eliot writes as if it were not just possible, but
 present, in any experience of joy. Her language for the
@@ -435,14 +511,18 @@ man without it look exceptional. Her description of joy is
 not meant to puzzle us, but to move us, in poetic
 recollection of its truth, towards pity for one who has
 never known it. Of course, we can question the description,
-or doubt it. But to read it as written, we must accept
-it. And Eliot writes it as if she assumes this acceptance.
-Which brings us to another paradox: for how can her
-description of the self be doubtful yet truthful?
-Questionable yet unquestionable? 
+or doubt it. But to read it as written, it seems we are
+asked to accept it. Eliot writes it as if she assumes this
+acceptance. Which brings us to another paradox: for how can
+this description of self---the self that is open to joy and
+consumed in joy in a transcendence of self---how can *this*
+description of self be doubtful yet truthful? Questionable
+yet unquestionable? 
 
-To think now about this question, I turn to a second
-passage, not from the novel *Middlemarch*:  
+This turns out to be a more general question than we think.
+Nor do we need an exalted passage to ask this question. k To
+think now about this question, I turn to a second passage,
+not from the novel *Middlemarch*:  
 
 >It would greatly astonish a man unaware of the speculations
 of philosophy if we told him that the object before him,
@@ -1643,6 +1723,13 @@ image.
 this to Bergson.)
 
 #### Leftovers from outline
+
+But if this is so, if being open means being closed, then
+the word "open" might make us wonder all the more. For what
+would it mean to be open without being closed? Open without
+qualification? Simply open? Truly open? Open? If such a thing were
+possible, then how? 
+
 
 - For again the way our
 eyes seem open is the way we seem to see *through* them to
