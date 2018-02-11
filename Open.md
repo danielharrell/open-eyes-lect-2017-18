@@ -437,17 +437,17 @@ that Causabon has never known to be true rather than false.
 A matter of fact rather than a matter for doubt. But this
 confronts us with another paradox. For how can we take
 a matter *as* fact, if it is easy to doubt? That is, how can
-we read what Eliot writes about self-transcendence as she
-intends it, if it is possible to doubt what she writes as
+we *read* what Eliot writes about self-transcendence as she
+intends it, if it is possible to *doubt* what she writes as
 she intends it? One answer is that what Eliot
 writes about self-transcendence can be questioned outside
-the novel, even if it ought to go unquestioned inside the
+the novel, even if it goes unquestioned inside the
 novel. But this answer only sharpens the paradox. For why is
 it only outside the novel, and outside ourselves as readers
 of the novel, that a description of being outside ourselves
 becomes questionable? 
 
-Nor do we need a novel to pose the paradox. Consider the
+Nor do we need a novel to pose the paradox, or sharpen it. Consider the
 following passage, from a book of philosophy by Henri
 Bergson:  
 
@@ -475,17 +475,21 @@ be what awareness is like from inside it. And from the
 inside, awareness is nothing but openness. The way things
 seem is the way things are, as if we saw them from *no*
 point of view, and were outside ourselves as a matter of
-course. And to suspect otherwise, to think we are never
-outside ourselves wholly, to suppose we always see things
-from a point of view, to doubt that the way things seem is
-the way things are, is what awareness is like from the
-outside, or what Bergson attributes here to the speculations
-of philosophy.  From the inside awareness is nothing but
-openness; but from the outside, awareness is enclosed in
-openness. And if our selfhood is what encloses it, then we
-can put the point again paradoxically. For from inside the self,
-it seems we have no self, and only from outside the self
-that we gain one.  
+course. And to suspect otherwise; to think we are never
+outside ourselves wholly; to suppose we always see things
+from a point of view; to doubt that the way things seem is
+the way things are---this is what awareness is like from
+outside it, or from what Bergson attributes here to the
+speculations of philosophy. While awareness may be nothing
+but openness from the inside, from the outside, awareness is
+always enclosed in openness. And if our selfhood is what
+encloses it, then we can put the point again paradoxically,
+but even more paradoxically than before. For why is it only
+outside ourselves that being outside ourselves becomes not
+just questionable, but impossible? That is, why is it only
+outside ourselves that we seem to *gain* a self, the self we
+are always inside of, to make being outside ourselves
+a contradiction in terms?
 
 ,
 - This is a description of awareness as openness.
