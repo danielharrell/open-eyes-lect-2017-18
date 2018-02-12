@@ -445,9 +445,9 @@ the novel, even if it goes unquestioned inside the
 novel. But this answer only sharpens the paradox. For why is
 it only outside the novel, and outside ourselves as readers
 of the novel, that a description of being outside ourselves
-becomes questionable? 
+becomes questionable?
 
-Nor do we need a novel to pose the paradox, or sharpen it. Consider the
+Nor do we need a novel to pose the paradox. Consider the
 following passage, from a book of philosophy by Henri
 Bergson:  
 
@@ -470,6 +470,16 @@ itself, pictorial, as we perceive it: image it is, but
 a self-existing image. (from *Matter and Memory*, p. 10,
 Zone books): 
 
+<!--Perhaps obvious that from the inside the inside cannot
+be told, like being in a cave. But how do we get from
+inside to outside to tell it. Strengthen sense in which
+the inside seems sufficient. And what distinguishes
+the outside in which we are always outside ourselves,
+from the outside in which we are always inside ourselves?
+Also, in below, perhaps make explicit the inference
+from awareness to being outside ourselves more generally.
+-->
+
 What Bergson attributes here to common sense, we can take to
 be what awareness is like from inside it. And from the
 inside, awareness is nothing but openness. The way things
@@ -478,18 +488,82 @@ point of view, and were outside ourselves as a matter of
 course. And to suspect otherwise; to think we are never
 outside ourselves wholly; to suppose we always see things
 from a point of view; to doubt that the way things seem is
-the way things are---this is what awareness is like from
-outside it, or from what Bergson attributes here to the
-speculations of philosophy. While awareness may be nothing
-but openness from the inside, from the outside, awareness is
+ever the way things are---this is what awareness is like
+from outside it, or from what Bergson attributes here to the
+speculations of philosophy. While awareness is nothing but
+openness from the inside, from the outside, awareness is
 always enclosed in openness. And if our selfhood is what
 encloses it, then we can put the point again paradoxically,
 but even more paradoxically than before. For why is it only
 outside ourselves that being outside ourselves becomes not
 just questionable, but impossible? That is, why is it only
-outside ourselves that we seem to *gain* a self, the self we
-are always inside of, to make being outside ourselves
-a contradiction in terms?
+outside ourselves that we come to see the self we are always
+inside of; the self that makes being outside ourselves
+a contradiction in terms? 
+
+And if it is a contradiction in terms, then how did we get
+outside ourselves to see it, and why is that not enough to
+contradict the contradiction? What distinguishes the outside
+within, where we are always outside ourselves, and nothing
+but openness, from the outside without, where we are always
+inside ourselves, and enclosed in openness? And how are we
+ever carried from the one outside to the other? If the way
+things seem is the way things are, from within awareness,
+then how do we ever escape awareness to see, with
+self-awareness, that the way things seem is *not* the way
+they are? Or to put the question in terms from Bergson
+himself, if common-sense is adequate enough to make the
+speculations of philosophy against that adequacy
+astonishing, then how do these speculations ever arise, much
+less become convincing? Or to put the question one last
+way, in Platonic terms: if inside ourselves we
+are nothing but openness, and in that sense possess 
+an interior whose interiority we never see, as if
+we inhabited a cave, then how do we ever get outside
+ourselves to (revise this paragraph) we live in a cave invisible to
+us from within, openness seems to define
+our lives from within, then how can we liberate ourselvesour lifeooked at from within ourselves
+is nothing but openness, 
+
+
+then how Or to put the question in terms
+borrowed from Bergson himself: then what distinguishes the outside
+how do we get outside ourselves to see it? Given the
+adequacy of common sense, where the way things seem is the
+way things are, what makes philosophical speculation from
+within, kOr to put this in Bergson's terms, what makes
+philosophical speculation possible, if common sense against
+common sense even possible, if common sense What makes the
+contradiction manifest? 
+
+then
+how we get outside ourselves to see it, and see it as
+indeed a contradiction, and why not consider
+our getting outside ourselves to see it sufficient to
+resolve it? What makes philosophical
+speculation possible, given the completeness of common sense?  is only outside ourselves
+that we can see this, then why does it look like a contradiction
+rather than a fact? is the contradiction affirmed
+rather than refuted do we take the contradiction
+to be is *this* the contradiction
+rather than the apparent one that produces the paradox. That is,
+why do we take our having to be outside ourselves if we see how being outside ourselves is impossible, 
+where
+it is from outside ourselves that we
+discover how being outside ourselves is impossible. in any sense is
+contradictory. we
+discover, from outside ourselves in some sense, how being
+outside ourselves in any sense is contradictory?   enu
+if it *is* a contradiction in terms, then where are we, Why
+does this self go unseen when we are inside it,  rom inside
+ourselves, Why is the self we gain outside ourselves In what
+sense can the self we gain from outside ourselves And why
+should the contradiction be this, if it is only outside
+ourselves that we can find it contradictory. deem is be the
+contradiction, And if we are outside ourselves to what makes
+this the contradiction rather than why should the
+contradiction be this, being outside ourselves, this be the
+contradiction, rather than
 
 ,
 - This is a description of awareness as openness.
