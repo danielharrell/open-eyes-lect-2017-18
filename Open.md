@@ -409,9 +409,9 @@ from which another can be seen as self, and as if to move us
 from self to self, in the only form of self-transcendence
 possible, if again our selfhood encloses us in openness. 
 
-But what is it, then, that makes Mr. Causabon pitiable? For
+But what is it, then, that makes Causabon pitiable? For
 Eliot writes as if he should be pitied for a self he can
-never escape, and as if there were no way to enjoy and still
+never escape, and as if there were no way to enjoy, and still
 be enclosed. For what selfhood is left once we are
 possessed, fully, by the glory we behold? Or once our
 consciousness is transformed, rapturously, into the
@@ -423,33 +423,37 @@ where what remains in deliverance, more puzzlingly, is not
 the self fulfilled, or even a self at all, but only the
 fulfillment itself, with nothing left to fill. 
 
-The puzzle in this, of a self transcended altogether, can
-make it easy to doubt Eliot's description of enjoyment. We
-might accuse it of falsely making what we feel into what we
-are, when there is no escape from what we are, even in the
-most ecstatic feeling of joy. Once the feeling is gone, we
-can presume, it will leave us with a self in need, as if our
-liberation in joy were just a dream. Yet Eliot writes her
-description not to make joy look exceptional, but to make
-the man who lacks it look exceptional. And if we are to pity
-him, it seems we must take the self-transcendence in joy
-that Causabon has never known to be true rather than false.
-A matter of fact rather than a matter for doubt. But this
-confronts us with another paradox. For how can we take
-a matter *as* fact, if it is easy to doubt? That is, how can
-we *read* what Eliot writes about self-transcendence as she
-intends it, if it is possible to *doubt* what she writes as
-she intends it? One answer is that what Eliot
-writes about self-transcendence can be questioned outside
-the novel, even if it goes unquestioned inside the
-novel. But this answer only sharpens the paradox. For why is
-it only outside the novel, and outside ourselves as readers
-of the novel, that a description of being outside ourselves
-becomes questionable?
+The puzzle in this, of a self transcended altogether, or of
+an openness pure and true, can make it easy to doubt Eliot's
+description of enjoyment. We might accuse it of falsely
+making what we feel into what we are, when there is no
+escape from what we are, even in the most ecstatic feeling
+of joy. Once the feeling is gone, we can presume, it will
+leave us with a self in need, as if our liberation in joy
+were just a dream. Yet Eliot writes her description not to
+make joy look exceptional, but to make the man who lacks it
+look exceptional. And if we are to pity him, it seems we
+must take the self-transcendence in joy that Causabon has
+never known to be true rather than false. A matter of fact
+rather than a matter for doubt. But this confronts us with
+another paradox. For how can we take a matter *as* fact, if
+it is easy to doubt? That is, how can we *read* what Eliot
+writes about self-transcendence as she intends it, if it is
+possible to *doubt* what she writes as she intends it? One
+answer is that what Eliot writes about self-transcendence
+can be questioned outside the novel, even if it goes
+unquestioned inside the novel. But this answer only sharpens
+the paradox. For why is it then only outside the novel, and
+outside ourselves as readers of the novel, that
+a description of being outside ourselves becomes
+questionable?
 
-Nor do we need a novel to pose the paradox. Consider the
-following passage, from a book of philosophy by Henri
-Bergson:  
+There is an answer to this question too, but it sharpens the
+paradox still more. For on this answer, it is only outside
+ourselves that being outside ourselves becomes questionable.
+Put another way: it is only openness that can make openness
+questionable. To clarify what I mean, consider this
+passage, from a book by Bergson:  
 
 >It would greatly astonish a man unaware of the speculations
 of philosophy if we told him that the object before him,
@@ -490,40 +494,32 @@ outside ourselves wholly; to suppose we always see things
 from a point of view; to doubt that the way things seem is
 ever the way things are---this is what awareness is like
 from outside it, or from what Bergson attributes here to the
-speculations of philosophy. While awareness is nothing but
-openness from the inside, from the outside, awareness is
-always enclosed in openness. And if our selfhood is what
-encloses it, then we can put the point again paradoxically,
-but even more paradoxically than before. For why is it only
-outside ourselves that being outside ourselves becomes not
-just questionable, but impossible? That is, why is it only
-outside ourselves that we come to see the self we are always
-inside of; the self that makes being outside ourselves
-a contradiction in terms? 
+speculations of philosophy. From the outside, then,
+awareness is always enclosed in openness. And if our
+selfhood is what encloses it, then we have a way to sharpen
+our paradox to a kind of point: for we could say it is only
+from outside ourselves that we can see ourselves enclosed;
+only from outside ourselves that we come to see the self we
+are always inside of; the self that makes being outside
+ourselves questionable, and even impossible: a contradiction
+in terms. But if it *is* a contradiction in terms, then how
+did we get outside ourselves to see it, and why is that not
+enough to contradict the contradiction? 
 
-And if it is a contradiction in terms, then how did we get
-outside ourselves to see it, and why is that not enough to
-contradict the contradiction? What distinguishes the outside
-within, where we are always outside ourselves, and nothing
-but openness, from the outside without, where we are always
-inside ourselves, and enclosed in openness? And how are we
-ever carried from the one outside to the other? If the way
-things seem is the way things are, from within awareness,
-then how do we ever escape awareness to see, with
+In other words, what distinguishes the outside within, where
+we are always outside ourselves, and nothing but openness,
+from the outside without, where we are always inside
+ourselves, and enclosed in openness? And how are we ever
+carried from the one outside to the other? If the way things
+seem is the way things are, from within awareness, then how
+do we ever escape awareness, as if from a cave, to see, with
 self-awareness, that the way things seem is *not* the way
-they are? Or to put the question in terms from Bergson
-himself, if common-sense is adequate enough to make the
-speculations of philosophy against that adequacy
-astonishing, then how do these speculations ever arise, much
-less become convincing? Or to put the question one last
-way, in Platonic terms: if inside ourselves we
-are nothing but openness, and in that sense possess 
-an interior whose interiority we never see, as if
-we inhabited a cave, then how do we ever get outside
-ourselves to (revise this paragraph) we live in a cave invisible to
-us from within, openness seems to define
-our lives from within, then how can we liberate ourselvesour lifeooked at from within ourselves
-is nothing but openness, 
+they are? If common-sense, as Bergson describes this, is
+adequate enough to make astonishing the speculations of
+philosophy against that adequacy, then how do these
+speculations ever arise, much less become convincing? What
+makes philosophy possible? What makes wonder possible? What
+makes openness possible? 
 
 
 then how Or to put the question in terms
