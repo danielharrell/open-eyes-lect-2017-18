@@ -236,21 +236,22 @@ poses its own paradox of openness, and perhaps its own
 resolution in closedness. Consider the power of awareness,
 which again might be the openness most our own,
 comprehending self and other at once. But how? How can I be
-self and other at once? In spatial terms, we might say that
-I am carried outside myself, in my awareness of anything
-else; yet also kept inside myself, since this awareness is
-mine, and known as mine through self-awareness. But how can
-awareness put me inside and outside at once? Or carry me
-from one to the other, as if the two were continuous, yet
-keep me in one rather than the other, as if the two were
-discontinuous? How can I be carried outside myself without
-losing myself, making openness impossible? Or kept inside
-myself without closing myself, again making openness
-impossible? The only way, perhaps, is if the self can bring
-the outside inside, in something like the way a jar
-is closed, or a parabola completed. That is,
-perhaps only if the self encloses what lies outside it, can
-the self be open to what lies outside it.
+self and other at once? <!--Question this later, suggesting
+that I am not self and other at once--> In spatial terms, we
+might say that I am carried outside myself, in my awareness
+of anything else; yet also kept inside myself, since this
+awareness is mine, and known as mine through self-awareness.
+But how can awareness put me inside and outside at once? Or
+carry me from one to the other, as if the two were
+continuous, yet keep me in one rather than the other, as if
+the two were discontinuous? How can I be carried outside
+myself without losing myself, making openness impossible? Or
+kept inside myself without closing myself, again making
+openness impossible? The only way, perhaps, is if the self
+can bring the outside inside, in something like the way
+a jar is closed, or a parabola completed. That is, perhaps
+only if the self encloses what lies outside it, can the self
+be open to what lies outside it.
 
 This suggestion about our selfhood may sound abstruse, or at
 least abstract. But we have a commonplace expression to
@@ -322,7 +323,9 @@ never be transcended.
 
 Nor do we need the arguments of philosophy to reach this
 conclusion. And other ways of reaching it can even allow for
-the semblance of self-transcendence. Consider this passage,
+the semblance of self-transcendence. <!--Perhaps add to
+previous sentence: "at least in modes of openness other
+than awareness, like hospitality.--> Consider this passage,
 from perhaps the greatest novel in English:
 
 > (797) Rosamond, taken hold of by an emotion stronger than
@@ -449,10 +452,28 @@ a description of being outside ourselves becomes
 questionable?
 
 There is an answer to this question too, but it sharpens the
-paradox still more. For on this answer, it is only outside
+paradox more. For on this answer, it is only outside
 ourselves that being outside ourselves becomes questionable.
 Put another way: it is only openness that can make openness
-questionable. To clarify what I mean, consider this
+questionable. <!--Perhaps start with quote from Schopenhauer,
+as an example of philosophical discernment.--> 
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
+
+<!--Focus on "eye that sees a sun" as example of being
+enclosed in openness. Also note that it takes philosophical
+discernment to see this. So how?--> 
+
+To clarify what I mean, consider this
 passage, from a book by Bergson:  
 
 >It would greatly astonish a man unaware of the speculations
@@ -506,11 +527,15 @@ in terms. But if it *is* a contradiction in terms, then how
 did we get outside ourselves to see it, and why is that not
 enough to contradict the contradiction? 
 
+<!--Note, this stretch should be connected to previous
+part, in that we are not open to self and other at once.-->
+
 In other words, what distinguishes the outside within, where
 we are always outside ourselves, and nothing but openness,
 from the outside without, where we are always inside
 ourselves, and enclosed in openness? And how are we ever
-carried from the one outside to the other? If the way things
+carried from the one outside to the other? (Note: should
+make this the true sense of openness.) If the way things
 seem is the way things are, from within awareness, then how
 do we ever escape awareness, as if from a cave, to see, with
 self-awareness, that the way things seem is *not* the way
