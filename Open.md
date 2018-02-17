@@ -233,7 +233,7 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-We can put this last question in more plausible terms. What
+Indeed, what
 if our very selfhood enclosed us in openness? For the self
 poses its own paradox of openness, and perhaps its own
 resolution in closedness. Consider the power of awareness,
@@ -246,7 +246,7 @@ of anything else; yet also kept inside myself, since this
 awareness is mine, and known as mine through self-awareness.
 But how can awareness put me inside and outside at once? Or
 carry me from one to the other, as if the two were
-continuous, yet keep me in one rather than the other, as if
+continuous; yet keep me in one rather than the other, as if
 the two were discontinuous? How can I be carried outside
 myself without losing myself, making openness impossible? Or
 kept inside myself without closing myself, again making
@@ -257,7 +257,15 @@ only if the self encloses what lies outside it, can the self
 be open to what lies outside it.
 
 This suggestion about our selfhood may sound abstruse, or at
-least abstract. But we have a commonplace expression to
+least abstract. 
+
+- Put Schopenhauer here. Example of passage that makes sense
+without context (no place in program, indebted to Kant, etc).
+
+- From "familiarity" of Schopenhauer move on to commonplace
+expression: point of view. 
+
+But we have a commonplace expression to
 clarify the suggestion, and make it more concrete, when we
 speak of having *a point of view*. Here at the podium, for
 example, my awareness gives me a point of view on you in the
@@ -271,14 +279,14 @@ of a point of view comes with a paradox of its own, to
 suggest why having a point of view means being enclosed in
 openness. For how can a view belong to a point? That is, how
 can a whole with many parts belong to that which has no
-part? Perhaps in something like the way a circumference
-belongs to a center. For in that case, my awareness of you
-would not mean that I became you, or reached you, but
-instead that I encompassed you. And in that sense, it seems,
-I would *contain* you in my point of view, as if my openness
-to you were a matter of enclosing you; and as if we were
-both, more generally, enclosed in openness, much like
-a parabola, and perhaps even more like a circle. 
+part? Perhaps in something like the way
+a circumference belongs to a center. For in that case, my
+awareness of you would not mean that I became you, or
+reached you, but instead that I encompassed you. And in that
+sense, it seems, I would *contain* you in my point of view,
+as if my openness to you were a matter of enclosing you; and
+as if we were both, more generally, enclosed in openness,
+much like a parabola, and perhaps even more like a circle. 
 
 If anything, the force of this idea is lost in familiarity.
 But to make it less familiar, think again of those deeper
@@ -308,19 +316,58 @@ question our point of view, or doubt it, or even want to
 overcome it, as if we might someday see things from *no*
 point of view. See them, that is, as they truly are; as they
 are in themselves; as they are *outside* any point of view,
-no matter how encompassing. But the backdrop of this
-reflection would seem to be the recognition that a point
-of view is precisely what we can never escape. For how could
-we see at all, without a point of view?  Or ever see beyond
-it, if seeing any distance requires it? And a large part of
-deeper philosophical reflection might well be reduced to
-this recognition. For what more, really, is contained in the
-self-knowledge of Socratic ignorance? Or the self-certainty
-of Cartesian doubt? The transcendental self of Kantian
-critique? Or the absolute self of Hegelian dialectic? It can
-start to seem as if there is nothing at the end of
-philosophical reflection but a self to embrace, since it can
-never be transcended. 
+no matter how encompassing. Yet how could we see at all,
+without a point of view?  Or ever see beyond it, if seeing
+any distance requires it? And if the self in this sense can
+never be relinquished, or renounced, what is left but
+reconciliation? The self-knowledge of Socratic ignorance? 
+The self-certainty of Cartesian doubt? The transcendental
+self of Kantian critique? Or the absolute self of Hegelian
+dialectic? It can start to seem as if there is nothing at
+the end of philosophical reflection but a self to embrace,
+since it can never be escaped. We might even make
+philosophical reflection a matter of self-embrace from the
+start. Consider the way one philosopher does this:
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
+
+The book that builds on this passage is very long, indebted
+to the philosophy of Kant, and "non-program", as we like to
+say. But the passage itself can seem almost self-evident; as
+evident, at least, as the self which is to say as evident as
+the self, is written almost as if it were self-evident,
+t read in seminar, no Schopenhauer here offers a memorable
+description of what it means to be enclosed in openness. In
+openness, we again might say we see *through* our eyes to
+a whole world outside us, as if our eyes were transparent,
+and in that sense open. But this openness is also enclosed:
+for otherwise, we would never know the eyes we see through,
+we also *see* that we see, which means we see the eyes we
+see through, as if they opaque, and in that sense closed,
+bringing the world we see outside us inside us, and making
+it something given rather than gained, or what Schopenhauer
+calls *a representation*. ,
+
+as if
+
+philosophy began in :  chopenhauer does this, to begin
+a book thatn the memorable
+opening to his *World as Will and Representation*, in the famous We might even embrace
+the self at the start of philosophical reflection, It can even start to seem
+as if there is nothing at the start of philosophical
+reflection, Unless we embrace this self
+as the start of philosophical reflection, And it is even possible
+to embrace this self at the start of philosophical reflection,
+
 
 Nor do we need the arguments of philosophy to reach this
 conclusion. And other ways of reaching it, as they broaden
@@ -463,31 +510,7 @@ put the answer another way, that seems to reverse our
 earlier conclusion: it is only openness that can make being
 open look like a way of being closed. 
 
-To clarify this answer, consider this passage, which
-opens Schopenhauer's *The World as Will and Representation*:
-
-> "The world is my representation": this is a truth valid
-with reference to every living and knowing being, although
-man alone can bring it into reflective, abstract
-consciousness. If he really does so, philosophical
-discernment has dawned on him. It then becomes clear and
-certain to him that he does not know a sun and an earth, but
-only an eye that sees a sun, a hand that feels an earth;
-that the world around him is there only as representation,
-in other words, only in reference to another thing, namely
-that which represents, and this is himself.[^WWR]
-
-Schopenhauer here offers a memorable description of what it
-means to be enclosed in openness. In openness, we
-again might say we see *through* our eyes to a whole world
-outside us, as if our eyes were transparent, and in that
-sense open. But this openness is also enclosed: for
-otherwise, we would never know the eyes we see through, we also *see* that we
-see, which means we see the eyes we see through, as if they
-opaque, and in that sense closed, bringing the
-world we see outside us inside us, and making it something
-given rather than gained, or what Schopenhauer calls *a
-representation*. , making    <!--Focus on
+making    <!--Focus on
 "eye that sees a sun" as example of being enclosed in
 openness. Also note that it takes philosophical discernment
 to see this. So how?--> 
