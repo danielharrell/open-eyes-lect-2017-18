@@ -233,11 +233,78 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-Indeed, what
-if our very selfhood enclosed us in openness? For the self
-poses its own paradox of openness, and perhaps its own
-resolution in closedness. Consider the power of awareness,
-which again might be the openness most our own,
+For example, think again of how we say our eyes are open
+when we are awake, to capture how we seem to see *through*
+them, as if they were transparent, to a whole world outside
+us. But this is also to speak figuratively, and perhaps
+somewhat thoughtlessly. If we spoke more thoughtfully about
+our eyes, and about our relation to the world through
+awareness more generally, we might say something more like
+this: 
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
+
+On this account (revise from here)
+
+The book that builds on this passage is very long, indebted
+to the philosophy of Kant, and "non-program", as we like to
+say. But the passage itself can seem almost self-evident; as
+evident, at least, as the self which is to say as evident as
+the self, is written almost as if it were self-evident,
+t read in seminar, no Schopenhauer here offers a memorable
+description of what it means to be enclosed in openness. In
+openness, we again might say we see *through* our eyes to
+a whole world outside us, as if our eyes were transparent,
+and in that sense open. But this openness is also enclosed:
+for otherwise, we would never know the eyes we see through,
+we also *see* that we see, which means we see the eyes we
+see through, as if they opaque, and in that sense closed,
+bringing the world we see outside us inside us, and making
+it something given rather than gained, or what Schopenhauer
+calls *a representation*. ,
+if the use
+of the word "open" in this case is figurative rather than
+literal, then there must be a sense in which our eyes are
+not open but closed, not transparent but opaque; where we
+see not *through* them, but *with* them, to a world *not*
+outside us. , 
+- Go back to eyes open example. 
+
+- Earlier paragraph to use here:
+
+Then use Schopenhauer
+quote for contrast.
+
+- Old passage to use here perhaps: 
+> On this inference, it is because our open eyes are not like
+a lidless jar that the world we see comes from within rather
+than without---as if there were nothing outside us to see, and
+the phrase "open eyes" were figurative in being false.
+Schopenhauer's most famous work, *The World as Will and
+Representation*, begins in a similar vein of
+closedness:
+
+> 
+On this account, our open eyes are not transparent but
+opaque; and the world we see through them is not outside but
+inside, having a relation to us that is given rather than
+gained. 
+
+- Find old Schopenhauer stuff
+
+Indeed, what if our very selfhood enclosed us in openness?
+For the self poses its own paradox of openness, and perhaps
+its own resolution in closedness. Consider the power of
+awareness, which again might be the openness most our own,
 comprehending self and other at once. But how? How can I be
 self and other at once? <!--Question this later, suggesting
 that I am not self and other at once--> In spatial terms, we
@@ -261,6 +328,7 @@ least abstract.
 
 - Put Schopenhauer here. Example of passage that makes sense
 without context (no place in program, indebted to Kant, etc).
+
 
 - From "familiarity" of Schopenhauer move on to commonplace
 expression: point of view. 
@@ -328,34 +396,6 @@ the end of philosophical reflection but a self to embrace,
 since it can never be escaped. We might even make
 philosophical reflection a matter of self-embrace from the
 start. Consider the way one philosopher does this:
-
-> "The world is my representation": this is a truth valid
-with reference to every living and knowing being, although
-man alone can bring it into reflective, abstract
-consciousness. If he really does so, philosophical
-discernment has dawned on him. It then becomes clear and
-certain to him that he does not know a sun and an earth, but
-only an eye that sees a sun, a hand that feels an earth;
-that the world around him is there only as representation,
-in other words, only in reference to another thing, namely
-that which represents, and this is himself.[^WWR]
-
-The book that builds on this passage is very long, indebted
-to the philosophy of Kant, and "non-program", as we like to
-say. But the passage itself can seem almost self-evident; as
-evident, at least, as the self which is to say as evident as
-the self, is written almost as if it were self-evident,
-t read in seminar, no Schopenhauer here offers a memorable
-description of what it means to be enclosed in openness. In
-openness, we again might say we see *through* our eyes to
-a whole world outside us, as if our eyes were transparent,
-and in that sense open. But this openness is also enclosed:
-for otherwise, we would never know the eyes we see through,
-we also *see* that we see, which means we see the eyes we
-see through, as if they opaque, and in that sense closed,
-bringing the world we see outside us inside us, and making
-it something given rather than gained, or what Schopenhauer
-calls *a representation*. ,
 
 as if
 
