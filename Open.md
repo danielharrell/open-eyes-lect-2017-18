@@ -234,13 +234,15 @@ were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
 For example, think again of how we say our eyes are open
-when we are awake, to capture how we seem to see *through*
-our eyes, as if they were transparent, to a whole world outside
-us. But this is also to speak figuratively, and perhaps
-somewhat thoughtlessly. If we spoke more thoughtfully about
-our eyes, and about our relation to the world through
-awareness more generally, we might say something more like
-this: 
+when we are awake and aware, to capture how we seem to see
+*through* our eyes, as if they were transparent, to a whole
+world outside us. But this is also again to speak
+figuratively, and perhaps somewhat thoughtlessly. For how
+can eyes be transparent if they have color? Or be open if
+they can be poked, injured, even blinded? If we spoke more
+thoughtfully about our eyes, and about our relation to the
+world through awareness more generally, we might say
+something more like this: 
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -256,8 +258,12 @@ that which represents, and this is himself.[^WWR]
 On this account, our eyes are not transparent but opaque;
 we see not through them but with them; to a world not
 outside us but inside us, or at least in a relation to us
-that is given rather than gained, and renders it always my
-representation rather than ever a reality apart.  
+that is given rather than gained; a world that is always my
+representation rather than ever a reality apart. And while
+it begins a book, Schopenhauer's *The World as Will
+and Representation*, that is very long, indebted to the
+philosophy of Kant, and not on our Program's reading list, 
+this passage
 
 And while the passage begins a book by Schopenhauer that is
 very long, indebted to the philosophy of Kant, and
