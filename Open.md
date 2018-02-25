@@ -234,7 +234,7 @@ were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
 For example, think again of how we say our eyes are open
-when we are awake and aware, to capture how we seem to see
+when we are awake, to capture how we seem to see
 *through* our eyes, as if they were transparent, to a whole
 world outside us. But this is also again to speak
 figuratively, and perhaps somewhat thoughtlessly. For how
@@ -255,37 +255,31 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-On this account, our eyes are not transparent but opaque;
-we see not through them but with them; to a world not
-outside us but inside us, or at least in a relation to us
+On this account, our eyes are not transparent, but opaque;
+we see not through them, but with them; to a world not
+outside us, but inside us, or at least in a relation to us
 that is given rather than gained; a world that is always my
-representation rather than ever a reality apart. And while
-it begins a book, Schopenhauer's *The World as Will
-and Representation*, that is very long, indebted to the
-philosophy of Kant, and not on our Program's reading list, 
-this passage
+representation rather than ever a reality apart. 
 
-And while the passage begins a book by Schopenhauer that is
-very long, indebted to the philosophy of Kant, and
-"non-program", as we like to say, it is also intelligible,
-almost self-evident (as evident as self).  For (make
-argument here for why what Schopenhauer says make sense.)
+And as the passage suggests, a moment's reflection might
+persuade us of this account, even though it begins a book,
+Schopenhauer's *The World as Will and Representation*, that
+is very long, indebted to the philosophy of Kant, and not on
+our program's reading list. For how can I be aware and
+self-aware at once, unless my awareness of anything else
+was somehow
+contained, or enclosed, my awareness of anything else?
 
-Perhaps make argument here that we could not know the
-eyes we see through unless they were, in this sense,
-opaque.
+- Perhaps include account of paradox here.
 
-Also tie this explicitly to being enclosed in openness.
+- While awareness puts us outside ourselves, self-awarness
+draws us back inside ourselves. 
+
+- So the account is as evident as the self, which encloses
+us in openness.
 
 Schopenhauer here offers a memorable description of what it
 means to be enclosed in openness. 
-
-Tie enclosure to self, for next paragraph. The self 
-encloses us in openness.
-
-But the passage itself can seem almost self-evident; as
-evident, at least, as the self.
-
 
 Indeed, what if our very selfhood enclosed us in openness?
 For the self poses its own paradox of openness, and perhaps
@@ -378,18 +372,6 @@ the end of philosophical reflection but a self to embrace,
 since it can never be escaped. We might even make
 philosophical reflection a matter of self-embrace from the
 start. Consider the way one philosopher does this:
-
-as if
-
-philosophy began in :  chopenhauer does this, to begin
-a book thatn the memorable
-opening to his *World as Will and Representation*, in the famous We might even embrace
-the self at the start of philosophical reflection, It can even start to seem
-as if there is nothing at the start of philosophical
-reflection, Unless we embrace this self
-as the start of philosophical reflection, And it is even possible
-to embrace this self at the start of philosophical reflection,
-
 
 Nor do we need the arguments of philosophy to reach this
 conclusion. And other ways of reaching it, as they broaden
