@@ -186,10 +186,8 @@ jar has no inside, and can only gain one by being closed.
 In what sense, then, can I truly open the jar, no matter
 how great my grip on the lid?
 
-This is one way to wonder how being open is possible.
-But not the only way. And other ways need make no appeal to nature,
-or ruin, if an inside is left open to the outside too
-long. Consider a line from geometry: the parabola.
+This is not the only way to wonder how being open is possible.
+Consider a line from geometry: the parabola.
 We can distinguish the sides of this line, one convex and
 one concave, since the parabola is curved. But suppose we
 go further, and take the convex side to be inside the
@@ -217,69 +215,25 @@ once we make the line of the parabola infinite, to make the
 inside of the parabola definite, we will have *enclosed* the
 parabola in openness. And this enclosure will make the
 openness of the parabola at once intelligible yet
-impassable. The way this figure stays open on one side will
+impassable. The way that one side of this figure stays open will
 be something we can plainly see, even point to, yet never
 reach---as if openness had no being but seeming.
 
-This, then, is another way to wonder how being open is
-possible. <!--Note later that we wonder this by giving
+<!--Note later that we wonder this by giving
 arguments for its impossibility; and philosophy rests here,
 in impossibility. In mere appearance, then go back to
-examples from Aristotle, then Bergson.--> And while it might
-seem contrived, in coming from mathematics, it suggests
+examples from Aristotle, then Bergson.--> While the
+parabola thus gives us another way 
+to wonder how being open is possible, it might
+seem contrived, in coming from mathematics. But it suggests
 a more general way, and radical way, to wonder how being
 open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-For example, think again of how we say our eyes are open
-when we are awake, to capture how we seem to see
-*through* our eyes, as if they were transparent, to a whole
-world outside us. But this is also again to speak
-figuratively, and perhaps somewhat thoughtlessly. For how
-can eyes be transparent if they have color? Or be open if
-they can be poked, injured, even blinded? If we spoke more
-thoughtfully about our eyes, and about our relation to the
-world through awareness more generally, we might say
-something more like this: 
-
-> "The world is my representation": this is a truth valid
-with reference to every living and knowing being, although
-man alone can bring it into reflective, abstract
-consciousness. If he really does so, philosophical
-discernment has dawned on him. It then becomes clear and
-certain to him that he does not know a sun and an earth, but
-only an eye that sees a sun, a hand that feels an earth;
-that the world around him is there only as representation,
-in other words, only in reference to another thing, namely
-that which represents, and this is himself.[^WWR]
-
-On this account, our eyes are not transparent, but opaque;
-we see not through them, but with them; to a world not
-outside us, but inside us, or at least in a relation to us
-that is given rather than gained; a world that is always my
-representation rather than ever a reality apart. 
-
-And as the passage suggests, a moment's reflection might
-persuade us of this account, even though it begins a book,
-Schopenhauer's *The World as Will and Representation*, that
-is very long, indebted to the philosophy of Kant, and not on
-our program's reading list. For how can I be aware and
-self-aware at once, unless my awareness of anything else
-was somehow
-contained, or enclosed, my awareness of anything else?
-
-- Perhaps include account of paradox here.
-
-- While awareness puts us outside ourselves, self-awarness
-draws us back inside ourselves. 
-
-- So the account is as evident as the self, which encloses
-us in openness.
-
-Schopenhauer here offers a memorable description of what it
-means to be enclosed in openness. 
+- This question turns us back to awareness. (Bring back
+paradox here. Then move to Schopenhauer.)
 
 Indeed, what if our very selfhood enclosed us in openness?
 For the self poses its own paradox of openness, and perhaps
@@ -302,6 +256,57 @@ can bring the outside inside, in something like the way
 a jar is closed, or a parabola completed. That is, perhaps
 only if the self encloses what lies outside it, can the self
 be open to what lies outside it.
+
+Think again of how we say our eyes are open
+when we are awake, which captures how we seem to see
+*through* our eyes, as if they were transparent, to a whole
+world outside us. But this is also again to speak
+figuratively, and perhaps somewhat thoughtlessly. For how
+can eyes be transparent if they have color? Or be open if
+they can be poked, injured, even blinded? If we spoke more
+thoughtfully about our eyes, and about our relation to the
+world through awareness more generally, we might say
+something more like this: 
+
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
+
+<!-- Be explicit how eyes represent awareness more
+generally.-->
+
+On this account, our eyes are not transparent, but opaque;
+we see not through them, but with them; to a world not
+outside us, but inside us, or at least in a relation to us
+that is given rather than gained; a world that is always my
+representation rather than ever a reality apart. 
+
+And even though this passage begins a book---Schopenhauer's
+*World as Will and Representation*---that is very long,
+indebted to the philosophy of Kant, and not on our program's
+reading list, a moment's reflection might persuade us of its
+account, as the passage itself suggests in making this
+a matter of philosophical discernment. - Perhaps include account of paradox here.
+
+- While awareness puts us outside ourselves, self-awarness
+draws us back inside ourselves. 
+
+- So the account is as evident as the self, which encloses
+us in openness.
+
+Schopenhauer here offers a memorable description of what it
+means to be enclosed in openness. 
+
+Indeed, what if our very selfhood enclosed us in openness?
+For the self poses its own paradox of openness, and perhaps
+its own resolution in closedness. 
 
 This suggestion about our selfhood may sound abstruse, or at
 least abstract. 
