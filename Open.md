@@ -232,30 +232,44 @@ like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
 What if we ourselves were enclosed in openness?
 
-- This question turns us back to awareness. (Bring back
-paradox here. Then move to Schopenhauer.)
+This last question invites us to consider how awareness is
+possible. For awareness again might be the openness most our
+own, comprehending self and other at once. But how? How can
+I *be* self and other at once? <!--Question this later,
+suggesting that I am not self and other at once--> In
+spatial terms, we might say that I am carried outside
+myself, in my awareness of anything else; yet also kept
+inside myself, since this awareness is mine, and known as
+mine through self-awareness. But how can awareness put me
+inside and outside at once? Or carry me from one to the
+other, as if the two were continuous; yet keep me in one
+rather than the other, as if the two were discontinuous? How
+can I be kept inside myself without closing myself, making
+openness impossible? Or carried outside myself without
+losing myself, again making openness impossible? If openness
+in this case is to remain possible, if awareness is be possible, then
+it seems I must somehow be kept inside myself, even when carried
+outside myself. But how, unless I can somehow make the outside a
+kind of inside, (revise from here). The only
+way, perhaps, is if I am somehow kept inside myself even
+in being carried outside myself? the self can bring the outside inside,
+in something like the way a jar is closed, or a parabola
+completed. That is, perhaps only if the self encloses what
+lies outside it, can the self be open to what lies outside
+it.
 
-Indeed, what if our very selfhood enclosed us in openness?
-For the self poses its own paradox of openness, and perhaps
-its own resolution in closedness. Consider the power of
-awareness, which again might be the openness most our own,
-comprehending self and other at once. But how? How can I be
-self and other at once? <!--Question this later, suggesting
-that I am not self and other at once--> In spatial terms, we
-might say that I am carried outside myself, in my awareness
-of anything else; yet also kept inside myself, since this
-awareness is mine, and known as mine through self-awareness.
-But how can awareness put me inside and outside at once? Or
-carry me from one to the other, as if the two were
-continuous; yet keep me in one rather than the other, as if
-the two were discontinuous? How can I be carried outside
-myself without losing myself, making openness impossible? Or
-kept inside myself without closing myself, again making
-openness impossible? The only way, perhaps, is if the self
-can bring the outside inside, in something like the way
-a jar is closed, or a parabola completed. That is, perhaps
-only if the self encloses what lies outside it, can the self
-be open to what lies outside it.
+
+- Pose paradox.
+
+- Word the resolution like the jar and parabola: we
+can keep the inside definite, but only by enclosing 
+ourselves.
+
+- Conclude with how our very selfhood, therefore,
+encloses us in openness.
+
+- Then move on to Schopenhauer quote, as clarifying
+how we bring the outside inside.
 
 Think again of how we say our eyes are open
 when we are awake, which captures how we seem to see
