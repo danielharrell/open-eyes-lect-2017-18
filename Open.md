@@ -222,41 +222,69 @@ reach---as if openness had no being but seeming.
 <!--Note later that we wonder this by giving
 arguments for its impossibility; and philosophy rests here,
 in impossibility. In mere appearance, then go back to
-examples from Aristotle, then Bergson.--> While the
+examples from Aristotle, then Bergson.--> The
 parabola thus gives us another way 
-to wonder how being open is possible, it might
-seem contrived, in coming from mathematics. But it suggests
+to wonder how being open is possible. And while it might
+seem contrived, in coming from mathematics, it suggests
 a more general way, and radical way, to wonder how being
 open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
-What if we ourselves were enclosed in openness?
+What if we ourselves were enclosed in openness? <!--What if
+our very selfhood enclosed us in openness? Reach this as
+a conclusion later: it is our selfhood that encloses us.-->
 
-This last question invites us to consider how awareness is
-possible. For awareness again might be the openness most our
-own, comprehending self and other at once. But how? How can
-I *be* self and other at once? <!--Question this later,
-suggesting that I am not self and other at once--> In
-spatial terms, we might say that I am carried outside
-myself, in my awareness of anything else; yet also kept
-inside myself, since this awareness is mine, and known as
-mine through self-awareness. But how can awareness put me
+This last question invites us to take a second look at
+awareness. For awareness again might be the openness most
+our own, comprehending self and other at once. But how? How
+can I ever *be* self and other at once? <!--Question this
+later, suggesting that I am not self and other at once--> In
+spatial terms, we might say that I am carried outside myself
+in my awareness of anything else; yet also kept inside
+myself since this awareness is mine, and known as mine
+through self-awareness. But how can awareness thus put me
 inside and outside at once? Or carry me from one to the
 other, as if the two were continuous; yet keep me in one
-rather than the other, as if the two were discontinuous? How
-can I be kept inside myself without closing myself, making
-openness impossible? Or carried outside myself without
-losing myself, again making openness impossible? If openness
-in this case is to remain possible, if awareness is be possible, then
-it seems I must somehow be kept inside myself, even when carried
-outside myself. But how, unless I can somehow make the outside a
-kind of inside, (revise from here). The only
-way, perhaps, is if I am somehow kept inside myself even
-in being carried outside myself? the self can bring the outside inside,
-in something like the way a jar is closed, or a parabola
-completed. That is, perhaps only if the self encloses what
-lies outside it, can the self be open to what lies outside
-it.
+rather than the other, as if the two were discontinuous? 
+How can I be kept inside myself without closing myself,
+making openness impossible? Or carried outside myself
+without losing myself, again making openness impossible? 
+
+To resolve this paradox, we might suppose that I am not
+really carried outside myself in my awareness of anything
+else. It is rather that the outside is carried inside, as if
+my awareness of self could contain, not contradict, my
+awareness of anything else. But this resolution thus makes
+the self of awareness like a closed jar, or completed
+parabola. For it suggests that only if the self
+*encloses* what lies outside it, can the self *be open* to what
+lies outside it. And it would therefore be our very
+selfhood that encloses us in openness.
+
+
+Put Wolff quote here? 
+
+The sense of this predicament, of being enclosed in
+openness, is captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
+
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to ‘be able to be conscious of
+it’, it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
 
 
 - Pose paradox.
@@ -533,7 +561,7 @@ put the answer another way, that seems to reverse our
 earlier conclusion: it is only openness that can make being
 open look like a way of being closed. 
 
-making    <!--Focus on
+making  <!--Focus on
 "eye that sees a sun" as example of being enclosed in
 openness. Also note that it takes philosophical discernment
 to see this. So how?--> 
@@ -612,3 +640,20 @@ makes philosophy possible? What makes wonder possible? What
 makes openness possible? 
 
 
+# Notes {#notes}
+
+[Back to top](#top)
+
+[^Socrates.]: "...it is the function of the philosopher to be able
+to investigate all things. For if it is not the function of
+the philosopher, who is it who will inquire whether Socrates
+and Socrates seated are the same thing, or whether one thing
+has one contrary, or what contrariety is, or how many
+meanings it has? And similarly with all other such
+questions." (Book IV, Part 2, *Metaphysics*)
+
+[^Dictionary]: See, for example, the [Merriam Webster
+entry](https://www.merriam-webster.com/dictionary/open) for
+"open". 
+
+[^AristotleWonder.]: Put Metphysics reference here.
