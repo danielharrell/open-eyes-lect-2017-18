@@ -230,44 +230,11 @@ a more general way, and radical way, to wonder how being
 open is possible. For what if every way of being open were
 like the parabola? That is, what if every way of being open
 were really a way of being closed that merely looked open?
-What if we ourselves were enclosed in openness? <!--What if
-our very selfhood enclosed us in openness? Reach this as
-a conclusion later: it is our selfhood that encloses us.-->
+What if we ourselves were enclosed in openness? 
 
-This last question invites us to take a second look at
-awareness. For awareness again might be the openness most
-our own, comprehending self and other at once. But how? How
-can I ever *be* self and other at once? <!--Question this
-later, suggesting that I am not self and other at once--> In
-spatial terms, we might say that I am carried outside myself
-in my awareness of anything else; yet also kept inside
-myself since this awareness is mine, and known as mine
-through self-awareness. But how can awareness thus put me
-inside and outside at once? Or carry me from one to the
-other, as if the two were continuous; yet keep me in one
-rather than the other, as if the two were discontinuous? 
-How can I be kept inside myself without closing myself,
-making openness impossible? Or carried outside myself
-without losing myself, again making openness impossible? 
-
-To resolve this paradox, we might suppose that I am not
-really carried outside myself in my awareness of anything
-else. It is rather that the outside is carried inside, as if
-my awareness of self could contain, not contradict, my
-awareness of anything else. But this resolution thus makes
-the self of awareness like a closed jar, or completed
-parabola. For it suggests that only if the self
-*encloses* what lies outside it, can the self *be open* to what
-lies outside it. And it would therefore be our very
-selfhood that encloses us in openness.
-
-
-Put Wolff quote here? 
-
-The sense of this predicament, of being enclosed in
-openness, is captured well, I think, in this description by
-Francis Wolff, a contemporary philosopher:
-
+For example, consider this description of our
+openness, from a recent book in philosophy by Francis
+Wolff: 
 > Everything is inside because in order to think anything
 whatsoever, it is necessary to ‘be able to be conscious of
 it’, it is necessary to say it, and so we are locked up in
@@ -286,6 +253,56 @@ consciousness or language as in a transparent cage.
 Everything is outside, yet it is impossible to get
 out.[^Wolff]
 
+What is perhaps most striking in this description is
+how we remain enclosed in language or consciousness even
+if they encompass their objects *as they are*, not merely
+as they seem.
+
+The sense of this predicament, of being enclosed in
+openness, is captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
+
+This last question invites us to take a second look at
+awareness. For awareness again might be the openness most
+our own, comprehending self and other at once. But how? How
+can I ever *be* self and other at once? <!--Question this
+later, suggesting that I am not self and other at once--> In
+spatial terms, we might say that I am carried outside myself
+in my awareness of anything else; yet also kept inside
+myself since this awareness is mine, and known as mine
+through self-awareness. But how can awareness thus put me
+inside and outside at once? Or carry me from one to the
+other, as if the two were continuous; yet keep me in one
+rather than the other, as if the two were discontinuous? 
+And how can I be kept inside myself without closing myself,
+making openness impossible? Or carried outside myself
+without losing myself, again making openness impossible? 
+
+To resolve this paradox, we might suppose that I am not
+really carried outside myself in my awareness of anything
+else. It is rather that the outside is carried inside.
+<!-- Point of view here--> 
+
+And this is why we can call what we see a perception, or
+what we say an opinion. <!--Here clarify briefly with perception and opinion. Point
+of view.-->, as if my awareness of self could contain, not
+contradict, my awareness of anything else. But this
+resolution thus makes the self like a closed jar, or
+completed parabola. <!--Point of view like circle.--> For it
+suggests that only if the self *encloses* what lies outside
+it, can the self *be open* to what lies outside it. And it
+would therefore be our very selfhood that encloses us in
+openness.
+
+- Use "point of view" paragraph here, along with philosophy,
+to show how this is the resolution usually made, without
+thinking of it as a resolution. Can use Wolff quote after
+this, to show how the paradox still remains, if one is
+truly committed to openness. Philosophical reflection
+sees it as a paradox. Perhaps Middlemarch could also
+be contextualized this way. 
+
+Put Wolff quote here? 
 
 - Pose paradox.
 
