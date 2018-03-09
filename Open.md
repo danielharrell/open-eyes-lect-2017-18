@@ -159,6 +159,8 @@ what philosophical reflection does. (Don't forget Bergson
 here.) --> But to wonder how is also unlikely, since we have
 the word "open" to prove its possibility. 
 
+## The Jar
+
 If, for example, I say "I can't get the jar open", I will
 look for a better grip on the lid, not the word. But even
 here, I can wonder about the word. For why get a better grip
@@ -185,6 +187,8 @@ may spoil---as if for nature, even if not for us, a lidless
 jar has no inside, and can only gain one by being closed.
 In what sense, then, can I truly open the jar, no matter
 how great my grip on the lid?
+
+## The Parabola
 
 This is one way to wonder how being open is possible. For
 another way, from a different direction, consider a line
@@ -231,24 +235,27 @@ were like the parabola? That is, what if every way of being
 open were really a way of being closed that merely looked
 open? What if we ourselves were enclosed in openness? 
 
+## Awareness
+
 This last question invites us to take a second look at
 awareness. For awareness, again, might be the openness most
 our own, comprehending self and other at once. But how? How
 can I ever *be* self and other at once? <!--Question this
-later, suggesting that I am not self and other at once--> In
-spatial terms, we might say that I am carried outside myself
-in my awareness of anything else; yet also kept inside
-myself since this awareness is mine, and known as mine
-through self-awareness. But how can awareness thus put me
-inside and outside at once? Or carry me from one to the
-other, as if the two were continuous; yet keep me in one
-rather than the other, as if the two were discontinuous? Or
-to pose the paradox another way: How can I be kept inside
-myself without closing myself, making openness impossible?
-Or carried outside myself without losing myself, again
-making openness impossible? 
+later, suggesting that I am not self and other at once-->
+There is a paradox here like the paradox in our jar and
+parabola. For in spatial terms, we might say that I am
+carried outside myself in my awareness of anything else; yet
+also kept inside myself since this awareness is mine, and
+known as mine through self-awareness. But how can awareness,
+then, put me inside and outside at once? Or carry me from
+one to the other, as if the two were continuous; yet keep me
+in one rather than the other, as if the two were
+discontinuous? Or to pose the paradox another way: How can
+I be kept inside myself without closing myself, making
+openness impossible? Or carried outside myself without
+losing myself, again making openness impossible? 
 
-To resolve the paradox, we might suppose that I am not
+To resolve this paradox, we might suppose that I am not
 really carried outside myself in my awareness of anything
 else. <!--Perhaps later refer back to this paradox, and
 resolve it the other way.--> Here at the podium, for
@@ -258,21 +265,23 @@ think my awareness of you carries me into the audience. And
 the anxiety in this awareness suggests that it is not just
 in body, but also in mind, that I stay right here, at the
 podium, all alone. To be aware of you, in that case, is not
-to become you, or even to reach you, but instead, we could
-say, to *encompass* you. It would be as if at the podium,
-I were at the center of a circumference, or the point of
-a point of view, that you in the audience were inside rather
-than outside. Or again as if I were not really carried
-outside myself in my awareness of anything else, but rather
-as if the outside were carried inside. Or more generally as
-if the self were not transcended, but expanded, in the
-awareness of anything else, allowing self-awareness to
-contain, not contradict, the awareness of anything else. But
-however best put, this resolution to the paradox makes the
-self like a closed jar, or completed parabola. For it
-implies that only if the self *encloses* what lies outside
-it, can the self *be open* to what lies outside it. And our
-very selfhood, then, would enclose us in openness.
+to become you, or even to reach you, but instead---so we
+might say---to *encompass* you. Or as we do say: to have
+a point of view that *includes* you. I would be at the
+podium, then, as if I were at the center of
+a circumference---the point of my point of view---that you
+in the audience were inside rather than outside. Or again as
+if I were not really carried outside myself in my awareness
+of anything else, but rather as if the outside were carried
+inside. Or more generally as if the self were not
+transcended, but expanded, in the awareness of anything
+else, allowing self-awareness to contain, not contradict,
+the awareness of anything else. But however we put it, this
+resolution to the paradox makes the self like a closed jar,
+or completed parabola. For it implies that only if the self
+*encloses* what lies outside it, can the self *be open* to
+what lies outside it. And our very selfhood, then, would
+enclose us in openness.
 
 # Part Three {#three}
 
@@ -282,6 +291,30 @@ very selfhood, then, would enclose us in openness.
 the word "open"? Or instead to dispel it? That is, should
 we take these arguments against the possibility of openness
 to be persuasive? Or provocative?
+
+Rest of part three:
+
+- Schopenhauer quote.
+
+- Conclusion: philosophical reflection, and
+therefore liberation, depends on
+being closed. 
+
+- Wolff quote.
+
+- Conclusion: liberation depends on being open.
+
+Then turn to Middlemarch:
+
+- Dorothea/Causabon quote.
+
+- Conclusion: being good depends on being closed.
+
+- Causabon quote.
+
+- Conclusion: being good depends on being open.
+
+Then move on to part four.
 
 - Briefly outline arguments in favor and against.
 
