@@ -242,7 +242,7 @@ awareness. For awareness, again, might be the openness most
 our own, comprehending self and other at once. But how? How
 can I ever *be* self and other at once? <!--Question this
 later, suggesting that I am not self and other at once-->
-There is a paradox here like the paradox in our jar and
+There is a paradox here like those in our jar and
 parabola. For in spatial terms, we might say that I am
 carried outside myself in my awareness of anything else; yet
 also kept inside myself since this awareness is mine, and
@@ -255,33 +255,49 @@ I be kept inside myself without closing myself, making
 openness impossible? Or carried outside myself without
 losing myself, again making openness impossible? 
 
-To resolve this paradox, we might suppose that I am not
-really carried outside myself in my awareness of anything
-else. <!--Perhaps later refer back to this paradox, and
-resolve it the other way.--> Here at the podium, for
-example, I am aware of you---all of you---in the audience,
-perhaps to the point of anxiety. But it can seem absurd to
-think my awareness of you carries me into the audience. And
-the anxiety in this awareness suggests that it is not just
-in body, but also in mind, that I stay right here, at the
-podium, all alone. To be aware of you, in that case, is not
-to become you, or even to reach you, but instead---so we
-might say---to *encompass* you. Or as we do say: to have
-a point of view that *includes* you. I would be at the
-podium, then, as if I were at the center of
-a circumference---the point of my point of view---that you
-in the audience were inside rather than outside. Or again as
-if I were not really carried outside myself in my awareness
-of anything else, but rather as if the outside were carried
-inside. Or more generally as if the self were not
-transcended, but expanded, in the awareness of anything
-else, allowing self-awareness to contain, not contradict,
-the awareness of anything else. But however we put it, this
-resolution to the paradox makes the self like a closed jar,
-or completed parabola. For it implies that only if the self
-*encloses* what lies outside it, can the self *be open* to
-what lies outside it. And our very selfhood, then, would
-enclose us in openness.
+Of course, we might suppose that I am not really carried
+outside myself in my awareness of anything else. <!--Perhaps
+later refer back to this paradox, and resolve it the other
+way.--> Here at the podium, for example, I am aware of
+you---all of you---in the audience, perhaps to the point of
+anxiety. But it can seem absurd to think my awareness of you
+carries me into the audience. And the anxiety in this
+awareness suggests that it is not just in body, but also in
+mind, that I stay right here, at the podium, all alone. To
+be aware of you, in that case, is not to become you, or even
+to reach you, but instead---so we might say---to *encompass*
+you. Or as we do sometimes say: to have a point of view that
+*includes* you. I would be at the podium, then, as if I were
+at the center of a circumference---the point of my point of
+view---that you in the audience were inside rather than
+outside. And thus I would not be carried outside myself in
+my awareness of anything else, since this awareness will
+instead have made the outside an inside. And the self, more
+generally, would not be transcended, but expanded, in the
+awareness of anything else, allowing self-awareness to
+contain, not contradict, the awareness of anything else. 
+
+But if the self is *not* transcended in our awareness of
+anything else, then it is hard to see how we ourselves are
+*not* like a closed jar, or completed parabola, no matter
+how open we seem, or try, to be. For this account of
+awareness suggests that only if the self *encloses* what
+lies outside it, can the self *be open* to what lies outside
+it. And our very selfhood, in that case, would enclose us
+in openness, as if being open were how being closed
+looked from within. 
+
+- Perhaps put final sentence before next part about how
+this is still an argument against being open.
+
+- Need formulation here that links possibility to
+appearance. 
+
+as if our every experience of openness were
+only possible nd make our every experience of openness
+possible only by making it unreal.    be what
+closes us in openness, and makes  not be what opens us in
+openness, but rather what closes us in openness.  
 
 # Part Three {#three}
 
