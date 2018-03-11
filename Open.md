@@ -280,7 +280,7 @@ it.
 But if the self is *not* transcended in the awareness of
 anything else, then it is hard to see how we are truly open
 rather than truly closed. For on this account of awareness,
-it seems that only if the self *enclose* what lies outside
+it seems that only if the self *encloses* what lies outside
 it, can the self be *open* to what lies outside it. And
 we ourselves would then be enclosed in openness, just like
 the parabola, in having selves at all, and as if being open
@@ -289,34 +289,79 @@ were how being closed looked from within.
 # Part Three {#three}
 
 The self, then, gives us a final way to wonder how being
-open is possible. But what if our selfhood makes being open
-impossible? And in the prospect that our selfhood
-makes being open impossible---makes openness, that is, a matter
-of seeming rather than being---we can ask what this would
-mean, if true. But here, I want to suggest, we encounter
-another paradox in openness, to deepen our wonder rather than
-dispell it. 
+open is possible. But *is* it possible? And what is at
+stake in asking this question, in the face of arguments
+against its possibility? In the argument I just gave,
+for example, our selfhood makes being open impossible,
+by making openness a matter of seeming rather than being.
+But suppose openness *were* a matter of seeming rather
+than being. Why is that not openness enough? 
 
-- Need sentence here how we encounter the paradox in
-a different way, which deepens our wonder rather than
-dispell it. 
+To clarify what I mean, consider the following
+passage from a book of philosophy:
 
-To give
-my own answers.   
+> "The world is my representation": this is a truth valid
+with reference to every living and knowing being, although
+man alone can bring it into reflective, abstract
+consciousness. If he really does so, philosophical
+discernment has dawned on him. It then becomes clear and
+certain to him that he does not know a sun and an earth, but
+only an eye that sees a sun, a hand that feels an earth;
+that the world around him is there only as representation,
+in other words, only in reference to another thing, namely
+that which represents, and this is himself.[^WWR]
 
-- Perhaps put final sentence before next part about how
-this is still an argument against being open.
+<!-- Be explicit how eyes represent awareness more
+generally.-->
 
-- Need formulation here that links possibility to
-appearance. 
+On this account, our eyes are not transparent, but opaque;
+we see not through them, but with them; to a world not
+outside us, but inside us, or at least in a relation to us
+that is given rather than gained; a world that is always my
+representation rather than ever a reality apart. 
 
-as if our every experience of openness were
-only possible nd make our every experience of openness
-possible only by making it unreal.    be what
-closes us in openness, and makes  not be what opens us in
-openness, but rather what closes us in openness.  
+And even though this passage begins a book---Schopenhauer's
+*World as Will and Representation*---that is very long,
+indebted to the philosophy of Kant, and not on our program's
+reading list, a moment's reflection might persuade us of its
+account, as the passage itself suggests in making this
+a matter of philosophical discernment. - Perhaps include account of paradox here.
 
-# Part Three {#three}
+one way
+of reading the following
+passage from a book in philosophy, in which philosophical
+reflection itself depe : 
+other words, 
+
+- Is it possible?
+
+- What is at stake in asking this question?
+
+- That is, what is at stake in treating openness as a
+matter of being rather than seeming? 
+
+And in the prospect that our selfhood
+
+makes it impossible---makes openness a matter But *is* it possible? And what is at 
+stake in asking this question, in the face of arguments
+against its possibility? The argument I just gave
+against it, for example, makes being open the way
+being closed is at
+stake in asking this question, if our selfhood made it? 
+
+- selfhood sentence back?
+
+And what is at
+stake in asking this question in the face of arguments
+against its possibility? , if everbeing open were
+indeed the look  looked from within? to
+make of arguments, like the ones I just gave, against
+its possibility? Suppose we could make such arguments
+irrefutable. Should we then be persuaded by them? Or merely
+provoked by them? That is, are find them persuasive?  we could Should we find them persuasive or
+merely provocative? ,
+as if to dispel our wonder at the word "open"? Or merely
+provocative, 
 
 - There are two ways to take the above arguments.
 
@@ -437,32 +482,6 @@ thoughtfully about our eyes, and about our relation to the
 world through awareness more generally, we might say
 something more like this: 
 
-> "The world is my representation": this is a truth valid
-with reference to every living and knowing being, although
-man alone can bring it into reflective, abstract
-consciousness. If he really does so, philosophical
-discernment has dawned on him. It then becomes clear and
-certain to him that he does not know a sun and an earth, but
-only an eye that sees a sun, a hand that feels an earth;
-that the world around him is there only as representation,
-in other words, only in reference to another thing, namely
-that which represents, and this is himself.[^WWR]
-
-<!-- Be explicit how eyes represent awareness more
-generally.-->
-
-On this account, our eyes are not transparent, but opaque;
-we see not through them, but with them; to a world not
-outside us, but inside us, or at least in a relation to us
-that is given rather than gained; a world that is always my
-representation rather than ever a reality apart. 
-
-And even though this passage begins a book---Schopenhauer's
-*World as Will and Representation*---that is very long,
-indebted to the philosophy of Kant, and not on our program's
-reading list, a moment's reflection might persuade us of its
-account, as the passage itself suggests in making this
-a matter of philosophical discernment. - Perhaps include account of paradox here.
 
 - While awareness puts us outside ourselves, self-awarness
 draws us back inside ourselves. 
