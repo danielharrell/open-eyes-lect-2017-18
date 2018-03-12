@@ -297,8 +297,9 @@ by making openness a matter of seeming rather than being.
 But suppose openness *were* a matter of seeming rather
 than being. Why is that not openness enough? 
 
-To clarify what I mean, consider the following
-passage from a book of philosophy:
+To clarify what I mean, consider how the philosopher
+Schopenhauer begins his book, *The World as Will
+and Representation*:
 
 > "The world is my representation": this is a truth valid
 with reference to every living and knowing being, although
@@ -311,37 +312,23 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-- Perhaps start by mentioning the book more explicitly.
-    - The book is Schopenhauer's *World as Will and
-      Representation*---that is very long, indebted to the
-      philosophy of Kant, and not on our program's reading
-      list.
+- Perhaps order here should be: this is a passage that
+describes the dawning of philosophical discernment, that is,
+the origin of awareness. But this discernment is that
+we are enclosed in openness. 
 
-- Schopenhauer here offers a memorable description of what it
-means to be enclosed in openness. 
+- First conclusion: this is a description of being
+enclosed in openness. 
 
-- This is a description of being enclosed in openness.
-   - Mention eyes being opaque rather than transparent.
-   - On this account, our eyes are not transparent, but
-     opaque; we see not through them, but with them; to
-     a world not outside us, but inside us, or at least in
-     a relation to us that is given rather than gained;
-     a world that is always my representation rather than
-     ever a reality apart. 
-   - From earlier draft: Think again of how we say our eyes
-     are open when we are awake, which captures how we seem
-     to see *through* our eyes, as if they were transparent,
-     to a whole world outside us. But this is also again to
-     speak figuratively, and perhaps somewhat thoughtlessly.
-     For how can eyes be transparent if they have color? Or
-     be open if they can be poked, injured, even blinded? If
-     we spoke more thoughtfully about our eyes, and about
-     our relation to the world through awareness more
-     generally, we might say something more like this: 
+- We can use our earlier account of eyes to show this.
 
+- Eyes, on this account, are not transparent, but opaque; we
+  see not through them, but with them; to a world not
+  outside us, but inside us, or at least in a relation to us
+  that is given rather than gained; a world that is always
+  my representation rather than ever a reality apart. 
 
-
-- But it makes philosophical reflection, or a certain
+- Second conclusion: philosophical reflection, or the deepest
 kind of awareness, depend on being enclosed in openness.
 
 - Move from here to philosophy being borne of questioning
@@ -717,4 +704,17 @@ sense, it seems, I would *contain* you in my point of view,
 as if my openness to you were a matter of enclosing you; and
 as if we were both, more generally, enclosed in openness,
 much like a parabola, and perhaps even more like a circle. 
+
+From earlier draft: Think again of how we say our eyes are
+open when we are awake, which captures how we seem to see
+*through* our eyes, as if they were transparent, to a whole
+world outside us. But this is also again to speak
+figuratively, and perhaps somewhat thoughtlessly. For how
+can eyes be transparent if they have color? Or be open if
+they can be poked, injured, even blinded? If we spoke more
+thoughtfully about our eyes, and about our relation to the
+world through awareness more generally, we might say
+something more like this: 
+
+
 
