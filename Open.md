@@ -317,6 +317,9 @@ that which represents, and this is himself.[^WWR]
       philosophy of Kant, and not on our program's reading
       list.
 
+- Schopenhauer here offers a memorable description of what it
+means to be enclosed in openness. 
+
 - This is a description of being enclosed in openness.
    - Mention eyes being opaque rather than transparent.
    - On this account, our eyes are not transparent, but
@@ -325,6 +328,18 @@ that which represents, and this is himself.[^WWR]
      a relation to us that is given rather than gained;
      a world that is always my representation rather than
      ever a reality apart. 
+   - From earlier draft: Think again of how we say our eyes
+     are open when we are awake, which captures how we seem
+     to see *through* our eyes, as if they were transparent,
+     to a whole world outside us. But this is also again to
+     speak figuratively, and perhaps somewhat thoughtlessly.
+     For how can eyes be transparent if they have color? Or
+     be open if they can be poked, injured, even blinded? If
+     we spoke more thoughtfully about our eyes, and about
+     our relation to the world through awareness more
+     generally, we might say something more like this: 
+
+
 
 - But it makes philosophical reflection, or a certain
 kind of awareness, depend on being enclosed in openness.
@@ -332,152 +347,7 @@ kind of awareness, depend on being enclosed in openness.
 - Move from here to philosophy being borne of questioning
 this point of view: how things seem vs how things are.
 
-- Conclusion: philosophical reflection, and
-therefore liberation, depends on
-being closed. 
-
-- Wolff quote.
-
-- Conclusion: liberation depends on being open.
-
-Then turn to Middlemarch:
-
-- Dorothea/Causabon quote.
-
-- Conclusion: being good depends on being closed.
-
-- Causabon quote.
-
-- Conclusion: being good depends on being open.
-
-Then move on to part four.
-
-
-
-- On one hand, philosophical reflection; on other hand,
-trapped in transparent cage.
-
-- Maybe make next part about self-transcendence.
-
-- Then move onto the Wolff quote: frame it as an account
-that can unsettle even if we do know things the way they are.
-
-- Compare transparent cage in this quote with Platonic cave.
-
-- How to connect this to Middlemarch and self-transcendence?
-
-as if I became you, or found
-myself sitting next to you. 
-
-- put podium and point of view here
-
-
-For example, consider this description of our
-openness, from a recent book in philosophy by Francis
-Wolff: 
-> Everything is inside because in order to think anything
-whatsoever, it is necessary to ‘be able to be conscious of
-it’, it is necessary to say it, and so we are locked up in
-language or in consciousness without being able to get out.
-In this sense, they have no outside. But in another sense,
-they are entirely turned towards the outside; they are the
-world’s window: for to be conscious is always to be
-conscious of something, to speak is necessarily to speak
-about something. To be conscious of the tree is to be
-conscious of the tree itself, and not the idea of the tree;
-to speak about the tree is not just to utter a word but to
-speak about the thing. Consequently, consciousness and
-language enclose the world within themselves only insofar
-as, conversely, they are entirely contained by it. We are in
-consciousness or language as in a transparent cage.
-Everything is outside, yet it is impossible to get
-out.[^Wolff]
-
-What is perhaps most striking in this description is
-how we remain enclosed in language or consciousness even
-if they encompass their objects *as they are*, not merely
-as they seem.
-
-The sense of this predicament, of being enclosed in
-openness, is captured well, I think, in this description by
-Francis Wolff, a contemporary philosopher:
-
-- Use "point of view" paragraph here, along with philosophy,
-to show how this is the resolution usually made, without
-thinking of it as a resolution. Can use Wolff quote after
-this, to show how the paradox still remains, if one is
-truly committed to openness. Philosophical reflection
-sees it as a paradox. Perhaps Middlemarch could also
-be contextualized this way. 
-
-Put Wolff quote here? 
-
-- Pose paradox.
-
-- Word the resolution like the jar and parabola: we
-can keep the inside definite, but only by enclosing 
-ourselves.
-
-- Conclude with how our very selfhood, therefore,
-encloses us in openness.
-
-- Then move on to Schopenhauer quote, as clarifying
-how we bring the outside inside.
-
-Think again of how we say our eyes are open
-when we are awake, which captures how we seem to see
-*through* our eyes, as if they were transparent, to a whole
-world outside us. But this is also again to speak
-figuratively, and perhaps somewhat thoughtlessly. For how
-can eyes be transparent if they have color? Or be open if
-they can be poked, injured, even blinded? If we spoke more
-thoughtfully about our eyes, and about our relation to the
-world through awareness more generally, we might say
-something more like this: 
-
-
-- While awareness puts us outside ourselves, self-awarness
-draws us back inside ourselves. 
-
-- So the account is as evident as the self, which encloses
-us in openness.
-
-Schopenhauer here offers a memorable description of what it
-means to be enclosed in openness. 
-
-Indeed, what if our very selfhood enclosed us in openness?
-For the self poses its own paradox of openness, and perhaps
-its own resolution in closedness. 
-
-This suggestion about our selfhood may sound abstruse, or at
-least abstract. 
-
-- From "familiarity" of Schopenhauer move on to commonplace
-expression: point of view. 
-
-But we have a commonplace expression to
-clarify the suggestion, and make it more concrete, when we
-speak of having *a point of view*. Here at the podium, for
-example, my awareness gives me a point of view on you in the
-audience. And this explains why I can be aware of you
-without becoming you, or at least find myself sitting beside
-you in the audience. For it seems I remain just where I am,
-and what I am, at the point of my point of view. And my
-awareness of you, or of anything else, strictly changes
-nothing in either my place or my identity. But the very idea
-of a point of view comes with a paradox of its own, to
-suggest why having a point of view means being enclosed in
-openness. For how can a view belong to a point? That is, how
-can a whole with many parts belong to that which has no
-part? Perhaps in something like the way
-a circumference belongs to a center. For in that case, my
-awareness of you would not mean that I became you, or
-reached you, but instead that I encompassed you. And in that
-sense, it seems, I would *contain* you in my point of view,
-as if my openness to you were a matter of enclosing you; and
-as if we were both, more generally, enclosed in openness,
-much like a parabola, and perhaps even more like a circle. 
-
+- From earlier drafts:
 If anything, the force of this idea is lost in familiarity.
 But to make it less familiar, think again of those deeper
 moments of speech, where we speak of openness---whether of
@@ -518,6 +388,65 @@ the end of philosophical reflection but a self to embrace,
 since it can never be escaped. We might even make
 philosophical reflection a matter of self-embrace from the
 start. Consider the way one philosopher does this:
+
+- Conclusion: philosophical reflection, and
+therefore liberation, depends on
+being closed. 
+
+- Wolff quote.
+
+- Then move onto the Wolff quote: frame it as an account
+that can unsettle even if we do know things the way they are.
+
+The sense of this predicament, of being enclosed in
+openness, is captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
+
+For example, consider this description of our
+openness, from a recent book in philosophy by Francis
+Wolff: 
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to ‘be able to be conscious of
+it’, it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
+
+- What is perhaps most striking in this description is
+how we remain enclosed in language or consciousness even
+if they encompass their objects *as they are*, not merely
+as they seem.
+
+- Compare transparent cage in this quote with Platonic cave.
+
+- On one hand, philosophical reflection; on other hand,
+trapped in transparent cage.
+
+- Conclusion: liberation depends on being open.
+
+Then turn to Middlemarch (see paragraphs from 
+earlier drafts below)
+
+- Dorothea/Causabon quote.
+
+- Conclusion: being good depends on being closed.
+
+- Causabon quote.
+
+- Conclusion: being good depends on being open.
+
+Then move on to part four.
 
 Nor do we need the arguments of philosophy to reach this
 conclusion. And other ways of reaching it, as they broaden
@@ -581,7 +510,7 @@ being open, in the end, is a way of being closed, despite
 the look otherwise. Or more simply put: being open, truly
 and simply open, is impossible. 
 
-# Part Three {#three}
+- Original part Three division was here.
 
 But *is* it impossible? There is yet another passage in
 *Middlemarch*, I think, to help us raise this question
@@ -765,4 +694,27 @@ entry](https://www.merriam-webster.com/dictionary/open) for
 the word "open"? Or instead to dispel it? That is, should
 we take these arguments against the possibility of openness
 to be persuasive? Or provocative?
+
+- But we have a commonplace expression to
+clarify the suggestion, and make it more concrete, when we
+speak of having *a point of view*. Here at the podium, for
+example, my awareness gives me a point of view on you in the
+audience. And this explains why I can be aware of you
+without becoming you, or at least find myself sitting beside
+you in the audience. For it seems I remain just where I am,
+and what I am, at the point of my point of view. And my
+awareness of you, or of anything else, strictly changes
+nothing in either my place or my identity. But the very idea
+of a point of view comes with a paradox of its own, to
+suggest why having a point of view means being enclosed in
+openness. For how can a view belong to a point? That is, how
+can a whole with many parts belong to that which has no
+part? Perhaps in something like the way
+a circumference belongs to a center. For in that case, my
+awareness of you would not mean that I became you, or
+reached you, but instead that I encompassed you. And in that
+sense, it seems, I would *contain* you in my point of view,
+as if my openness to you were a matter of enclosing you; and
+as if we were both, more generally, enclosed in openness,
+much like a parabola, and perhaps even more like a circle. 
 
