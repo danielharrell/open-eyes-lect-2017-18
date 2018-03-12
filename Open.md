@@ -270,7 +270,7 @@ of view. I would be at the podium, then, as if I were at the
 center of a circumference that you in the audience were
 inside rather than outside. And this is why I would not be
 carried outside myself in my awareness of anything else. For
-instead this awareness would bring the outside inside, and
+instead, this awareness would bring the outside inside, and
 make it mine where I stand, at the point of my point of
 view.  And the self, more generally, would not be
 transcended, but expanded, in the awareness of anything
@@ -311,68 +311,26 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-<!-- Be explicit how eyes represent awareness more
-generally.-->
+- Perhaps start by mentioning the book more explicitly.
+    - The book is Schopenhauer's *World as Will and
+      Representation*---that is very long, indebted to the
+      philosophy of Kant, and not on our program's reading
+      list.
 
-On this account, our eyes are not transparent, but opaque;
-we see not through them, but with them; to a world not
-outside us, but inside us, or at least in a relation to us
-that is given rather than gained; a world that is always my
-representation rather than ever a reality apart. 
+- This is a description of being enclosed in openness.
+   - Mention eyes being opaque rather than transparent.
+   - On this account, our eyes are not transparent, but
+     opaque; we see not through them, but with them; to
+     a world not outside us, but inside us, or at least in
+     a relation to us that is given rather than gained;
+     a world that is always my representation rather than
+     ever a reality apart. 
 
-And even though this passage begins a book---Schopenhauer's
-*World as Will and Representation*---that is very long,
-indebted to the philosophy of Kant, and not on our program's
-reading list, a moment's reflection might persuade us of its
-account, as the passage itself suggests in making this
-a matter of philosophical discernment. - Perhaps include account of paradox here.
+- But it makes philosophical reflection, or a certain
+kind of awareness, depend on being enclosed in openness.
 
-one way
-of reading the following
-passage from a book in philosophy, in which philosophical
-reflection itself depe : 
-other words, 
-
-- Is it possible?
-
-- What is at stake in asking this question?
-
-- That is, what is at stake in treating openness as a
-matter of being rather than seeming? 
-
-And in the prospect that our selfhood
-
-makes it impossible---makes openness a matter But *is* it possible? And what is at 
-stake in asking this question, in the face of arguments
-against its possibility? The argument I just gave
-against it, for example, makes being open the way
-being closed is at
-stake in asking this question, if our selfhood made it? 
-
-- selfhood sentence back?
-
-And what is at
-stake in asking this question in the face of arguments
-against its possibility? , if everbeing open were
-indeed the look  looked from within? to
-make of arguments, like the ones I just gave, against
-its possibility? Suppose we could make such arguments
-irrefutable. Should we then be persuaded by them? Or merely
-provoked by them? That is, are find them persuasive?  we could Should we find them persuasive or
-merely provocative? ,
-as if to dispel our wonder at the word "open"? Or merely
-provocative, 
-
-- There are two ways to take the above arguments.
-
-- Should we take these arguments to deepen our wonder at
-the word "open"? Or instead to dispel it? That is, should
-we take these arguments against the possibility of openness
-to be persuasive? Or provocative?
-
-Rest of part three:
-
-- Schopenhauer quote.
+- Move from here to philosophy being borne of questioning
+this point of view: how things seem vs how things are.
 
 - Conclusion: philosophical reflection, and
 therefore liberation, depends on
@@ -394,12 +352,7 @@ Then turn to Middlemarch:
 
 Then move on to part four.
 
-- Briefly outline arguments in favor and against.
 
-Arguments that openness is impossible.
-
-- Move from here to philosophy being borne of questioning
-this point of view: how things seem vs how things are.
 
 - On one hand, philosophical reflection; on other hand,
 trapped in transparent cage.
@@ -803,3 +756,13 @@ entry](https://www.merriam-webster.com/dictionary/open) for
 "open". 
 
 [^AristotleWonder.]: Put Metphysics reference here.
+
+## Leftovers 
+
+- There are two ways to take the above arguments.
+
+- Should we take these arguments to deepen our wonder at
+the word "open"? Or instead to dispel it? That is, should
+we take these arguments against the possibility of openness
+to be persuasive? Or provocative?
+
