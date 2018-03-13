@@ -304,32 +304,42 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-We can read this as an account of how our being open, in the
-end, depends on our being closed. 
+On this account, we could say we only *seem* to see to see
+through our eyes, as if they were transparent, to a whole
+world outside us. That is, we only seem to be open.
+<!--Perhaps combine last sentence with next one.--> For in
+truth, we are closed. That is, we really see *with* our
+eyes, as if they were opaque, to a world, if not inside us,
+at least in a relation to us that is given rather than
+gained; a world that is always my representation, never
+a reality apart. Or again, the world we are open to if
+openness were a matter of seeming rather than being. Yet to
+recognize this is the dawning of philosophical discernment,
+on Schopenhauer's account. In other words, there is enough
+openness in seeming rather than being, on this account, to
+make knowledge possible; and indeed *the kind* of openness,
+in seeming rather than being, to make such knowledge
+philosophical. 
+
+rather than impossible. know. to be
+delivered to a world that is representation rather than
+reality, through an openness of seeming rather than being,
+is openness ean openness of seeming rather than being, which
+delivers us to a world that is representation rather than
+reality,It is openness enough, in other words, to That is,
+once we recognize that our openness is a matter of seeming
+rather than being, we become truly open only when we see we
+are truly closed, that we are closed, that our openness is
+a matter of seeming rather than being, that the world is
+representation rather than reality, are closed, 
 
 - Maybe use enclosed in openness first.
 
-- Openness of philosophical discernment: recognition that
-we are closed. 
-For there is a kind
-of openness---the dawning of
-philosophical discernment, as Schopenhauer has it---that 
-depends on a kinrecognizing only
-begins dawns , only
-dawns when we realize that our eyes, for example, are
-opaque, not transparent, since we see with them, not through
-them, and to a world not outside us but inside us, or at
-least in a relation to us that is given rather than gained;
-a world that is always my representation, never a reality
-apart. our eyes, on this account, we only *seem* to see
-through our eyes, as if they were transparent, to a whole
-world outside us. In truth we see *with* our eyes, not
-through them,  
+- Also need to keep idea of openness as seeming rather than
+being
 
-- First conclusion: this is a description of being
-enclosed in openness. 
-
-- We can use our earlier account of eyes to show this.
+- Openness of philosophical discernment: recognition of
+this.
 
 - Eyes, on this account, are not transparent, but opaque; we
   see not through them, but with them; to a world not
