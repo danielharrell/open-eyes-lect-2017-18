@@ -241,19 +241,11 @@ This last question invites us to take a second look at
 awareness. For awareness, again, might be the openness most
 our own, comprehending self and other at once. But how? How
 can I ever *be* self and other at once? Or to put the
-paradox in spatial terms, we might say that I am carried
-outside myself in my awareness of anything else, yet also
-kept inside myself since this awareness is mine, and known
-as mine through self-awareness. But how can awareness, then,
-put me inside and outside at once? Or carry me from one to
-the other, as if the two were continuous; yet keep me in one
-rather than the other, as if the two were discontinuous? And
-how could I be kept inside myself without closing myself,
-making openness impossible? Or carried outside myself
-without losing myself, again making openness impossible? 
+paradox in spatial terms, how can I be inside myself and
+outside myself at once?  
 
-To resolve the paradox, we might suppose that I am not
-really carried outside myself in my awareness of anything
+To resolve the paradox, we might suppose I am not
+really outside myself in my awareness of anything
 else. <!--Perhaps later refer back to this paradox, and
 resolve it the other way.--> Here at the podium, for
 example, I am aware of you---all of you---in the audience,
@@ -269,8 +261,8 @@ you. Or as we do sometimes say: to *include* you in my point
 of view. I would be at the podium, then, as if I were at the
 center of a circumference that you in the audience were
 inside rather than outside. And this is why I would not be
-carried outside myself in my awareness of anything else. For
-instead, this awareness would bring the outside inside, and
+carried outside myself in my awareness of anything else. 
+Instead, this awareness would bring the outside inside, and
 make it mine where I stand, at the point of my point of
 view.  And the self, more generally, would not be
 transcended, but expanded, in the awareness of anything
@@ -312,10 +304,27 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-- Perhaps order here should be: this is a passage that
-describes the dawning of philosophical discernment, that is,
-the origin of awareness. But this discernment is that
-we are enclosed in openness. 
+We can read this as an account of how our being open, in the
+end, depends on our being closed. 
+
+- Maybe use enclosed in openness first.
+
+- Openness of philosophical discernment: recognition that
+we are closed. 
+For there is a kind
+of openness---the dawning of
+philosophical discernment, as Schopenhauer has it---that 
+depends on a kinrecognizing only
+begins dawns , only
+dawns when we realize that our eyes, for example, are
+opaque, not transparent, since we see with them, not through
+them, and to a world not outside us but inside us, or at
+least in a relation to us that is given rather than gained;
+a world that is always my representation, never a reality
+apart. our eyes, on this account, we only *seem* to see
+through our eyes, as if they were transparent, to a whole
+world outside us. In truth we see *with* our eyes, not
+through them,  
 
 - First conclusion: this is a description of being
 enclosed in openness. 
@@ -716,5 +725,14 @@ thoughtfully about our eyes, and about our relation to the
 world through awareness more generally, we might say
 something more like this: 
 
-
+- From earlier draft: we might say that I am carried
+outside myself in my awareness of anything else, yet also
+kept inside myself since this awareness is mine, and known
+as mine through self-awareness. But how can awareness, then,
+put me inside and outside at once? Or carry me from one to
+the other, as if the two were continuous; yet keep me in one
+rather than the other, as if the two were discontinuous? And
+how could I be kept inside myself without closing myself,
+making openness impossible? Or carried outside myself
+without losing myself, again making openness impossible? 
 
