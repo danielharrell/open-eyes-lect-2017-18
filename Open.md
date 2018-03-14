@@ -241,7 +241,7 @@ This last question invites us to take a second look at
 awareness. For awareness, again, might be the openness most
 our own, comprehending self and other at once. But how? How
 can I ever *be* self and other at once? Or to put the
-paradox in spatial terms, how can I be inside myself and
+paradox in spatial terms: how can I be inside myself and
 outside myself at once?  
 
 To resolve the paradox, we might suppose I am not
@@ -262,7 +262,7 @@ of view. I would be at the podium, then, as if I were at the
 center of a circumference that you in the audience were
 inside rather than outside. And this is why I would not be
 carried outside myself in my awareness of anything else. 
-Instead, this awareness would bring the outside inside, and
+For instead, this awareness would bring the outside inside, and
 make it mine where I stand, at the point of my point of
 view.  And the self, more generally, would not be
 transcended, but expanded, in the awareness of anything
@@ -304,48 +304,71 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-On this account, we could say we only *seem* to see to see
-through our eyes, as if they were transparent, to a whole
-world outside us. That is, we only seem to be open.
-<!--Perhaps combine last sentence with next one.--> For in
-truth, we are closed. That is, we really see *with* our
-eyes, as if they were opaque, to a world, if not inside us,
-at least in a relation to us that is given rather than
-gained; a world that is always my representation, never
-a reality apart. Or again, the world we are open to if
-openness were a matter of seeming rather than being. Yet to
-recognize this is the dawning of philosophical discernment,
-on Schopenhauer's account. In other words, there is enough
-openness in seeming rather than being, on this account, to
-make knowledge possible; and indeed *the kind* of openness,
-in seeming rather than being, to make such knowledge
-philosophical. 
+On this account, we could say that we only *seem* to know
+a sun and an earth. Or to borrow from an earlier
+formulation: we only seem to see through our eyes, as if
+they were transparent, to a whole world outside us. That is,
+we only seem to be open. <!--Perhaps combine last sentence
+with next one.--> For in truth, we are closed. Or again:
+enclosed in openness. For what we really know, on this
+account, is an eye that sees a sun, a hand that feels an
+earth. Or to modify our earlier formulation: we really see
+*with* our eyes, as if they were opaque, to a world, if not
+inside us, then at least in a relation to us that is given
+rather than gained; a world that is always my
+representation, never a reality apart. This is the world we
+are open to, in other words, if openness were a matter of
+seeming rather than being. Yet to recognize this, on
+Schopenhauer's account, is the dawning of philosophical
+discernment. In other words, there is enough openness in
+seeming rather than being, on this account, to make
+knowledge possible. And *because* this openness lies in seeming
+rather than being, the knowledge possible is philosophical.
 
-rather than impossible. know. to be
-delivered to a world that is representation rather than
-reality, through an openness of seeming rather than being,
-is openness ean openness of seeming rather than being, which
-delivers us to a world that is representation rather than
-reality,It is openness enough, in other words, to That is,
-once we recognize that our openness is a matter of seeming
-rather than being, we become truly open only when we see we
-are truly closed, that we are closed, that our openness is
-a matter of seeming rather than being, that the world is
-representation rather than reality, are closed, 
+Or to put this conclusion in a way that transcends the
+passage from Schopenhauer, we could say that if we were
+truly open, simply open, then there would be no seeming, only
+being. We would see things always as they are. (We would be
+blind to all the things that make us human, and make us know
+we are human.) But this,
+we might infer, is to see how a god sees, not how *we* see. For
+us, there is always seeming, never simply being. ; and we see
 
-- Maybe use enclosed in openness first.
 
-- Also need to keep idea of openness as seeming rather than
-being
+There would be no recognition of opinion, or perception,
+or impression. 
 
-- Openness of philosophical discernment: recognition of
-this.
+things always as they seem, leaving aside how they are. what we see is always how things seem, To see
+them otherwise, not as they are but as they seem, this openness,
+then, would seem to make philosophical knowledge unneeded, , where every
+perception gave us knowledge, eg, . And our knowledge
+in that case would be divine rather than human, And what need,
+in that case, would we have for any reflection on what we saw. and nothing
+would then be a matter of opinion, or perception, need, then, for further reflection, as if
+we were divine. from no point of view, in a transcendence of self that
+either made us what we saw or proved that we, . , or they are
+in themselves, as if from no point of view. (Continue from
+here.)
 
-- Eyes, on this account, are not transparent, but opaque; we
-  see not through them, but with them; to a world not
-  outside us, but inside us, or at least in a relation to us
-  that is given rather than gained; a world that is always
-  my representation rather than ever a reality apart. 
+- Check earlier formulation of openness as seeming rather
+than being; see if I can re-write this more clearly.
+
+- To know philosophically, on this account, is to know the
+difference between seeming and being. If we were truly open,
+we would be divine, not human.
+
+- Look up more ways of formulating this on Things app for
+stuff below.
+
+- What we see of the world is perception, and what we say of
+it opinion.
+
+- Other ways to speak of this:
+    - Opinion in Socrates
+    - Ideas in Descartes
+    - Impressions in Hume
+    - Representation in Kant
+    - Language in Wittgenstein
 
 - Second conclusion: philosophical reflection, or the deepest
 kind of awareness, depend on being enclosed in openness.
@@ -353,26 +376,9 @@ kind of awareness, depend on being enclosed in openness.
 - Move from here to philosophy being borne of questioning
 this point of view: how things seem vs how things are.
 
-- From earlier drafts:
-If anything, the force of this idea is lost in familiarity.
-But to make it less familiar, think again of those deeper
-moments of speech, where we speak of openness---whether of
-eyes, or arms, or mind, or heart--as if it were a state of
-being. We can think in turn of rarer moments in life that
-justify such speech, where we might want to say that
-something *can* change, or *has* changed, in our place or
-identity. We could think of these as moments of otherness
-that most reveal our openness. Still, it seems easier to
-suppose that such moments have done something *to* our point
-of view---moved it, altered it, enlarged it, deepened
-it---than to suppose they have more simply erased it, or
-denied it, or refuted the very idea of it. In other words,
-it is easier to suppose that the self might be
-transformed, than to suppose that the self could ever be
-transcended. But why should this be easier, unless the self
-stayed intact enough, or closed enough, to make the
-otherness in openness seem a property of self rather than
-a negation of self? 
+- In other words, it is easier to suppose that the self
+  might be transformed, than to suppose that the self could
+  ever be transcended. 
 
 We can find still more support for this idea in the merest
 philosophical reflection. For in this context, the merest
@@ -745,4 +751,46 @@ rather than the other, as if the two were discontinuous? And
 how could I be kept inside myself without closing myself,
 making openness impossible? Or carried outside myself
 without losing myself, again making openness impossible? 
+
+- From earlier drafts:
+If anything, the force of this idea is lost in familiarity.
+But to make it less familiar, think again of those deeper
+moments of speech, where we speak of openness---whether of
+eyes, or arms, or mind, or heart--as if it were a state of
+being. We can think in turn of rarer moments in life that
+justify such speech, where we might want to say that
+something *can* change, or *has* changed, in our place or
+identity. We could think of these as moments of otherness
+that most reveal our openness. Still, it seems easier to
+suppose that such moments have done something *to* our point
+of view---moved it, altered it, enlarged it, deepened
+it---than to suppose they have more simply erased it, or
+denied it, or refuted the very idea of it. In other words,
+it is easier to suppose that the self might be
+transformed, than to suppose that the self could ever be
+transcended. But why should this be easier, unless the self
+stayed intact enough, or closed enough, to make the
+otherness in openness seem a property of self rather than
+a negation of self? 
+
+We can find still more support for this idea in the merest
+philosophical reflection. For in this context, the merest
+such reflection might be that our point of view *is* a point
+of view. And if we recognize this, it becomes possible to
+question our point of view, or doubt it, or even want to
+overcome it, as if we might someday see things from *no*
+point of view. See them, that is, as they truly are; as they
+are in themselves; as they are *outside* any point of view,
+no matter how encompassing. Yet how could we see at all,
+without a point of view?  Or ever see beyond it, if seeing
+any distance requires it? And if the self in this sense can
+never be relinquished, or renounced, what is left but
+reconciliation? The self-knowledge of Socratic ignorance? 
+The self-certainty of Cartesian doubt? The transcendental
+self of Kantian critique? Or the absolute self of Hegelian
+dialectic? It can start to seem as if there is nothing at
+the end of philosophical reflection but a self to embrace,
+since it can never be escaped. We might even make
+philosophical reflection a matter of self-embrace from the
+start. Consider the way one philosopher does this:
 
