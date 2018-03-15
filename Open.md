@@ -307,8 +307,8 @@ that which represents, and this is himself.[^WWR]
 On this account, we could say that we only *seem* to know
 a sun and an earth. Or to borrow from an earlier
 formulation: we only seem to see through our eyes, as if
-they were transparent, to a whole world outside us. That is,
-we only seem to be open. <!--Perhaps combine last sentence
+they were transparent, to a whole world outside us. 
+We only seem, in sum, to be open. <!--Perhaps combine last sentence
 with next one.--> For in truth, we are closed. Or again:
 enclosed in openness. For what we really know, on this
 account, is an eye that sees a sun, a hand that feels an
@@ -328,12 +328,18 @@ rather than being, the knowledge possible is philosophical.
 Or to put this conclusion in a way that transcends the
 passage from Schopenhauer, we could say that if we were
 truly open, simply open, then there would be no seeming, only
-being. We would see things always as they are. (We would be
-blind to all the things that make us human, and make us know
-we are human.) But this,
+being. We would see things always as they are.  But this,
 we might infer, is to see how a god sees, not how *we* see. For
-us, there is always seeming, never simply being. ; and we see
-
+us, there is no way to see things as they are, except through
+how they seem, even if how they seem *is* how they are. In this
+sense, there is no escape from a world delivered to us (revise from here) and in light of a question, more or less perpetual,
+whether how they seem is how they are. (perhaps indicate here how "representation" is
+only one word for this whether this seeming , there is always seeming, never simply being. And to
+see things as they are, Even if
+we saw things as they are, it would be in light ; and we see
+(We would be
+blind to all the things that make us human, and make us know
+we are human.)
 
 There would be no recognition of opinion, or perception,
 or impression. 
