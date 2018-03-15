@@ -325,14 +325,32 @@ seeming rather than being, on this account, to make
 knowledge possible. And *because* this openness lies in seeming
 rather than being, the knowledge possible is philosophical.
 
-Or to put this conclusion in a way that transcends the
+Or to put this conclusion in a way that generalizes the
 passage from Schopenhauer, we could say that if we were
-truly open, simply open, then there would be no seeming, only
-being. We would see things always as they are.  But this,
-we might infer, is to see how a god sees, not how *we* see. For
-us, there is no way to see things as they are, except through
-how they seem, even if how they seem *is* how they are. In this
-sense, there is no escape from a world delivered to us (revise from here) and in light of a question, more or less perpetual,
+truly open, simply open, then there would be no seeming,
+only being. We would see things always as they are.  But
+this, we might suppose, is how a god sees, not how *we* see.
+For in our case, the human case, there is no way to see
+things as they are, except through how they seem, even if
+how they seem *is* how they are. To call the world my
+representation is one way of recognizing this; but philosophical
+discernment has other ways, and other words besides
+"representation". Such as "opinion", "perception", "impression",
+"image", "idea". And in this sense, the world is always with
+us, something
+related to me, never
+apart from me, or wholly outside me. is always always something
+seen or said, For in the same sense the world
+is my representation To see, to speak, to think about the worldconsider everything we see
+a perception, or impression, *before* we : (revise from here with the other
+ways, like opinion, perception, impression,  
+
+the world must always have a relation to me before
+it can havemy representation before it can
+be And to Schopenhauer's
+own way of putting this point, that the world is always my representation,
+is just one way. in this
+sense, the world is always my representation,  the only route to being there is no route to being except through seeming; there is no escapea world that must *appear* to us (revise from here) and in light of a question, more or less perpetual,
 whether how they seem is how they are. (perhaps indicate here how "representation" is
 only one word for this whether this seeming , there is always seeming, never simply being. And to
 see things as they are, Even if
