@@ -336,17 +336,28 @@ things as they are, except through how they seem, even if
 how they seem *is* how they are. To call the world my
 representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation".  Such as 
-"perception", "impression", "image", "idea". Or in another
+besides "representation".  
+Such as "perception", "impression", "image", "idea". Or in another
 direction, "opinion", "claim", "account". 
 
 What could any such word mean if we were simply open? Why
-should any such word exist, unless there were something in
-what we see, or think, or say of the world, that makes it
-indeed *of* the world about* the world, as if to surround the world,
-rather than *be* the world? encompass rather than prior to, different from, the world itself,
-the world as such, the world as it is even if there were no
-one to see it or think it or speak of it? That there is
+should any such word exist, unless there were more, in
+our openness to the world, than the world? Perhaps put
+self here. Something, 
+in what we see, or think,
+or say of the world, that belonged not to the world but to sight, or thought, or speech, is not simplyid of the world, there were something in
+our openness to the world, and in what we see, or think, or
+say of the world, that makes it distinct from the world even
+if true of the world.
+
+- Above issue: need a way to clearly describe how "perception
+of the world", for example, at the same time indicates openness
+and closedness. , and distinct enough not just to
+notice, indeed *of* the world about* the world, as if to
+surround the world, rather than *be* the world? encompass
+rather than prior to, different from, the world itself, the
+world as such, the world as it is even if there were no one
+to see it or think it or speak of it? That there is
 a difference, and that we notice it, we use them at all is
 a sign of our openness our selfhood encloses us in openness. 
 
