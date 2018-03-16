@@ -307,8 +307,8 @@ that which represents, and this is himself.[^WWR]
 On this account, we could say that we only *seem* to know
 a sun and an earth. Or to borrow from an earlier
 formulation: we only seem to see through our eyes, as if
-they were transparent, to a whole world outside us. 
-We only seem, in sum, to be open. <!--Perhaps combine last sentence
+they were transparent, to a whole world outside us. We only
+seem, in sum, to be open. <!--Perhaps combine last sentence
 with next one.--> For in truth, we are closed. Or again:
 enclosed in openness. For what we really know, on this
 account, is an eye that sees a sun, a hand that feels an
@@ -322,27 +322,44 @@ seeming rather than being. Yet to recognize this, on
 Schopenhauer's account, is the dawning of philosophical
 discernment. In other words, there is enough openness in
 seeming rather than being, on this account, to make
-knowledge possible. And *because* this openness lies in seeming
-rather than being, the knowledge possible is philosophical.
+knowledge possible, and the *kind* of openness, in seeming
+rather than being, to make the knowledge possible
+philosophical.
 
-Or to put this conclusion in a way that generalizes the
-passage from Schopenhauer, we could say that if we were
+Or to put this conclusion in a way that generalizes on the
+passage from Schopenhauer: we could say that if we were
 truly open, simply open, then there would be no seeming,
-only being. We would see things always as they are.  But
+only being. We would see things always as they are. But
 this, we might suppose, is how a god sees, not how *we* see.
-For in our case, the human case, there is no way to see
+In our case, the human case, there is no way to see
 things as they are, except through how they seem, even if
 how they seem *is* how they are. To call the world my
-representation is one way of recognizing this; but philosophical
-discernment has other ways, and other words besides
-"representation". Such as "opinion", "perception", "impression",
-"image", "idea". And in this sense, the world is always with
-us, something
-related to me, never
-apart from me, or wholly outside me. is always always something
-seen or said, For in the same sense the world
-is my representation To see, to speak, to think about the worldconsider everything we see
-a perception, or impression, *before* we : (revise from here with the other
+representation is one way of recognizing this. But
+philosophical discernment has other ways, and other words
+besides "representation".  Such as 
+"perception", "impression", "image", "idea". Or in another
+direction, "opinion", "claim", "account". 
+
+What could any such word mean if we were simply open? Why
+should any such word exist, unless there were something in
+what we see, or think, or say of the world, that makes it
+indeed *of* the world about* the world, as if to surround the world,
+rather than *be* the world? encompass rather than prior to, different from, the world itself,
+the world as such, the world as it is even if there were no
+one to see it or think it or speak of it? That there is
+a difference, and that we notice it, we use them at all is
+a sign of our openness our selfhood encloses us in openness. 
+
+- From here, mention how such words only name something
+we see if we are indeed enclosed in openness. This is what
+makes philosophy possible.
+
+And in this sense, the world is always with us, something
+related to me, never apart from me, or wholly outside me. is
+always always something seen or said, For in the same sense
+the world is my representation To see, to speak, to think
+about the worldconsider everything we see a perception, or
+impression, *before* we : (revise from here with the other
 ways, like opinion, perception, impression,  
 
 the world must always have a relation to me before
