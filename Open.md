@@ -280,12 +280,22 @@ were how being closed looked from within.
 
 # Part Three {#three}
 
+- Should recast this part so it emphasizes not the 
+distinction between being and seeming, but instead the
+distinction between openness and mineness (? How to think
+about this?)
+
 The self, then, gives us a final way to wonder how being
 open is possible. But *is* it possible? And what is at
 stake in asking this question, in the face of arguments
 against its possibility? In the argument I just gave,
 for example, our selfhood makes being open impossible,
-by making openness a matter of seeming rather than being.
+by enclosing us in openness. seeming rather than being,
+or being for us rather than being in itself.
+,
+or being always for us, never being in itself. 
+;
+that
 But suppose openness *were* a matter of seeming rather
 than being. Why is that not openness enough? 
 
@@ -322,7 +332,7 @@ seeming rather than being. Yet to recognize this, on
 Schopenhauer's account, is the dawning of philosophical
 discernment. In other words, there is enough openness in
 seeming rather than being, on this account, to make
-knowledge possible, and the *kind* of openness, in seeming
+knowledge possible; and the *kind* of openness, in seeming
 rather than being, to make the knowledge possible
 philosophical.
 
@@ -337,9 +347,11 @@ how they seem *is* how they are. To call the world my
 representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
 besides "representation".  
-Such as "perception", "impression", "image", "idea". Or in another
-direction, "opinion", "claim", "account". 
+"Perception", "impression", "image", "idea". Or in another
+direction: "opinion", "claim", "account". 
 
+Every such word points at once to the world and to the
+self 
 What could any such word mean if we were simply open? Why
 should any such word exist, unless there were more, in
 our openness to the world, than the world? Perhaps put
