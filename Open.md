@@ -286,11 +286,11 @@ open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
 our own openness becomes a matter of seeming, not being, as
-our selfhood encloses us in openness. We might say we remain
-open to what is, on this account, but our selfhood makes it
-always what is *for us*. But suppose it *is* always for us,
-and our openness in this sense *is* a matter of seeming, not
-being. Why is that not openness enough?
+our selfhood encloses us in openness. On this account, we
+might say we remain open to what is, but our selfhood makes
+it always what is *for us*. But suppose it *is* always for
+us, and our openness in this sense *is* a matter of seeming,
+not being. Why is that not openness enough?
 
 To clarify what I mean, consider how the philosopher
 Schopenhauer begins his book, *The World as Will
@@ -307,31 +307,54 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-On this account, we might infer that if we were truly open,
-we would know a sun and an earth. But because we are truly
-closed, or again enclosed in openness, we only know an eye
+In light of this passage, we might infer if I knew a sun and
+an earth, then I would be truly open. But because I am truly
+closed, or again enclosed in openness, I only know an eye
 that sees a sun, a hand that feels an earth. The world is
-never a reality apart, but always my representation, or
-again a matter of seeming rather than being. Yet to
-recognize this, on Schopenhauer's account, is the dawning of
+always my representation, never a reality apart; or again,
+a matter of seeming rather than being. Yet to recognize
+this, on Schopenhauer's account, is the dawning of
 philosophical discernment. In other words, there is enough
-openness even when enclosed, or enough substance in seeming,
-to make knowledge possible, and indeed to make it
-philosophical.
+openness even when enclosed, enough substance in seeming,
+to make knowledge possible; and the knowledge possible
+is philosophical.
 
-And we can generalize on Schopenhauer's claim. For if we
+And we can generalize on Schopenhauer's account. For if we
 were truly open, we might infer, then there would be no
-seeming, only being. We would see things always as they are,
-never as they seem. But this, we could say, is how a god
+seeming, only being. We would see things always as they are.
+But this, we could say, is how a god
 sees, not how *we* see. In our case, the human case, the
-case of a self enclosed, then, in openness, there is no way
-to see things as they are, except through how they seem,
-even if how they seem *is* how they are. To call the world
-my representation is one way of recognizing this. But
-philosophical discernment has other ways, and other words
-besides "representation". Such as "perception", "impression",
-"image", "idea". Or in another direction: "opinion",
-"claim", "account". 
+case of an openness enclosed in selfhood, there is no way to
+see things as they are, except through how they seem. To
+call the world my representation is one way of recognizing
+this. But philosophical discernment has other ways, and
+other words besides "representation". Such as "perception",
+"impression", "image", "idea". Or in another direction:
+"opinion", "claim", "account". Every such word can be heard,
+or read, or said, as a kind of proof that there is no way
+for us to know what is *not* us, what is *other* than us,
+except in relation to us. Or again no way to know how things
+are, except through how they seem. Yet to know this is still
+to know; and philosophical discernment has tread more than
+one path to knowledge in this sense, in more than one mood,
+with more than one answer to the question Can we reach how
+things are through how they seem?  are the way things
+seem the way they are? *are* things how
+they seem? how things
+seem, how they are. and in a kind of family quarrel over whether the way things
+seem *is* the way they are. But every such path The self-knowledge of Socratic ignorance. The
+self-certainty of Cartesian doubt. ? The transcendental self
+of Kantian critique? Or the absolute self of Hegelian
+dialectic?   
+
+philosophical discernment has more than one
+path to such knowledge. 
+
+knowledge, , in anything we see or say of the world,
+in which No such word can stand alone,
+as if it named something in the world; yet reflects
+a self-recognition: there is no way
+to see things apart from us, except in relation to us.  
 
 Every such word points at once to the world and to the
 self 
@@ -439,10 +462,7 @@ no matter how encompassing. Yet how could we see at all,
 without a point of view?  Or ever see beyond it, if seeing
 any distance requires it? And if the self in this sense can
 never be relinquished, or renounced, what is left but
-reconciliation? The self-knowledge of Socratic ignorance? 
-The self-certainty of Cartesian doubt? The transcendental
-self of Kantian critique? Or the absolute self of Hegelian
-dialectic? It can start to seem as if there is nothing at
+reconciliation? It can start to seem as if there is nothing at
 the end of philosophical reflection but a self to embrace,
 since it can never be escaped. We might even make
 philosophical reflection a matter of self-embrace from the
