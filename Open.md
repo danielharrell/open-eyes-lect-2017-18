@@ -285,11 +285,12 @@ The self, then, gives us a final way to wonder how being
 open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
-our selfhood encloses us in openness, again as if being open
-were the way being closed looked from within. Or again as if
-openness had no being but seeming. But suppose openness
-*were* a matter of seeming rather than being. Why is that
-not openness enough? 
+our own openness becomes a matter of seeming, not being, as
+our selfhood encloses us in openness. We might say we remain
+open to what is, on this account, but our selfhood makes it
+always what is *for us*. But suppose it *is* always for us,
+and our openness in this sense *is* a matter of seeming, not
+being. Why is that not openness enough?
 
 To clarify what I mean, consider how the philosopher
 Schopenhauer begins his book, *The World as Will
@@ -306,29 +307,29 @@ that the world around him is there only as representation,
 in other words, only in reference to another thing, namely
 that which represents, and this is himself.[^WWR]
 
-If we were truly open, on this account, we would know a sun
-and an earth. But because we are truly closed, or again
-enclosed in openness, we only know an eye that sees a sun,
-a hand that feels an earth. The world is never a reality
-apart, but always my representation, again as if openness
-had no being but seeming. Yet to recognize this, on
-Schopenhauer's account, is the dawning of philosophical
-discernment. In other words, there is enough openness even
-when enclosed, or enough substance in seeming, 
-to make knowledge possible, and indeed
-to make it philosophical.
+On this account, we might infer that if we were truly open,
+we would know a sun and an earth. But because we are truly
+closed, or again enclosed in openness, we only know an eye
+that sees a sun, a hand that feels an earth. The world is
+never a reality apart, but always my representation, or
+again a matter of seeming rather than being. Yet to
+recognize this, on Schopenhauer's account, is the dawning of
+philosophical discernment. In other words, there is enough
+openness even when enclosed, or enough substance in seeming,
+to make knowledge possible, and indeed to make it
+philosophical.
 
 And we can generalize on Schopenhauer's claim. For if we
-were truly open, simply open, then there would be no
+were truly open, we might infer, then there would be no
 seeming, only being. We would see things always as they are,
-never as they seem. But this, we might suppose, is how a god
+never as they seem. But this, we could say, is how a god
 sees, not how *we* see. In our case, the human case, the
 case of a self enclosed, then, in openness, there is no way
 to see things as they are, except through how they seem,
 even if how they seem *is* how they are. To call the world
 my representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation". Such as "Perception", "impression",
+besides "representation". Such as "perception", "impression",
 "image", "idea". Or in another direction: "opinion",
 "claim", "account". 
 
