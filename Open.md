@@ -285,12 +285,14 @@ The self, then, gives us a final way to wonder how being
 open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
-our own openness becomes a matter of seeming, not being, as
-our selfhood encloses us in openness. On this account, we
-might say we remain open to what is, but our selfhood makes
-it always what is *for us*. But suppose it *is* always for
-us, and our openness in this sense *is* a matter of seeming,
-not being. Why is that not openness enough?
+being open is impossible for us, since our selfhood encloses
+us in openness, and makes it a matter of seeming, not being.
+We remain open to what there is beyond us, but only as it
+can become something *for us*, and in this relation to us, is
+now an appearance, not just a reality. But suppose our
+openness, then, *were* a matter of appearance rather than
+reality, or seeming rather than being. Why is that not
+openness enough?
 
 To clarify what I mean, consider how the philosopher
 Schopenhauer begins his book, *The World as Will
@@ -311,15 +313,15 @@ In light of this passage, we might infer if I knew a sun and
 an earth, then I would be truly open. But because I am truly
 closed, or again enclosed in openness, I only know an eye
 that sees a sun, a hand that feels an earth. The world is
-always my representation, never a reality apart; or again,
+always my representation, never a reality apart. Or again,
 a matter of seeming rather than being. Yet to recognize
 this, on Schopenhauer's account, is the dawning of
 philosophical discernment. In other words, there is enough
 openness even when enclosed, enough substance in seeming,
-to make knowledge possible; and the knowledge possible
+to make knowledge possible. And the knowledge possible
 is philosophical.
 
-And we can generalize on Schopenhauer's account. For if we
+We can generalize from Schopenhauer's account. For if we
 were truly open, we might infer, then there would be no
 seeming, only being. We would see things always as they are.
 But this, we could say, is how a god
@@ -331,9 +333,10 @@ this. But philosophical discernment has other ways, and
 other words besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
 "opinion", "claim", "account". Every such word can be heard,
-or read, or said, as a kind of proof that there is no way
+or read, or said, as proof that there is no way
 for us to know what is *not* us, what is *other* than us,
-except in relation to us. Or again no way to know how things
+except in relation to us. To know the world outside me,
+is still to make it mine in knowledge. Or again no way to know how things
 are, except through how they seem. Yet to know this is still
 to know; and philosophical discernment has tread more than
 one path to knowledge in this sense, in more than one mood,
