@@ -333,21 +333,34 @@ philosophical discernment has other ways, and other words
 besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
 "opinion", "claim", "account". *To need* such words is
-a sign that our openness is *not* enough *to be* knowledge.
+a sign that our openness is not enough *to be* knowledge.
 But *to have* such words is a sign that our openness *is*
 enough *to gain* knowledge. Knowledge, at least, of 
-the self that encloses us in openness, and has
-the words it needs to make sense of this predicament,
-(gives us the words we need to make sense of this predicament,
-of which perhaps the word "self" itself is the most
-important.)
-whether we call it the self-knowledge of Socratic ignorance;
-or the self-certainty of Cartesian doubt. The transcendental
-self of Kantian critique. Or the absolute self of Hegelian
-dialectic. All of these would involve the same recognition
-that the self must be embraced, since it can never be
-escaped. (Borrow language of self-transcendence from above,
-before moving on to Wolff quote.)
+the self that encloses us in openness, and gives
+us the words we need to make sense of this predicament,
+including the word "self" itself. And while philosophical
+discernment has tread more than one path to knowledge
+in this sense, every such path seems to end in a *recognition*
+of the self that can neither be relinquished nor renounced.
+The self that can never be escaped, to embrace, since it can never be escaped, 
+
+And since the self, in this sense, can never be
+relinquished, or renounced, it is recognition, or even
+reconciliation, what is left for philosophical discernment
+but reconciliation, or recognition. Then move on to examples
+of In one arrangement of words, we might call this
+predicament the self-knowledge of Socratic ignorance. Or in
+another, the self-certainty of Cartesian doubt. The
+transcendental self of Kantian Critique. uAnd with such
+words come different ways for philosophical discernment to
+reconcile us Use escape and embrace since Wolff quote uses
+cage. whether we call it the self-knowledge of Socratic
+ignorance; or the self-certainty of Cartesian doubt. The
+transcendental self of Kantian critique. Or the absolute
+self of Hegelian dialectic. All of these would involve the
+same recognition that the self must be embraced, since it
+can never be escaped. (Borrow language of self-transcendence
+from above, before moving on to Wolff quote.)
 
 - A self to be embraced when it cannot be transcended. 
 
