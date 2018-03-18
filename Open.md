@@ -332,18 +332,40 @@ representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
 besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
-"opinion", "claim", "account". To need such words is a sign
-that (but to have such words, and this is philosophical) the self separates us from the world, of the distance that our selfhood  at the start, knowledge does not belong to us at the start. we are not in possession of knowledge from the start; yet
-to have such words is a sign that we can gain knowledge by
-the end. ,  but to have
-such words our relation to the world is we are not knowers from the start; yet to have such words
-is a sign that we can gain the way things are is not enough for us to know it; to gain us knowledge, we cannot *simply* know the way things are; of our predicament; yet to have such words is a sign of
-our reflects
-our predicament; yet to have such words Every such word at the same
-time reflects our predicament as it raises us above it in
-knowledge of it. of our self-contained predicament, Every
-such word reflects a kind of self-recognition, is a kind of
-proof that we recognize
+"opinion", "claim", "account". *To need* such words is
+a sign that our openness is *not* enough *to be* knowledge.
+But *to have* such words is a sign that our openness *is*
+enough *to gain* knowledge: at the very least, knowledge
+of the self that encloses us in openness. And philosophical
+discernment 
+
+- It is no accident, given our selfhood enclosing us in
+openness, that this knowledge is of the self. 
+
+, to the
+world is not knowledge of the world, at least at the start.
+But *to have* such words is a sign that our openness to the
+world gives us ives us  falls short of knowledge,is not
+direct enough, immediate enough, or again true enough, to be
+knowledge of the world at the start. But make us know the
+world count as knowledge  to the world is not enough to know
+it,we are not knowers at the start. (but to have such words,
+and this is philosophical) the self separates us from the
+world, of the distance that our selfhood  at the start,
+knowledge does not belong to us at the start. we are not in
+possession of knowledge from the start; yet to have such
+words is a sign that we can gain knowledge by the end.
+,  but to have such words our relation to the world is we
+are not knowers from the start; yet to have such words is
+a sign that we can gain the way things are is not enough for
+us to know it; to gain us knowledge, we cannot *simply* know
+the way things are; of our predicament; yet to have such
+words is a sign of our reflects our predicament; yet to have
+such words Every such word at the same time reflects our
+predicament as it raises us above it in knowledge of it. of
+our self-contained predicament, Every such word reflects
+a kind of self-recognition, is a kind of proof that we
+recognize
 
 - If we were truly open we would have no need for such words,
 but Every one of these is a word of seeming rather than
