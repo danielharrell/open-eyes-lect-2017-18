@@ -286,9 +286,9 @@ open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
 being open is impossible for us, since our selfhood encloses
-us in openness, and makes it a matter of seeming, not being.
+us in openness, making it a matter of seeming, not being.
 We remain open to what there is beyond us, but only as it
-can become something *for us*, and in this relation to us, is
+can become something *for us*; and in this relation to us, is
 now an appearance, not just a reality. But suppose our
 openness, then, *were* a matter of appearance rather than
 reality, or seeming rather than being. Why is that not
@@ -315,40 +315,75 @@ closed, or again enclosed in openness, I only know an eye
 that sees a sun, a hand that feels an earth. The world is
 always my representation, never a reality apart. Or again,
 a matter of seeming rather than being. Yet to recognize
-this, on Schopenhauer's account, is the dawning of
+this, in Schopenhauer's view, is the dawning of
 philosophical discernment. In other words, there is enough
 openness even when enclosed, enough substance in seeming,
 to make knowledge possible. And the knowledge possible
 is philosophical.
 
-We can generalize from Schopenhauer's account. For if we
-were truly open, we might infer, then there would be no
+We can also generalize from Schopenhauer's account. For if
+we were truly open, we might suppose, then there would be no
 seeming, only being. We would see things always as they are.
-But this, we could say, is how a god
-sees, not how *we* see. In our case, the human case, the
-case of an openness enclosed in selfhood, there is no way to
-see things as they are, except through how they seem. To
-call the world my representation is one way of recognizing
-this. But philosophical discernment has other ways, and
-other words besides "representation". Such as "perception",
+But this, we could say, is how a god sees, not how *we* see.
+In our case, the human case, the case of an openness
+enclosed in selfhood, there is no way to see things as they
+are, except through how they seem. To call the world my
+representation is one way of recognizing this. But
+philosophical discernment has other ways, and other words
+besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
-"opinion", "claim", "account". Every such word can be heard,
-or read, or said, as proof that there is no way
-for us to know what is *not* us, what is *other* than us,
-except in relation to us. To know the world outside me,
-is still to make it mine in knowledge. Or again no way to know how things
-are, except through how they seem. Yet to know this is still
-to know; and philosophical discernment has tread more than
-one path to knowledge in this sense, in more than one mood,
-with more than one answer to the question Can we reach how
-things are through how they seem?  are the way things
-seem the way they are? *are* things how
-they seem? how things
-seem, how they are. and in a kind of family quarrel over whether the way things
-seem *is* the way they are. But every such path The self-knowledge of Socratic ignorance. The
-self-certainty of Cartesian doubt. ? The transcendental self
-of Kantian critique? Or the absolute self of Hegelian
-dialectic?   
+"opinion", "claim", "account". To need such words is a sign
+that (but to have such words, and this is philosophical) the self separates us from the world, of the distance that our selfhood  at the start, knowledge does not belong to us at the start. we are not in possession of knowledge from the start; yet
+to have such words is a sign that we can gain knowledge by
+the end. ,  but to have
+such words our relation to the world is we are not knowers from the start; yet to have such words
+is a sign that we can gain the way things are is not enough for us to know it; to gain us knowledge, we cannot *simply* know the way things are; of our predicament; yet to have such words is a sign of
+our reflects
+our predicament; yet to have such words Every such word at the same
+time reflects our predicament as it raises us above it in
+knowledge of it. of our self-contained predicament, Every
+such word reflects a kind of self-recognition, is a kind of
+proof that we recognize
+
+- If we were truly open we would have no need for such words,
+but Every one of these is a word of seeming rather than
+being. , not being. A word
+that belongs to the self. A word that belongs to
+enclosure.
+
+Every such word can be heard, or read, or said, as a word
+of seeming rather than being, is a word of seeming rather than
+being, It is hard to see how any such word would have a meaning,
+or use, if we were truly open to what there is and
+without the need to frame it, or enclose it, Every one of these is a word, in this sense, of seeming
+rather being; a word that shows how we enclose what there
+is to be open to what there is; a word with no that would have
+no meaning if we were simply . must enclose what there is
+to be open to what there is. - What use would we have of
+such words if we open to what there is without
+qualification?  Open simply, directly, immediately? Every
+such word is a word of seeming rather than being, or a word
+that would have no meaning if we were open to what there is
+directly, immediately, without aniy only implicitly to what
+there is, but explicitly apart from us, is, but explicitly
+to what there is *for us*, as it points explicitly to what
+there isk beyond us,  It is hard to know what any such word
+could mean, Every such word can be heard, or read, or said,
+as proof that there is no way for us to know what is *not*
+us, what is *other* than us, except in relation to us. To
+know the world outside me, is still to make it mine in
+knowledge. Or again no way to know how things are, except
+through how they seem. Yet to know this is still to know;
+and philosophical discernment has tread more than one path
+to knowledge in this sense, in more than one mood, with more
+than one answer to the question Can we reach how things are
+through how they seem?  are the way things seem the way they
+are? *are* things how they seem? how things seem, how they
+are. and in a kind of family quarrel over whether the way
+things seem *is* the way they are. But every such path The
+self-knowledge of Socratic ignorance. The self-certainty of
+Cartesian doubt. ? The transcendental self of Kantian
+critique? Or the absolute self of Hegelian dialectic?   
 
 philosophical discernment has more than one
 path to such knowledge. 
