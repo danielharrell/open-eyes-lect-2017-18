@@ -328,157 +328,28 @@ But this, we could say, is how a god sees, not how *we* see.
 In our case, the human case, the case of an openness
 enclosed in selfhood, there is no way to see things as they
 are, except through how they seem. To call the world my
-representation is one way of recognizing this. But
+representation is one way to recognize this. But
 philosophical discernment has other ways, and other words
 besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
 "opinion", "claim", "account". *To need* such words is
 a sign that our openness is *not* enough *to be* knowledge.
 But *to have* such words is a sign that our openness *is*
-enough *to gain* knowledge: at the very least, knowledge
-of the self that encloses us in openness. And philosophical
-discernment 
+enough *to gain* knowledge. Knowledge, at least, of 
+the self that encloses us in openness, and has
+the words it needs to make sense of this predicament,
+(gives us the words we need to make sense of this predicament,
+of which perhaps the word "self" itself is the most
+important.)
+whether we call it the self-knowledge of Socratic ignorance;
+or the self-certainty of Cartesian doubt. The transcendental
+self of Kantian critique. Or the absolute self of Hegelian
+dialectic. All of these would involve the same recognition
+that the self must be embraced, since it can never be
+escaped. (Borrow language of self-transcendence from above,
+before moving on to Wolff quote.)
 
-- It is no accident, given our selfhood enclosing us in
-openness, that this knowledge is of the self. 
-
-, to the
-world is not knowledge of the world, at least at the start.
-But *to have* such words is a sign that our openness to the
-world gives us ives us  falls short of knowledge,is not
-direct enough, immediate enough, or again true enough, to be
-knowledge of the world at the start. But make us know the
-world count as knowledge  to the world is not enough to know
-it,we are not knowers at the start. (but to have such words,
-and this is philosophical) the self separates us from the
-world, of the distance that our selfhood  at the start,
-knowledge does not belong to us at the start. we are not in
-possession of knowledge from the start; yet to have such
-words is a sign that we can gain knowledge by the end.
-,  but to have such words our relation to the world is we
-are not knowers from the start; yet to have such words is
-a sign that we can gain the way things are is not enough for
-us to know it; to gain us knowledge, we cannot *simply* know
-the way things are; of our predicament; yet to have such
-words is a sign of our reflects our predicament; yet to have
-such words Every such word at the same time reflects our
-predicament as it raises us above it in knowledge of it. of
-our self-contained predicament, Every such word reflects
-a kind of self-recognition, is a kind of proof that we
-recognize
-
-- If we were truly open we would have no need for such words,
-but Every one of these is a word of seeming rather than
-being. , not being. A word
-that belongs to the self. A word that belongs to
-enclosure.
-
-Every such word can be heard, or read, or said, as a word
-of seeming rather than being, is a word of seeming rather than
-being, It is hard to see how any such word would have a meaning,
-or use, if we were truly open to what there is and
-without the need to frame it, or enclose it, Every one of these is a word, in this sense, of seeming
-rather being; a word that shows how we enclose what there
-is to be open to what there is; a word with no that would have
-no meaning if we were simply . must enclose what there is
-to be open to what there is. - What use would we have of
-such words if we open to what there is without
-qualification?  Open simply, directly, immediately? Every
-such word is a word of seeming rather than being, or a word
-that would have no meaning if we were open to what there is
-directly, immediately, without aniy only implicitly to what
-there is, but explicitly apart from us, is, but explicitly
-to what there is *for us*, as it points explicitly to what
-there isk beyond us,  It is hard to know what any such word
-could mean, Every such word can be heard, or read, or said,
-as proof that there is no way for us to know what is *not*
-us, what is *other* than us, except in relation to us. To
-know the world outside me, is still to make it mine in
-knowledge. Or again no way to know how things are, except
-through how they seem. Yet to know this is still to know;
-and philosophical discernment has tread more than one path
-to knowledge in this sense, in more than one mood, with more
-than one answer to the question Can we reach how things are
-through how they seem?  are the way things seem the way they
-are? *are* things how they seem? how things seem, how they
-are. and in a kind of family quarrel over whether the way
-things seem *is* the way they are. But every such path The
-self-knowledge of Socratic ignorance. The self-certainty of
-Cartesian doubt. ? The transcendental self of Kantian
-critique? Or the absolute self of Hegelian dialectic?   
-
-philosophical discernment has more than one
-path to such knowledge. 
-
-knowledge, , in anything we see or say of the world,
-in which No such word can stand alone,
-as if it named something in the world; yet reflects
-a self-recognition: there is no way
-to see things apart from us, except in relation to us.  
-
-Every such word points at once to the world and to the
-self 
-What could any such word mean if we were simply open? Why
-should any such word exist, unless there were more, in
-our openness to the world, than the world? Perhaps put
-self here. Something, 
-in what we see, or think,
-or say of the world, that belonged not to the world but to sight, or thought, or speech, is not simplyid of the world, there were something in
-our openness to the world, and in what we see, or think, or
-say of the world, that makes it distinct from the world even
-if true of the world.
-
-- Above issue: need a way to clearly describe how "perception
-of the world", for example, at the same time indicates openness
-and closedness. , and distinct enough not just to
-notice, indeed *of* the world about* the world, as if to
-surround the world, rather than *be* the world? encompass
-rather than prior to, different from, the world itself, the
-world as such, the world as it is even if there were no one
-to see it or think it or speak of it? That there is
-a difference, and that we notice it, we use them at all is
-a sign of our openness our selfhood encloses us in openness. 
-
-- From here, mention how such words only name something
-we see if we are indeed enclosed in openness. This is what
-makes philosophy possible.
-
-And in this sense, the world is always with us, something
-related to me, never apart from me, or wholly outside me. is
-always always something seen or said, For in the same sense
-the world is my representation To see, to speak, to think
-about the worldconsider everything we see a perception, or
-impression, *before* we : (revise from here with the other
-ways, like opinion, perception, impression,  
-
-the world must always have a relation to me before
-it can havemy representation before it can
-be And to Schopenhauer's
-own way of putting this point, that the world is always my representation,
-is just one way. in this
-sense, the world is always my representation,  the only route to being there is no route to being except through seeming; there is no escapea world that must *appear* to us (revise from here) and in light of a question, more or less perpetual,
-whether how they seem is how they are. (perhaps indicate here how "representation" is
-only one word for this whether this seeming , there is always seeming, never simply being. And to
-see things as they are, Even if
-we saw things as they are, it would be in light ; and we see
-(We would be
-blind to all the things that make us human, and make us know
-we are human.)
-
-There would be no recognition of opinion, or perception,
-or impression. 
-
-things always as they seem, leaving aside how they are. what we see is always how things seem, To see
-them otherwise, not as they are but as they seem, this openness,
-then, would seem to make philosophical knowledge unneeded, , where every
-perception gave us knowledge, eg, . And our knowledge
-in that case would be divine rather than human, And what need,
-in that case, would we have for any reflection on what we saw. and nothing
-would then be a matter of opinion, or perception, need, then, for further reflection, as if
-we were divine. from no point of view, in a transcendence of self that
-either made us what we saw or proved that we, . , or they are
-in themselves, as if from no point of view. (Continue from
-here.)
+- A self to be embraced when it cannot be transcended. 
 
 - Check earlier formulation of openness as seeming rather
 than being; see if I can re-write this more clearly.
