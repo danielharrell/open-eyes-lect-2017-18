@@ -317,7 +317,7 @@ always my representation, never a reality apart. Or again,
 a matter of seeming rather than being. Yet to recognize
 this, on Schopenhauer's account, is the dawning of
 philosophical discernment. In other words, there is enough
-openness even when enclosed, enough substance in seeming,
+openness even when enclosed, or enough substance in seeming,
 to make knowledge possible. And the knowledge possible
 is philosophical.
 
@@ -330,28 +330,29 @@ enclosed in selfhood, there is no way to see things as they
 are, except through how they seem. And to call the world my
 representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation". Such as "perception",
-"impression", "image", "idea". Or in another direction:
-"opinion", "claim", "account". *To need* such words is
-a sign that our openness is not enough *to be* knowledge.
-But *to have* such words is a sign that our openness *is*
-enough *to gain* knowledge. Knowledge, at least, of the self
-that encloses us in openness, and gives us the words we need
-to make sense of this predicament, including the word "self"
-itself. 
+besides "representation". ---"Perception", "impression",
+"image", "idea". "Opinion", "claim", "account". *To need*
+such words is a sign that our openness is *not* enough *to
+be* knowledge. But *to have* such words is a sign that our
+openness *is* enough *to gain* knowledge. Knowledge, at
+least, of the self that encloses us in openness, and gives
+us the words we need to make sense of this
+predicament---the word "self", itself, most of all. 
 
-And while philosophical discernment has tread more
-than one path to knowledge in this sense, every such path
-comes to an end, it seems, in the embrace of a self that can
-never be escaped. As Schopenhauer's path leads to the
-world as will and representation, the path of Socratic
-ignorance leads to self-knowledge, and the path of Cartesian
-doubt, to self-certainty. Kantian critique? 
-The transcendental subject. Hegelian dialectic? Absolute
-Spirit. 
+And while philosophical discernment has tread more than one
+path to knowledge in this sense, every such path comes to an
+end, it seems, in the embrace of a self that can never be
+escaped. The self of Schopenhauer's path, for example, is
+the world as will and representation. But we know of others
+from the books we read, as the ignorance of Socrates leads
+to self-knowledge, and the doubt of Descartes to
+self-certainty. Through Kant's critique, we reach the
+transcendental subject. And through Hegel's dialectic,
+Absolute Spirit. 
 
 Yet suppose the self we come to embrace, under any such
-description, can therefore never be escaped. Suppose our
+description, can therefore never be escaped. It is here
+that we can begin to see the stakes Suppose our
 predicament were 
 
 For example, consider this description of our
