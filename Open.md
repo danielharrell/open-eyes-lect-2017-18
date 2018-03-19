@@ -286,9 +286,9 @@ open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
 being open is impossible for us, since our selfhood encloses
-us in openness, making it a matter of seeming, not being.
-We remain open to what there is beyond us, but only as it
-can become something *for us*; and in this relation to us, is
+us in openness, making it a matter of seeming, not being. We
+are open to what there is beyond us, but only as it can
+become something *for us*; and in this relation to us, is
 now an appearance, not just a reality. But suppose our
 openness, then, *were* a matter of appearance rather than
 reality, or seeming rather than being. Why is that not
@@ -315,7 +315,7 @@ closed, or again enclosed in openness, I only know an eye
 that sees a sun, a hand that feels an earth. The world is
 always my representation, never a reality apart. Or again,
 a matter of seeming rather than being. Yet to recognize
-this, in Schopenhauer's view, is the dawning of
+this, on Schopenhauer's account, is the dawning of
 philosophical discernment. In other words, there is enough
 openness even when enclosed, enough substance in seeming,
 to make knowledge possible. And the knowledge possible
@@ -327,22 +327,68 @@ seeming, only being. We would see things always as they are.
 But this, we could say, is how a god sees, not how *we* see.
 In our case, the human case, the case of an openness
 enclosed in selfhood, there is no way to see things as they
-are, except through how they seem. To call the world my
-representation is one way to recognize this. But
+are, except through how they seem. And to call the world my
+representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
 besides "representation". Such as "perception",
 "impression", "image", "idea". Or in another direction:
 "opinion", "claim", "account". *To need* such words is
 a sign that our openness is not enough *to be* knowledge.
 But *to have* such words is a sign that our openness *is*
-enough *to gain* knowledge. Knowledge, at least, of 
-the self that encloses us in openness, and gives
-us the words we need to make sense of this predicament,
-including the word "self" itself. And while philosophical
-discernment has tread more than one path to knowledge
-in this sense, every such path seems to end in a *recognition*
-of the self that can neither be relinquished nor renounced.
-The self that can never be escaped, to embrace, since it can never be escaped, 
+enough *to gain* knowledge. Knowledge, at least, of the self
+that encloses us in openness, and gives us the words we need
+to make sense of this predicament, including the word "self"
+itself. 
+
+And while philosophical discernment has tread more
+than one path to knowledge in this sense, every such path
+comes to an end, it seems, in the embrace of a self that can
+never be escaped. As Schopenhauer's path leads to the
+world as will and representation, the path of Socratic
+ignorance leads to self-knowledge, and the path of Cartesian
+doubt, to self-certainty. Kantian critique? 
+The transcendental subject. Hegelian dialectic? Absolute
+Spirit. 
+
+Yet suppose the self we come to embrace, under any such
+description, can therefore never be escaped. Suppose our
+predicament were 
+
+For example, consider this description of our
+openness, from a recent book in philosophy by Francis
+Wolff: 
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to ‘be able to be conscious of
+it’, it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
+
+- What is perhaps most striking in this description is
+how we remain enclosed in language or consciousness even
+if they encompass their objects *as they are*, not merely
+as they seem.
+
+- Compare transparent cage in this quote with Platonic cave.
+
+- On one hand, philosophical reflection; on other hand,
+trapped in transparent cage.
+
+- Conclusion: liberation depends on being open.
+Wolff quote: Or to
+clarify this supposition, consider a passage from
+a more recent work in 
 
 And since the self, in this sense, can never be
 relinquished, or renounced, it is recognition, or even
@@ -389,6 +435,7 @@ kind of awareness, depend on being enclosed in openness.
 
 - Move from here to philosophy being borne of questioning
 this point of view: how things seem vs how things are.
+
 
 - In other words, it is easier to suppose that the self
   might be transformed, than to suppose that the self could
