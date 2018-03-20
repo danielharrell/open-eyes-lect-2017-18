@@ -283,14 +283,14 @@ The self, then, gives us a final way to wonder how being
 open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
-being open is impossible for us, since our selfhood encloses
-us in openness, making it a matter of seeming, not
-being. We are open to what there is *beyond* us, but only as
-it can become something *for* us; and in this relation to
-us, is now an appearance, not just a reality. But suppose
-our openness, then, *were* a matter of appearance rather
-than reality, or seeming rather than being. Why is that not
-openness enough?
+being open is not possible for us, since our selfhood
+encloses us in openness, making it a matter of seeming, not
+being. We are open, then, to what there is beyond us, but
+only as it can become something *for* us; and in this
+relation to us, is now an appearance, not just a reality.
+Yet suppose our openness *were* a matter of
+appearance rather than reality, or seeming rather than
+being. Why is that not openness enough?
 
 To clarify what I mean, consider how the philosopher
 Schopenhauer begins his book, *The World as Will
@@ -320,18 +320,19 @@ seeming, to make knowledge possible. And the knowledge
 possible is philosophical. 
 
 What more could we want, at least without becoming other
-than we are? For perhaps if we were truly open, then there
+than we are? For if we were truly open, then perhaps there
 would be no seeming, only being. We would see things always
 as they are. But this, we could say, is how a god sees, not
-how *we* see. In our case, the human case, perhaps there is
+how *we* see. In our case, the human case, there is
 no way to see things as they are, except through how they
 seem. Or no way to know them apart from us, since knowing
-them will put them in relation to us. And to call the world
+them will relate them to us. And calling the world
 my representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation". Perception. Impression. Image.
-Idea. Opinion. Claim. Account. Any word that in a world
-without us would lose its place. *To need* such words is
+besides "representation": such as "perception", "impression", "image",
+"idea", "opinion", "claim", "account". ---Any word that would
+lose its place in a world
+without us. *To need* such words is
 a sign that our openness is *not* enough *to be* knowledge.
 But *to have* such words is a sign that our openness *is*
 enough *to gain* knowledge. Knowledge, at least, of the self
@@ -341,7 +342,7 @@ most of all.
 
 And while philosophical discernment has tread more than one
 path to knowledge in this sense, every such path comes to an
-end, it seems, in the embrace of a self that can never be
+end, it seems, in the embrace of a self we can never 
 escaped. The self of Schopenhauer's path, for example, is
 the world as will and representation. But we know of others
 from the books we read. The ignorance of Socrates that leads
