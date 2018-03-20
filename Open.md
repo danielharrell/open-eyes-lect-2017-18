@@ -16,9 +16,6 @@ My lecture tonight is in three parts.
 
 # Part One {#one}
 
-We use the word "open" in ways that range from the prosaic
-to the profound:
-
     - "I can't get the jar open."
     - "When does the store open?"
     - "The window is open."
@@ -29,8 +26,9 @@ to the profound:
     - "Open your heart."
     - "My eyes were finally opened."
 
-But why does the word have such scope? This is one reason
-for wonder.
+We use the word "open" in ways that range from the prosaic
+to the profound. But why does the word have such scope? This
+is one reason for wonder.
 
 Another reason is that we use the word, typically,
 without further ado, as if its meaning were already
@@ -38,7 +36,7 @@ understood. But if so, then how is it understood?
 And is there something here not understood? Or better
 understood? The difference between a door and an open door
 may be like the difference between Socrates and Socrates
-sitting. For only a philosopher, according to Aristotle,
+sitting. For only a philosopher, says Aristotle,
 would care about this difference.[^Socrates.] But the
 philosopher in all of us, then, can wonder about that
 difference. We can wonder what it means to say "my door is
@@ -68,8 +66,8 @@ say this of our eyes, and not our eyelids, which we might
 call "open" more literally? To use the word for our eyes may
 be figurative; but it captures how we seem to see *through*
 our eyes, as if they were open, or at least transparent, to
-a whole world outside us. <!-- This reaching out should be
-used in a transition paragraph later.-->  To ask about the
+a whole world outside us. <!-- Could refer back to this when
+I get to transparent cage in Wolff quote.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
 wakefulness, watchfulness, awareness. It is to ask about
 a way of being that may well be *our* way of being: the one
@@ -217,7 +215,7 @@ of it, through its open end, since this now lies infinitely
 far away. Or to put the paradox more sharply:
 once we make the line of the parabola infinite, to make the
 inside of the parabola definite, we will have *enclosed* the
-parabola in openness. And this enclosure will make the
+parabola in openness. And by being enclosed, the
 openness of the parabola at once intelligible yet
 impassable. Its open end will
 be something we can plainly see, even point to, yet never
@@ -286,12 +284,12 @@ open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
 being open is impossible for us, since our selfhood encloses
-us in openness, making it a matter of seeming, not being. We
-are open to what there is beyond us, but only as it can
-become something *for us*; and in this relation to us, is
-now an appearance, not just a reality. But suppose our
-openness, then, *were* a matter of appearance rather than
-reality, or seeming rather than being. Why is that not
+us in openness, making it a matter of seeming, not
+being. We are open to what there is *beyond* us, but only as
+it can become something *for* us; and in this relation to
+us, is now an appearance, not just a reality. But suppose
+our openness, then, *were* a matter of appearance rather
+than reality, or seeming rather than being. Why is that not
 openness enough?
 
 To clarify what I mean, consider how the philosopher
@@ -312,43 +310,45 @@ that which represents, and this is himself.[^WWR]
 In light of this passage, we might infer if I knew a sun and
 an earth, then I would be truly open. But because I am truly
 closed, or again enclosed in openness, I only know an eye
-that sees a sun, a hand that feels an earth. The world is
-always my representation, never a reality apart. Or again,
-a matter of seeming rather than being. Yet to recognize
-this, on Schopenhauer's account, is the dawning of
-philosophical discernment. In other words, there is enough
-openness even when enclosed, or enough substance in seeming,
-to make knowledge possible. And the knowledge possible
-is philosophical.
+that sees a sun, a hand that feels an earth. The world, in
+this sense, is always my representation, never a reality
+apart. Or again, a matter of seeming rather than being. Yet
+to recognize this, on Schopenhauer's account, is the dawning
+of philosophical discernment. In other words, there is
+enough openness even when enclosed, or enough substance in
+seeming, to make knowledge possible. And the knowledge
+possible is philosophical. 
 
-We can also generalize from Schopenhauer's account. For if
-we were truly open, we might suppose, then there would be no
-seeming, only being. We would see things always as they are.
-But this, we could say, is how a god sees, not how *we* see.
-In our case, the human case, the case of an openness
-enclosed in selfhood, there is no way to see things as they
-are, except through how they seem. And to call the world my
-representation is one way of recognizing this. But
+What more could we want, at least without becoming other
+than we are? For perhaps if we were truly open, then there
+would be no seeming, only being. We would see things always
+as they are. But this, we could say, is how a god sees, not
+how *we* see. In our case, the human case, perhaps there is
+no way to see things as they are, except through how they
+seem. Or no way to know them apart from us, since knowing
+them will put them in relation to us. And to call the world
+my representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation". ---"Perception", "impression",
-"image", "idea". "Opinion", "claim", "account". *To need*
-such words is a sign that our openness is *not* enough *to
-be* knowledge. But *to have* such words is a sign that our
-openness *is* enough *to gain* knowledge. Knowledge, at
-least, of the self that encloses us in openness, and gives
-us the words we need to make sense of this
-predicament---the word "self", itself, most of all. 
+besides "representation". Perception. Impression. Image.
+Idea. Opinion. Claim. Account. Any word that in a world
+without us would lose its place. *To need* such words is
+a sign that our openness is *not* enough *to be* knowledge.
+But *to have* such words is a sign that our openness *is*
+enough *to gain* knowledge. Knowledge, at least, of the self
+that encloses us in openness, and gives us the words we need
+to make sense of this predicament---the word "self", itself,
+most of all. 
 
 And while philosophical discernment has tread more than one
 path to knowledge in this sense, every such path comes to an
 end, it seems, in the embrace of a self that can never be
 escaped. The self of Schopenhauer's path, for example, is
 the world as will and representation. But we know of others
-from the books we read, as the ignorance of Socrates leads
-to self-knowledge, and the doubt of Descartes to
-self-certainty. Through Kant's critique, we reach the
-transcendental subject. And through Hegel's dialectic,
-Absolute Spirit. 
+from the books we read. The ignorance of Socrates that leads
+to self-knowledge. Or the doubt of Descartes that leads to
+self-certainty. Kant's critique, through which we discover the 
+transcendental subject. Or Hegel's dialectic,
+by which we reach Absolute Spirit. 
 
 Yet suppose the self we come to embrace, under any such
 description, can therefore never be escaped. It is here
