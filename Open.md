@@ -284,12 +284,11 @@ open is possible. But *is* it possible? And what is at stake
 in asking this question, in the face of arguments against
 its possibility? In the argument I just gave, for example,
 being open is not possible for us, since our selfhood
-encloses us in openness, making it a matter of seeming, not
-being. We are open, then, to what there is beyond us, but
-only as it can become something *for* us; and in this
-relation to us, is now an appearance, not just a reality.
-Yet suppose our openness *were* a matter of
-appearance rather than reality, or seeming rather than
+encloses us in openness. We are open, then, to what there is
+beyond us, but only as it can become something *for* us, and
+in this relation to us is now an appearance, not just
+a reality. A matter of seeming rather than being. Yet
+suppose our openness *were* a matter of seeming rather than
 being. Why is that not openness enough?
 
 To clarify what I mean, consider how the philosopher
@@ -319,31 +318,31 @@ enough openness even when enclosed, or enough substance in
 seeming, to make knowledge possible. And the knowledge
 possible is philosophical. 
 
-What more could we want, at least without becoming other
-than we are? For if we were truly open, then perhaps there
-would be no seeming, only being. We would see things always
-as they are. But this, we could say, is how a god sees, not
-how *we* see. In our case, the human case, there is
-no way to see things as they are, except through how they
-seem. Or no way to know them apart from us, since knowing
-them will relate them to us. And calling the world
-my representation is one way of recognizing this. But
+What more could we want out of openness, in that case, at
+least without becoming other than we are? For if we were
+truly open, then perhaps there would be no seeming, only
+being. We would see things always as they are. But this, we
+could say, is how a god sees, not how *we* see. In
+our case, the human case, there may be no way to see things as
+they are, except through how they seem. For how could we
+come to know the world apart from us, if knowing it at all puts
+it in relation to us? And calling the world my
+representation is one way of recognizing this. But
 philosophical discernment has other ways, and other words
-besides "representation": such as "perception", "impression", "image",
-"idea", "opinion", "claim", "account". ---Any word that would
-lose its place in a world
-without us. *To need* such words is
-a sign that our openness is *not* enough *to be* knowledge.
-But *to have* such words is a sign that our openness *is*
-enough *to gain* knowledge. Knowledge, at least, of the self
-that encloses us in openness, and gives us the words we need
-to make sense of this predicament---the word "self", itself,
-most of all. 
+besides "representation". Such as "perception". Or
+"impression". "Image". "Idea". Or "opinion". "Claim".
+"Account". ---Any word that would lose its place in a world
+without us. *To need* such words is a sign that our openness
+is *not* enough *to be* knowledge. But *to have* such words
+is a sign that our openness *is* enough *to gain* knowledge.
+Knowledge, at least, of the self that encloses us in
+openness, and gives us the words we need to make sense of
+this predicament---the word "self" most of all. 
 
 And while philosophical discernment has tread more than one
 path to knowledge in this sense, every such path comes to an
 end, it seems, in the embrace of a self we can never 
-escaped. The self of Schopenhauer's path, for example, is
+escape. The self of Schopenhauer's path, for example, is
 the world as will and representation. But we know of others
 from the books we read. The ignorance of Socrates that leads
 to self-knowledge. Or the doubt of Descartes that leads to
@@ -351,23 +350,25 @@ self-certainty. Kant's critique, through which we discover the
 transcendental subject. Or Hegel's dialectic,
 by which we reach Absolute Spirit. 
 
-Yet suppose the self we come to embrace, under any such
-description, can therefore never be escaped. It is here
-that we can begin to see the stakes Suppose our
-predicament were 
+But even if the self to embrace proved absolute, and the way
+things seemed *were* the way things are, there would be
+a sense, also proved absolute, in which we were trapped in
+this self. At the same time that there would be no reason for 
+escape, or point to it, the desire for it might grow all
+the stronger, as if having no reason were reason
+enough. To clarify what I mean, consider the way a recent
+book of philosophy, by Francis Wolff, describes our
+predicament: 
 
-For example, consider this description of our
-openness, from a recent book in philosophy by Francis
-Wolff: 
-> Everything is inside because in order to think anything
-whatsoever, it is necessary to ‘be able to be conscious of
-it’, it is necessary to say it, and so we are locked up in
-language or in consciousness without being able to get out.
-In this sense, they have no outside. But in another sense,
-they are entirely turned towards the outside; they are the
-world’s window: for to be conscious is always to be
-conscious of something, to speak is necessarily to speak
-about something. To be conscious of the tree is to be
+> Everything is inside because in order to
+think anything whatsoever, it is necessary to ‘be able to be
+conscious of it’, it is necessary to say it, and so we are
+locked up in language or in consciousness without being able
+to get out. In this sense, they have no outside. But in
+another sense, they are entirely turned towards the outside;
+they are the world’s window: for to be conscious is always
+to be conscious of something, to speak is necessarily to
+speak about something. To be conscious of the tree is to be
 conscious of the tree itself, and not the idea of the tree;
 to speak about the tree is not just to utter a word but to
 speak about the thing. Consequently, consciousness and
