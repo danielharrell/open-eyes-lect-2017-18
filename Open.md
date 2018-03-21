@@ -280,9 +280,56 @@ were how being closed looked from within.
 # Part Three {#three}
 
 The self, then, gives us a final way to wonder how being
-open is possible. But *is* it possible? And what is at stake
-in asking this question, in the face of arguments against
-its possibility? In the argument I just gave, for example,
+open is possible. So *is* it possible? And if it is, then
+how? Or should we take arguments against its possibility
+to be not just provocative, as if to deepen our wonder,
+but persuasive, as if to dispel it? 
+
+I just gave three such arguments, drawn from a jar, a
+parabola, and the self. But I now want to turn to a
+fourth, drawn from a book read in seminar, to clarify the
+limits, I think, of such arguments. So consider this
+passage, from perhaps the greatest novel written in English:
+
+> We are all of us born in moral stupidity, taking the world
+as an udder to feed our supreme selves: Dorothea had early
+begun to emerge from that stupidity, but yet it had been
+easier to her to imagine how she would devote herself to Mr.
+Casaubon, and become wise and strong in his strength and
+wisdom, than to conceive with that distinctness which is no
+longer reflection but feeling---an idea wrought back to the
+directness of sense, like the solidity of objects--that he
+had an equivalent centre of self, whence the lights and
+shadows must always fall with a certain difference.
+
+On this account, what Dorothea must learn is not that she
+married a lesser man, without the strength or wisdom to make
+her wise and strong in turn; but rather that she married
+another self, which makes her a self in turn, no matter how
+selfless she yearns to be. Or to put the lesson another way:
+to transcend the self altogether is not simply impossible,
+but illusory, since a desire for this can blind one to the
+selfhood in others that makes for true transcendence in
+recognition, not renunciation. 
+
+Or to put the lesson one last way, that broadens the scope
+of recognition: to be open to another, or
+to anything other, means regarding it as *more* than other.
+But this seems to mean regarding it from a point of view at
+which the other is a self, or at least related
+to self. That is, it means seeing what is other from
+a center at which its otherness can be encompassed by the
+self. Or contained. Or enclosed. Which again would mean that
+being open, in the end, is a way of being closed, despite
+the look otherwise. Or more simply put: being open, truly
+and simply open, is impossible. 
+
+
+the possibility of openness Start with a new argument against possibility, taken
+from Middlemarch.
+
+
+In the argument I just gave, for example,
 being open is not possible for us, since our selfhood
 encloses us in openness. We are open, then, to what there is
 beyond us, but only as it can become something *for* us, and
