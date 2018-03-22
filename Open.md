@@ -282,14 +282,16 @@ were how being closed looked from within.
 The self, then, gives us a final way to wonder how being
 open is possible. So *is* it possible? And if it is, then
 how? Or should we take arguments against its possibility
-to be not just provocative, as if to deepen our wonder,
-but persuasive, as if to dispel it? 
+to be not just provocative, but persuasive? Are these
+arguments to deepen our wonder? Or dispel it? 
 
-I just gave three such arguments, drawn from a jar, a
-parabola, and the self. But I now want to turn to a
-fourth, drawn from a book read in seminar, to clarify the
-limits, I think, of such arguments. So consider this
-passage, from perhaps the greatest novel written in English:
+I just gave three such arguments, drawn from a jar,
+a parabola, and the self. But I now want to turn to
+a fourth, drawn from a book read in seminar, to clarify the
+limits, I think, of arguments against openness. So consider
+this passage, from perhaps the greatest novel written in
+English <!--later mention how openness a matter of description,
+not argument-->:
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
