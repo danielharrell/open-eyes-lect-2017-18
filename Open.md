@@ -290,7 +290,7 @@ a parabola, and the self. But I now want to turn to
 a fourth, drawn from a book read in seminar, to clarify the
 limits, I think, of arguments against openness. So consider
 this passage, from perhaps the greatest novel written in
-English <!--later mention how openness a matter of description,
+English: <!--later mention how openness a matter of description,
 not argument-->:
 
 > We are all of us born in moral stupidity, taking the world
@@ -304,15 +304,25 @@ directness of sense, like the solidity of objects--that he
 had an equivalent centre of self, whence the lights and
 shadows must always fall with a certain difference.
 
-On this account, what Dorothea must learn is not that she
-married a lesser man, without the strength or wisdom to make
-her wise and strong in turn; but rather that she married
-another self, which makes her a self in turn, no matter how
-selfless she yearns to be. Or to put the lesson another way:
-to transcend the self altogether is not simply impossible,
+Readers of *Middlemarch* may remember this passage, and the
+unhappy marriage between Dorothea Brooke and Edward Causabon
+that prompts it. Leaving context aside, we can read the
+passage as an argument against openness, despite how it
+begins, against the closedness of moral stupidity. For it is
+in her emergence from this stupidity, along with her desire
+to transcend herself in devotion, that Dorothea suffers
+a kind of blindness towards her husband, different from
+delusions of his greatness. To see him as he is, then, is
+*not* to see him as a lesser man, without the strength or
+wisdom to make her wise and strong in turn. It is rather to
+see him as another self, which makes her a self in turn, no
+matter how selfless she yearns to be. But this suggests that
+transcending the self altogether is not simply impossible,
 but illusory, since a desire for this can blind one to the
 selfhood in others that makes for true transcendence in
-recognition, not renunciation. 
+recognition, not renunciation. Or more briefly put: an
+openness not enclosed in selfhood is no openness at all, in
+seeming and being alike. 
 
 Or to put the lesson one last way, that broadens the scope
 of recognition: to be open to another, or
