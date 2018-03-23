@@ -202,24 +202,24 @@ parabola *has* an inside, distinct from, but open to, an
 outside? Why aren't both sides of the parabola outside it,
 since both lie outside the line of the parabola?
 
-To answer this question, and in defense of the interpretation, we
-could make the inside of the parabola definite, by completing
-the analogy to the ellipse. We would then take the parabola
-to be an infinite ellipse, with one focus infinitely far
-away. The parabolic line would then be infinite in length,
-with ends that reach the edge, as it were, of the geometric
-plane. But in that case, it seems, our parabola will gain a
-true inside in just the way our jar possessed one: by being
-closed. For there will be no way into the parabola, or out
-of it, through its open end, since this now lies infinitely
-far away. Or to put the paradox more sharply:
-once we make the line of the parabola infinite, to make the
-inside of the parabola definite, we will have *enclosed* the
-parabola in openness. And by being enclosed, the
-openness of the parabola at once intelligible yet
-impassable. Its open end will
-be something we can plainly see, even point to, yet never
-reach---as if openness had no being but seeming.
+To answer this question, and in defense of the
+interpretation, we could make the inside of the parabola
+definite, by completing the analogy to the ellipse. We would
+then take the parabola to be an infinite ellipse, with one
+focus infinitely far away. The parabolic line would then be
+infinite in length, with ends that reach the edge, as it
+were, of the geometric plane. But in that case, it seems,
+our parabola will gain a true inside in just the way our jar
+possessed one: by being closed. For there will be no way
+into the parabola, or out of it, through its open end, since
+this now lies infinitely far away. Or to put the paradox
+more sharply: once we make the line of the parabola
+infinite, to make the inside of the parabola definite, we
+will have *enclosed* the parabola in openness. And by being
+enclosed, the openness of the parabola is made at once
+intelligible yet impassable. Its open end will be something
+we can plainly see, even point to, yet never reach---as if
+openness had no being but seeming.
 
 <!--Note later that we wonder this by giving arguments for
 its impossibility; and philosophy rests here, in
@@ -291,7 +291,7 @@ a fourth, drawn from a book read in seminar, to clarify the
 limits, I think, of arguments against openness. So consider
 this passage, from perhaps the greatest novel written in
 English: <!--later mention how openness a matter of description,
-not argument-->:
+not argument-->
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
@@ -305,26 +305,26 @@ had an equivalent centre of self, whence the lights and
 shadows must always fall with a certain difference.
 
 Readers of *Middlemarch* may remember this passage, and the
-unhappy marriage between Dorothea Brooke and Edward Causabon
-that prompts it. Leaving context aside, we can read the
+unhappy marriage that prompts it, between Dorothea Brooke
+and Edward Causabon. Leaving context aside, we can read the
 passage as an argument against openness, despite how it
 begins, against the closedness of moral stupidity. For it is
-in her emergence from this stupidity, along with her desire
-to transcend herself in devotion, that Dorothea suffers
+in her emergence from this stupidity, along with her desire,
+in devotion, 
+to transcend herself, that Dorothea suffers
 a kind of blindness towards her husband, different from
 delusions of his greatness. To see him truly, then, is *not*
 to see him as a lesser man, without the strength or wisdom
 to make her wise and strong in turn. It is rather to see him
-as another self, which makes Dorothea a self in turn, no matter
-how selfless she yearns to be. But this suggests that
-transcending the self is not simply impossible, but
-deceptive, since a desire for this can blind one to the
-selfhood in others that makes for true transcendence in
-recognition, not renunciation. Or more briefly put: an
-openness *not* enclosed in selfhood is no openness at all,
-in being and seeming alike. 
+as another self, which makes her a self in turn, no matter
+how selfless she yearns to be. But this suggests something
+false in self-transcendence, even if it were possible. For
+it can blind one to the selfhood in others that we might say
+makes for true transcendence in recognition, not
+renunciation. An openness of recognition, in other words,
+is an openness enclosed in selfhood. 
 
-But suppose we were ready to accept this argument
+But now suppose we were ready to accept this argument
 against openness. What should we make, then, of this later
 passage in *Middlemarch*:
 
@@ -342,23 +342,25 @@ dim-sighted.
 The subject of this passage, of course, is Causabon himself.
 And Eliot addresses the reader directly, I think, to
 persuade us, if not to love him, at least to acknowledge
-him, and come to know him, then, in his selfhood, just as
-Dorothea must learn to do. Yet to know him in this selfhood,
-evidently, is to pity him for a self he can never
-escape. For Eliot writes as if there were no way to enjoy,
-and still be enclosed. For what selfhood is left once we are
-possessed, fully, by the glory we behold? Or once our
-consciousness is transformed, rapturously, into the
-vividness of a thought? The ardor of a passion? The energy
-of an action? Eliot describes enjoyment as if it were an
-experience not of satisfaction, but of consummation.
-A liberation from the self in need, intelligibly enough; but
-where what remains in deliverance, more puzzlingly, is not
+him; and come to know him, then, in his selfhood, just as
+Dorothea must learn to do. Yet to know him in his selfhood
+is to pity him, evidently, for a self he can never escape.
+Eliot writes as if there were no way to enjoy, and still be
+enclosed. For what selfhood is left once we are possessed,
+fully, by the glory we behold? Or once our consciousness is
+transformed, rapturously, into the vividness of a thought?
+The ardor of a passion? The energy of an action? Eliot
+describes enjoyment as if it were an experience not of
+satisfaction, but of consummation. A liberation from the
+self in need, but where what remains in deliverance is *not*
 the self fulfilled, or even a self at all, but only the
 fulfillment itself, with nothing left to fill. 
 
-The puzzle in this, of a self transcended altogether, or of
-an openness pure and true, can make it easy to doubt Eliot's
+- Below put limit in this way: an argument against openness
+when openness exists. Then move on to Bergson
+
+The puzzle in this is again of a self transcended altogether, or 
+an openness pure and true. , can make it easy to doubt Eliot's
 description of enjoyment. We might accuse it of falsely
 making what we feel into what we are, when there is no
 escape from what we are, even in the most ecstatic feeling
