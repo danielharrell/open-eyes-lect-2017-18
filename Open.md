@@ -312,17 +312,17 @@ begins, against the closedness of moral stupidity. For it is
 in her emergence from this stupidity, along with her desire
 to transcend herself in devotion, that Dorothea suffers
 a kind of blindness towards her husband, different from
-delusions of his greatness. To see him as he is, then, is
-*not* to see him as a lesser man, without the strength or
-wisdom to make her wise and strong in turn. It is rather to
-see him as another self, which makes her a self in turn, no
-matter how selfless she yearns to be. But this suggests that
-transcending the self altogether is not simply impossible,
-but deceptive, since a desire for this can blind one to the
+delusions of his greatness. To see him truly, then, is *not*
+to see him as a lesser man, without the strength or wisdom
+to make her wise and strong in turn. It is rather to see him
+as another self, which makes Dorothea a self in turn, no matter
+how selfless she yearns to be. But this suggests that
+transcending the self is not simply impossible, but
+deceptive, since a desire for this can blind one to the
 selfhood in others that makes for true transcendence in
 recognition, not renunciation. Or more briefly put: an
-openness *not* enclosed in selfhood is no openness at all, in
-being and seeming alike. 
+openness *not* enclosed in selfhood is no openness at all,
+in being and seeming alike. 
 
 But suppose we were ready to accept this argument
 against openness. What should we make, then, of this later
@@ -339,34 +339,18 @@ energy of an action, but always to be scholarly and
 uninspired, ambitious and timid, scrupulous and
 dim-sighted.
 
-The subject of this passage, of course, is Dorothea's husband.
+The subject of this passage, of course, is Causabon himself.
 And Eliot addresses the reader directly, I think, to
 persuade us, if not to love him, at least to acknowledge
-him, and come to know him, then, in his selfhood, 
-just as Dorothea must learn to do. It is as if Eliot
-wants to *open* us to Causabon, in the only form of
-openness possible, from self to self, if we accept the argument against an
-openness of self-transcendence implied in the previous passage. , from self to self, if we accept the arguments against
-openness by making him pitiable
-rather than contemptible, d if we accept the
-argument implicit in the earlierIt is as if Eliot wants
-to *open* us to Causabon, to undergo our own movement of
-transcendence, from reader to character, as she gives us
-a point of view on Causabon to make him pitiable rather than
-contemptible. That is, Eliot gives us a center from which
-another can be seen as self, and as if to move us from self
-to self, in what again would be the only form of
-self-transcendence possible, if our selfhood enclosed
-us in openness. 
-
-But what is it, then, that makes Causabon pitiable? For
-Eliot writes as if he should be pitied for a self he can
-never escape, and as if there were no way to enjoy, and still
-be enclosed. For what selfhood is left once we are
+him, and come to know him, then, in his selfhood, just as
+Dorothea must learn to do. Yet to know him in this selfhood,
+evidently, is to pity him for a self he can never
+escape. For Eliot writes as if there were no way to enjoy,
+and still be enclosed. For what selfhood is left once we are
 possessed, fully, by the glory we behold? Or once our
 consciousness is transformed, rapturously, into the
 vividness of a thought? The ardor of a passion? The energy
-of an action? Eliot writes of enjoyment as if it were an
+of an action? Eliot describes enjoyment as if it were an
 experience not of satisfaction, but of consummation.
 A liberation from the self in need, intelligibly enough; but
 where what remains in deliverance, more puzzlingly, is not
