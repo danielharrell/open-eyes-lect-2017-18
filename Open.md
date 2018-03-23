@@ -310,9 +310,8 @@ and Edward Causabon. Leaving context aside, we can read the
 passage as an argument against openness, despite how it
 begins, against the closedness of moral stupidity. For it is
 in her emergence from this stupidity, along with her desire,
-in devotion, 
-to transcend herself, that Dorothea suffers
-a kind of blindness towards her husband, different from
+in devotion, to transcend herself, that Dorothea suffers
+a kind of blindness towards her husband, deeper than any 
 delusions of his greatness. To see him truly, then, is *not*
 to see him as a lesser man, without the strength or wisdom
 to make her wise and strong in turn. It is rather to see him
@@ -321,8 +320,8 @@ how selfless she yearns to be. But this suggests something
 false in self-transcendence, even if it were possible. For
 it can blind one to the selfhood in others that we might say
 makes for true transcendence in recognition, not
-renunciation. An openness of recognition, in other words,
-is an openness enclosed in selfhood. 
+renunciation. An openness of recognition, in other words, is
+an openness enclosed in selfhood. 
 
 But now suppose we were ready to accept this argument
 against openness. What should we make, then, of this later
@@ -342,7 +341,7 @@ dim-sighted.
 The subject of this passage, of course, is Causabon himself.
 And Eliot addresses the reader directly, I think, to
 persuade us, if not to love him, at least to acknowledge
-him; and come to know him, then, in his selfhood, just as
+him, and come to know him, then, in his selfhood, just as
 Dorothea must learn to do. Yet to know him in his selfhood
 is to pity him, evidently, for a self he can never escape.
 Eliot writes as if there were no way to enjoy, and still be
@@ -356,10 +355,13 @@ self in need, but where what remains in deliverance is *not*
 the self fulfilled, or even a self at all, but only the
 fulfillment itself, with nothing left to fill. 
 
-- Below put limit in this way: an argument against openness
-when openness exists. Then move on to Bergson
+But how can there *be* fulfillment with nothing left to
+fill? The paradox here is again the paradox of
+self-transcendence, or an openness pure and true. Yet Eliot
+describes it without paradox. That is, she writes this
+description not to make joy look exceptional, but to make
+the man who lacks it look exceptional. 
 
-The puzzle in this is again of a self transcended altogether, or 
 an openness pure and true. , can make it easy to doubt Eliot's
 description of enjoyment. We might accuse it of falsely
 making what we feel into what we are, when there is no
