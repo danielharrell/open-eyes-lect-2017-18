@@ -262,7 +262,7 @@ inside rather than outside. And this is why I would not be
 carried outside myself in my awareness of anything else. 
 For instead, this awareness would bring the outside inside, and
 make it mine where I stand, at the point of my point of
-view.  And the self, more generally, would not be
+view. And the self, more generally, would not be
 transcended, but expanded, in the awareness of anything
 else, allowing self-awareness to contain it, not contradict
 it. 
@@ -271,10 +271,10 @@ But if the self is *not* transcended in the awareness of
 anything else, then it is hard to see how we are truly open
 rather than truly closed. For on this account of awareness,
 it seems that only if the self *encloses* what lies outside
-it, can the self be *open* to what lies outside it. And
-we ourselves would then be enclosed in openness, just like
-the parabola, in having selves at all, and as if being open
-were how being closed looked from within.
+it, can the self be *open* to what lies outside it. And we
+ourselves would then be enclosed in openness, just like the
+parabola, in having selves at all, and as if being open were
+how being closed looked from within.
 
 
 # Part Three {#three}
@@ -318,27 +318,93 @@ wisdom to make her wise and strong in turn. It is rather to
 see him as another self, which makes her a self in turn, no
 matter how selfless she yearns to be. But this suggests that
 transcending the self altogether is not simply impossible,
-but illusory, since a desire for this can blind one to the
+but deceptive, since a desire for this can blind one to the
 selfhood in others that makes for true transcendence in
 recognition, not renunciation. Or more briefly put: an
-openness not enclosed in selfhood is no openness at all, in
-seeming and being alike. 
+openness *not* enclosed in selfhood is no openness at all, in
+being and seeming alike. 
 
-Or to put the lesson one last way, that broadens the scope
-of recognition: to be open to another, or
-to anything other, means regarding it as *more* than other.
-But this seems to mean regarding it from a point of view at
-which the other is a self, or at least related
-to self. That is, it means seeing what is other from
-a center at which its otherness can be encompassed by the
-self. Or contained. Or enclosed. Which again would mean that
-being open, in the end, is a way of being closed, despite
-the look otherwise. Or more simply put: being open, truly
-and simply open, is impossible. 
+But suppose we were ready to accept this argument
+against openness. What should we make, then, of this later
+passage in *Middlemarch*:
 
+> “For my part I am very sorry for him. It is an uneasy lot
+at best, to be what we call highly taught and yet not to
+enjoy: to be present at this great spectacle of life and
+never to be liberated from a small hungry shivering
+self—never to be fully possessed by the glory we behold,
+never to have our consciousness rapturously transformed into
+the vividness of a thought, the ardor of a passion, the
+energy of an action, but always to be scholarly and
+uninspired, ambitious and timid, scrupulous and
+dim-sighted.
 
-the possibility of openness Start with a new argument against possibility, taken
-from Middlemarch.
+The subject of this passage, of course, is Dorothea's husband.
+And Eliot addresses the reader directly, I think, to
+persuade us, if not to love him, at least to acknowledge
+him, and come to know him, then, in his selfhood, 
+just as Dorothea must learn to do. It is as if Eliot
+wants to *open* us to Causabon, in the only form of
+openness possible, from self to self, if we accept the argument against an
+openness of self-transcendence implied in the previous passage. , from self to self, if we accept the arguments against
+openness by making him pitiable
+rather than contemptible, d if we accept the
+argument implicit in the earlierIt is as if Eliot wants
+to *open* us to Causabon, to undergo our own movement of
+transcendence, from reader to character, as she gives us
+a point of view on Causabon to make him pitiable rather than
+contemptible. That is, Eliot gives us a center from which
+another can be seen as self, and as if to move us from self
+to self, in what again would be the only form of
+self-transcendence possible, if our selfhood enclosed
+us in openness. 
+
+But what is it, then, that makes Causabon pitiable? For
+Eliot writes as if he should be pitied for a self he can
+never escape, and as if there were no way to enjoy, and still
+be enclosed. For what selfhood is left once we are
+possessed, fully, by the glory we behold? Or once our
+consciousness is transformed, rapturously, into the
+vividness of a thought? The ardor of a passion? The energy
+of an action? Eliot writes of enjoyment as if it were an
+experience not of satisfaction, but of consummation.
+A liberation from the self in need, intelligibly enough; but
+where what remains in deliverance, more puzzlingly, is not
+the self fulfilled, or even a self at all, but only the
+fulfillment itself, with nothing left to fill. 
+
+The puzzle in this, of a self transcended altogether, or of
+an openness pure and true, can make it easy to doubt Eliot's
+description of enjoyment. We might accuse it of falsely
+making what we feel into what we are, when there is no
+escape from what we are, even in the most ecstatic feeling
+of joy. Once the feeling is gone, we can presume, it will
+leave us with a self in need, as if our liberation in joy
+were just a dream. Yet Eliot writes her description not to
+make joy look exceptional, but to make the man who lacks it
+look exceptional. And if we are to pity him, it seems we
+must take the self-transcendence in joy that Causabon has
+never known to be true rather than false. A matter of fact
+rather than a matter for doubt. But this confronts us with
+another paradox. For how can we take a matter *as* fact, if
+it is easy to doubt? That is, how can we *read* what Eliot
+writes about self-transcendence as she intends it, if it is
+possible to *doubt* what she writes as she intends it? One
+answer is that what Eliot writes about self-transcendence
+can be questioned outside the novel, even if it goes
+unquestioned inside the novel. But this answer only sharpens
+the paradox. For why is it then only outside the novel, and
+outside ourselves as readers of the novel, that
+a description of being outside ourselves becomes
+questionable?
+
+There is an answer to this question too, but it only
+sharpens the paradox further. For on this answer, it is only
+outside ourselves that being outside ourselves becomes
+questionable. Or doubtful. Or even seem impossible. Or to
+put the answer another way, that seems to reverse our
+earlier conclusion: it is only openness that can make being
+open look like a way of being closed. 
 
 
 In the argument I just gave, for example,
