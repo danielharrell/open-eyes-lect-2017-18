@@ -8,11 +8,11 @@
 1. [Part Two](#two)  
 <!-- Renumber according to Pandoc -->
 1. [Part Three](#three)
-1. [Part Four: Paradox Resolved](#four)
+1. [Part Four](#four)
 1. [Conclusion](#conclude)
 1. [Notes](#notes)
 
-My lecture tonight is in three parts.
+My lecture tonight is in four parts.
 
 # Part One {#one}
 
@@ -65,7 +65,7 @@ say our eyes are open, merely to mean we are awake. But why
 say this of our eyes, and not our eyelids, which we might
 call "open" more literally? To use the word for our eyes may
 be figurative; but it captures how we seem to see *through*
-our eyes, as if they were open, or at least transparent, to
+our eyes, as if they were open, to
 a whole world outside us. <!-- Could refer back to this when
 I get to transparent cage in Wolff quote.-->  To ask about the
 meaning of "open", then, is to ask about the meaning of
@@ -282,16 +282,16 @@ how being closed looked from within.
 The self, then, gives us a final way to wonder how being
 open is possible. So *is* it possible? And if it is, then
 how? Or should we take arguments against its possibility
-to be not just provocative, but persuasive? Are these
-arguments to deepen our wonder? Or dispel it? 
+to be not just provocative, but persuasive? Should these
+arguments deepen our wonder? Or dispel it? 
 
 I just gave three such arguments, drawn from a jar,
 a parabola, and the self. But I now want to turn to
-a fourth, drawn from a book read in seminar, to clarify the
-limits, I think, of arguments against openness. So consider
+a fourth, drawn from a book read in seminar, to clarify a 
+limit, I think, in arguments against openness. So consider
 this passage, from perhaps the greatest novel written in
-English: <!--later mention how openness a matter of description,
-not argument-->
+English: <!--later mention how openness a matter of
+description, not argument-->
 
 > We are all of us born in moral stupidity, taking the world
 as an udder to feed our supreme selves: Dorothea had early
@@ -310,18 +310,20 @@ and Edward Causabon. Leaving context aside, we can read the
 passage as an argument against openness, despite how it
 begins, against the closedness of moral stupidity. For it is
 in her emergence from this stupidity, along with her desire,
-in devotion, to transcend herself, that Dorothea suffers
-a kind of blindness towards her husband, deeper than any 
-delusions of his greatness. To see him truly, then, is *not*
-to see him as a lesser man, without the strength or wisdom
-to make her wise and strong in turn. It is rather to see him
-as another self, which makes her a self in turn, no matter
-how selfless she yearns to be. But this suggests something
-false in self-transcendence, even if it were possible. For
-it can blind one to the selfhood in others that we might say
-makes for true transcendence in recognition, not
-renunciation. An openness of recognition, in other words, is
-an openness enclosed in selfhood. 
+in devotion, to transcend herself in life, that Dorothea
+suffers a kind of blindness towards her husband, deeper than
+any delusions of his greatness. To see him truly, then, is
+*not* to see him as a lesser man, without the strength or
+wisdom to make her wise and strong in turn. It is rather to
+see him as another self, which makes her a self in turn, no
+matter how selfless she yearns to be. 
+
+But this suggests something false in self-transcendence,
+even if it were possible. For it can blind one to the
+selfhood in others that we might say makes for true
+transcendence in recognition, not renunciation. And an
+openness of recognition, then, is an openness still enclosed
+in selfhood. 
 
 But now suppose we were ready to accept this argument
 against openness. What should we make, then, of this later
@@ -342,49 +344,80 @@ The subject of this passage, of course, is Causabon himself.
 And Eliot addresses the reader directly, I think, to
 persuade us, if not to love him, at least to acknowledge
 him, and come to know him, then, in his selfhood, just as
-Dorothea must learn to do. Yet to know him in his selfhood
-is to pity him, evidently, for a self he can never escape.
-Eliot writes as if there were no way to enjoy, and still be
-enclosed. For what selfhood is left once we are possessed,
-fully, by the glory we behold? Or once our consciousness is
-transformed, rapturously, into the vividness of a thought?
-The ardor of a passion? The energy of an action? Eliot
-describes enjoyment as if it were an experience not of
-satisfaction, but of consummation. A liberation from the
-self in need, but where what remains in deliverance is *not*
+Dorothea must learn to do. Yet to know him in his selfhood,
+on Eliot's account, is to pity him for a self he can never
+escape. Eliot writes as if there were no way to enjoy, and
+still be enclosed. For what selfhood is left once we are
+possessed, fully, by the glory we behold? Or once our
+consciousness is transformed, rapturously, into the
+vividness of a thought, the ardor of a passion, the energy
+of an action? Eliot describes enjoyment as if it were an
+experience not of satisfaction, but of consummation.
+A liberation from the self in need, intelligibly enough; but
+where what remains in deliverance, more puzzlingly, is *not*
 the self fulfilled, or even a self at all, but only the
 fulfillment itself, with nothing left to fill. 
 
-But how can there *be* fulfillment with nothing left to
-fill? The paradox here is again the paradox of
-self-transcendence, or an openness pure and true. Yet Eliot
-describes it without paradox. That is, she writes this
-description not to make joy look exceptional, but to make
-the man who lacks it look exceptional. 
+The puzzle here is again the puzzle of self-transcendence,
+or the paradox of being open, without being enclosed. Yet
+Eliot describes this as if it were patent rather than
+puzzling. She writes of enjoyment, in other words, not to
+make *it* look exceptional, but to make a life without it
+look exceptional. And if we are to pity the man trapped in
+a joyless life, and acknowledge him, through pity, in his
+selfhood, then it seems we must take the self-transcendence
+he has never known to be a matter of fact, not a matter for
+doubt. Yet how can it be taken this way, unless it *is*,
+somehow, a matter of fact? 
 
-an openness pure and true. , can make it easy to doubt Eliot's
-description of enjoyment. We might accuse it of falsely
+But this suggests that the limit in arguments against
+openness is that they are arguments, then, against a fact.
+They suppose that something present, perhaps even
+ever-present, might not be possible, and then crown this
+mistake by deeming it impossible. Or to speak more
+generously of such arguments, if indeed they are arguments
+against a fact: our wonder at the word "open" should not be
+dispelled by them, but deepened. And one way to acknowledge
+this, I think, is to recast our question in wonder. For
+what if this question, now, were *not*: how is being open
+possible? But rather: how is being open present?
+
+# Part Four {#four}
+
+, even though it is easy
+to doubt from Eliot's description. We might accuse it of falsely
 making what we feel into what we are, when there is no
 escape from what we are, even in the most ecstatic feeling
 of joy. Once the feeling is gone, we can presume, it will
 leave us with a self in need, as if our liberation in joy
-were just a dream. Yet Eliot writes her description not to
-make joy look exceptional, but to make the man who lacks it
-look exceptional. And if we are to pity him, it seems we
-must take the self-transcendence in joy that Causabon has
-never known to be true rather than false. A matter of fact
-rather than a matter for doubt. But this confronts us with
-another paradox. For how can we take a matter *as* fact, if
-it is easy to doubt? That is, how can we *read* what Eliot
-writes about self-transcendence as she intends it, if it is
-possible to *doubt* what she writes as she intends it? One
-answer is that what Eliot writes about self-transcendence
-can be questioned outside the novel, even if it goes
-unquestioned inside the novel. But this answer only sharpens
-the paradox. For why is it then only outside the novel, and
-outside ourselves as readers of the novel, that
-a description of being outside ourselves becomes
+were just a dream. But again, to raise such doubts misses
+the point, by turning us away from Causabon and even carrying
+us outside the novel. If Eliot writes her description as if any
+such doubt is beside the point. And on her behalf, we might say
+raising such doubts is less likely to deepen our reading of the\
+novel, is not a way of reading the
+novel more deeply, to halt our
+reading of the novel likelier to ruin our reading
+than to deepen it, risks reading the novel poorly
+rather than well. . We must accept Eliot's
+description rather than question it, even though questions
+are easy to come by. this description of self-transcendence
+to be a matter of fact, not a matter for doubt. the
+self-transcendence he has never known to be true rather than
+false. A matter of fact rather than a matter for doubt. But
+this confronts us with another paradox. For how can we take
+a matter *as* fact, if it is easy to doubt? That is, how can
+we *read* what Eliot writes about self-transcendence as she
+intends it, if it is possible to *doubt* what she writes as
+she intends it? One answer is that what Eliot writes about
+self-transcendence can be questioned outside the novel, even
+if it goes unquestioned inside the novel. But this answer
+only sharpens the paradox. For why is it then only outside
+the novel, and outside ourselves as readers of the novel,
+that a description of being outside ourselves becomes
 questionable?
+
+- Make new part for Bergson
 
 There is an answer to this question too, but it only
 sharpens the paradox further. For on this answer, it is only
