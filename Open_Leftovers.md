@@ -1894,3 +1894,461 @@ language: the world can appear outside us, if the outside
 is not just a mode of extension, or medium of motion, but a
 form of sensibility.
 
+
+- There are two ways to take the above arguments.
+
+- Should we take these arguments to deepen our wonder at
+the word "open"? Or instead to dispel it? That is, should
+we take these arguments against the possibility of openness
+to be persuasive? Or provocative?
+
+- But we have a commonplace expression to
+clarify the suggestion, and make it more concrete, when we
+speak of having *a point of view*. Here at the podium, for
+example, my awareness gives me a point of view on you in the
+audience. And this explains why I can be aware of you
+without becoming you, or at least find myself sitting beside
+you in the audience. For it seems I remain just where I am,
+and what I am, at the point of my point of view. And my
+awareness of you, or of anything else, strictly changes
+nothing in either my place or my identity. But the very idea
+of a point of view comes with a paradox of its own, to
+suggest why having a point of view means being enclosed in
+openness. For how can a view belong to a point? That is, how
+can a whole with many parts belong to that which has no
+part? Perhaps in something like the way
+a circumference belongs to a center. For in that case, my
+awareness of you would not mean that I became you, or
+reached you, but instead that I encompassed you. And in that
+sense, it seems, I would *contain* you in my point of view,
+as if my openness to you were a matter of enclosing you; and
+as if we were both, more generally, enclosed in openness,
+much like a parabola, and perhaps even more like a circle. 
+
+From earlier draft: Think again of how we say our eyes are
+open when we are awake, which captures how we seem to see
+*through* our eyes, as if they were transparent, to a whole
+world outside us. But this is also again to speak
+figuratively, and perhaps somewhat thoughtlessly. For how
+can eyes be transparent if they have color? Or be open if
+they can be poked, injured, even blinded? If we spoke more
+thoughtfully about our eyes, and about our relation to the
+world through awareness more generally, we might say
+something more like this: 
+
+- From earlier draft: we might say that I am carried
+outside myself in my awareness of anything else, yet also
+kept inside myself since this awareness is mine, and known
+as mine through self-awareness. But how can awareness, then,
+put me inside and outside at once? Or carry me from one to
+the other, as if the two were continuous; yet keep me in one
+rather than the other, as if the two were discontinuous? And
+how could I be kept inside myself without closing myself,
+making openness impossible? Or carried outside myself
+without losing myself, again making openness impossible? 
+
+- From earlier drafts:
+If anything, the force of this idea is lost in familiarity.
+But to make it less familiar, think again of those deeper
+moments of speech, where we speak of openness---whether of
+eyes, or arms, or mind, or heart--as if it were a state of
+being. We can think in turn of rarer moments in life that
+justify such speech, where we might want to say that
+something *can* change, or *has* changed, in our place or
+identity. We could think of these as moments of otherness
+that most reveal our openness. Still, it seems easier to
+suppose that such moments have done something *to* our point
+of view---moved it, altered it, enlarged it, deepened
+it---than to suppose they have more simply erased it, or
+denied it, or refuted the very idea of it. In other words,
+it is easier to suppose that the self might be
+transformed, than to suppose that the self could ever be
+transcended. But why should this be easier, unless the self
+stayed intact enough, or closed enough, to make the
+otherness in openness seem a property of self rather than
+a negation of self? 
+
+We can find still more support for this idea in the merest
+philosophical reflection. For in this context, the merest
+such reflection might be that our point of view *is* a point
+of view. And if we recognize this, it becomes possible to
+question our point of view, or doubt it, or even want to
+overcome it, as if we might someday see things from *no*
+point of view. See them, that is, as they truly are; as they
+are in themselves; as they are *outside* any point of view,
+no matter how encompassing. Yet how could we see at all,
+without a point of view?  Or ever see beyond it, if seeing
+any distance requires it? And if the self in this sense can
+never be relinquished, or renounced, what is left but
+reconciliation? The self-knowledge of Socratic ignorance? 
+The self-certainty of Cartesian doubt? The transcendental
+self of Kantian critique? Or the absolute self of Hegelian
+dialectic? It can start to seem as if there is nothing at
+the end of philosophical reflection but a self to embrace,
+since it can never be escaped. We might even make
+philosophical reflection a matter of self-embrace from the
+start. Consider the way one philosopher does this:
+
+From Schopenhauer quote: 
+
+In light of this passage, we might infer if I knew a sun and
+an earth, then I would be truly open. But because I am truly
+closed, or again enclosed in openness, I only know an eye
+that sees a sun, a hand that feels an earth. The world, in
+this sense, is always my representation, never a reality
+apart. Or again, a matter of seeming rather than being. Yet
+to recognize this, on Schopenhauer's account, is the dawning
+of philosophical discernment. In other words, there is
+enough openness even when enclosed, or enough substance in
+seeming, to make knowledge possible. And the knowledge
+possible is philosophical. 
+
+What more could we want out of openness, in that case, at
+least without becoming other than we are? For if we were
+truly open, then perhaps there would be no seeming, only
+being. We would see things always as they are. But this, we
+could say, is how a god sees, not how *we* see. In
+our case, the human case, there may be no way to see things as
+they are, except through how they seem. For how could we
+come to know the world apart from us, if knowing it at all puts
+it in relation to us? And calling the world my
+representation is one way of recognizing this. But
+philosophical discernment has other ways, and other words
+besides "representation". Such as "perception". Or
+"impression". "Image". "Idea". Or "opinion". "Claim".
+"Account". ---Any word that would lose its place in a world
+without us. *To need* such words is a sign that our openness
+is *not* enough *to be* knowledge. But *to have* such words
+is a sign that our openness *is* enough *to gain* knowledge.
+Knowledge, at least, of the self that encloses us in
+openness, and gives us the words we need to make sense of
+this predicament---the word "self" most of all. 
+
+And while philosophical discernment has tread more than one
+path to knowledge in this sense, every such path comes to an
+end, it seems, in the embrace of a self we can never 
+escape. The self of Schopenhauer's path, for example, is
+the world as will and representation. But we know of others
+from the books we read. The ignorance of Socrates that leads
+to self-knowledge. Or the doubt of Descartes that leads to
+self-certainty. Kant's critique, through which we discover the 
+transcendental subject. Or Hegel's dialectic,
+by which we reach Absolute Spirit. 
+
+But even if the self to embrace proved absolute, and the way
+things seemed *were* the way things are, there would be
+a sense, also proved absolute, in which we were trapped in
+this self. At the same time that there would be no reason for 
+escape, or point to it, the desire for it might grow all
+the stronger, as if having no reason were reason
+enough. To clarify what I mean, consider the way a recent
+book of philosophy, by Francis Wolff, describes our
+predicament: 
+
+> Everything is inside because in order to
+think anything whatsoever, it is necessary to ‘be able to be
+conscious of it’, it is necessary to say it, and so we are
+locked up in language or in consciousness without being able
+to get out. In this sense, they have no outside. But in
+another sense, they are entirely turned towards the outside;
+they are the world’s window: for to be conscious is always
+to be conscious of something, to speak is necessarily to
+speak about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
+
+- What is perhaps most striking in this description is
+how we remain enclosed in language or consciousness even
+if they encompass their objects *as they are*, not merely
+as they seem.
+
+- Compare transparent cage in this quote with Platonic cave.
+
+- On one hand, philosophical reflection; on other hand,
+trapped in transparent cage.
+
+- Conclusion: liberation depends on being open.
+Wolff quote: Or to
+clarify this supposition, consider a passage from
+a more recent work in 
+
+And since the self, in this sense, can never be
+relinquished, or renounced, it is recognition, or even
+reconciliation, what is left for philosophical discernment
+but reconciliation, or recognition. Then move on to examples
+of In one arrangement of words, we might call this
+predicament the self-knowledge of Socratic ignorance. Or in
+another, the self-certainty of Cartesian doubt. The
+transcendental self of Kantian Critique. uAnd with such
+words come different ways for philosophical discernment to
+reconcile us Use escape and embrace since Wolff quote uses
+cage. whether we call it the self-knowledge of Socratic
+ignorance; or the self-certainty of Cartesian doubt. The
+transcendental self of Kantian critique. Or the absolute
+self of Hegelian dialectic. All of these would involve the
+same recognition that the self must be embraced, since it
+can never be escaped. (Borrow language of self-transcendence
+from above, before moving on to Wolff quote.)
+
+- A self to be embraced when it cannot be transcended. 
+
+- Check earlier formulation of openness as seeming rather
+than being; see if I can re-write this more clearly.
+
+- To know philosophically, on this account, is to know the
+difference between seeming and being. If we were truly open,
+we would be divine, not human.
+
+- Look up more ways of formulating this on Things app for
+stuff below.
+
+- What we see of the world is perception, and what we say of
+it opinion.
+
+- Other ways to speak of this:
+    - Opinion in Socrates
+    - Ideas in Descartes
+    - Impressions in Hume
+    - Representation in Kant
+    - Language in Wittgenstein
+
+- Second conclusion: philosophical reflection, or the deepest
+kind of awareness, depend on being enclosed in openness.
+
+- Move from here to philosophy being borne of questioning
+this point of view: how things seem vs how things are.
+
+
+- In other words, it is easier to suppose that the self
+  might be transformed, than to suppose that the self could
+  ever be transcended. 
+
+We can find still more support for this idea in the merest
+philosophical reflection. For in this context, the merest
+such reflection might be that our point of view *is* a point
+of view. And if we recognize this, it becomes possible to
+question our point of view, or doubt it, or even want to
+overcome it, as if we might someday see things from *no*
+point of view. See them, that is, as they truly are; as they
+are in themselves; as they are *outside* any point of view,
+no matter how encompassing. Yet how could we see at all,
+without a point of view?  Or ever see beyond it, if seeing
+any distance requires it? And if the self in this sense can
+never be relinquished, or renounced, what is left but
+reconciliation? It can start to seem as if there is nothing at
+the end of philosophical reflection but a self to embrace,
+since it can never be escaped. We might even make
+philosophical reflection a matter of self-embrace from the
+start. Consider the way one philosopher does this:
+
+- Conclusion: philosophical reflection, and
+therefore liberation, depends on
+being closed. 
+
+- Wolff quote.
+
+- Then move onto the Wolff quote: frame it as an account
+that can unsettle even if we do know things the way they are.
+
+The sense of this predicament, of being enclosed in
+openness, is captured well, I think, in this description by
+Francis Wolff, a contemporary philosopher:
+
+For example, consider this description of our
+openness, from a recent book in philosophy by Francis
+Wolff: 
+> Everything is inside because in order to think anything
+whatsoever, it is necessary to ‘be able to be conscious of
+it’, it is necessary to say it, and so we are locked up in
+language or in consciousness without being able to get out.
+In this sense, they have no outside. But in another sense,
+they are entirely turned towards the outside; they are the
+world’s window: for to be conscious is always to be
+conscious of something, to speak is necessarily to speak
+about something. To be conscious of the tree is to be
+conscious of the tree itself, and not the idea of the tree;
+to speak about the tree is not just to utter a word but to
+speak about the thing. Consequently, consciousness and
+language enclose the world within themselves only insofar
+as, conversely, they are entirely contained by it. We are in
+consciousness or language as in a transparent cage.
+Everything is outside, yet it is impossible to get
+out.[^Wolff]
+
+- What is perhaps most striking in this description is
+how we remain enclosed in language or consciousness even
+if they encompass their objects *as they are*, not merely
+as they seem.
+
+- Compare transparent cage in this quote with Platonic cave.
+
+- On one hand, philosophical reflection; on other hand,
+trapped in transparent cage.
+
+- Conclusion: liberation depends on being open.
+
+Then turn to Middlemarch (see paragraphs from 
+earlier drafts below)
+
+- Dorothea/Causabon quote.
+
+- Conclusion: being good depends on being closed.
+
+- Causabon quote.
+
+- Conclusion: being good depends on being open.
+
+Then move on to part four.
+
+Nor do we need the arguments of philosophy to reach this
+conclusion. And other ways of reaching it, as they broaden
+its scope to include other selves, can even allow for
+the semblance of self-transcendence. <!--Perhaps add to
+previous sentence: "at least in modes of openness other
+than awareness, like hospitality.--> Consider this passage,
+from perhaps the greatest novel in English:
+
+> (797) Rosamond, taken hold of by an emotion stronger than
+her own---hurried along in a new movement which gave all things
+some new, awful, undefined aspect---could find no words,
+but involuntarily she put her lips to Dorothea's forehead
+which was very near her, and then for a minute the two women
+clasped each other as if they had been in a shipwreck.
+
+Readers of *Middlemarch* may remember this moment. For Eliot
+leads us to it from a depiction, in the character of
+Rosamond Vincy, of a self that seems incapable of such
+a moment: the moment when a life of self-regard reaches
+a point of self-release. But this point of self-release, as
+Eliot describes it, is in the shipwrecked embrace of another
+self, as if there were nothing outside self but self, making
+transcendence, in turn, a movement from self to self.
+
+Nor is this the only such moment in the novel. The
+other self in the passage above, Dorothea Brooke, is led
+to a similar point, in her unhappy first marriage to
+Mr. Causabon. Here is how Eliot accounts for it:
+
+> We are all of us born in moral stupidity, taking the world
+as an udder to feed our supreme selves: Dorothea had early
+begun to emerge from that stupidity, but yet it had been
+easier to her to imagine how she would devote herself to Mr.
+Casaubon, and become wise and strong in his strength and
+wisdom, than to conceive with that distinctness which is no
+longer reflection but feeling---an idea wrought back to the
+directness of sense, like the solidity of objects--that he
+had an equivalent centre of self, whence the lights and
+shadows must always fall with a certain difference.
+
+On this account, what Dorothea must learn is not that she
+married a lesser man, without the strength or wisdom to make
+her wise and strong in turn; but rather that she married
+another self, which makes her a self in turn, no matter how
+selfless she yearns to be. Or to put the lesson another way:
+to transcend the self altogether is not simply impossible,
+but illusory, since a desire for this can blind one to the
+selfhood in others that makes for true transcendence in
+recognition, not renunciation. 
+
+Or to put the lesson one last way, that broadens the scope
+of recognition: to be open to another, or
+to anything other, means regarding it as *more* than other.
+But this seems to mean regarding it from a point of view at
+which the other is a self, or at least related
+to self. That is, it means seeing what is other from
+a center at which its otherness can be encompassed by the
+self. Or contained. Or enclosed. Which again would mean that
+being open, in the end, is a way of being closed, despite
+the look otherwise. Or more simply put: being open, truly
+and simply open, is impossible. 
+
+- Original part Three division was here.
+
+But *is* it impossible? There is yet another passage in
+*Middlemarch*, I think, to help us raise this question
+anew, and renew our wonder at the word
+"open". 
+
+> “For my part I am very sorry for him. It is an uneasy lot
+at best, to be what we call highly taught and yet not to
+enjoy: to be present at this great spectacle of life and
+never to be liberated from a small hungry shivering
+self—never to be fully possessed by the glory we behold,
+never to have our consciousness rapturously transformed into
+the vividness of a thought, the ardor of a passion, the
+energy of an action, but always to be scholarly and
+uninspired, ambitious and timid, scrupulous and
+dim-sighted.
+
+The subject of this passage, of course, is Edward Causabon.
+And Eliot addresses the reader directly, I think, to
+persuade us, if not to love him, at least to acknowledge
+him, and come to know him, then, as self rather than other,
+just as Dorothea must learn to do. It is as if Eliot wants
+to *open* us to Causabon, to undergo our own movement of
+transcendence, from reader to character, as she gives us
+a point of view on Causabon to make him pitiable rather than
+contemptible. That is, Eliot gives us a center from which
+another can be seen as self, and as if to move us from self
+to self, in what again would be the only form of
+self-transcendence possible, if our selfhood enclosed
+us in openness. 
+
+But what is it, then, that makes Causabon pitiable? For
+Eliot writes as if he should be pitied for a self he can
+never escape, and as if there were no way to enjoy, and still
+be enclosed. For what selfhood is left once we are
+possessed, fully, by the glory we behold? Or once our
+consciousness is transformed, rapturously, into the
+vividness of a thought? The ardor of a passion? The energy
+of an action? Eliot writes of enjoyment as if it were an
+experience not of satisfaction, but of consummation.
+A liberation from the self in need, intelligibly enough; but
+where what remains in deliverance, more puzzlingly, is not
+the self fulfilled, or even a self at all, but only the
+fulfillment itself, with nothing left to fill. 
+
+The puzzle in this, of a self transcended altogether, or of
+an openness pure and true, can make it easy to doubt Eliot's
+description of enjoyment. We might accuse it of falsely
+making what we feel into what we are, when there is no
+escape from what we are, even in the most ecstatic feeling
+of joy. Once the feeling is gone, we can presume, it will
+leave us with a self in need, as if our liberation in joy
+were just a dream. Yet Eliot writes her description not to
+make joy look exceptional, but to make the man who lacks it
+look exceptional. And if we are to pity him, it seems we
+must take the self-transcendence in joy that Causabon has
+never known to be true rather than false. A matter of fact
+rather than a matter for doubt. But this confronts us with
+another paradox. For how can we take a matter *as* fact, if
+it is easy to doubt? That is, how can we *read* what Eliot
+writes about self-transcendence as she intends it, if it is
+possible to *doubt* what she writes as she intends it? One
+answer is that what Eliot writes about self-transcendence
+can be questioned outside the novel, even if it goes
+unquestioned inside the novel. But this answer only sharpens
+the paradox. For why is it then only outside the novel, and
+outside ourselves as readers of the novel, that
+a description of being outside ourselves becomes
+questionable?
+
+There is an answer to this question too, but it only
+sharpens the paradox further. For on this answer, it is only
+outside ourselves that being outside ourselves becomes
+questionable. Or doubtful. Or even seem impossible. Or to
+put the answer another way, that seems to reverse our
+earlier conclusion: it is only openness that can make being
+open look like a way of being closed. 
+
+making  <!--Focus on
+"eye that sees a sun" as example of being enclosed in
+openness. Also note that it takes philosophical discernment
+to see this. So how?--> 
+
