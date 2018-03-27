@@ -406,7 +406,30 @@ itself, pictorial, as we perceive it: image it is, but
 a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
-being open is present in what Bergson calls common sense. FHow is being open present: 
+being open is not just possible, but present, in what
+Bergson calls common sense. Because of common sense, the way
+things seem is the way things are, and arguments to the
+contrary are astonishing. In other words, there is something
+in the nature of common sense that separates it from not just a source of openness, because of
+common sense, we are open, not closed, and arguments that
+this is impossible are 
+
+in another mark of
+openness. 
+
+But a deeper sign of its presence is that common sense is
+*immune*, on this account, to arguments against its
+openness, and we would be astonished, : it gives us no awareness that the way things seem
+is *not* the way they are; and we would be astonished, not
+persuaded, by conclusions to this effect, from what Bergson
+calls the speculations of philosophy. 
+
+If we were truly open, how things seem would be how things
+are. But this is how they are for common sense, where
+the object at once exists in itself and is *as* we perceive
+it. 
+
+FHow is being open present: 
     - For common sense, how things seem is how things are.
     - Common sense is immune to philosophical reflection. 
     - Philosophical reflection, how things seem is *not* how
@@ -419,8 +442,17 @@ oneself. This is perhaps the most compelling argument against
 being open: that if we were open, how things seem would be
 how things are. But philosophy predicated on diference
 between seeming and being. 
-- Perhaps mention Descartes in this context: needs malicious
+- Perhaps mention Descartes in this context: to separate
+seeming from being requires more than an appeal to the
+deceptions in perception, for these are local, not
+global, and self-correcting. You need a more general
+comparison involving all of wakeful life, either in
+dreaming, or in a deceptive being outside me. Also
+compare to Plato. Platonic cave. A prisoner "unchained",
+but how? By whom? needs malicious
   demon to really get seeming separated from being.
+No continuity between seeming and being; need break.
+
 To clarify what I mean, consider this
 passage, from a book by Bergson:  
 
@@ -488,7 +520,22 @@ makes openness possible?
 - Then mention perspective in relation to Lobachevski.
     - It can seem as easy to separate seeming from being by
       noting that parallel tracks don't "look" parallel.
-    - But in fact they do look parallel.
+    - But in fact they do look parallel. The convergence,
+    in this case, belongs to their increasing distance from
+    us, not to their.  
+    - Sameness of proportion is sameness of being. Difference
+    in size sameness of being.
+
+- How things seem is how things are: sameness of proportion is a
+sameness of identity, and allows us to see (objects appear at
+various distances.)
+
+Problem of consciousness: no continuity between world of perception
+and world of embodiment. Gap in explanation. Gap between what it
+is and what it is like. Dislocation.
+
+Freud: deepening of self; but alternative, the conceiving of
+a self.
 
 Use Euclid vs Lobachevski as difference between infinity that preserves appearance vs finitude that undermines it. 
 - Music: The sounds of instruments in an orchestra become
