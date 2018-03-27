@@ -37,7 +37,7 @@ And is there something here not understood? Or better
 understood? The difference between a door and an open door
 may be like the difference between Socrates and Socrates
 sitting. For only a philosopher, says Aristotle,
-would care about this difference.[^Socrates.] But the
+would care about this difference.[^Socrates] But the
 philosopher in all of us, then, can wonder about that
 difference. We can wonder what it means to say "my door is
 always open"---even if asking this of a friend, who just
@@ -125,7 +125,7 @@ wonder about when we encounter, as if for the first time,
 figures made of wood come to life; or the sun reverse course
 one day in the sky; or the diagonal of a square escape
 measure by any part of its side, no matter how
-small.[^AristotleWonder.] The wonder, in each case, is how
+small.[^AristotleWonder]. The wonder, in each case, is how
 such a thing is possible. <!--Later point out that this
 isn't really possible, on a certain philosophical
 explanation--> Once we learn how, we can give what we
@@ -302,7 +302,7 @@ wisdom, than to conceive with that distinctness which is no
 longer reflection but feeling---an idea wrought back to the
 directness of sense, like the solidity of objects--that he
 had an equivalent centre of self, whence the lights and
-shadows must always fall with a certain difference.
+shadows must always fall with a certain difference.[^MMDorothea]
 
 Readers of *Middlemarch* may remember this passage, and the
 unhappy marriage that prompts it, between Dorothea Brooke
@@ -338,7 +338,7 @@ never to have our consciousness rapturously transformed into
 the vividness of a thought, the ardor of a passion, the
 energy of an action, but always to be scholarly and
 uninspired, ambitious and timid, scrupulous and
-dim-sighted.
+dim-sighted.[^MMCausabon]
 
 The subject of this passage, of course, is Causabon himself.
 And Eliot addresses the reader directly, I think, to
@@ -383,15 +383,11 @@ possible? But rather: how is being open present?
 
 # Part Four {#four}
 
-- Clarify question: how is being open present?
-- Bergson quote: shows that being open is present in a kind
-  of immunity to philosophical reflection
-- Perhaps mention Descartes in this context: needs malicious
-  demon to really get seeming separated from being.
-To clarify what I mean, consider this
-passage, from a book by Bergson:  
+To clarify what this change of question might mean,
+consider the following passage, from a book of philosophy
+by Henri Bergson:
 
->It would greatly astonish a man unaware of the speculations
+> It would greatly astonish a man unaware of the speculations
 of philosophy if we told him that the object before him,
 which he sees and touches, exists only in his mind and for
 his mind or even, more generally, exists only for mind, as
@@ -407,8 +403,26 @@ of our mind; they are part and parcel of an existence really
 independent of our own. For common sense, then, the object
 exists in itself, and, on the other hand, the object is, in
 itself, pictorial, as we perceive it: image it is, but
-a self-existing image. (from *Matter and Memory*, p. 10,
-Zone books): 
+a self-existing image.[^Bergson]
+
+We can read this passage, I think, as an account of how
+being open is present in what Bergson calls common sense. FHow is being open present: 
+    - For common sense, how things seem is how things are.
+    - Common sense is immune to philosophical reflection. 
+    - Philosophical reflection, how things seem is *not* how
+    things are. It is predicated on the difference between
+    seeming and being. 
+
+- Also mention from quote that philosophical reflection can
+be identified with being enclosed: cannot get "outside"
+oneself. This is perhaps the most compelling argument against
+being open: that if we were open, how things seem would be
+how things are. But philosophy predicated on diference
+between seeming and being. 
+- Perhaps mention Descartes in this context: needs malicious
+  demon to really get seeming separated from being.
+To clarify what I mean, consider this
+passage, from a book by Bergson:  
 
 - Comment on this passage: if being open were possible,
 this is how it would be. But in this passage, openness
@@ -465,25 +479,6 @@ philosophy against that adequacy, then how do these
 speculations ever arise, much less become convincing? What
 makes philosophy possible? What makes wonder possible? What
 makes openness possible? 
-
-
-# Notes {#notes}
-
-[Back to top](#top)
-
-[^Socrates.]: "...it is the function of the philosopher to be able
-to investigate all things. For if it is not the function of
-the philosopher, who is it who will inquire whether Socrates
-and Socrates seated are the same thing, or whether one thing
-has one contrary, or what contrariety is, or how many
-meanings it has? And similarly with all other such
-questions." (Book IV, Part 2, *Metaphysics*)
-
-[^Dictionary]: See, for example, the [Merriam Webster
-entry](https://www.merriam-webster.com/dictionary/open) for
-"open". 
-
-[^AristotleWonder.]: Put Metphysics reference here.
 
 # Leftovers
 
@@ -646,3 +641,28 @@ Other related lecture thoughts:
      - Self refuting nature of self
      - Self a way to locate us
      - Wonder only possible in soul
+
+# Notes {#notes}
+
+[Back to top](#top)
+
+[^Socrates]: "...it is the function of the philosopher to be able
+to investigate all things. For if it is not the function of
+the philosopher, who is it who will inquire whether Socrates
+and Socrates seated are the same thing, or whether one thing
+has one contrary, or what contrariety is, or how many
+meanings it has? And similarly with all other such
+questions." (Book IV, Part 2, *Metaphysics*)
+
+[^Dictionary]: See, for example, the [Merriam Webster
+entry](https://www.merriam-webster.com/dictionary/open) for
+"open". 
+
+[^AristotleWonder]: Put Metphysics reference here.
+
+[^Bergson]: Bergson, Henri, *Matter and Memory*, p. 10
+(Zone books)
+
+[^MMDorothea]: Put page for Middlemarch Dorothea quote here.
+
+[^MMCausabon]: Put page for Middlemarch Causabon quote here.
