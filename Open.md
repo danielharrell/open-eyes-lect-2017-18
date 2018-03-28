@@ -410,10 +410,26 @@ being open is not just possible, but present, in what
 Bergson calls common sense. Because of it, the way things
 seem is the way things are, in one mark of openness; and
 arguments to the contrary sound incredible, in another mark.
+Or to sound less simplistic about this, we could say that
+for common sense, any difference between seeming and being
+can be resolved, as I catch myself, and correct myself, when
+I mistake one thing for another. It therefore takes an act
+of thought *beyond* common sense to make the difference
+between seeming and being *irresolvable*. We need Plato's
+allegory of the cave, or Descartes' *malin génie*, or some
+like appeal to a postulate rather than a phenomenon, to
+persuade us that the way things seem is *not* the way they
+are. And even then, because the appeal is to a postulate,
+the way we experience the world through common sense is left
+untouched. (Mention seminar here, and find a way to incorporate
+Euclidean.) 
 
-- The difference between being and seeming already a part
-of common sense, and a mark of openness. (Use Euclid and
-Lobachevski here.)
+, to tell us persuade us that we may never see
+things as they are, And the most famous examples of acts of
+thought in this sense---Plato's allegory of the cave;
+Descartes' his is why our most famous examples of , in this
+sense, therefore requires an act of thought beyond common
+sense, bounds, ,   
 
 - So it requires acts of thought, positing
 things that cannot be seen, to make sense of the difference
