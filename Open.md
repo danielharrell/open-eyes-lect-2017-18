@@ -407,22 +407,45 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. Because of common sense, the way
-things seem is the way things are, and arguments to the
-contrary are astonishing. In other words, there is something
-in the nature of common sense that separates it from not just a source of openness, because of
-common sense, we are open, not closed, and arguments that
-this is impossible are 
+Bergson calls common sense. Because of it, the way things
+seem is the way things are, in one mark of openness; and
+arguments to the contrary sound incredible, in another mark.
 
-in another mark of
-openness. 
+- The difference between being and seeming already a part
+of common sense, and a mark of openness. (Use Euclid and
+Lobachevski here.)
 
-But a deeper sign of its presence is that common sense is
-*immune*, on this account, to arguments against its
-openness, and we would be astonished, : it gives us no awareness that the way things seem
-is *not* the way they are; and we would be astonished, not
-persuaded, by conclusions to this effect, from what Bergson
-calls the speculations of philosophy. 
+- So it requires acts of thought, positing
+things that cannot be seen, to make sense of the difference
+between being and seeming in general.
+
+- Example of how we are left untouched, even if persuaded:
+seminar.
+
+- Lobachevski another act of thought.
+
+Bergson's account can also remind us that the
+deepest arguments against our openness in this sense---which
+is to say, the deepest arguments that the way things seem is
+*not* the way they are---require acts of philosophical
+thought that are uncommon, even heroic. It takes the likes
+of Plato's allegory of the cave, or Descartes' *malin
+génie*, to establish the difference between being and
+seeming in general, since this difference in particular is an
+everyday experience of common sense, in mistakes of
+perception that we can catch, and correct, as if to
+punctuate our openness before a word of philosophical
+speculation might tempt us, instead, to cross it out. 
+And there is also a way that philosophical speculation
+can persuade us on the outside while leaving us untouched
+on the inside. can leave our *experience* of Bergson's account might be extended even to our
+deepest moments of thought. 
+
+
+
+what might be called
+
+uncommon acts, even heroic acts, of thought: And together, these are marks of  
 
 If we were truly open, how things seem would be how things
 are. But this is how they are for common sense, where
