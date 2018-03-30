@@ -407,23 +407,34 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. And from the standpoint of
-common sense, the way things seem is the way things are, in
-one mark of openness; and arguments to the contrary sound
-incredible, in another mark. Or to sound less simplistic
-about this, we could say that for common sense, any
-difference between seeming and being can be resolved, as
-I can catch myself, and correct myself, *within* common
-sense, when I mistake one thing for another. To make the
-difference between seeming and being *irresolvable*, then,
-will take an act of thought *beyond* common sense, and
+Bergson calls common sense. For suppose we were open,
+without being enclosed. Then, we might infer, the way things
+seem would be the way things are. But this is true for
+common sense. ---So true, in fact, that arguments to the
+contrary sound incredible. Or to give the point more nuance,
+perhaps we could say that for common sense, any difference
+between seeming and being can be resolved, as I can catch
+myself, and correct myself, when I mistake one thing for
+another. To make the difference *irresolvable*  will
+therefore take an act of thought *beyond* common sense, and
 contrary to it. We will need Plato's cave, or Descartes'
 deceiver, or some like appeal, in effect, to a postulate
-rather than phenomenon, to persuade us that the
-way things seem is *not* the way they are. For even if we
-are persuaded, the way things seem *will seem* like the way
-they are: the world will never look like a cave to common
-sense, and the deceiver will never be discovered.
+rather than phenomenon, to persuade us that the way things
+seem is *not* the way they are. For even if we are
+persuaded, the way things seem *will seem* like the way they
+are. The world will never look like a cave to common sense,
+and the deceiver will never be discovered.
+
+Nor is common sense incorrigible in this respect, as if it
+were fooled every time we saw parallel lines, converging to
+a point in the distance. For convergence to a point *is* how
+parallels look, to common sense, and how they have to look
+to stay parallel; as their constant distance in one
+direction recedes to vanishing in another. And any object
+must implicitly follow these lines, or laws, of perspective,
+if it is to *look* as it is, however near or far, in
+a sameness of proportion rather than size.
+
 
 Nor is common sense naive in this respect, and we might take
 the word "common", in this case, not to mean "low", but
