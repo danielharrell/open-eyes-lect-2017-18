@@ -407,15 +407,28 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. For suppose we were open,
-without being enclosed. Then, we might infer, the way things
-seem would be the way things are. But this is true for
-common sense. ---So true, in fact, that arguments to the
-contrary sound incredible. Or to give the point more nuance,
-perhaps we could say that for common sense, any difference
+Bergson calls common sense. This presence is marked in the
+passage in two ways. (Express ways and then elaborate.)
+First, from the standpoint of common sense, how things seem
+is how things are, as if we were open to the world without
+qualification, and as if this openness, then, had the
+presence of a fact. But second, again from the standpoint of
+common sense, any claim to the contrary, that how things
+seem is *not* how they are, sounds incredible. And in this
+incredulity of common sense, to any claim against it, it is
+as if our openness to the world had the presence not just of
+a fact, but of a principle that justifies the fact. 
+
+Still, for those of us who admire philosophical speculation,
+it is hard not to dismiss common sense as naive; for surely
+the way things seem is *not* how they are. But I think there
+is a way to But why credit common sense as a fact, much less a principle,
+if Even so, those of us who admire philosophical speculation
+more likely to think of common s To clarify this, we might recast Bergon's description of
+common sense like this. For common sense, any difference
 between seeming and being can be resolved, as I can catch
 myself, and correct myself, when I mistake one thing for
-another. To make the difference *irresolvable*  will
+another. To make the difference *irresolvable*, then, will
 therefore take an act of thought *beyond* common sense, and
 contrary to it. We will need Plato's cave, or Descartes'
 deceiver, or some like appeal, in effect, to a postulate
