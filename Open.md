@@ -422,24 +422,57 @@ deceiver, or some like appeal, in effect, to a postulate
 rather than phenomenon, to persuade us that the
 way things seem is *not* the way they are. For even if we
 are persuaded, the way things seem *will seem* like the way
-things are: the world will never look like a cave to common
+they are: the world will never look like a cave to common
 sense, and the deceiver will never be discovered.
 
-Nor is common sense naive in this respect, especially if we
-take take the word "common", in this case, not to mean
-"low", but rather to mean "shared". (Revise from here;
-reserve word "perspective" for later point about
-Lobachevski.) Outside of seminar, for example, we sometimes
-talk of the conversation in seminar as if it were the
-examining of opinions. But inside of seminar, to have
-something you say *be called* an opinion will
-feel, most likely, as if your point was being dismissed
-rather than grasped. And you will feel it even if you agree,
-philosophically let us say, that what you said is indeed
-your opinion or perspective. say is in some sense it was
-yourself believe that what you said involved a perspective.
-And you will feel this way even if you believe that what you
-said, r belief this feeling won't be changed
+Nor is common sense naive in this respect, and we might take
+the word "common", in this case, not to mean "low", but
+rather to mean "shared". And what we share in common, in
+that case, gives us other ways into the passage from
+Bergson, and into the presence of openness. When we form
+a musical chorus, for example, the way things seem becomes
+the way they are, as the sound of our voices forms a world of
+tones onto itself, and every event in that world is 
+a matter of sense, explained by what we hear. And to be
+reminded of our voices as we sing, and how they sound
+*apart* from what they form, distinguishes seeming from
+being only at the risk of ruin, as we hear our voices too
+severally as *ours*, to hear them together as tones. The
+result would be cacophony to common sense, and only
+a philosophical speculation beyond common sense even if 
+we took it as proof that music is mere appearance, , illusion, it philosophical speculation The
+philosopher in us might be amused at the cacophonous 
+effect, And
+music, in this way, is a matter of common sense.   
+
+how our voices sound is less likely to underline
+thTo be told this world of tones is simply an appearance, of
+the sound of our voices our voices *as* voices is below this
+what what we hear, , at any level below what we hear is more
+likely to ruin the chorus than explicable in terms of
+consonance and dissonance, stability and instability, as if
+it were caused by consonance, or dissonance, justified in
+the aural light of consonance and dissonance, what we sense
+of consonance and dissonance, stability and instability, and
+we hearour sense of stability and instability, we must take
+the way things seem to be the way they are:  another way
+into the passage from Bergson, to appreciate the presence of
+openness in Bergson's passage. (Music.) And to think of our
+sharing in sense gives us another way to appreciate the
+passage from Bergson.  (Revise from here; reserve word
+"perspective" for later point about Lobachevski.) (Seminar
+composed of chairs, but also a table in common.) Outside of
+seminar, for example, we sometimes talk of the conversation
+in seminar as if it were the examining of opinions. But
+inside of seminar, to have something you say *be called* an
+opinion will feel, most likely, as if your point was being
+dismissed rather than grasped. And you will feel it even if
+you agree, philosophically let us say, that what you said is
+indeed your opinion or perspective. say is in some sense it
+was yourself believe that what you said involved
+a perspective. And you will feel this way even if you
+believe that what you said, r belief this feeling won't be
+changed
 
 is more likely a way of dismissing it than
 accepting it, much less understanding it. to dismiss it than to understand
