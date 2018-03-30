@@ -407,22 +407,53 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. Because of it, the way things
-seem is the way things are, in one mark of openness; and
-arguments to the contrary sound incredible, in another mark.
-Or to sound less simplistic about this, we could say that
-for common sense, any difference between seeming and being
-can be resolved, as I catch myself, and correct myself, when
-I mistake one thing for another. It therefore takes an act
-of thought *beyond* common sense to make the difference
-between seeming and being *irresolvable*. We need Plato's
-allegory of the cave, or Descartes' *malin génie*, or some
-like appeal to a postulate rather than a phenomenon, to
-persuade us that the way things seem is *not* the way they
-are. And even then, because the appeal is to a postulate,
-the way we experience the world through common sense is left
-untouched. (Mention seminar here, and find a way to incorporate
-Euclidean.) 
+Bergson calls common sense. And from the standpoint of
+common sense, the way things seem is the way things are, in
+one mark of openness; and arguments to the contrary sound
+incredible, in another mark. Or to sound less simplistic
+about this, we could say that for common sense, any
+difference between seeming and being can be resolved, as
+I can catch myself, and correct myself, *within* common
+sense, when I mistake one thing for another. To make the
+difference between seeming and being *irresolvable*, then,
+will take an act of thought *beyond* common sense, and
+contrary to it. We will need Plato's cave, or Descartes'
+deceiver, or some like appeal, in effect, to a postulate
+rather than phenomenon, to persuade us that the
+way things seem is *not* the way they are. For even if we
+are persuaded, the way things seem *will seem* like the way
+things are: the world will never look like a cave to common
+sense, and the deceiver will never be discovered.
+
+Nor is common sense naive in this respect, especially if we
+take take the word "common", in this case, not to mean
+"low", but rather to mean "shared". (Revise from here;
+reserve word "perspective" for later point about
+Lobachevski.) Outside of seminar, for example, we sometimes
+talk of the conversation in seminar as if it were the
+examining of opinions. But inside of seminar, to have
+something you say *be called* an opinion will
+feel, most likely, as if your point was being dismissed
+rather than grasped. And you will feel it even if you agree,
+philosophically let us say, that what you said is indeed
+your opinion or perspective. say is in some sense it was
+yourself believe that what you said involved a perspective.
+And you will feel this way even if you believe that what you
+said, r belief this feeling won't be changed
+
+is more likely a way of dismissing it than
+accepting it, much less understanding it. to dismiss it than to understand
+it. less likely a sign that your point
+is being understood not be a way of accepting it,
+or understanding, but instead a way of dismissing it. your point,
+or understanding it, is a way of dismissing what you say
+rather than understanding it. 
+
+And in being
+a postulate, what persuades will never be perceived. The
+world will never look like a cave to common sense, and the
+deceiver will never be discover, exposed. (Mention seminar
+here, and find a way to incorporate Euclidean.) 
 
 , to tell us persuade us that we may never see
 things as they are, And the most famous examples of acts of
