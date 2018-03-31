@@ -310,7 +310,7 @@ and Edward Causabon. Leaving context aside, we can read the
 passage as an argument against openness, despite how it
 begins, against the closedness of moral stupidity. For it is
 in her emergence from this stupidity, along with her desire,
-in devotion, to transcend herself in life, that Dorothea
+in devotion, to transcend herself, that Dorothea
 suffers a kind of blindness towards her husband, deeper than
 any delusions of his greatness. To see him truly, then, is
 *not* to see him as a lesser man, without the strength or
@@ -370,11 +370,11 @@ a matter of fact, not a matter for doubt. Yet how can it be
 taken this way, unless it *is*, somehow, a matter of fact? 
 
 This passage thus suggests that the limit in arguments
-against openness is that they are arguments, then, against
+against openness is that they are arguments, finally, against
 a fact. They suppose that something present, perhaps even
 ever-present, might not be possible, and then crown this
 mistake by deeming it impossible. Or to speak more
-generously of such arguments, if indeed they are arguments
+generously of such arguments, if they are arguments, indeed,
 against a fact: our wonder at the word "open" should not be
 dispelled by them, but deepened. And one way to acknowledge
 this, I think, is to recast our question in wonder. For what
@@ -407,28 +407,35 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. For it is in common sense that
-how things seem is how things are, and any claim to the
-contrary sounds incredible. Or to put this in our earlier
-terms, it is in common sense we are indeed open---so open,
-in fact, that there is no sign of our being enclosed, and no
-sense to make of any claims to that effect. 
+Bergson calls common sense. For in common sense, on
+Bergson's account, how things seem is how things are, and
+claims to the contrary sound incredible. In other words,
+using earlier words, we are open, not closed, as a matter of
+course. 
 
-But this can be hard to believe of common sense. For
-is it not common sense not to confuse the way things seem for
-the way they are? If we see a pair of railroad tracks, for
-example, converge to a point in the distance, we would only
-deny the tracks were parallel from a lack of common sense.
-This is true, but the passage from Bergson invites us to
-reconsider the reason. The tracks are parallel, for common
-sense, because they *look* parallel. And taking their
-convergence as a different look is what it would mean, in
-this context, to lack common sense, or to go outside common
-sense. This is just as if we claimed that an object of
-constant size looks as if it shrinks or grows, as it gets
-closer or farther away, when it really looks as if it gets
-closer or farther way.  , in just the way we would if we
-claimed that the same object looks as if it shrinks or
+This might be hard to believe at first, even from the
+standpoint of common sense. For there is self-knowledge in
+common sense, we could say, where we learn the limits of our
+openness, and the difference, then, between how things seem
+and how things are. It is common sense, for example, to call
+a pair of railroad tracks parallel, even though we see them
+converge to a point in the distance. often not how they are.
+learn the difference between the way things seem and the way
+they are, and gain this much self-knowledge know this much
+about the limits in our openness. not to confuse the way
+things seem for the way they are. If we see a pair of
+railroad tracks, for example, converge to a point in the
+distance, we would only deny the tracks were parallel from
+a lack of common sense. This is true, but the passage from
+Bergson invites us to reconsider the reason. The tracks are
+parallel, for common sense, because they *look* parallel.
+And taking their convergence as a different look is what it
+would mean, in this context, to lack common sense, or to go
+outside common sense. This is just as if we claimed that an
+object of constant size looks as if it shrinks or grows, as
+it gets closer or farther away, when it really looks as if
+it gets closer or farther way.  , in just the way we would
+if we claimed that the same object looks as if it shrinks or
 grows, when it actually looks as if it gets closer or
 farther away.  as we abstract from  the distance in one
 direction that causes the constant distance in another that
