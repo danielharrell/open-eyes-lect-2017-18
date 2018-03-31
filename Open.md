@@ -407,14 +407,61 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. This presence is marked in the
-passage in two ways. (Express ways and then elaborate.)
-First, from the standpoint of common sense, how things seem
-is how things are, as if we were open to the world without
+Bergson calls common sense. For it is in common sense that
+how things seem is how things are, and any claim to the
+contrary sounds incredible. Or to put this in our earlier
+terms, it is in common sense we are indeed open---so open,
+in fact, that there is no sign of our being enclosed, and no
+sense to make of any claims to that effect. 
+
+But this can be hard to believe of common sense. For
+is it not common sense not to confuse the way things seem for
+the way they are? If we see a pair of railroad tracks, for
+example, converge to a point in the distance, we would only
+deny the tracks were parallel from a lack of common sense.
+This is true, but the passage from Bergson invites us to
+reconsider the reason. The tracks are parallel, for common
+sense, because they *look* parallel. And taking their
+convergence as a different look is what it would mean, in
+this context, to lack common sense, or to go outside common
+sense. This is just as if we claimed that an object of
+constant size looks as if it shrinks or grows, as it gets
+closer or farther away, when it really looks as if it gets
+closer or farther way.  , in just the way we would if we
+claimed that the same object looks as if it shrinks or
+grows, when it actually looks as if it gets closer or
+farther away.  as we abstract from  the distance in one
+direction that causes the constant distance in another that
+we make outside common sense. Their convergence to a point,
+in other words, is how a constant distance in one direction
+looks as it recedes to vanishing in another direction.   as
+they converge.  common sense would deem the tracks parallel
+because they *look* parallel, it is common sense to deem
+them parallel, and a lack of common sense to deny this. yet
+still deem them parallel?  
+
+conflate seeming from being,  don't
+we distinguish seeming from being as soon as we see
+parallels, like railroad tracks, converging to a point in
+the distance?   know that the railroad tracks we see
+converging  as if openness in this sense were simply naive,
+we saw railroad tracks converging to a point in the
+distance: for do I *not* know the difference between seeming
+and being so soon as I see  it can seem as easy to
+distinguish how things seem from how things are as  the
+difference between seeming and being  how things seem and
+how they areThis may make common sense sound naive,    It is
+as if we were open to the world, with no way to tell, from
+within this openness, that we were enclosed in this
+openness,  there were no way from within our openness to the
+world to tell we  we were open to the world, with no way
+That is, we are open to the world, without being enclosed,
+It is as if we were open to the world, without being
+enclosed, as if we were open to the world without
 qualification, and as if this openness, then, had the
 presence of a fact. But second, again from the standpoint of
 common sense, any claim to the contrary, that how things
-seem is *not* how they are, sounds incredible. And in this
+seem is *not* how they are, sounds incredible.  And in this
 incredulity of common sense, to any claim against it, it is
 as if our openness to the world had the presence not just of
 a fact, but of a principle that justifies the fact. 
