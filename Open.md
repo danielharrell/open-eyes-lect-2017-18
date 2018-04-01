@@ -408,44 +408,64 @@ a self-existing image.[^Bergson]
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
 Bergson calls common sense. For in common sense, on
-Bergson's account, how things seem is how things are, and
+this account, how things seem is how things are, and
 claims to the contrary sound incredible. In other words,
 using earlier words, we are open, not closed, as a matter of
 course. 
 
 This might be hard to believe at first, even from the
 standpoint of common sense. For there is self-knowledge in
-common sense, we could say, where we learn the limits of our
-openness, and the difference, then, between how things seem
-and how things are. It is common sense, for example, to call
-a pair of railroad tracks parallel, even though we see them
-converge to a point in the distance. often not how they are.
-learn the difference between the way things seem and the way
-they are, and gain this much self-knowledge know this much
-about the limits in our openness. not to confuse the way
-things seem for the way they are. If we see a pair of
-railroad tracks, for example, converge to a point in the
-distance, we would only deny the tracks were parallel from
-a lack of common sense. This is true, but the passage from
-Bergson invites us to reconsider the reason. The tracks are
-parallel, for common sense, because they *look* parallel.
-And taking their convergence as a different look is what it
-would mean, in this context, to lack common sense, or to go
-outside common sense. This is just as if we claimed that an
-object of constant size looks as if it shrinks or grows, as
-it gets closer or farther away, when it really looks as if
-it gets closer or farther way.  , in just the way we would
-if we claimed that the same object looks as if it shrinks or
-grows, when it actually looks as if it gets closer or
-farther away.  as we abstract from  the distance in one
-direction that causes the constant distance in another that
-we make outside common sense. Their convergence to a point,
-in other words, is how a constant distance in one direction
-looks as it recedes to vanishing in another direction.   as
-they converge.  common sense would deem the tracks parallel
-because they *look* parallel, it is common sense to deem
-them parallel, and a lack of common sense to deny this. yet
-still deem them parallel?  
+common sense, we could say, where we first learn the limits
+of our openness, and the difference, then, between how
+things seem and how things are. It is common sense, for
+example, to call a pair of railroad tracks parallel, even
+though we see them converge to a point in the distance. But
+the passage from Bergson invites us to reconsider the reason
+for this. The tracks are parallel, for common sense, because
+they *look* parallel. And it would be a lack of common sense
+to think they looked otherwise, in converging to a point.
+For in this convergence, the distance between parallels is
+not decreasing, but receding. And the same is true for any
+object of sight, as it moves closer or farther away: the
+look of this, for common sense, is not that it shrinks or
+grows, but that it approaches or retreats. In the change of
+size there is no change in shape; and this is how
+seeming is being for common sense, as the object's
+identity preserves its proportions, and allows it to
+stay the same, from one moment or place to the next, not
+just in how it is, but in how it looks. 
+
+And if common sense were deceived in this, there would be no
+way for common sense to discover it, or allow us to accept
+it, without something like astonishment. Or to make the
+point closer to home: if there is to be a real difference
+between seeming and being, where parallel lines can look
+otherwise, or straight lines can look otherwise, or objects
+in general can look otherwise, then the difference---as we
+learn from Lobachevski---will rest on a postulate rather
+than phenomenon, and only challenge common sense in
+contradicting it. -Bring up philosophy here.
+
+rather than  t will
+not be parallel lines never look parallel, or straight lines
+never look straight, t, that are parallel never look
+parallel, or lines that are straight never look straight,
+straight lines straight, For it would require identity to be
+severed from proportion, as if a change of size always came
+with a change of shape, and where a change of size now means
+a change in shape, And this astonishment, I think, is just
+what the seniors feel, we experience, when identity is
+indeed severed from proportion, where a change in size means
+a change of shape, and parallels never look parallel,
+objects cannot change their size without chaging
+e experience this astonishment, I think, it is something
+like astonishment, I think, greet the news greet where
+proportion is not preserved by identity, it would be because
+proportion is not preserved in identiy, from a difference
+between identity and proportion, outside common sense, where
+every change of size involves a change of shape. of in this
+context, to speculate against common sense e only
+speculation against common sense , 
 
 conflate seeming from being,  don't
 we distinguish seeming from being as soon as we see
