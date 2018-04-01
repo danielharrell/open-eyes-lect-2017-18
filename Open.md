@@ -412,88 +412,111 @@ sense on this account, not even the self, to enclose our
 openness to the world, and turn the way things are, however
 they are, into the way they merely seem. Instead, the way
 things seem *is* the way things are, and claims to the
-contrary sound incredible. We are open to the world, as
-a matter of course, *without* being enclosed.
+contrary sound incredible. We are open to the world,
+without being enclosed, as a matter of course.
 
 But it is this claim we are more likely to find incredible,
-even from the standpoint of common sense. For in common
-sense, we could say, there is a kind of self-knowledge,
-where we first learn the limits of our openness to the
-world, and the difference between how things seem and how
-things are. When I mistake one thing for another, it is
-common sense to catch myself, and correct myself. Or to call
-a pair of railroad tracks parallel, even as we see them
-converge. But the passage from Bergson invites us to
-reconsider the reasons for this. When I mistake one thing
-for another, but catch and correct myself, the difference
-between seeming and being is not being maintained, but
-resolved. To maintain it would take an act of thought
-*beyond* common sense, like Plato's cave, or Descartes'
-deceiver. And the thought will be more like a postulate than
-like a phenomenon, even if it persuades us that how things
-seem is *not* how they are. This conviction will never make
-the world look like a cave to common sense, or allow it to
-discover the deceiver. Nor will parallels ever look
-otherwise, even in convergence to a point. For in this
-convergence, to common sense, the distance between parallels
-is not decreasing, but receding. Just as any object of sight
-will look as if it is approaching or retreating, not growing
-or shrinking, as it gets closer or farther away. If objects
-are to look otherwise, it will again take an act of thought
-beyond common sense, in this case involving the postulate
-that Lobachevski strips from Euclid, leaving the geometric
-world in a state to astonish the seniors, where how things
-seem is no longer how they are. 
+even from the standpoint of common sense. For how could the
+way things seem be the way things are? And what is common
+sense, if not a lesson in their difference? And a lesson
+writ large in a book like *Middlemarch*? I need not be
+Dorothea to mistake one thing for another; and when I do, it
+is common sense to catch myself, and correct myself. Or if
+I see a pair of railroad tracks, or highway lines, converge
+to a point in the distance, I would lack common sense if
+I doubted they were parallel, despite their look.  
 
-And while this astonishment of common sense might be thought
-naive, like a Euclid lacking in rigor, there are other ways
-into the passage of Bergson, and the presence of openness
-that it describes, to make common sense look enlightened.
-Outside seminar, for example, we might talk as if it
-involved the examining of opinions. But this is also to talk
-as if the seminar contained chairs without a table. For
-inside seminar, having your point be called an opinion is
-a way of dismissing it rather than pursuing it, and as if
-you were speaking from your chair rather than putting
-something on the table. , rather than attempting to put
-something on the table.  Philosophical speculation may even
-have convinced you that, yes, your point was indeed an
-opinion, and perhaps nothing more. But in the seminar it has
-to become something more to make the conversation move
-forward. Or to put this another way, your point might just
-be your opinion, but this is  And it becomes something more
-at the table, And we could say that the common sense of
-seminar and that you are so enclosed in your openness that
-; We may have perfectly good reasons, Outside seminar, in
-other words, we talk as if we were enclosed in openness and
-could only , And the difference between being outside and
-inside seminar is like the difference between being outside
-and inside common sense. would feel like a way of dismissing
-it rather than And behind this talk there would be much
-philosophical speculation ,is sometimes thought to lack the
-kowing rigor of a modern, without the rigor of a modern,
-But suppose common sense were deceived in this. There would
-be no way for common sense to discover it, or allow us to
-accept it, without something like astonishment. For if there
-is to be a real difference between seeming and being, where
-parallel lines can look otherwise, or straight lines can
-look otherwise, or objects in general can look otherwise,
-then the difference---as we learn from Lobachevski---will
-rest on a postulate rather than phenomenon, and only
-challenge common sense by contradicting it. Or to broaden
-the point, we could say that for common sense, any
-difference between seeming and being can be resolved, as
-I can catch myself, and correct myself, when I mistake one
-thing for another. To maintain the difference rather than
-resolve it, then, will take an act of thought *beyond*
-common sense, and contrary to it. We will need Plato's cave,
-or Descartes' deceiver, or some like appeal to what, again,
-we might call a postulate rather than phenomenon, to
-persuade us that the way things seem is *not* the way they
-are. For even if we are persuaded, the way things seem *will
-seem* like the way they are. The world will never look like
-a cave to common sense, and the deceiver will never be
-discovered.
+But this, I think, is the common sense that Bergson
+describes. His description, however, invites us to re-think
+its lesson. When I mistake one thing for another, but catch
+and correct myself, the difference between seeming and being
+is not being maintained, but resolved. To maintain it would
+take an act of thought *beyond* common sense, like Plato's
+cave, or Descartes' deceiver. And as these examples suggest,
+this thought will be more like a postulate than like
+a phenomenon, even if it convinces us to distinguish seeming
+from being as a matter of principle. This conviction will
+never make the world look like a cave to common sense, or
+allow it to discover the deceiver. 
+
+Nor will parallels ever look otherwise, even in convergence
+to a point. For in this convergence, to common sense, the
+distance between parallels is not decreasing, but receding.
+And the same is true of any object of sight: as it gets closer
+or farther away, its look, to common sense, will not be that it
+grows or shrinks, but that it approaches or retreats. And if
+objects are to look otherwise, such as parallels that look
+indeed like they converge, it will again take an act of
+thought beyond common sense, in this case involving the
+postulate of parallels that Lobachevski strips from Euclid,
+leaving the geometric world in a state to astonish the
+seniors, where how things seem is no longer how they are. 
+
+But if common sense can be so astonished, at acts of thought
+beyond it, then why not consider it naive, like a Euclid
+lacking in rigor? (Revise from here.) Or contented, hastened, like a Hume grown tired If the lesson of common sense is
+that seeming and being are the same, yet it possible Why is the lesson of common sense a form of wisdom rather than ignorance, if the lesson  
+,to learn, as it were, that seeming and
+being are the same, as if we were open without being
+enclosed, then the way things
+seem is the way things are, Why not take itsthe lesson of common
+sense is that how things seem 
+
+Here, too, I think the passage from
+Bergson invites us to re-think the lesson in common sense,
+especially if we take the word "common" to mean "shared",
+and think of examples where we share. (Revise from here,
+perhaps use "lesson" language from above again.)
+
+One answer, I think, is lurking in
+the word "common", if we take it to mean "shared", and
+think of what we share there are other ways into the passage of
+Bergson, and the presence of openness that it describes, to
+make common sense look enlightened. Outside seminar, for
+example, we might talk as if it involved the examining of
+opinions. But this is also to talk as if the seminar
+contained chairs without a table. For inside seminar, having
+your point be called an opinion is a way of dismissing it
+rather than pursuing it, and as if you were speaking from
+your chair rather than putting something on the table.
+, rather than attempting to put something on the table.
+Philosophical speculation may even have convinced you that,
+yes, your point was indeed an opinion, and perhaps nothing
+more. But in the seminar it has to become something more to
+make the conversation move forward. Or to put this another
+way, your point might just be your opinion, but this is  And
+it becomes something more at the table, And we could say
+that the common sense of seminar and that you are so
+enclosed in your openness that ; We may have perfectly good
+reasons, Outside seminar, in other words, we talk as if we
+were enclosed in openness and could only , And the
+difference between being outside and inside seminar is like
+the difference between being outside and inside common
+sense. would feel like a way of dismissing it rather than
+And behind this talk there would be much philosophical
+speculation ,is sometimes thought to lack the kowing rigor
+of a modern, without the rigor of a modern, But suppose
+common sense were deceived in this. There would be no way
+for common sense to discover it, or allow us to accept it,
+without something like astonishment. For if there is to be
+a real difference between seeming and being, where parallel
+lines can look otherwise, or straight lines can look
+otherwise, or objects in general can look otherwise, then
+the difference---as we learn from Lobachevski---will rest on
+a postulate rather than phenomenon, and only challenge
+common sense by contradicting it. Or to broaden the point,
+we could say that for common sense, any difference between
+seeming and being can be resolved, as I can catch myself,
+and correct myself, when I mistake one thing for another. To
+maintain the difference rather than resolve it, then, will
+take an act of thought *beyond* common sense, and contrary
+to it. We will need Plato's cave, or Descartes' deceiver, or
+some like appeal to what, again, we might call a postulate
+rather than phenomenon, to persuade us that the way things
+seem is *not* the way they are. For even if we are
+persuaded, the way things seem *will seem* like the way they
+are. The world will never look like a cave to common sense,
+and the deceiver will never be discovered.
 
 Nor is common sense naive in this, a sign of which lurks in
 the word "common", if we take it not to mean "low", but
