@@ -407,141 +407,116 @@ a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
 being open is not just possible, but present, in what
-Bergson calls common sense. For in common sense, on
-this account, how things seem is how things are, and
-claims to the contrary sound incredible. In other words,
-using earlier words, we are open, not closed, as a matter of
-course. 
+Bergson calls common sense. For there is nothing in common
+sense on this account, not even the self, to enclose our
+openness to the world, and turn the way things are, however
+they are, into the way they merely seem. Instead, the way
+things seem *is* the way things are, and claims to the
+contrary sound incredible. We are open to the world, as
+a matter of course, *without* being enclosed.
 
-This might be hard to believe at first, even from the
-standpoint of common sense. For there is self-knowledge in
-common sense, we could say, where we first learn the limits
-of our openness, and the difference, then, between how
-things seem and how things are. It is common sense, for
-example, to call a pair of railroad tracks parallel, even
-though we see them converge to a point in the distance. But
-the passage from Bergson invites us to reconsider the reason
-for this. The tracks are parallel, for common sense, because
-they *look* parallel. And it would be a lack of common sense
-to think they looked otherwise, in converging to a point.
-For in this convergence, the distance between parallels is
-not decreasing, but receding. And the same is true for any
-object of sight, as it moves closer or farther away: the
-look of this, for common sense, is not that it shrinks or
-grows, but that it approaches or retreats. In the change of
-size there is no change in shape; and this is how
-seeming is being for common sense, as the object's
-identity preserves its proportions, and allows it to
-stay the same, from one moment or place to the next, not
-just in how it is, but in how it looks. 
+But it is this claim we are more likely to find incredible,
+even from the standpoint of common sense. For in common
+sense, we could say, there is a kind of self-knowledge,
+where we first learn the limits of our openness to the
+world, and the difference between how things seem and how
+things are. When I mistake one thing for another, it is
+common sense to catch myself, and correct myself. Or to call
+a pair of railroad tracks parallel, even as we see them
+converge. But the passage from Bergson invites us to
+reconsider the reasons for this. When I mistake one thing
+for another, but catch and correct myself, the difference
+between seeming and being is not being maintained, but
+resolved. To maintain it would take an act of thought
+*beyond* common sense, like Plato's cave, or Descartes'
+deceiver. And the thought will be more like a postulate than
+like a phenomenon, even if it persuades us that how things
+seem is *not* how they are. This conviction will never make
+the world look like a cave to common sense, or allow it to
+discover the deceiver. Nor will parallels ever look
+otherwise, even in convergence to a point. For in this
+convergence, to common sense, the distance between parallels
+is not decreasing, but receding. Just as any object of sight
+will look as if it is approaching or retreating, not growing
+or shrinking, as it gets closer or farther away. If objects
+are to look otherwise, it will again take an act of thought
+beyond common sense, in this case involving the postulate
+that Lobachevski strips from Euclid, leaving the geometric
+world in a state to astonish the seniors, where how things
+seem is no longer how they are. 
 
-And if common sense were deceived in this, there would be no
-way for common sense to discover it, or allow us to accept
-it, without something like astonishment. Or to make the
-point closer to home: if there is to be a real difference
-between seeming and being, where parallel lines can look
-otherwise, or straight lines can look otherwise, or objects
-in general can look otherwise, then the difference---as we
-learn from Lobachevski---will rest on a postulate rather
-than phenomenon, and only challenge common sense in
-contradicting it. -Bring up philosophy here.
+And while this astonishment of common sense might be thought
+naive, like a Euclid lacking in rigor, there are other ways
+into the passage of Bergson, and the presence of openness
+that it describes, to make common sense look enlightened.
+Outside seminar, for example, we might talk as if it
+involved the examining of opinions. But this is also to talk
+as if the seminar contained chairs without a table. For
+inside seminar, having your point be called an opinion is
+a way of dismissing it rather than pursuing it, and as if
+you were speaking from your chair rather than putting
+something on the table. , rather than attempting to put
+something on the table.  Philosophical speculation may even
+have convinced you that, yes, your point was indeed an
+opinion, and perhaps nothing more. But in the seminar it has
+to become something more to make the conversation move
+forward. Or to put this another way, your point might just
+be your opinion, but this is  And it becomes something more
+at the table, And we could say that the common sense of
+seminar and that you are so enclosed in your openness that
+; We may have perfectly good reasons, Outside seminar, in
+other words, we talk as if we were enclosed in openness and
+could only , And the difference between being outside and
+inside seminar is like the difference between being outside
+and inside common sense. would feel like a way of dismissing
+it rather than And behind this talk there would be much
+philosophical speculation ,is sometimes thought to lack the
+kowing rigor of a modern, without the rigor of a modern,
+But suppose common sense were deceived in this. There would
+be no way for common sense to discover it, or allow us to
+accept it, without something like astonishment. For if there
+is to be a real difference between seeming and being, where
+parallel lines can look otherwise, or straight lines can
+look otherwise, or objects in general can look otherwise,
+then the difference---as we learn from Lobachevski---will
+rest on a postulate rather than phenomenon, and only
+challenge common sense by contradicting it. Or to broaden
+the point, we could say that for common sense, any
+difference between seeming and being can be resolved, as
+I can catch myself, and correct myself, when I mistake one
+thing for another. To maintain the difference rather than
+resolve it, then, will take an act of thought *beyond*
+common sense, and contrary to it. We will need Plato's cave,
+or Descartes' deceiver, or some like appeal to what, again,
+we might call a postulate rather than phenomenon, to
+persuade us that the way things seem is *not* the way they
+are. For even if we are persuaded, the way things seem *will
+seem* like the way they are. The world will never look like
+a cave to common sense, and the deceiver will never be
+discovered.
 
-rather than  t will
-not be parallel lines never look parallel, or straight lines
-never look straight, t, that are parallel never look
-parallel, or lines that are straight never look straight,
-straight lines straight, For it would require identity to be
-severed from proportion, as if a change of size always came
-with a change of shape, and where a change of size now means
-a change in shape, And this astonishment, I think, is just
-what the seniors feel, we experience, when identity is
-indeed severed from proportion, where a change in size means
-a change of shape, and parallels never look parallel,
-objects cannot change their size without chaging
-e experience this astonishment, I think, it is something
-like astonishment, I think, greet the news greet where
-proportion is not preserved by identity, it would be because
-proportion is not preserved in identiy, from a difference
-between identity and proportion, outside common sense, where
-every change of size involves a change of shape. of in this
-context, to speculate against common sense e only
-speculation against common sense , 
-
-conflate seeming from being,  don't
-we distinguish seeming from being as soon as we see
-parallels, like railroad tracks, converging to a point in
-the distance?   know that the railroad tracks we see
-converging  as if openness in this sense were simply naive,
-we saw railroad tracks converging to a point in the
-distance: for do I *not* know the difference between seeming
-and being so soon as I see  it can seem as easy to
-distinguish how things seem from how things are as  the
-difference between seeming and being  how things seem and
-how they areThis may make common sense sound naive,    It is
-as if we were open to the world, with no way to tell, from
-within this openness, that we were enclosed in this
-openness,  there were no way from within our openness to the
-world to tell we  we were open to the world, with no way
-That is, we are open to the world, without being enclosed,
-It is as if we were open to the world, without being
-enclosed, as if we were open to the world without
-qualification, and as if this openness, then, had the
-presence of a fact. But second, again from the standpoint of
-common sense, any claim to the contrary, that how things
-seem is *not* how they are, sounds incredible.  And in this
-incredulity of common sense, to any claim against it, it is
-as if our openness to the world had the presence not just of
-a fact, but of a principle that justifies the fact. 
-
-Still, for those of us who admire philosophical speculation,
-it is hard not to dismiss common sense as naive; for surely
-the way things seem is *not* how they are. But I think there
-is a way to But why credit common sense as a fact, much less a principle,
-if Even so, those of us who admire philosophical speculation
-more likely to think of common s To clarify this, we might recast Bergon's description of
-common sense like this. For common sense, any difference
-between seeming and being can be resolved, as I can catch
-myself, and correct myself, when I mistake one thing for
-another. To make the difference *irresolvable*, then, will
-therefore take an act of thought *beyond* common sense, and
-contrary to it. We will need Plato's cave, or Descartes'
-deceiver, or some like appeal, in effect, to a postulate
-rather than phenomenon, to persuade us that the way things
-seem is *not* the way they are. For even if we are
-persuaded, the way things seem *will seem* like the way they
-are. The world will never look like a cave to common sense,
-and the deceiver will never be discovered.
-
-Nor is common sense incorrigible in this respect, as if it
-were fooled every time we saw parallel lines, converging to
-a point in the distance. For convergence to a point *is* how
-parallels look, to common sense, and how they have to look
-to stay parallel; as their constant distance in one
-direction recedes to vanishing in another. And any object
-must implicitly follow these lines, or laws, of perspective,
-if it is to *look* as it is, however near or far, in
-a sameness of proportion rather than size.
-
-
-Nor is common sense naive in this respect, and we might take
-the word "common", in this case, not to mean "low", but
-rather to mean "shared". And what we share in common, in
-that case, gives us other ways into the passage from
-Bergson, and into the presence of openness. When we form
-a musical chorus, for example, the way things seem becomes
-the way they are, as the sound of our voices forms a world of
-tones onto itself, and every event in that world is 
-a matter of sense, explained by what we hear. And to be
-reminded of our voices as we sing, and how they sound
-*apart* from what they form, distinguishes seeming from
-being only at the risk of ruin, as we hear our voices too
-severally as *ours*, to hear them together as tones. The
-result would be cacophony to common sense, and only
-a philosophical speculation beyond common sense even if 
-we took it as proof that music is mere appearance, , illusion, it philosophical speculation The
-philosopher in us might be amused at the cacophonous 
-effect, And
-music, in this way, is a matter of common sense.   
+Nor is common sense naive in this, a sign of which lurks in
+the word "common", if we take it not to mean "low", but
+rather to mean "shared." For what we can share gives us
+another way into the passage from Bergson, the presence of
+openness, and the enlightenment, as we might call it, in
+common sense. When we sing in chorus, for example, there is
+no enlightenment in a lesson of the difference between
+seeming and being. For if we are reminded of our voices as
+we sing, and how they sound *apart* from the song, we
+distinguish being from seeming at the risk of ruin, as we
+hear our voices too severally as *ours*, to hear them
+together, as a chorus, in song. And this is proof, of
+a sort, that there is music only if the way things seem
+becomes the way they are, as the sound of our voices forms
+a world of tones onto itself, and every event in that world
+is a matter of sense, explained by what we hear. The result
+would be cacophony to common sense, and only a philosophical
+speculation beyond common sense even if we took it as proof
+that music is mere appearance, , illusion, it philosophical
+speculation The philosopher in us might be amused at the
+cacophonous effect, And music, in this way, is a matter of
+common sense.   
 
 how our voices sound is less likely to underline
 thTo be told this world of tones is simply an appearance, of
