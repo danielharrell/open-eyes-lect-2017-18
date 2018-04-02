@@ -406,25 +406,197 @@ itself, pictorial, as we perceive it: image it is, but
 a self-existing image.[^Bergson]
 
 We can read this passage, I think, as an account of how
-being open is not just possible, but present, in what
-Bergson calls common sense. For there is nothing in common
-sense on this account, not even the self, to enclose our
-openness to the world, and turn the way things are, however
-they are, into the way they merely seem. Instead, the way
-things seem *is* the way things are, and claims to the
-contrary sound incredible. We are open to the world,
-without being enclosed, as a matter of course.
+being open is present, in what Bergson calls common sense.
+For there is nothing in common sense on this account, not
+even the self, to enclose our openness to the world, and
+separate the way things seem from the way things are. 
+Instead, for common sense, the way things seem *is* the way
+things are, and claims to the contrary sound incredible. We
+are open to the world, without being enclosed, as a matter
+of course.
 
-But it is this claim we are more likely to find incredible,
-even from the standpoint of common sense. For how could the
-way things seem be the way things are? And what is common
-sense, if not a lesson in their difference? And a lesson
-writ large in a book like *Middlemarch*? I need not be
-Dorothea to mistake one thing for another; and when I do, it
-is common sense to catch myself, and correct myself. Or if
-I see a pair of railroad tracks, or highway lines, converge
-to a point in the distance, I would lack common sense if
-I doubted they were parallel, despite their look.  
+But even this gloss on the passage falls short, I think, of
+what it suggests about the presence of openness. For there
+is nothing in Bergson's account to indicate that 
+the speculations of philosophy leave common sense untouched
+because they are wrong. It is more as if they have no power,
+wrong or right, to inform common sense. And what this
+suggests, I think, is that openness has a presence that
+tells us nothing about its possibility. It might well be
+impossible, for all we know; and yet it would still be
+present, and could still be described---just as Bergson,
+a philosopher himself, describes common sense.
+
+- Turn now to seminar. Perhaps frame as another example of
+  openness, but with the same character as common sense.
+  A deeper example. Or perhaps: common sense might mislead
+  us into thinking the presence of openness is shallow
+  rather than deep. Or something unthinking and purely
+  receptive. Rather than thoughtful and active.  
+
+- We have a vocabulary for talking about seminar
+outside of seminar (like "the examining of opinions")
+but inside seminar this vocabulary is beside the
+point. Or even more exactly: to use it is not a way
+of advancing the conversation, but of interrupting
+it, or even of bringing it to a halt. Not just
+words like "claim" or "opinion" or "thought", but
+that was interesting, that was helpful, etc. We
+enclose the seminar and its openness in this
+vocabulary. 
+
+- The table is not enclosed, or covered, but open.
+So large, to seat all of us around it, that most
+of lays bare. 
+
+- What you say in the conversation is not opining,
+or asserting, but venturing. Put something forward
+to be taken up, and built upon: metaphors of the hand, of contact,
+of reaching beyond the self, non-spectatorial.
+As if what we said were tangible rather than ethereal.
+
+From Statement of St. John's Program, about seminar:
+
+first,all opinions must be heard and explored, however
+sharply they may clash; second, every opinion must be
+supported by argument
+
+- Goes somewhere, but not to a destination.
+
+- Thought is yours, but said to be made ours, about
+something. 
+
+- This vocabulary is borrowed from the philosophical
+lexicon. (Perhaps look at earlier draft for list of
+words; and perhaps look at Oakeshott essay.) It is
+a lexicon that separates seeming from being.
+
+- Look below at how I was describing seminar. (Or
+is this stuff now in a leftover file?)
+
+- Giving names to what we say, or what we think,
+is not a way of putting them forth, or
+taking them up. It is not a way of making
+a place for them on the table. But what,
+without a name, is the "what"?
+
+    - Seminar: From outside seminar it may seem we merely
+      express points of view; but from inside seminar, to
+      hear what you say this way would be to miss your
+      point, or even dismiss your point. What you said takes
+      precedence over why you said it, just as why you said
+      it in terms of reasons, takes precedence over why you
+      said it in terms of symptoms. For the point you try to
+      make, is not the point from which you make it, but at
+      the other end, infinitely far away. Words are not
+      simply signs of something, but symbols for something
+      else. They are about something, even if also from
+      something. 
+
+- seminar: What we bring to the table is one thing; what
+      happens at the table, in front of everyone, is another
+      thing. 
+    - Seminar: To listen as if I had a point of view is not
+      to appreciate my point, but to dismiss. This point
+      like the point of perspective. Point I am trying to
+      make is not the point of which I make it. Point I am
+      trying to make not meant to reflect my point of view
+      but transcend it. 
+
+- In seminar, something on the table, not
+just in the chairs.
+
+- Perhaps for "what" I can use what I say or
+think is *about*.
+
+- Once we leave names behind, we move from
+how things seem to how things are; or rather:
+how things seem *become* how they are, as
+any name that divides them is left behind.
+
+- Somewhere incorporate the idea that
+we are open in the conversation by leaving the
+self behind. It isn't enough to acknowledge
+each other, or our points, in a seminar.
+
+- Perhaps I could use this distinction: I have
+bringing my point of view to bear on the conversation,
+but this point is different from, and in a sense opposite
+from, the point I am trying to make. 
+
+- In first catalog, we had tutorials, and seminars, and
+  laboratories, lectures, and a reading list, but we did not
+  have conversations. Or rather, we had them, presumably,
+  but no mention of them appears in the first catalog; and
+  I like to think their importance to our way of learning
+  was discovered over time rather than invented on the spot.
+  But there is a kind of chasm between what happens in
+  a seminar conversation and what we
+  say happens.   is means our way of describing this
+  importance is borrowed.
+
+And if we ask the question how being open is present, then, 
+But since ere we have another paradox, 
+Nor is this the only description that might be made of
+openness in this sense.  (Common, as shared. Examples.)
+
+But now
+suppose we if
+we accept this description, and then ask *how* is it
+present, 
+
+- Passage would still be true, even if philosophical
+speculation were sound; it leaves common sense
+untouched. 
+
+- Separate presentness from possibility in this.
+Passage about the presence of openness. Not just in
+description of sameness of seeming and being, but
+in the immunity of common sense to speculation.
+
+This is most obvious in Bergson's description of the
+content in common sense, which we might gloss 
+
+- Here introduce "common", as self-transcendence, and go
+straight to seminar. Then music. Then Lobachevski. 
+
+But common sense, so described, can sound naive, especially
+if we are fond of philosophical speculation. Yet this,
+I think, is almost the opposite of what Bergson intends by
+the contrast between them. The difference between
+speculation and sense, in this passage, is something like
+the difference between the otherworldly and the worldly. Or
+like the difference, to recall *Middlemarch* again, between
+Dorothea and her sister Celia. And when common sense is
+astonished at the news that how things seem is not how they
+are, it is like the astonishment of Celia at the news of her
+sister's engagement to Causabon: it is not naive of common
+sense, but knowing, to be astonished. For why deny
+what is plain as day? Causabon is clearly
+unsuited for Dorothea, even if she refuses to see it; just
+as things more generally clearly show what they are, even if
+a philosopher refuses to see it. 
+
+For the difference between seeming and being How
+things seem is no longer how they are, the astonishment of
+common sense is something like the astonishment , A better word than "naive"
+would be "worldly", And a better for common sense,
+
+better term for it, I think, is worldly, in contrast to
+otherworldly. It is the virtue, to recall *Middlemarch*
+again, that Eliot attributes to Dorothea's sister, Celia, in
+contrast to Dorothea herself. The sense in which common
+sense takes how things seem is how things are it is this
+claim we are more likely to find incredible, even from the
+standpoint of common sense. For how could the way things
+seem be the way things are? And what is common sense, if not
+a lesson in their difference? And a lesson writ large in
+a book like *Middlemarch*? I need not be Dorothea to mistake
+one thing for another; and when I do, it is common sense to
+catch myself, and correct myself. Or if I see a pair of
+railroad tracks, or highway lines, converge to a point in
+the distance, I would lack common sense if I doubted they
+were parallel, despite their look.  
 
 But this, I think, is the common sense that Bergson
 describes. His description, however, invites us to re-think
