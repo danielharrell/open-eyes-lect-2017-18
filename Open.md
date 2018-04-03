@@ -410,24 +410,39 @@ being open is present, in what Bergson calls common sense.
 For there is nothing in common sense on this account, not
 even the self, to enclose our openness to the world, and
 separate the way things seem from the way things are. 
-Instead, for common sense, the way things seem *is* the way
+Instead, the way things seem *is* the way
 things are, and claims to the contrary sound incredible. We
 are open to the world, without being enclosed, as a matter
 of course.
 
-But even this gloss on the passage falls short, I think, of
-what it suggests about the presence of openness. For there
-is nothing in Bergson's account to indicate that 
-the speculations of philosophy leave common sense untouched
-because they are wrong. It is more as if they have no power,
-wrong or right, to inform common sense. And what this
-suggests, I think, is that openness has a presence that
-tells us nothing about its possibility. It might well be
-impossible, for all we know; and yet it would still be
+But even this reading of the passage falls short, I think,
+of what it suggests about the presence of openness. For
+there is nothing in Bergson's account to indicate that
+common sense is left untouched by the speculations of
+philosophy because they are wrong. It is more as if they
+have no power, wrong or right, to inform common sense. And
+what this suggests, I think, is that openness has a presence
+that tells us nothing about its possibility. It might well
+be impossible, for all we know; and yet it would still be
 present, and could still be described---just as Bergson,
 a philosopher himself, describes common sense.
 
-- Turn now to seminar. Perhaps frame as another example of
+Nor is openness, thus understood, merely receptive and
+unthinking, as if it were immune to reflection by definition.
+Consider the presence of openness that we find in a seminar
+conversation, for example, when it is going well. What one
+student puts forward, another student takes up, and the
+conversation so becomes a way not just to speak, but
+to think. in this
+way, we might say, the
+conversation becomes a way not just to speak, but to think. takes on a life of its own. From
+a standpoint outside the seminar, we might describe this
+as a successful examination of our opinions. the examining of our opinions. Our thinking
+together would risk coming to a halt, if we started talking
+the way we talk of seminar outside seminar. the thought 
+of one student were called an "opinion" by another student, Consider how we talk of seminar, for example, outside of
+seminar. - Turn now to seminar. Perhaps frame as another example of
+
   openness, but with the same character as common sense.
   A deeper example. Or perhaps: common sense might mislead
   us into thinking the presence of openness is shallow
@@ -508,6 +523,11 @@ just in the chairs.
 
 - Perhaps for "what" I can use what I say or
 think is *about*.
+
+- Put something forward; take it up; metaphors of
+hands and arms, openness.
+
+- A table on which something might be built.
 
 - Once we leave names behind, we move from
 how things seem to how things are; or rather:
