@@ -428,26 +428,27 @@ present, and could still be described---just as Bergson,
 a philosopher himself, describes common sense.
 
 Nor is openness, thus understood, merely receptive and
-unthinking, as if it were immune to reflection by definition.
-Consider the presence of openness that we find in a seminar
-conversation, for example, when it is going well. What one
-student puts forward, another student takes up, and the
-conversation so becomes a way not just to speak, but
-to think. in this
-way, we might say, the
-conversation becomes a way not just to speak, but to think. takes on a life of its own. From
-a standpoint outside the seminar, we might describe this
-as a successful examination of our opinions. the examining of our opinions. Our thinking
-together would risk coming to a halt, if we started talking
-the way we talk of seminar outside seminar. the thought 
-of one student were called an "opinion" by another student, Consider how we talk of seminar, for example, outside of
-seminar. - Turn now to seminar. Perhaps frame as another example of
-
-  openness, but with the same character as common sense.
-  A deeper example. Or perhaps: common sense might mislead
-  us into thinking the presence of openness is shallow
-  rather than deep. Or something unthinking and purely
-  receptive. Rather than thoughtful and active.  
+unthinking, as if it were immune to reflection by
+definition. Consider the openness, for example, that we find
+in a seminar conversation when it is going well. What one
+puts forward, another takes up, and by such turns the
+conversation becomes not just a way to speak, but a way to
+think. Outside seminar, we might call this the sharing and
+examining of opinions; yet there seems no place for this
+description inside seminar. One's opinion, so-called, has to
+be put forward in the conversation as a venture, and to call
+it an "opinion" in reply would be a way of *not* taking it
+up. And by such turns, we might imagine a seminar being
+described, that never takes place. It would treat everything
+said as if it expressed what seemed to be so, to each
+participant in turn. But if these many expressions are to
+form a single conversation, then what seems so to each *must
+become* so for all. Or to borrow from Bergson, the
+conversation depends the seminar's having, or gaining,
+a common sense, where how things seem become how they are.
+And it is this, we could say, that is immune  the common sense of seminar where how things
+seems , that we might say that we might say is immune, that
+the description ,   
 
 - We have a vocabulary for talking about seminar
 outside of seminar (like "the examining of opinions")
