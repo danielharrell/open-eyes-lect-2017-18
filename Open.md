@@ -466,9 +466,9 @@ implicitly, about its possibility?
 
 # Part Five {#five} 
 
-To clarify what the question might mean, I want to return to Aristotle,
-for my final passage of the night. This comes from
-*De Anima*: 
+To think about what the question might mean, I want to
+return to Aristotle, for my final passage of the night. This
+comes from *De Anima*: 
 
 > Therefore, since everything is a possible object of thought,
 mind in order, as Anaxagoras says, to dominate, that is, to
@@ -487,24 +487,37 @@ it is, it has none.
 This passage, I think, can be read as an answer to the
 question: how is being open present? And the answer, to put
 it simply if paradoxically, is that being open is present as
-absent. And in this absence vanishes any possibility of its
-presence. But to make what I just said more concrete, and
-more rooted in the quoted passage, suppose that thought is
-a way of being open, and that I am having a thought, right
-now, about my lecture. My brain might make the thought
-possible, but it is my lecture that makes the thought
+absent. And in this absence vanishes its possibility. But
+what have I just said? To make this answer more concrete,
+and more rooted in the quoted passage, let us suppose that
+thought is a way of being open, and that I am having
+a thought right now, about my lecture. My brain might make my
+thought possible, but it is my lecture that makes it
 present, since my thought is *about* the lecture. But my
 thought, then, is not about my brain, which renders it
 absent at just the moment, to just the extent, my thought is
-present. If the thought about my lecture, or about anything
-else, is indeed *to be* about my lecture, or about anything
-else, then whatever it is *in me* that makes it possible,
-has to vanish to make it present. And I think we could say
-the same of the eyes that make sight possible, or the self
-that makes awareness possible: they have to vanish to make
-these ways of being open present. And in this way the
-presence of our openness is separated---one might even say
-liberated---from its possibility.
+made present. If the thought about my lecture, or about
+anything else, is indeed *to be* about my lecture, or about
+anything else, then it can only be present in the absence
+of whatever *in me* makes it possible. And in this absence,
+I think we could say that the possibility of my thought
+vanishes, at precisely the point it is present. And the same
+might be said, more generally, of whatever it is *in us*
+that makes our openness possible---from the eyes of sight to
+the self of awareness. It in only in their absence that our
+openness can gain a presence, in *what* it is we see,
+however it is we see it. And in this way the presence of our
+openness is separated---one might even say liberated---from
+its possibility.
+
+
+Or to say this
+perhaps less paradoxically, at the point my thought
+is present, this presence is separated---one might say
+even liberated---from its possibility. describe
+this point perhaps less paradoxically, the  presence of my
+thought is separated, or even liberated, from its
+possibility.  
 
 - Presence of openness depends on having a soul, not a
 self.
