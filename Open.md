@@ -9,10 +9,10 @@
 <!-- Renumber according to Pandoc -->
 1. [Part Three](#three)
 1. [Part Four](#four)
-1. [Conclusion](#conclude)
+1. [Part Five](#five)
 1. [Notes](#notes)
 
-My lecture tonight is in four parts.
+My lecture tonight is in five parts.
 
 # Part One {#one}
 
@@ -383,9 +383,9 @@ possible? But rather: how is being open present?
 
 # Part Four {#four}
 
-To clarify what this change of question might mean,
-consider the following passage, from a book of philosophy
-by Henri Bergson:
+To clarify what this change of question might mean, consider
+the following passage, from a book of philosophy by Henri
+Bergson:
 
 > It would greatly astonish a man unaware of the speculations
 of philosophy if we told him that the object before him,
@@ -409,9 +409,9 @@ We can read this passage, I think, as an account of how
 being open is present, in what Bergson calls common sense.
 For there is nothing in common sense on this account, not
 even the self, to enclose our openness to the world, and
-separate the way things seem from the way things are. 
-Instead, the way things seem *is* the way
-things are, and claims to the contrary sound incredible. We
+separate the way things seem from the way things are.
+Instead, the way things seem *is* the way things are, and
+claims to the contrary sound incredible. We
 are open to the world, without being enclosed, as a matter
 of course.
 
@@ -429,26 +429,61 @@ a philosopher himself, describes common sense.
 
 Nor is openness, thus understood, merely receptive and
 unthinking, as if it were immune to reflection by
-definition. Consider the openness, for example, that we find
-in a seminar conversation when it is going well. What one
-puts forward, another takes up, and by such turns the
-conversation becomes not just a way to speak, but a way to
-think. Outside seminar, we might call this the sharing and
-examining of opinions; yet there seems no place for this
-description inside seminar. One's opinion, so-called, has to
-be put forward in the conversation as a venture, and to call
-it an "opinion" in reply would be a way of *not* taking it
-up. And by such turns, we might imagine a seminar being
-described, that never takes place. It would treat everything
-said as if it expressed what seemed to be so, to each
-participant in turn. But if these many expressions are to
-form a single conversation, then what seems so to each *must
-become* so for all. Or to borrow from Bergson, the
+definition. Consider the openness, for example, that we
+find in a seminar conversation when it is going well. What
+one participant puts forward, another takes up; and by such
+turns, the conversation becomes a way, not just to speak, but
+to think. Outside seminar, we might call this the sharing
+and examining of our opinions; yet there seems no place for
+this description inside seminar, and might be called
+philosophical rather than conversational. For one's opinion,
+so-called, is not just *held* in the conversation, but put
+forward as a venture; and to call it an "opinion" in reply
+would be a way of *not* taking it up. 
+
+And by such detours, a seminar might be described, that
+could never take place. For this description would treat
+everything said as an expression of what seems to be so, to
+each participant in turn. But if these expressions
+are to become a conversation, then what seems so to each,
+*must become* so for all. Or to borrow from Bergson, the
 conversation depends the seminar's having, or gaining,
-a common sense, where how things seem become how they are.
-And it is this, we could say, that is immune  the common sense of seminar where how things
-seems , that we might say that we might say is immune, that
-the description ,   
+a common sense of its own, where how things seem is now how
+things are, and what is said from the chairs is about
+something on the table. And it is the table, in this sense,
+that cannot be described, as if its presence were
+impossible. For even as the conversation empties the chairs
+to fill the table for the participants, to any observer, the
+chairs stay full, the table left bare. 
+
+But suppose this were enough to convince us that being open
+is present, in a sense to be distinguished from its
+possibility. The question *how* it is present would not seem
+clarified by this distinction, but obscured 
+to the point of paradox. For what could it mean to ask
+*how* being open is present, if this is not a question,
+at least implicitly, of how its presence is possible?   
+
+# Part Five {#five} 
+
+De Anima quote:
+
+> Therefore, since everything is a possible object of thought,
+mind in order, as Anaxagoras says, to dominate, that is, to
+know, must be pure from all admixture; for the co-presence
+of what is alien to its nature is a hindrance and a block:
+it follows that it too, like the sensitive part, can have no
+nature of its own, other than that of having a certain
+capacity. Thus that in the soul which is called mind (by
+mind I mean that whereby the soul thinks and judges) is,
+before it thinks, not actually any real thing. For this
+reason it cannot reasonably be regarded as blended with the
+body: if so, it would acquire some quality, e.g. warmth or
+cold, or even have an organ like the sensitive faculty: as
+it is, it has none. 
+
+Impossibility of seminar: happens at table, not chairs;
+yet chairs are full, table is bare.
 
 - We have a vocabulary for talking about seminar
 outside of seminar (like "the examining of opinions")
