@@ -449,24 +449,24 @@ are to become a conversation, then what seems so to each,
 *must become* so for all. Or to borrow from Bergson, the
 conversation depends the seminar's having, or gaining,
 a common sense of its own, where how things seem is now how
-things are, and what is said from the chairs is about
+they are, and what is said from the chairs is about
 something on the table. And it is the table, in this sense,
 that cannot be described, as if its presence were
 impossible. For even as the conversation empties the chairs
-to fill the table for the participants, to any observer, the
+to fill the table, for the participants; to any observer, the
 chairs stay full, the table left bare. 
 
 But suppose this were enough to convince us that being open
 is present, in a sense to be distinguished from its
-possibility. The question *how* it is present, however,
-would not seem clarified by this distinction, but obscured
+possibility. Still, the question *how* it is present
+would not seem clarified by this distinction, but obscured,
 to the point of paradox. For what could it mean to ask *how*
 being open is present, if this is *not* a question, even
 implicitly, about its possibility?     
 
 # Part Five {#five} 
 
-To clarify what it might mean, I want to return to Aristotle,
+To clarify what the question might mean, I want to return to Aristotle,
 for my final passage of the night. This comes from
 *De Anima*: 
 
@@ -484,18 +484,42 @@ body: if so, it would acquire some quality, e.g. warmth or
 cold, or even have an organ like the sensitive faculty: as
 it is, it has none. 
 
-This passage, I think, can be read as an answer to our
-question: how is being open present? And the answer, put
-simply, if paradoxically, is that it is present as absent.
-And in this absence, its presence precludes any account of
-its possibility. Suppose I have a thought, to borrow
-Aristotle's example, about my lecture. My brain might make
-the thought possible, but it is my lecture that makes the
-thought present, since my thought is about the lecture. But
-since this thought, then, is not about my brain, the thought
-is present only so far as the brain is absent, in
-a separation of possibility from presence in the case of
-openness.
+This passage, I think, can be read as an answer to the
+question: how is being open present? And the answer, to put
+it simply if paradoxically, is that being open is present as
+absent. And in this absence vanishes any possibility of its
+presence. But to make what I just said more concrete, and
+more rooted in the quoted passage, suppose that thought is
+a way of being open, and that I am having a thought, right
+now, about my lecture. My brain might make the thought
+possible, but it is my lecture that makes the thought
+present, since my thought is *about* the lecture. But my
+thought, then, is not about my brain, which renders it
+absent at just the moment, to just the extent, my thought is
+present. If the thought about my lecture, or about anything
+else, is indeed *to be* about my lecture, or about anything
+else, then whatever it is *in me* that makes it possible,
+has to vanish to make it present. And I think we could say
+the same of the eyes that make sight possible, or the self
+that makes awareness possible: they have to vanish to make
+these ways of being open present. And in this way the
+presence of our openness is separated---one might even say
+liberated---from its possibility.
+
+- Presence of openness depends on having a soul, not a
+self.
+
+- To claim that it isn't possible for the eyes and brain to vanish, 
+the answer might be: exactly, and this is why presence has nothing
+to with the their possibility.  But clarify this in final
+section.
+doesn't vanish 
+
+
+
+- This is true for eyes and awareness, and so selfhood.
+
+- Then make presence prior to possibility.
  
 
 and present as an example of openness,
