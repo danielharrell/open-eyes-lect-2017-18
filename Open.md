@@ -458,15 +458,17 @@ chairs stay full, the table left bare.
 
 But suppose this were enough to convince us that being open
 is present, in a sense to be distinguished from its
-possibility. The question *how* it is present would not seem
-clarified by this distinction, but obscured 
-to the point of paradox. For what could it mean to ask
-*how* being open is present, if this is not a question,
-at least implicitly, of how its presence is possible?   
+possibility. The question *how* it is present, however,
+would not seem clarified by this distinction, but obscured
+to the point of paradox. For what could it mean to ask *how*
+being open is present, if this is *not* a question, even
+implicitly, about its possibility?     
 
 # Part Five {#five} 
 
-De Anima quote:
+To clarify what it might mean, I want to return to Aristotle,
+for my final passage of the night. This comes from
+*De Anima*: 
 
 > Therefore, since everything is a possible object of thought,
 mind in order, as Anaxagoras says, to dominate, that is, to
@@ -474,13 +476,84 @@ know, must be pure from all admixture; for the co-presence
 of what is alien to its nature is a hindrance and a block:
 it follows that it too, like the sensitive part, can have no
 nature of its own, other than that of having a certain
-capacity. Thus that in the soul which is called mind (by
+capacity. Thus, that in the soul which is called mind (by
 mind I mean that whereby the soul thinks and judges) is,
 before it thinks, not actually any real thing. For this
 reason it cannot reasonably be regarded as blended with the
 body: if so, it would acquire some quality, e.g. warmth or
 cold, or even have an organ like the sensitive faculty: as
 it is, it has none. 
+
+This passage, I think, can be read as an answer to our
+question: how is being open present? And the answer, put
+simply, if paradoxically, is that it is present as absent.
+And in this absence, its presence precludes any account of
+its possibility. Suppose I have a thought, to borrow
+Aristotle's example, about my lecture. My brain might make
+the thought possible, but it is my lecture that makes the
+thought present, since my thought is about the lecture. But
+since this thought, then, is not about my brain, the thought
+is present only so far as the brain is absent, in
+a separation of possibility from presence in the case of
+openness.
+ 
+
+and present as an example of openness,
+in this case to the lecture my thought is about. 
+open, then it might be the brain that makes it possible. But
+the brain cannot make it actual, since the thought, whatever
+it might be about, is not about the brain that makes it
+possible. The brain, in this sense, is absent, not present;
+and it pays the price of vanishing from what it makes
+possible, if this is indeed openness. and while it may make
+openness possible, the price in not present to thought, and
+therefore absent. that makes it possible is not present to
+thought, , in this sense, is absent from thought, in not
+being present to thought. as nothing to do with the thought,
+is absent, not present, has nothing to do with the thought,
+. it is only the absence of the brain that can make it
+actual, since the thought is not about the brain., We might
+explain the possibility of thought, for example, by
+reference to the brain. But we lose this reference, on
+Aristotle's account, once we acknowledge the actuality of
+the thought. For this is to acknowledge the presence of what
+the thought is *about*, and therefore which renders the and
+therefore the absence, .If we try, for example, to explain
+the possibility of thought, we might appeal to the brain and
+how it functions. Yet it is precisely the brain, on
+Aristotle's account, along with every other part of our
+body, that we must treat as absent, not present, to
+acknowledge the actuality of thought, which is to say, the
+presence of what the thought is *about*. 
+
+if
+thought is be not just possible, but actual, in whatever
+is being thought *about*, to acknowledge the
+actuality of thought, on Aristotle's account, it is
+precisely the brain, along with every other part of the
+body, that we must consider or any other part of the body,
+if we tried to eon this account, it is if mind is know, it
+must be pure, but this means that it must be nothing actual
+in itself. 
+
+- This part: quote from Aristotle clarifies presence from
+  possibility. 
+ 
+ Price of openness: no way to account for possibility.
+
+- Being open is present as a kind of of
+  absence. And our own being open is not enclosed by the
+  self, because the self is absent. Or to put this absence
+  of the self in positive terms: our own being open is
+  present, in our having souls rather than selves. 
+
+- Anxiety at podium
+
+- Being open is present in wonder? Impossibility of
+objects of wonder. The wonder in the word
+"open" is the wonder not simply provoked by the word, but
+meant by the word. Another word for open, is wonder.
+- Don't forget distinction between self and soul here.
 
 Impossibility of seminar: happens at table, not chairs;
 yet chairs are full, table is bare.
