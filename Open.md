@@ -504,19 +504,21 @@ my thought is present to me as something absent: it is *not*
 my lecture, but therefore *about* my lecture, and
 nothing but my lecture.
 
-I call this a first answer, however, because it can sound
+This is again a first answer to the question: how is being
+open present? I call it first, because it can sound
 other-worldly, and contrary to common sense, even though
 I take it to be a speculation of philosophy on behalf of
 common sense. It can be difficult, in particular, to believe
-that the mind is nothing before it thinks, and for that
-reason, as Aristotle seems to infer, has nothing to do with
-the body. So I want to give a second answer to the question
-how being open is present, that pays at least some attention
+that the mind is nothing before it thinks, and thus has
+nothing to do with the body, or so Aristotle seems to infer.
+So I want to give a second answer to the question, that
+matches the first in form, but pays more attention
 to the body, yet at the same time revisits the suggestion
 that the presence of openness is not a matter of its
 possibility. 
 
-In this second answer, then, let us assume that the mind is
+In this second answer, then, being open is again present
+as absent. But now let us assume that the mind is
 something before it thinks, and let us call this something
 "the body", to put it broadly. And the body, thus
 understood, somehow makes thinking possible. Now suppose
@@ -526,24 +528,69 @@ lecture that makes my thought present, since my thought is
 *about* the lecture. But my thought, then, is not about my
 body, which renders it absent, at just the moment, to just
 the extent, my thought is made present. Or more generally
-put: my thought about my lecture can only become present 
-in the light, as it were, of an absence: the absence of
-whatever it is *about me* that makes the thought possible.
-And the same might be said, even more generally, of whatever
-it is *about us* that makes our openness possible---from the
-eyes of sight to the self of awareness. It in only in their
-absence that our openness can gain its presence, even as
-they make this openness possible. And in this way the
-presence of our openness is separated---one might even say
-liberated---from its possibility.
+put: my thought about my lecture can only become present in
+the light, as it were, of an absence: the absence of
+whatever it is *about me* rather than my lecture that
+makes the thought possible. And the same might be said, even
+more generally, of whatever it is *about us* that makes our
+openness possible---from the eyes of sight to the self of
+awareness. It in only in their absence that our openness can
+gain its presence, even as they make this openness possible.
+And in this way the presence of our openness is
+separated---one might even say liberated---from its
+possibility.
 
-I call this a second answer, however, because it might still
-sound other-worldly, as if our body could vanish, along with
-our selfhood, to leave us open as if by magic. So I now want
-to give a last answer to the question how being open is
-present, that pays absolute attention to the body, yet at
-the same time revisits the suggestion that we are somehow open
-*without* being enclosed, even by our selfhood.
+But this is again a second answer to the question how being
+open is present. And I call it second, because it might
+still sound other-worldly, as if our body could vanish,
+along with our selfhood, to leave us open as if by magic. So
+I now want to give a last answer to the question, that again
+matches the first in form, but pays what might be called
+full attention to the body, yet at the same time revisits
+the suggestion that we are open *without* being enclosed,
+even by our selfhood.
+
+In this last answer, then, being open is again present as
+absent. And every assumption from the second answer stays
+the same: the mind is something before it thinks, called the
+"body", that makes thinking possible. And we once again
+suppose that I am having a thought about my lecture that my
+own body makes possible. But in this last answer, we change
+what we say next. For my lecture, on this answer, makes my
+thought present *to me*, and no one else, since my thought
+about the lecture is mine. (Mention light of absence now
+includes others, and as if the body doesn't vanish, but is
+left exposed.) And this means, since my thought
+is not about my body, that as my thought is made present to
+me and no one else, my body is rendered absent to me and no
+one else. It vanishes, as it were, only for me. But even
+this is not quite right, since my body's absence, in this
+sense, is what allows my thought to become present, and so
+we might say my body belongs to that presence as an absence.
+Or in other words, the sense in which my body vanishes for
+me in my thought, is the sense in which I know it vanishes
+for only me in my thought; , . , . is not exactly right,
+since so it is not as if my body vanishes in my thought
+about my lecture; it is more as if my body But my thought,
+then, is not about my body, which renders it absent, 
+
+that my body is making yet another thought
+Disjunction of mind and body, experience of soul. 
+Selfhood the (re)integration of body and soul, separated
+in the experience of nakedness. 
+
+Mention jar, exposure. The price for seeing a whole world
+outside us, as if we saw it from no point of view, is to
+lack any account of why we are there, at a seemingly
+arbitrary point of view. It is as if we were sent into the world,
+but without knowing why; or as if we were fallen, from
+a place in the world we can no longer recall. 
+
+To find a place to stand in the world, with an upright
+posture we can call our own. Selfhood is not something we
+have, but something we find Nakedness, being unlocated from
+my point of view, but precisely located from everyone else's
+pointed of view. 
 
 To have a body that leaves my existence unexplained.
 
