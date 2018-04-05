@@ -12,8 +12,6 @@
 1. [Part Five](#five)
 1. [Notes](#notes)
 
-My lecture tonight is in five parts.
-
 # Part One {#one}
 
     - "I can't get the jar open."
@@ -484,74 +482,95 @@ body: if so, it would acquire some quality, e.g. warmth or
 cold, or even have an organ like the sensitive faculty: as
 it is, it has none. 
 
-This passage, I think, can be read as an answer to the
-question: how is being open present? And the answer, to put
-it simply if paradoxically, is that being open is present as
-absent. For the mind, on Aristotle's account, is nothing
-before it thinks, but this makes it something when it
-thinks: the something we call thought, and could more
-generally call awareness, or even more generally call
-openness. But to put the answer more concretely, by way of
-an example: suppose I have a thought right now, about my
-lecture. What makes the thought a thought? That is, what
-makes it present to me as a thought? The answer I draw from
-this passage is this: there is nothing in my thought but the
-lecture, but this is not because my thought *is* the
-lecture, which is something in itself; it is rather because
-my thought, by contrast, is nothing in itself. And the
-nothing it is informs the something it can become, which is
-not to be something, but to be *about* something. And in
-this sense, captured in the word "about", my thought is
-present to me as something absent: it is not my lecture, but
-therefore able to be *about* my lecture, and nothing but my
-lecture.
+This passage, I think, can be read as an answer, at least
+a first answer, to the question: how is being open present?
+And the answer, to put it simply if paradoxically, is that
+being open is present as absent. For the mind, on
+Aristotle's account, is nothing before it thinks; but this
+makes it something when it thinks: the something we call
+thought. Or that we could more generally call awareness. Or
+even more generally, openness. But we can put this first
+answer more concretely, by way of an example and a question.
+For suppose I have a thought right now, about my lecture.
+What makes the thought a thought? That is, what makes it
+present to me as a thought? There is nothing, after all, in
+my thought but the lecture. Still, this is not because my
+thought *is* the lecture, which is something in itself; it
+is rather because my thought, by contrast, is nothing in
+itself. And the nothing it is informs the something it can
+become, which is not *to be* something, but to be *about*
+something. And in this sense, captured in the word "about",
+my thought is present to me as something absent: it is *not*
+my lecture, but therefore *about* my lecture, and
+nothing but my lecture.
 
-But this can still sound other-worldly, re is still something otherworldly-sounding about
-this, something contrary to the common sense,  
-
-Nothing in the thought but the lecture, yet the thought is
-not the lecture, but about it. Nothing in our being open but
-what we are open to, yet this is to be open to it. is what
-it means to be open. 
-
-What makes a thought about something about it? My lecture
-was still my lecture before my thought, while my thought was
-nothing.  The something was something before the thought,
-while the thought was nothing. But this is then not a mere
-nothing, but the nothing that distinguishes the thought from
-the lecture. becomes the something we call the thought,
-rather than the something we call the lecture the thought is
-about. 
-
-I am not myself, in my awareness of anything else, but not
-being myself is present as awareness. 
-
-The mind is something, by not being anything. Nothing but
-potentiality. So no organ, which separates its presence from
+I call this a first answer, however, because it can sound
+other-worldly, and contrary to common sense, even though
+I take it to be a speculation of philosophy on behalf of
+common sense. It can be difficult, in particular, to believe
+that the mind is nothing before it thinks, and for that
+reason, as Aristotle seems to infer, has nothing to do with
+the body. So I want to give a second answer to the question
+how being open is present, that pays at least some attention
+to the body, yet at the same time revisits the suggestion
+that the presence of openness is not a matter of its
 possibility. 
 
-Mind not anything before it thinks, but this makes it
-something when it thinks, that we call the thought. If the
-thought is about my lecture, then its presence as a thought
-lies in its being something now that was nothing before,
-unlike my lecture, which was still my lecture before. 
+In this second answer, then, let us assume that the mind is
+something before it thinks, and let us call this something
+"the body", to put it broadly. And the body, thus
+understood, somehow makes thinking possible. Now suppose
+that I am once again having a thought about my lecture, and
+that my body makes my thought possible. Still, it is my
+lecture that makes my thought present, since my thought is
+*about* the lecture. But my thought, then, is not about my
+body, which renders it absent, at just the moment, to just
+the extent, my thought is made present. Or more generally
+put: my thought about my lecture can only become present 
+in the light, as it were, of an absence: the absence of
+whatever it is *about me* that makes the thought possible.
+And the same might be said, even more generally, of whatever
+it is *about us* that makes our openness possible---from the
+eyes of sight to the self of awareness. It in only in their
+absence that our openness can gain its presence, even as
+they make this openness possible. And in this way the
+presence of our openness is separated---one might even say
+liberated---from its possibility.
 
-The sense in which it was something before is what makes the
-thought possible, How is this possible? It is not possible:
-brain makes the thought possible. 
+I call this a second answer, however, because it might still
+sound other-worldly, as if our body could vanish, along with
+our selfhood, to leave us open as if by magic. So I now want
+to give a last answer to the question how being open is
+present, that pays absolute attention to the body, yet at
+the same time revisits the suggestion that we are somehow open
+*without* being enclosed, even by our selfhood.
 
-Nothing in the thought but what the thought is about; yet
-this is what makes the thought present as a thought, and
-distinct from what the thought is about. If the thought is
-about my lecture, for example, then there is nothing in the
-thought but the lecture; yet the thought is not my lecture,
-but about it, which is why we call it a thought. 
+To have a body that leaves my existence unexplained.
 
-I am not myself 
+radical about our selfhood, I think, that our openness can
+only be present to us if we are not selves, our openness is
+not a matter of having selves, but rather---I do take this
+answer to suggest that if we are open, in the end, it is
+because we haveour opennesswe have no selves to speak of 
 
-Aristotle gives a first answer. 
+being enclosed. Introduction to next answer: second answer
+still somewhat otherworldly, since the brain is introduced
+only to vanish. The self vanishes, we have souls.
 
-Being open is also absent as present. Exposure. Jar. At the podium.  
+Next answer: I am at the podium, exposed.
+
+Enclothed in openness. 
+
+Why the word open *is* enough to introduce us.
+
+Marionette is one word, Puppet is another. 
+If these things were possible, there would be no wonder.
+
+Next answer: presence liberated from possibility by being prior.
+
+Being open is also absent as present. Exposure.
+Jar. At the podium.  
+
 If I think about my lecture, for example, there is
 nothing in my thought but the lecture, as if it *were* the
 lecture; but it is not the lecture; only a thought about the
@@ -571,6 +590,7 @@ any reality of its own, since this thought is present to
 mehave a thought about my lecture, f, for example, I have
 a thought about my lecture, the thought is present in being
 about my lecture, but therefore absent, in having no nature
+
 How I think, for example, is no part of what I think, and
 just as how I see is no part of what I see, (The openness we
 call "thought", for example, has its presence is what is
@@ -581,24 +601,7 @@ have no nature of its own.) (And in this absence vanishes
 its possibility. But what have I just said?) To make this
 answer more concrete, and more rooted in the quoted passage,
 let us suppose that thought is a way of being open, and that
-I am having a thought right now, about my lecture. My brain
-might make my thought possible, but it is my lecture that
-makes it present, since my thought is *about* the lecture.
-But my thought, then, is not about my brain, which renders
-it absent at just the moment, to just the extent, my thought
-is made present. If the thought about my lecture, or about
-anything else, is indeed *to be* about my lecture, or about
-anything else, then it can only be present in the absence of
-whatever *in me* makes it possible. And in this absence,
-I think we could say that the possibility of my thought
-vanishes, at precisely the point it is present. And the same
-might be said, more generally, of whatever it is *in us*
-that makes our openness possible---from the eyes of sight to
-the self of awareness. It in only in their absence that our
-openness can gain a presence, in *what* it is we see,
-however it is we see it. And in this way the presence of our
-openness is separated---one might even say liberated---from
-its possibility.
+
 
 - Need to re-write more simply, more closely to passage,
 and perhaps not so paradoxically about the relation of
