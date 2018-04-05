@@ -486,27 +486,29 @@ This passage, I think, can be read as an answer, at least
 a first answer, to the question: how is being open present?
 And the answer, to put it simply if paradoxically, is that
 being open is present as absent. For the mind, on
-Aristotle's account, is nothing before it thinks; but this
+Aristotle's account, is nothing before it thinks; yet this
 makes it something when it thinks: the something we call
 thought. Or that we could more generally call awareness. Or
-even more generally, openness. But we can put this first
-answer more concretely, by way of an example and a question.
-For suppose I have a thought right now, about my lecture.
-What makes the thought a thought? That is, what makes it
-present to me as a thought? There is nothing, after all, in
-my thought but the lecture. Still, this is not because my
-thought *is* the lecture, which is something in itself; it
-is rather because my thought, by contrast, is nothing in
-itself. And the nothing it is informs the something it can
-become, which is not *to be* something, but to be *about*
-something. And in this sense, captured in the word "about",
-my thought is present to me as something absent: it is *not*
-my lecture, but therefore *about* my lecture, and
-nothing but my lecture.
+even more generally, openness. 
+
+But we can put this first answer more concretely, by way of
+an example and a question. For suppose I have a thought
+right now, about my lecture. What makes the thought
+a thought? That is, what makes it present to me as
+a thought? There is nothing, after all, in my thought but
+the lecture. Still, this is not because my thought *is* the
+lecture, which is something in itself; it is rather because
+my thought, by contrast, is nothing in itself. And the
+nothing it is informs the something it can become, which is
+not *to be* something, but to be *about* something. And in
+this sense, captured in the word "about", my thought is
+present to me as something absent: it is *not* my lecture,
+but therefore *about* my lecture and nothing but my
+lecture.
 
 This is again a first answer to the question: how is being
 open present? I call it first, because it can sound
-other-worldly, and contrary to common sense, even though
+other-worldly, and contrary to common sense; even though
 I take it to be a speculation of philosophy on behalf of
 common sense. But it can be difficult, in particular, to
 believe that the mind is nothing before it thinks, and has
@@ -518,68 +520,119 @@ suggestion: that the presence of openness is *not* a matter of
 its possibility. 
 
 In this second answer, then, being open is again present as
-absent. But now let us assume that the mind is something,
-not nothing, before it thinks; and let us call this
-something "the body", to put it broadly. And the body, thus
-understood, somehow makes thinking possible. Now suppose
-that I am once again having a thought about my lecture, and
-that my body makes my thought possible. Still, it is my
-lecture that makes my thought present, since my thought is
-*about* the lecture. But my thought, then, is not about my
-body, which renders it absent, at just the moment, to just
-the extent, my thought is made present. Or more generally
-put: my thought about my lecture can only become present in
-the light, as it were, of an absence: the absence of
-whatever it is *about me*, rather than my lecture, that makes
-my thought possible. And the same might be said, even more
-generally, of whatever it is *about us* that makes our
+absent. But now let us assume that the mind is something
+before it thinks; and let us call this something "the body".
+And the body, thus understood, makes thinking possible. Now
+suppose that I am once again having a thought about my
+lecture, a thought made possible, again, by my body. Still,
+it is my lecture that makes my thought present, since my
+thought is *about* the lecture. But my thought, then, is not
+about my body, which renders it absent, at just the moment,
+to just the extent, my thought is made present. Or more
+generally put: my thought about my lecture can only become
+present in the light, as it were, of an absence: the absence
+of whatever it is *about me*, rather than my lecture, that
+makes my thought possible. And the same might be said, even
+more generally, of whatever it is *about us* that makes our
 openness possible---from the eyes of sight to the self of
 awareness. It in only in their absence that our openness can
 gain its presence, even as they make this openness possible.
-And in this way the presence of our openness is
-separated---one might even say liberated---from its
-possibility.
+And in the absence of what makes this openness possible, its
+presence is separated---one might even say
+liberated---from its possibility.
 
-But this is again a second answer to the question how being
-open is present. And I call it second, because it too can
-sound other-worldly, as if our body could vanish, along with
-our selfhood, to leave us open, as if by magic. So I now
-want to give a last answer to the question, that changes the
-second answer in only one respect, but with a radical
-effect. It obliges us to pay full attention to the
+But this, again, is a second answer to the question how
+being open is present. I call it second, because it too
+can sound other-worldly, as if our body could vanish, along
+with our selfhood, to leave us open, as if by magic. So
+I now want to give a last answer to the question, that
+changes the second answer in only one respect, but with
+a radical effect. It obliges us to pay full attention to the
 body, yet at the same time allows us to revisit an earlier
 suggestion: that we are open *without* being enclosed, even
 by our selfhood.
 
-Here, then, is the change: in our second answer, about my
-lecture-thought, we said that it is my lecture that makes my
+Here, then, is the change: in the second answer, about my
+lecture-thought, it is my lecture that made my
 thought present, since my thought is *about* my lecture. But
 we can make this more exact, since my thought is also
 *mine*. My lecture, then, makes my thought about it present
 *to me*. And my body, in turn, is rendered absent *to me*.
-Or to put my status in this answer even more exactly: my
+Or to put my status here even more exactly: my
 lecture makes my thought about it present to me *and no one
 else*; while my body, then, is rendered absent to me *and no
-one else.* And it is in light of *this* absence that my
-thought becomes present to me: the absence of what is still
-present to others, about me, that makes my thought possible.
+one else.*  
 
 What makes this change to the answer radical, I think, is
-that it no longer describes the absence of my body from my
-thought as a vanishing, but instead as an exposing. And
-exposure, in this sense, has been lurking in my lecture
-almost from the start. The paradox of an open jar, for
-example, was how its inside was exposed to the outside, as
-if it had no inside. And in a later resolution of this
-paradox, I gave an account of my anxiety, at the podium, as
-if this were caused by my feeling alone. But a better
-account of my anxiety, perhaps, would attribute its cause to
-my feeling exposed. And such an anxiety can become
-existential, in a deepening of exposure, where for anyone
-else, you *are* your body, while for you, you are *in* your
-body, without knowing how, or why. It can feel as if you
-were sent into the world for reasons unknown, or fell from
-a place you can no longer recall. 
+that it describes the absence of my body as if my body were
+made visible by my thought rather than invisible, in an
+exposing of my body rather than a vanishing. But what
+could the exposing of my body mean, in this context? And exposure
+has been lurking in my lecture almost from the start. The
+paradox of an open jar, for example, was in how it could
+have an inside, in any sense but name, if this inside were
+exposed to the outside. And in a later version of the
+paradox, where our selfhood enclosed us in openness,
+I briefly mentioned why I might be anxious behind this
+podium, as if this were caused by my feeling alone. But
+a better account, perhaps, is that I am feeling exposed. And
+such an anxiety can become existential, in a deepening of my
+exposure, where my body is simply *there*, for anyone to see
+but me. For I *am* my body, to anyone else; but to me,
+I am *in* my body, without knowing how, or why, or even
+where. For the way I *am* my body makes it easy to say where
+I am---behind this podium. But the way I am *in* my body
+makes it hard to say where I am, since in that sense, I am
+*always* where I am; and this puts the podium, for the
+moment, in front of me. 
+
+Dislocation, embodiment.
+
+Or to borrow a Biblical term for the contrast:
+the body is not negated in thought, but naked in thought. 
+
+You would say I am behind the podium, as if I had a place;
+whereas I would say the podium was in front of me, as
+if the podium had a place. I have a place for you,
+that I don't have for myself. r to
+put my dislocation in spatial terms, we
+could say that I am behind this podium for you, as if I had
+a place, but for me, it is the podium that has a place, in
+front of me, as if I were placeless. always in a place for you, for example,
+behind this podium. But I am never in a place for me,
+since might say that I am always in a place for you, for example
+behind this podium, but never in a place for me, since it
+is everything but me that has a place. I
+have a place behind this podium, for all of you, but there
+is no such place for me, since it is the podium that
+has a place in front of me. am
+behind this podium for all of you, but the podium is therefore
+placed in front of me. (Okay, this is good; place, hiding
+out.) and might crouch further
+behind it as if to hide; but since the podium is in front
+of me, there is no hiding behind
+it for I have
+a place behind this podium, for all of you, and as if
+I could hide, but no such
+place for me, since the podium lies before me, And
+this locates me behind the podium, for all of you, while
+foAnd
+because I am in my body, I see this podium in front of me,Or
+to put the way my openness dislocates me another way: we
+I have
+a place behind this podium, for all of you, but no such place
+for myself, since the podium is in front of me, 
+
+My body
+behind this podium has a place in the world for all of you,
+but it has no such place for me, which is the price I pay
+for inhabiting this place And
+my ignorance about this, according to my last answer, is
+tied to how I cannot know my body if I am to know. 
+
+as if I were sent into the
+world for reasons unknown, or fell from a place I can
+no longer recall. 
 
 And if my last answer is right, this body
 is the price we pay for our openness, which leaves our body
