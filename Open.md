@@ -519,7 +519,7 @@ liberation---of the presence of openness from its
 possibility. And perhaps this is what Aristotle meant in
 saying that the mind is not even blended with the body. 
 
-But to conclude this lecture, I want to take this answer one
+But I want to take this answer one
 step further, and suggest that the presence of openness is
 indeed liberated from its possibility, by preceding it. In
 other words, the presence of openness is prior to its
@@ -531,20 +531,47 @@ But what did I just say? And what could I mean?
 To make the suggestion more concrete, let us suppose that
 I am having a thought right now about my lecture, as
 I deliver it. Since this thought is about my lecture, it is
-my lecture that makes my thought present; and anything about
-me that makes the thought possible is rendered absent. But
-since the thought is also mine, we could say that the
-presence is mine, and the absence in turn. In other words,
-since the thought is mine and no one else's, we could the
-lecture makes the thought present to me *and no one else*.
-But this implies that whatever it is about me that makes the
-thought possible, is rendered absent to me *and no one
-else*. In still other words, the way I am absent from my
+my lecture that makes my thought present; and rendered
+absent, then, is anything about me that makes the thought
+possible. But since the thought is also mine, we could say
+that its presence is mine, and my absence from it in turn.
+In other words, since the thought is mine and no one else's,
+the lecture makes the thought present to me *and no one
+else*. But this implies that whatever it is about me that
+makes the thought possible, is rendered absent to me *and no
+one else*. In still other words, the way I am absent from my
 thought is not the way I might be negated by it, or have
 vanished in it, or made invisible. It is rather the way
-I might be made visible by it, exposed, naked.  
+I might be made visible by it, or exposed, or naked. Or as
+if I left my body bereft, rather than behind, in
+becoming *other* than body in my thought.
+
+- Introduce possibility here, in abstract form. The body
+that makes my openness possible is present in a world
+that includes me, but as if it excluded me, since
+this exclusion is what makes me *open* to the world rather
+than simply in the world. were without me, 
+
+But to make this suggestion still more concrete, I want to
+return to the open jar that prompted my I started with, in
+my wonder about the word "open". For if the jar could know
+it was open, perhaps the absence of its lid would be present
+to it, in a feeling of exposure, where it no longer knew
+whether its inside were still inside, or now outside. 
+
+could think of this as the price the body pays for what
+it makes possible: for I can only be *other* than
+body, on this account, not by leaving the body behind,
+but instead by leaving it bereft.
+
+might think of this as the price the body pays for what it
+makes possible: for to be *other* than body, on this answer,
+is not to leave the body behind, but instead to leave it
+bereft. 
+
 
 - Bring up jar and podium stuff, then selfhood.
+- Exposure the price of openness.
 
 - Ground for openness needs to be found. 
 - Find clothes for a body, self for soul.
