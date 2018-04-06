@@ -482,42 +482,94 @@ body: if so, it would acquire some quality, e.g. warmth or
 cold, or even have an organ like the sensitive faculty: as
 it is, it has none. (J.A. Smith translation, III.4) 
 
-This passage, I think, can be read as an answer, at least
-a first answer, to the question: how is being open present?
-And the answer, to put it simply if paradoxically, is that
-being open is present as absent. For the mind, on
-Aristotle's account, is nothing before it thinks; yet this
-makes it something when it thinks: the something we call
-thought. Or that we could more generally call awareness. Or
-even more generally, openness. 
+This passage, I think, can be read as an answer: how is
+being open present? And the answer, to put it simply if
+paradoxically, is that being open is present as absent. For
+the mind, on Aristotle's account, is nothing before it
+thinks; yet this makes it something when it thinks: the
+something we call thought. Or that we could more generally
+call awareness. Or even more generally, openness. And what
+Aristotle says is reflected, I think, in the prepositions we
+use for what we might call our achievements in openness.
+A perception is something, only in being *of* something.
+Just as a thought is something, or a sentence to express
+that thought is something, only in being *about* something.
+And openness itself is something, only in being *to*
+something. Being open is present, then, only in *making*
+present; and in that sense, is present as absent.
 
-But we can put this first answer more concretely, by way of
-an example and a question. For suppose I have a thought
-right now, about my lecture. What makes the thought
-a thought? That is, what makes it present to me as
-a thought? There is nothing, after all, in my thought but
-the lecture. Still, this is not because my thought *is* the
-lecture, which is something in itself; it is rather because
-my thought, by contrast, is nothing in itself. And the
-nothing it is informs the something it can become, which is
-not *to be* something, but to be *about* something. And in
-this sense, captured in the word "about", my thought is
-present to me as something absent: it is *not* my lecture,
-but therefore *about* my lecture and nothing but my
-lecture.
+This answer can clarify, I think, what it means for the
+presence of openness *not* to be a matter of its
+possibility. For we might say, as if this countered
+Aristotle, that being open depends on being embodied. The
+eye, after all, makes sight possible, just as the brain
+makes thought possible. Still, a thought is not about the
+brain that makes it possible, but something else. And it is
+this something else, then, that makes the thought present,
+while the brain that makes it possible is rendered absent.
+Similarly, a perception is not of the eye that makes it
+possible, but something else. And it is this something else,
+then, that makes the perception present, while the eye that
+makes it possible is rendered absent. We can grant that the
+body, then, makes our openness possible. But it is just this
+that prevents the body from making it present. And we might
+say that the body, in this sense, makes it possible to be
+*other* than body, in a separation---one might even say
+liberation---of the presence of openness from its
+possibility. And perhaps this is what Aristotle meant in
+saying that the mind is not even blended with the body. 
 
-This is again a first answer to the question: how is being
-open present? I call it first, because it can sound
-other-worldly, and contrary to common sense; even though
-I take it to be a speculation of philosophy on behalf of
-common sense. But it can be difficult, in particular, to
-believe that the mind is nothing before it thinks, and has
-nothing, then, to do with the body, or so Aristotle seems to
-infer. So I want to give a second answer to the question,
-that matches the first in form, but pays more attention to
-the body, yet at the same time revisits an earlier
-suggestion: that the presence of openness is *not* a matter of
-its possibility. 
+But to conclude this lecture, I want to take this answer one
+step further, and suggest that the presence of openness is
+indeed liberated from its possibility, by preceding it. In
+other words, the presence of openness is prior to its
+possibility. And it is this presence, then, that makes its
+possibility possible.  
+
+But what did I just say? And what could I mean?  
+
+To make the suggestion more concrete, let us suppose that
+I am having a thought right now about my lecture, as
+I deliver it. Since this thought is about my lecture, it is
+my lecture that makes my thought present; and anything about
+me that makes the thought possible is rendered absent. But
+since the thought is also mine, we could say that the
+presence is mine, and the absence in turn. In other words,
+since the thought is mine and no one else's, we could the
+lecture makes the thought present to me *and no one else*.
+But this implies that whatever it is about me that makes the
+thought possible, is rendered absent to me *and no one
+else*. In still other words, the way I am absent from my
+thought is not the way I might be negated by it, or have
+vanished in it, or made invisible. It is rather the way
+I might be made visible by it, exposed, naked.  
+
+- Bring up jar and podium stuff, then selfhood.
+
+- Ground for openness needs to be found. 
+- Find clothes for a body, self for soul.
+
+I think we can take this answer further, in light of earlier
+themes. One of those themes, could it mean that the mind is nothing before it thinks, as if
+it had nothing to do with the body, as Aristotle himself
+seems to infer? 
+
+Well, yes, I want to say on Aristotle's behalf, but not
+because the mind is separate from the body. It is rather---
+to anticipate what I will now try to show---because
+the mind leaves the body behind, and even bereft. And this
+makes the answer to draw from Aristotle more earthly than
+otherworldly. What I hope to show now, Athere is a way of making sense of this
+inference, where the body is indeed left behind by the mind,
+but in a sense that leaves it bereft. And what does the word
+"absent" in the ansnBut it can be difficult, in particular,
+to believe that the mind is nothing before it thinks, and
+has nothing, then, to do with the body, or so Aristotle
+seems to infer. So I want to give a second answer to the
+question, that matches the first in form, but pays more
+attention to the body, yet at the same time revisits an
+earlier suggestion: that the presence of openness is *not*
+a matter of its possibility. 
 
 In this second answer, then, being open is again present as
 absent. But now let us assume that the mind is something
